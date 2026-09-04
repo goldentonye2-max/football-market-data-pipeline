@@ -198,7 +198,7 @@ def lookup_selection(conn, event_id, market_id, specifier, outcome_desc):
 
 def load_and_filter_picks(csv_path, top_n, sort_col, min_edge=None,
                            min_auc=None, min_odds=None, max_odds=None,
-                           markets=None):
+                           markets=None, min_hit_rate=None):
     if not os.path.exists(csv_path):
         raise FileNotFoundError(
             f"Picks file not found: {csv_path}\n"
@@ -233,6 +233,10 @@ def load_and_filter_picks(csv_path, top_n, sort_col, min_edge=None,
             return any(m.lower() in str(pick_label).lower() for m in markets)
         df = df[df["pick"].apply(market_match)]
         print(f"  → {len(df)} after market filter: {', '.join(markets)}")
+
+    if min_hit_rate is not None:
+        df = df[df["hit_rate_%"] >= min_hit_rate]
+        print(f"  → {len(df)} after hit rate ≥ {min_hit_rate}%")
 
     if df.empty:
         print("\n  No fixtures found matching your filters.")
@@ -493,6 +497,8 @@ def main():
                         help="Maximum decimal odds e.g. --max-odds 3.00")
     parser.add_argument("--markets",   nargs="+", default=None,
                         help='Market whitelist e.g. --markets "HT Away Win" "Over 2.5"')
+    parser.add_argument("--min-hit-rate", type=float, default=None,
+                        help="Minimum hit rate %% e.g. --min-hit-rate 40")
     args = parser.parse_args()
 
     top_n    = min(args.top, MAX_LEGS)
@@ -517,6 +523,7 @@ def main():
     min_odds  = args.min_odds,
     max_odds  = args.max_odds,
     markets   = args.markets,
+    min_hit_rate = args.min_hit_rate,
     )
 
     # 2. Validate against DB
