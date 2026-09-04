@@ -2,3 +2,6 @@
 *.db
 *.sqlite
 *.sqlite3
+# Large training data files
+**/master_training_table.csv
+**/lean_training_table.csv
