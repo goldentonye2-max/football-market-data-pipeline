@@ -1,0 +1,56 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-04
+  Generated : 2026-09-04 05:30:33
+  Legs      : 20
+  Sorted by : edge
+  Combined odds : 819,032,213,383,832.00
+======================================================================
+
+  BOOKING CODE:  H923JH
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    04 19  Almere City FC vs Jong Ajax Amster  Corners Over 6.5       7.25  + 70.0%  0.5615
+  2    04 19  Genoa vs Como 1907                  Over 3.5 Goals         4.30  + 18.0%  0.6631
+  3    04 17  ZKS Stal Stalowa Wola vs Zawisza B  Over 4.5 Goals         5.25  + 12.0%  0.6327
+  4    04 19  Finn Harps FC vs Athlone Town AFC   Over 4.5 Goals         5.10  + 11.4%  0.6327
+  5    04 17  FC Tekstilshchik Ivanovo vs Torped  Home Win               5.90  + 10.8%  0.7212
+  6    04 19  Caernarfon Town FC vs Flint Town U  Away Win               5.30  + 10.6%  0.7237
+  7    05 02  Atletico Choloma vs Olancho FC      Home Clean Sheet       5.00  + 10.0%  0.6485
+  8    04 17  PK-35 Helsinki vs Ekenas Idrottsfo  Over 4.5 Goals         4.70  +  9.8%  0.6327
+  9    04 19  Connah`s Quay Nomads FC vs Haverfo  Over 4.5 Goals         4.50  +  8.8%  0.6327
+  10   04 19  Al Ahli Saudi FC vs Al-Riyadh SC    Draw                   5.60  +  8.7%  0.5993
+  11   04 19  Heracles Almelo vs De Graafschap    Away Clean Sheet       7.60  +  8.6%  0.6508
+  12   04 17  Hannover 96 vs Karlsruher SC        Away Win               4.60  +  7.8%  0.7237
+  13   04 12  Hapoel Bnei Jat United vs Hapoel K  Over 4.5 Goals         4.30  +  7.8%  0.6327
+  14   04 17  IF Fuglafjordur vs FC Hoyvik        Away Clean Sheet       7.00  +  7.5%  0.6508
+  15   04 13  Bali United FC vs PSS Sleman        Over 4.5 Goals         7.90  +  7.3%  0.6327
+  16   04 19  Lisburn Rangers vs Linfield Ladies  Home Clean Sheet       7.90  +  7.3%  0.6485
+  17   04 14  Maccabi Nujeidat Ahmad vs MS Tira   Home Win               5.60  +  7.1%  0.7212
+  18   04 00  CS Alagoano AL vs Nacional FC AM    Away Win               6.00  +  6.9%  0.7237
+  19   04 23  Carolina Core FC vs New England Re  Home Clean Sheet       4.25  +  6.6%  0.6485
+  20   04 19  Stuttgart vs Cologne                Away Win               5.65  +  6.4%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      2x  Eerste Divisie
+      2x  Cymru Premier
+      2x  Liga Alef
+      1x  Serie A
+      1x  II Liga
+      1x  First Division
+      1x  1. Liga
+      1x  Liga Nacional
+      1x  Ykkosliiga
+      1x  Saudi Pro League
+      1x  2. Bundesliga
+      1x  1st deild
+      1x  Super League
+      1x  Premiership, Women
+      1x  Brasileiro Serie D
+      1x  MLS Next Pro
+      1x  Bundesliga
+
+======================================================================

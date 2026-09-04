@@ -18,9 +18,20 @@ import pandas as pd
 import os
 import sys
 
+import argparse as _ap
+_parser = _ap.ArgumentParser()
+_parser.add_argument("--picks-csv", type=str, default=None)
+_args, _ = _parser.parse_known_args()
+
 # ── CONFIG ────────────────────────────────────────────────────────────────
-PICKS_CSV = r"ML_model -x    Copy\all_picks_today_v2.csv"
-DB_PATH   = "sportybet.db"
+DB_PATH   = r"..\sportybet.db"
+
+import glob as _glob, datetime as _dt
+if _args.picks_csv:
+    PICKS_CSV = _args.picks_csv
+else:
+    _files = sorted(_glob.glob("all_picks_????-??-??.csv"))
+    PICKS_CSV = _files[-1] if _files else f"all_picks_{_dt.date.today()}.csv"
 
 # ─────────────────────────────────────────────────────────────────────────
 

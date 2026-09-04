@@ -1,0 +1,40 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-04
+  Generated : 2026-09-04 05:29:46
+  Legs      : 12
+  Sorted by : edge
+  Combined odds : 748.98
+======================================================================
+
+  BOOKING CODE:  L80VPT
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    04 19  Almere City FC vs Jong Ajax Amster  Corners Over 6.5       7.25  + 70.0%  0.5615
+  2    04 19  CA Defensores de Belgrano vs CA Ra  Over 1.5 Goals         1.62  + 17.4%  0.6116
+  3    04 19  Genoa vs Como 1907                  Over 1.5 Goals         1.43  + 16.3%  0.6116
+  4    04 17  FC Tekstilshchik Ivanovo vs Torped  Over 1.5 Goals         1.38  + 14.7%  0.6116
+  5    05 00  Ferro Carril Oeste vs Mitre Santia  Over 1.5 Goals         1.54  + 14.2%  0.6116
+  6    04 23  CA Platense vs Deportivo Riestra A  Over 1.5 Goals         1.74  + 13.4%  0.6116
+  7    04 23  CA Belgrano de Cordoba vs CA Hurac  Over 1.5 Goals         1.70  + 12.1%  0.6116
+  8    04 17  USM Khenchela vs USM Alger          Over 1.5 Goals         1.46  + 10.7%  0.6116
+  9    04 18  Marumo Gallants FC vs Polokwane Ci  Over 1.5 Goals         1.64  +  9.9%  0.6116
+  10   04 20  Estudiantes Rio Cuarto vs CA Sarmi  Over 1.5 Goals         1.63  +  9.6%  0.6116
+  11   04 13  Bali United FC vs PSS Sleman        Over 1.5 Goals         1.42  +  8.7%  0.6116
+  12   04 14  Bangu AC RJ vs CR Flamengo RJ       Over 1.5 Goals         1.28  +  8.1%  0.6116
+
+======================================================================
+  Tournament breakdown:
+      3x  Primera LPF
+      2x  Primera Nacional
+      1x  Eerste Divisie
+      1x  Serie A
+      1x  1. Liga
+      1x  Ligue 1
+      1x  Premiership
+      1x  Super League
+      1x  U20 Carioca, Serie A
+
+======================================================================
