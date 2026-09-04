@@ -1,0 +1,54 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-02
+  Generated : 2026-09-02 07:27:25
+  Legs      : 21
+  Sorted by : edge
+  Combined odds : 13,043,866,745.58
+======================================================================
+
+  BOOKING CODE:  FAILED — see terminal output
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    02 19  Juventus Turin W vs SKN St. Polten  Over 3.5 Goals         1.79  + 27.5%  0.6631
+  2    02 11  Tokyo Verdy vs Vissel Kobe          HT Away Win            2.90  + 25.5%  0.6617
+  3    02 20  Burnley vs Middlesbrough FC         HT Away Win            3.00  + 21.8%  0.6617
+  4    02 11  Shimizu S-Pulse vs FC Tokyo         Over 2.5 Goals         2.10  + 21.3%  0.6410
+  5    02 19  USV Hercules vs EVV Echt            HT Away Win            3.00  + 20.6%  0.6617
+  6    02 19  Kilmarnock FC vs St Mirren FC       HT Away Win            3.00  + 20.6%  0.6617
+  7    02 19  Real Madrid W vs Ajax Amsterdam     Over 3.5 Goals         1.83  + 15.9%  0.6631
+  8    02 11  Mito Hollyhock vs Kashima Antlers   Over 3.5 Goals         3.60  + 14.7%  0.6631
+  9    02 10  FK Gintra Siauliai vs SK Sturm Gra  HT Over 1.5            2.25  + 14.5%  0.6269
+  10   02 15  El Gouna FC vs Al Mokawloon Al Ara  Over 2.5 Goals         3.20  + 14.4%  0.6410
+  11   03 00  CA Colegiales vs CA Ferrocarril Mi  Over 2.5 Goals         3.00  + 14.3%  0.6410
+  12   02 11  JEF United Chiba vs Fagiano Okayam  HT Away Win            2.50  + 14.0%  0.6617
+  13   02 23  SV Broki vs Delfines Del Este       Away Win               1.64  + 13.4%  0.7237
+  14   02 22  CD Cuenca vs Guayaquil City FC      HT Over 1.5            3.00  + 13.4%  0.6269
+  15   02 19  West Bromwich Albion vs Charlton A  Over 3.5 Goals         3.70  + 13.1%  0.6631
+  16   02 11  Giravanz Kitakyushu vs Iwaki FC     Over 3.5 Goals         3.70  + 13.0%  0.6631
+  17   02 18  Panserraikos FC vs Atromitos Athin  Over 3.5 Goals         3.70  + 13.0%  0.6631
+  18   02 20  Falkirk FC vs Rangers               Home Clean Sheet       5.80  + 12.8%  0.6485
+  19   02 23  Goiatuba EC GO vs EC Sao Jose RS    Over 2.5 Goals         2.85  + 12.5%  0.6410
+  20   02 11  Gainare Tottori vs RB Omiya Ardija  Over 4.5 Goals         5.40  + 12.5%  0.6327
+  21   02 19  Aluminij Kidricevo vs NK Celje      Home Clean Sheet       5.60  + 12.1%  0.6485
+
+======================================================================
+  Tournament breakdown:
+      4x  J1 League
+      2x  UEFA Champions League Women
+      2x  Championship
+      2x  Premiership
+      2x  J.League Cup
+      1x  KNVB beker
+      1x  UEFA Europa Cup, Women
+      1x  Premier League
+      1x  Primera Nacional
+      1x  CONCACAF Caribbean Cup
+      1x  LigaPro Primera A
+      1x  Greece Cup
+      1x  Brasileiro Serie D
+      1x  PrvaLiga
+
+======================================================================

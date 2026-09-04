@@ -1,0 +1,201 @@
+market_name,specifier,outcome_desc,fixture_count,avg_true_prob,avg_implied_prob
+1X2,,Draw,4086,0.2323,0.2607
+1X2,,Away,4085,0.3294,0.3585
+1X2,,Home,4085,0.438,0.4699
+Double Chance,,Home or Away,3976,0.7649,0.8142
+Double Chance,,Home or Draw,3975,0.6716,0.726
+Double Chance,,Draw or Away,3974,0.5621,0.6257
+Draw No Bet,,Home,3971,0.5678,0.6108
+Draw No Bet,,Away,3970,0.4311,0.476
+Odd/Even,,Even,3927,0.5113,0.5534
+Odd/Even,,Odd,3927,0.4887,0.5309
+Over/Under,total=3.5,Over 3.5,3613,0.3682,0.4072
+Over/Under,total=3.5,Under 3.5,3613,0.6318,0.669
+Over/Under,total=2.5,Over 2.5,3591,0.5511,0.5888
+Over/Under,total=2.5,Under 2.5,3591,0.4489,0.4873
+Correct Score,,0:0,3581,0.0636,0.0816
+Correct Score,,0:1,3581,0.0698,0.0896
+Correct Score,,0:2,3581,0.0487,0.063
+Correct Score,,0:3,3581,0.0253,0.034
+Correct Score,,0:4,3581,0.0109,0.018
+Correct Score,,1:0,3581,0.0834,0.1065
+Correct Score,,1:1,3581,0.1078,0.137
+Correct Score,,1:2,3581,0.066,0.085
+Correct Score,,1:3,3581,0.0326,0.0428
+Correct Score,,1:4,3581,0.0134,0.02
+Correct Score,,2:0,3581,0.068,0.0872
+Correct Score,,2:1,3581,0.0775,0.0995
+Correct Score,,2:2,3581,0.0536,0.0694
+Correct Score,,2:3,3581,0.0233,0.0307
+Correct Score,,2:4,3581,0.0091,0.0148
+Correct Score,,3:0,3581,0.0403,0.0525
+Correct Score,,3:1,3581,0.0441,0.0573
+Correct Score,,3:2,3581,0.0269,0.0352
+Correct Score,,3:3,3581,0.0133,0.0185
+Correct Score,,3:4,3581,0.0046,0.0109
+Correct Score,,4:0,3581,0.0195,0.0272
+Correct Score,,4:1,3581,0.0205,0.0279
+Correct Score,,4:2,3581,0.012,0.0175
+Correct Score,,4:3,3581,0.0052,0.0111
+Correct Score,,4:4,3581,0.0021,0.0101
+Correct Score,,Other,3581,0.0583,0.0749
+Excluded Goals,,2,3581,0.7755,0.8128
+Excluded Goals,,3,3581,0.7909,0.828
+Excluded Goals,,4,3581,0.8392,0.875
+Excluded Goals,,5+,3581,0.8112,0.8469
+Goal Bounds,,0,3581,0.0636,0.1163
+Goal Bounds,,0-1,3581,0.2168,0.2601
+Goal Bounds,,0-2,3581,0.4413,0.4817
+Goal Bounds,,0-3,3581,0.6504,0.6891
+Goal Bounds,,0-4,3581,0.8112,0.8469
+Goal Bounds,,1,3581,0.1532,0.1981
+Goal Bounds,,1-2,3581,0.3777,0.4187
+Goal Bounds,,1-3,3581,0.5868,0.6262
+Goal Bounds,,1-4,3581,0.7476,0.7854
+Goal Bounds,,2,3581,0.2245,0.2671
+Goal Bounds,,2-3,3581,0.4336,0.4741
+Goal Bounds,,2-4,3581,0.5944,0.6338
+Goal Bounds,,2-5+,3581,0.7832,0.8199
+Goal Bounds,,3,3581,0.2091,0.2519
+Goal Bounds,,3-4,3581,0.3699,0.4109
+Goal Bounds,,3-5+,3581,0.5587,0.5982
+Goal Bounds,,4,3581,0.1608,0.205
+Goal Bounds,,4-5+,3581,0.3496,0.3909
+Goal Bounds,,5+,3581,0.1888,0.2331
+Excluded Goals,,1,3579,0.8467,0.8819
+Away Team Clean Sheet,,Yes,3467,0.2251,0.2797
+Home Team Clean Sheet,,Yes,3466,0.2843,0.3373
+GG/NG 2+,,No,3465,0.833,0.8683
+GG/NG 2+,,Yes,3465,0.167,0.2117
+Away Team Clean Sheet,,No,3454,0.7741,0.8182
+Home Team Clean Sheet,,No,3454,0.7148,0.7605
+GG/NG,,No,3445,0.4469,0.4952
+GG/NG,,Yes,3445,0.5531,0.6002
+Excluded Goals,,0,3422,0.9342,0.9621
+Goal Bounds,,1-5+,3422,0.9342,0.9621
+Which Team To Score,,Both teams,3211,0.5479,0.5983
+Which Team To Score,,None,3211,0.0638,0.077
+Which Team To Score,,Only Away,3211,0.1633,0.192
+Which Team To Score,,Only Home,3211,0.2251,0.2611
+2nd Half - 1X2,,Away,3110,0.2968,0.3282
+2nd Half - 1X2,,Draw,3110,0.3321,0.3681
+2nd Half - 1X2,,Home,3110,0.3711,0.4059
+Highest Scoring Half,,1st half,3110,0.3013,0.3348
+Highest Scoring Half,,2nd half,3110,0.446,0.4842
+Highest Scoring Half,,Equal,3110,0.2527,0.2829
+2nd Half - Draw No Bet,,Home,3109,0.554,0.5949
+1st Half - Draw No Bet,,Home,3108,0.5562,0.5972
+2nd Half - Draw No Bet,,Away,3108,0.4455,0.4877
+1st Half - 1X2,,Away,3107,0.2699,0.2985
+1st Half - 1X2,,Draw,3107,0.3882,0.4246
+1st Half - 1X2,,Home,3107,0.3419,0.3742
+1st Half - Draw No Bet,,Away,3107,0.4433,0.4855
+1st Half - Odd/Even,,Even,3107,0.542,0.5832
+1st Half - Odd/Even,,Odd,3107,0.458,0.4998
+2nd Half - Odd/Even,,Even,3107,0.5226,0.5639
+2nd Half - Odd/Even,,Odd,3107,0.4774,0.5191
+Halftime/Fulltime,,Away/Away,3107,0.1939,0.242
+Halftime/Fulltime,,Away/Draw,3107,0.0489,0.0663
+Halftime/Fulltime,,Away/Home,3107,0.0271,0.0379
+Halftime/Fulltime,,Draw/Away,3107,0.1115,0.1466
+Halftime/Fulltime,,Draw/Draw,3107,0.1388,0.1803
+Halftime/Fulltime,,Draw/Home,3107,0.1378,0.18
+Halftime/Fulltime,,Home/Away,3107,0.0229,0.033
+Halftime/Fulltime,,Home/Draw,3107,0.05,0.0678
+Halftime/Fulltime,,Home/Home,3107,0.269,0.3281
+2nd Half - Double Chance,,Home or Away,3105,0.6679,0.7239
+2nd Half - Double Chance,,Home or Draw,3104,0.7033,0.7524
+2nd Half - Double Chance,,Draw or Away,3103,0.6285,0.6846
+1st Half - Double Chance,,Home or Away,3086,0.6104,0.6712
+1st Half - GG/NG,,No,3086,0.7873,0.8255
+1st Half - GG/NG,,Yes,3086,0.2127,0.2573
+2nd Half - GG/NG,,No,3086,0.7201,0.7595
+2nd Half - GG/NG,,Yes,3086,0.2799,0.3233
+1st Half - Double Chance,,Home or Draw,3085,0.7301,0.7766
+Away To Score In Both Halves,,Yes,3085,0.2356,0.2843
+1st Half - Double Chance,,Draw or Away,3084,0.6592,0.7131
+Away To Score In Both Halves,,No,3084,0.7644,0.8049
+Home To Score In Both Halves,,Yes,3084,0.2963,0.3436
+Home To Score In Both Halves,,No,3083,0.7036,0.7456
+2nd Half - Exact Goals,variant=sr:exact_goals:2+,0,2999,0.1994,0.226
+2nd Half - Exact Goals,variant=sr:exact_goals:2+,1,2999,0.3131,0.3491
+2nd Half - Exact Goals,variant=sr:exact_goals:2+,2+,2999,0.4875,0.5271
+Both Halves Over X.5,total=1.5,No,2999,0.8027,0.8403
+Both Halves Over X.5,total=1.5,Yes,2999,0.1973,0.2431
+Both Halves Under X.5,total=1.5,No,2999,0.6732,0.7132
+Both Halves Under X.5,total=1.5,Yes,2999,0.3268,0.3702
+Away Highest Scoring Half,,1st half,2975,0.2522,0.2821
+Away Highest Scoring Half,,2nd half,2975,0.3387,0.3736
+Away Highest Scoring Half,,Equal,2975,0.4092,0.4457
+Home Highest Scoring Half,,1st half,2975,0.2719,0.3029
+Home Highest Scoring Half,,2nd half,2975,0.3624,0.3979
+Home Highest Scoring Half,,Equal,2975,0.3657,0.4008
+2nd Half - Total,total=1.5,Over 1.5,2918,0.4791,0.5217
+2nd Half - Total,total=1.5,Under 1.5,2918,0.5209,0.5632
+Handicap,hcp=0:1,Away (0:1),2879,0.5268,0.5706
+Handicap,hcp=0:1,Draw (0:1),2879,0.2094,0.2437
+Handicap,hcp=0:1,Home (0:1),2879,0.2638,0.2993
+1st Half - Over/Under,total=1.5,Over 1.5,2872,0.3894,0.4327
+1st Half - Over/Under,total=1.5,Under 1.5,2872,0.6106,0.6521
+Away Team Exact Goals,variant=sr:exact_goals:3+,0,2838,0.2944,0.3304
+Away Team Exact Goals,variant=sr:exact_goals:3+,1,2838,0.3342,0.3749
+Away Team Exact Goals,variant=sr:exact_goals:3+,2,2838,0.2118,0.2425
+Away Team Exact Goals,variant=sr:exact_goals:3+,3+,2838,0.1595,0.1818
+Home Team Exact Goals,variant=sr:exact_goals:3+,0,2837,0.225,0.2549
+Home Team Exact Goals,variant=sr:exact_goals:3+,1,2837,0.3109,0.349
+Home Team Exact Goals,variant=sr:exact_goals:3+,2,2837,0.236,0.2687
+Home Team Exact Goals,variant=sr:exact_goals:3+,3+,2837,0.2281,0.2569
+Home O/U,total=1.5,Over 1.5,2822,0.4626,0.5058
+Home O/U,total=1.5,Under 1.5,2822,0.5374,0.5798
+Excluded Goals - Away,,0,2807,0.707,0.7449
+Excluded Goals - Away,,1,2807,0.665,0.7037
+Excluded Goals - Away,,2,2807,0.7872,0.8242
+Excluded Goals - Home,,0,2807,0.7743,0.8109
+Excluded Goals - Home,,1,2807,0.6875,0.726
+Excluded Goals - Home,,2,2807,0.7633,0.8009
+Goal Bounds - Away,,0,2807,0.293,0.3352
+Goal Bounds - Away,,0-1,2807,0.628,0.6668
+Goal Bounds - Away,,1,2807,0.335,0.3763
+Goal Bounds - Away,,1-2,2807,0.5478,0.5875
+Goal Bounds - Away,,1-3+,2807,0.707,0.7449
+Goal Bounds - Away,,2,2807,0.2128,0.2558
+Goal Bounds - Away,,2-3+,2807,0.372,0.4132
+Goal Bounds - Away,,3+,2807,0.1592,0.2059
+Goal Bounds - Home,,0,2807,0.2257,0.2692
+Goal Bounds - Home,,0-1,2807,0.5382,0.5779
+Goal Bounds - Home,,1,2807,0.3125,0.354
+Goal Bounds - Home,,1-2,2807,0.5492,0.5889
+Goal Bounds - Home,,1-3+,2807,0.7743,0.8109
+Goal Bounds - Home,,2,2807,0.2367,0.2792
+Goal Bounds - Home,,2-3+,2807,0.4618,0.5021
+Goal Bounds - Home,,3+,2807,0.225,0.269
+Excluded Goals - Home,,3+,2798,0.7743,0.8103
+Goal Bounds - Home,,0-2,2798,0.7743,0.8103
+Excluded Goals - Away,,3+,2762,0.8385,0.872
+Goal Bounds - Away,,0-2,2762,0.8385,0.872
+Handicap,hcp=-0.5,Away (+0.5),2743,0.5433,0.5818
+Handicap,hcp=-0.5,Home (-0.5),2743,0.4567,0.4957
+Away O/U,total=1.5,Over 1.5,2739,0.3866,0.4301
+Away O/U,total=1.5,Under 1.5,2739,0.6134,0.6548
+Over/Under,total=1.5,Over 1.5,2724,0.7597,0.7937
+Over/Under,total=1.5,Under 1.5,2724,0.2403,0.2785
+1st Half - Away Clean Sheet,,No,2711,0.5011,0.5505
+1st Half - Away Clean Sheet,,Yes,2711,0.4989,0.5483
+1st Half - Home Clean Sheet,,No,2711,0.4316,0.4818
+1st Half - Home Clean Sheet,,Yes,2711,0.5684,0.6171
+2nd Half - Away Clean Sheet,,No,2711,0.5718,0.6203
+2nd Half - Away Clean Sheet,,Yes,2711,0.4282,0.4785
+2nd Half - Home Clean Sheet,,No,2711,0.5039,0.5532
+2nd Half - Home Clean Sheet,,Yes,2711,0.4961,0.5457
+1st Half - Exact Goals,variant=sr:exact_goals:3+,0,2620,0.2782,0.3111
+1st Half - Exact Goals,variant=sr:exact_goals:3+,1,2620,0.3427,0.38
+1st Half - Exact Goals,variant=sr:exact_goals:3+,2,2620,0.226,0.2554
+1st Half - Exact Goals,variant=sr:exact_goals:3+,3+,2620,0.1531,0.1746
+2nd Half - Correct Score,,0:0,2620,0.2022,0.2432
+2nd Half - Correct Score,,0:1,2620,0.1428,0.1745
+2nd Half - Correct Score,,0:2,2620,0.0584,0.0729
+2nd Half - Correct Score,,1:0,2620,0.1718,0.2085
+2nd Half - Correct Score,,1:1,2620,0.1133,0.1399
+2nd Half - Correct Score,,1:2,2620,0.0425,0.0534
+2nd Half - Correct Score,,2:0,2620,0.0833,0.1033
+2nd Half - Correct Score,,2:1,2620,0.0503,0.0631

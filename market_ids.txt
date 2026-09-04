@@ -1,0 +1,963 @@
+======================================================================================================================
+  SportyBet Market ID Probe  —  2026-07-29 02:18:21
+  Fixture   : Tigres FC vs Atletico Nacional
+  League    : Copa DIMAYOR  (Colombia)
+  Event ID  : sr:match:72851968
+  Markets   : 145   |   Outcomes (rows): 805
+======================================================================================================================
+
+  Group          MarketID   Market Name                    Specifier          OutcomeID    Outcome Desc             Odds     Active
+  ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Main           1          1X2                                               1            Home                     6.00     ✓
+  Main           1          1X2                                               2            Draw                     4.50     ✓
+  Main           1          1X2                                               3            Away                     1.45     ✓
+
+  Main           60200      1X2 - 1UP                                         1            Home                     2.68     ✓
+  Main           60200      1X2 - 1UP                                         2            Draw                     4.50     ✓
+  Main           60200      1X2 - 1UP                                         3            Away                     1.24     ✓
+
+  Main           60100      1X2 - 2UP                                         1            Home                     5.14     ✓
+  Main           60100      1X2 - 2UP                                         2            Draw                     4.50     ✓
+  Main           60100      1X2 - 2UP                                         3            Away                     1.41     ✓
+
+  Main           60210      1X2 - Never Down                                  1            Home                     7.36     ✓
+  Main           60210      1X2 - Never Down                                  2            Draw                     4.50     ✓
+  Main           60210      1X2 - Never Down                                  3            Away                     1.70     ✓
+
+  Main           18         Over/Under                     total=0.5          12           Over 0.5                 1.02     ✓
+  Main           18         Over/Under                     total=0.5          13           Under 0.5                11.00    ✓
+  Main           18         Over/Under                     total=1.5          12           Over 1.5                 1.17     ✓
+  Main           18         Over/Under                     total=1.5          13           Under 1.5                4.60     ✓
+  Main           18         Over/Under                     total=2.5          12           Over 2.5                 1.55     ✓
+  Main           18         Over/Under                     total=2.5          13           Under 2.5                2.35     ✓
+  Main           18         Over/Under                     total=3.5          12           Over 3.5                 2.35     ✓
+  Main           18         Over/Under                     total=3.5          13           Under 3.5                1.55     ✓
+  Main           18         Over/Under                     total=4.5          12           Over 4.5                 4.00     ✓
+  Main           18         Over/Under                     total=4.5          13           Under 4.5                1.22     ✓
+
+  Main           60180      Over/Under - Early Goals       minsnr=10|total=1  12           Over 1.5                 1.15     ✓
+  Main           60180      Over/Under - Early Goals       minsnr=10|total=1  13           Under 1.5                4.60     ✗
+  Main           60180      Over/Under - Early Goals       minsnr=30|total=2  12           Over 2.5                 1.50     ✓
+  Main           60180      Over/Under - Early Goals       minsnr=30|total=2  13           Under 2.5                2.35     ✗
+  Main           60180      Over/Under - Early Goals       minsnr=50|total=3  12           Over 3.5                 2.19     ✓
+  Main           60180      Over/Under - Early Goals       minsnr=50|total=3  13           Under 3.5                1.55     ✗
+
+  Main           10         Double Chance                                     9            Home or Draw             2.40     ✓
+  Main           10         Double Chance                                     10           Home or Away             1.18     ✓
+  Main           10         Double Chance                                     11           Draw or Away             1.12     ✓
+
+  Main           60110      Double Chance - 1UP                               9            Home or Draw             1.88     ✓
+  Main           60110      Double Chance - 1UP                               10           Home or Away             1.18     ✗
+  Main           60110      Double Chance - 1UP                               11           Draw or Away             1.08     ✓
+
+  Main           14         Handicap                       hcp=0:1            1711         Home (0:1)               13.50    ✓
+  Main           14         Handicap                       hcp=0:1            1712         Draw (0:1)               6.90     ✓
+  Main           14         Handicap                       hcp=0:1            1713         Away (0:1)               1.11     ✓
+  Main           14         Handicap                       hcp=1:0            1711         Home (1:0)               2.60     ✓
+  Main           14         Handicap                       hcp=1:0            1712         Draw (1:0)               3.80     ✓
+  Main           14         Handicap                       hcp=1:0            1713         Away (1:0)               2.15     ✓
+  Main           14         Handicap                       hcp=2:0            1711         Home (2:0)               1.61     ✓
+  Main           14         Handicap                       hcp=2:0            1712         Draw (2:0)               4.30     ✓
+  Main           14         Handicap                       hcp=2:0            1713         Away (2:0)               3.75     ✓
+
+  Main           16         Handicap                       hcp=0              1714         Home (0)                 4.60     ✓
+  Main           16         Handicap                       hcp=0              1715         Away (0)                 1.18     ✓
+  Main           16         Handicap                       hcp=1              1714         Home (+1.0)              2.05     ✓
+  Main           16         Handicap                       hcp=1              1715         Away (-1.0)              1.70     ✓
+  Main           16         Handicap                       hcp=2              1714         Home (+2.0)              1.34     ✓
+  Main           16         Handicap                       hcp=2              1715         Away (-2.0)              3.10     ✓
+  Main           16         Handicap                       hcp=0.5            1714         Home (+0.5)              2.65     ✓
+  Main           16         Handicap                       hcp=0.5            1715         Away (-0.5)              1.45     ✓
+  Main           16         Handicap                       hcp=1.5            1714         Home (+1.5)              1.64     ✓
+  Main           16         Handicap                       hcp=1.5            1715         Away (-1.5)              2.15     ✓
+
+  Goals          19         Home O/U                       total=0.5          12           Over 0.5                 1.54     ✓
+  Goals          19         Home O/U                       total=0.5          13           Under 0.5                2.35     ✓
+  Goals          19         Home O/U                       total=1.5          12           Over 1.5                 3.50     ✓
+  Goals          19         Home O/U                       total=1.5          13           Under 1.5                1.26     ✓
+  Goals          19         Home O/U                       total=2.5          12           Over 2.5                 8.30     ✓
+  Goals          19         Home O/U                       total=2.5          13           Under 2.5                1.04     ✓
+
+  Goals          20         Away O/U                       total=1.5          12           Over 1.5                 1.46     ✓
+  Goals          20         Away O/U                       total=1.5          13           Under 1.5                2.55     ✓
+  Goals          20         Away O/U                       total=2.5          12           Over 2.5                 2.40     ✓
+  Goals          20         Away O/U                       total=2.5          13           Under 2.5                1.52     ✓
+  Goals          20         Away O/U                       total=3.5          12           Over 3.5                 4.40     ✓
+  Goals          20         Away O/U                       total=3.5          13           Under 3.5                1.17     ✓
+
+  Main           29         GG/NG                                             74           Yes                      1.68     ✓
+  Main           29         GG/NG                                             76           No                       1.98     ✓
+
+  Main           60000      GG/NG 2+                                          74           Yes                      4.97     ✓
+  Main           60000      GG/NG 2+                                          76           No                       1.14     ✓
+
+  Main           60010      Any Team To Score 2 or More G                     74           Yes                      1.46     ✓
+  Main           60010      Any Team To Score 2 or More G                     76           No                       2.75     ✓
+
+  Main           60020      Any Team To Score 3 or More G                     74           Yes                      2.99     ✓
+  Main           60020      Any Team To Score 3 or More G                     76           No                       1.40     ✓
+
+  Main           60011      Home Team To Score 2 or More                      74           Yes                      5.46     ✓
+  Main           60011      Home Team To Score 2 or More                      76           No                       1.15     ✓
+
+  Main           60021      Home Team To Score 3 or More                      74           Yes                      15.56    ✓
+  Main           60021      Home Team To Score 3 or More                      76           No                       1.01     ✓
+
+  Main           60012      Away Team To Score 2 or More                      74           Yes                      1.69     ✓
+  Main           60012      Away Team To Score 2 or More                      76           No                       2.19     ✓
+
+  Main           60022      Away Team To Score 3 or More                      74           Yes                      3.26     ✓
+  Main           60022      Away Team To Score 3 or More                      76           No                       1.34     ✓
+
+  Main           60300      Any Team to lead by 1 Goal                        74           Yes                      1.02     ✓
+  Main           60300      Any Team to lead by 1 Goal                        76           No                       11.07    ✓
+
+  Main           60301      Any Team to lead by 2 Goals                       74           Yes                      1.63     ✓
+  Main           60301      Any Team to lead by 2 Goals                       76           No                       2.19     ✓
+
+  Main           60302      Any Team to lead by 3 Goals                       74           Yes                      3.18     ✓
+  Main           60302      Any Team to lead by 3 Goals                       76           No                       1.32     ✓
+
+  Main           60303      Home Team to lead by 1 Goal                       74           Yes                      2.71     ✓
+  Main           60303      Home Team to lead by 1 Goal                       76           No                       1.43     ✓
+
+  Main           60304      Home Team to lead by 2 Goals                      74           Yes                      7.56     ✓
+  Main           60304      Home Team to lead by 2 Goals                      76           No                       1.07     ✓
+
+  Main           60305      Home Team to lead by 3 Goals                      74           Yes                      13.25    ✓
+  Main           60305      Home Team to lead by 3 Goals                      76           No                       1.01     ✓
+
+  Main           60306      Away Team to lead by 1 Goal                       74           Yes                      1.24     ✓
+  Main           60306      Away Team to lead by 1 Goal                       76           No                       3.77     ✓
+
+  Main           60307      Away Team to lead by 2 Goals                      74           Yes                      1.90     ✓
+  Main           60307      Away Team to lead by 2 Goals                      76           No                       1.84     ✓
+
+  Main           60308      Away Team to lead by 3 Goals                      74           Yes                      3.40     ✓
+  Main           60308      Away Team to lead by 3 Goals                      76           No                       1.29     ✓
+
+  Main           450001     Goal Bounds                                       0            0                        9.95     ✓
+  Main           450001     Goal Bounds                                       1            0-1                      4.52     ✓
+  Main           450001     Goal Bounds                                       2            0-2                      2.32     ✓
+  Main           450001     Goal Bounds                                       3            0-3                      1.54     ✓
+  Main           450001     Goal Bounds                                       4            0-4                      1.21     ✓
+  Main           450001     Goal Bounds                                       11           1                        5.66     ✓
+  Main           450001     Goal Bounds                                       12           1-2                      2.60     ✓
+  Main           450001     Goal Bounds                                       13           1-3                      1.65     ✓
+  Main           450001     Goal Bounds                                       14           1-4                      1.28     ✓
+  Main           450001     Goal Bounds                                       15           1-5+                     1.02     ✓
+  Main           450001     Goal Bounds                                       22           2                        3.92     ✓
+  Main           450001     Goal Bounds                                       23           2-3                      2.11     ✓
+  Main           450001     Goal Bounds                                       24           2-4                      1.54     ✓
+  Main           450001     Goal Bounds                                       25           2-5+                     1.16     ✓
+  Main           450001     Goal Bounds                                       33           3                        3.80     ✓
+  Main           450001     Goal Bounds                                       34           3-4                      2.28     ✓
+  Main           450001     Goal Bounds                                       35           3-5+                     1.54     ✓
+  Main           450001     Goal Bounds                                       44           4                        4.54     ✓
+  Main           450001     Goal Bounds                                       45           4-5+                     2.33     ✓
+  Main           450001     Goal Bounds                                       55           5+                       3.92     ✓
+
+  Goals          450002     Goal Bounds - Home                                0            0                        2.33     ✓
+  Goals          450002     Goal Bounds - Home                                1            0-1                      1.26     ✓
+  Goals          450002     Goal Bounds - Home                                2            0-2                      1.04     ✓
+  Goals          450002     Goal Bounds - Home                                11           1                        2.45     ✓
+  Goals          450002     Goal Bounds - Home                                12           1-2                      1.72     ✓
+  Goals          450002     Goal Bounds - Home                                13           1-3+                     1.54     ✓
+  Goals          450002     Goal Bounds - Home                                22           2                        4.60     ✓
+  Goals          450002     Goal Bounds - Home                                23           2-3+                     3.49     ✓
+  Goals          450002     Goal Bounds - Home                                33           3+                       8.31     ✓
+
+  Goals          450003     Goal Bounds - Away                                0            0                        6.34     ✓
+  Goals          450003     Goal Bounds - Away                                1            0-1                      2.54     ✓
+  Goals          450003     Goal Bounds - Away                                2            0-2                      1.52     ✓
+  Goals          450003     Goal Bounds - Away                                11           1                        3.52     ✓
+  Goals          450003     Goal Bounds - Away                                12           1-2                      1.82     ✓
+  Goals          450003     Goal Bounds - Away                                13           1-3+                     1.08     ✓
+  Goals          450003     Goal Bounds - Away                                22           2                        3.24     ✓
+  Goals          450003     Goal Bounds - Away                                23           2-3+                     1.46     ✓
+  Goals          450003     Goal Bounds - Away                                33           3+                       2.38     ✓
+
+  Main           450004     Excluded Goals                                    0            0                        1.02     ✓
+  Main           450004     Excluded Goals                                    1            1                        1.11     ✓
+  Main           450004     Excluded Goals                                    2            2                        1.21     ✓
+  Main           450004     Excluded Goals                                    3            3                        1.22     ✓
+  Main           450004     Excluded Goals                                    4            4                        1.16     ✓
+  Main           450004     Excluded Goals                                    5            5+                       1.21     ✓
+
+  Goals          450005     Excluded Goals - Home                             0            0                        1.54     ✓
+  Goals          450005     Excluded Goals - Home                             1            1                        1.49     ✓
+  Goals          450005     Excluded Goals - Home                             2            2                        1.16     ✓
+  Goals          450005     Excluded Goals - Home                             3            3+                       1.04     ✓
+
+  Goals          450006     Excluded Goals - Away                             0            0                        1.08     ✓
+  Goals          450006     Excluded Goals - Away                             1            1                        1.26     ✓
+  Goals          450006     Excluded Goals - Away                             2            2                        1.30     ✓
+  Goals          450006     Excluded Goals - Away                             3            3+                       1.52     ✓
+
+  Main           11         Draw No Bet                                       4            Home                     4.40     ✓
+  Main           11         Draw No Bet                                       5            Away                     1.17     ✓
+
+  Main           45         Correct Score                                     274          0:0                      17.24    ✓
+  Main           45         Correct Score                                     276          1:0                      20.19    ✓
+  Main           45         Correct Score                                     278          2:0                      42.42    ✓
+  Main           45         Correct Score                                     280          3:0                      100.00   ✓
+  Main           45         Correct Score                                     282          4:0                      100.00   ✓
+  Main           45         Correct Score                                     284          0:1                      8.72     ✓
+  Main           45         Correct Score                                     286          1:1                      8.84     ✓
+  Main           45         Correct Score                                     288          2:1                      19.20    ✓
+  Main           45         Correct Score                                     290          3:1                      60.40    ✓
+  Main           45         Correct Score                                     292          4:1                      100.00   ✓
+  Main           45         Correct Score                                     294          0:2                      7.86     ✓
+  Main           45         Correct Score                                     296          1:2                      8.30     ✓
+  Main           45         Correct Score                                     298          2:2                      16.59    ✓
+  Main           45         Correct Score                                     300          3:2                      54.30    ✓
+  Main           45         Correct Score                                     302          4:2                      100.00   ✓
+  Main           45         Correct Score                                     304          0:3                      10.54    ✓
+  Main           45         Correct Score                                     306          1:3                      11.12    ✓
+  Main           45         Correct Score                                     308          2:3                      23.25    ✓
+  Main           45         Correct Score                                     310          3:3                      70.20    ✓
+  Main           45         Correct Score                                     312          4:3                      100.00   ✓
+  Main           45         Correct Score                                     314          0:4                      18.78    ✓
+  Main           45         Correct Score                                     316          1:4                      19.83    ✓
+  Main           45         Correct Score                                     318          2:4                      41.65    ✓
+  Main           45         Correct Score                                     320          3:4                      100.00   ✓
+  Main           45         Correct Score                                     322          4:4                      100.00   ✓
+  Main           45         Correct Score                                     324          Other                    10.43    ✓
+
+  Main           47         Halftime/Fulltime                                 418          Home/Home                10.14    ✓
+  Main           47         Halftime/Fulltime                                 420          Home/Draw                18.43    ✓
+  Main           47         Halftime/Fulltime                                 422          Home/Away                20.88    ✓
+  Main           47         Halftime/Fulltime                                 424          Draw/Home                12.96    ✓
+  Main           47         Halftime/Fulltime                                 426          Draw/Draw                6.86     ✓
+  Main           47         Halftime/Fulltime                                 428          Draw/Away                4.29     ✓
+  Main           47         Halftime/Fulltime                                 430          Away/Home                50.00    ✓
+  Main           47         Halftime/Fulltime                                 432          Away/Draw                16.27    ✓
+  Main           47         Halftime/Fulltime                                 434          Away/Away                1.95     ✓
+
+  Half           46         Halftime/fulltime correct sco                     326          0:0 0:0                  14.50    ✓
+  Half           46         Halftime/fulltime correct sco                     328          0:0 0:1                  13.50    ✓
+  Half           46         Halftime/fulltime correct sco                     330          0:0 0:2                  22.00    ✓
+  Half           46         Halftime/fulltime correct sco                     332          0:0 0:3                  51.00    ✓
+  Half           46         Halftime/fulltime correct sco                     334          0:0 1:0                  29.00    ✓
+  Half           46         Halftime/fulltime correct sco                     336          0:0 1:1                  25.00    ✓
+  Half           46         Halftime/fulltime correct sco                     338          0:0 1:2                  44.00    ✓
+  Half           46         Halftime/fulltime correct sco                     340          0:0 2:0                  105.00   ✓
+  Half           46         Halftime/fulltime correct sco                     342          0:0 2:1                  97.00    ✓
+  Half           46         Halftime/fulltime correct sco                     344          0:0 3:0                  250.00   ✓
+  Half           46         Halftime/fulltime correct sco                     346          0:0 4+                   30.00    ✓
+  Half           46         Halftime/fulltime correct sco                     348          0:1 0:1                  15.50    ✓
+  Half           46         Halftime/fulltime correct sco                     350          0:1 0:2                  13.00    ✓
+  Half           46         Halftime/fulltime correct sco                     352          0:1 0:3                  21.00    ✓
+  Half           46         Halftime/fulltime correct sco                     354          0:1 1:1                  27.00    ✓
+  Half           46         Halftime/fulltime correct sco                     356          0:1 1:2                  25.00    ✓
+  Half           46         Halftime/fulltime correct sco                     358          0:1 2:1                  94.00    ✓
+  Half           46         Halftime/fulltime correct sco                     360          0:1 4+                   11.50    ✓
+  Half           46         Halftime/fulltime correct sco                     362          0:2 0:2                  32.00    ✓
+  Half           46         Halftime/fulltime correct sco                     364          0:2 0:3                  26.00    ✓
+  Half           46         Halftime/fulltime correct sco                     366          0:2 1:2                  58.00    ✓
+  Half           46         Halftime/fulltime correct sco                     368          0:2 4+                   10.50    ✓
+  Half           46         Halftime/fulltime correct sco                     370          0:3 0:3                  97.00    ✓
+  Half           46         Halftime/fulltime correct sco                     372          0:3 4+                   19.50    ✓
+  Half           46         Halftime/fulltime correct sco                     374          1:0 1:0                  40.00    ✓
+  Half           46         Halftime/fulltime correct sco                     376          1:0 1:1                  31.00    ✓
+  Half           46         Halftime/fulltime correct sco                     378          1:0 1:2                  47.00    ✓
+  Half           46         Halftime/fulltime correct sco                     380          1:0 2:0                  74.00    ✓
+  Half           46         Halftime/fulltime correct sco                     382          1:0 2:1                  64.00    ✓
+  Half           46         Halftime/fulltime correct sco                     384          1:0 3:0                  250.00   ✓
+  Half           46         Halftime/fulltime correct sco                     386          1:0 4+                   25.00    ✓
+  Half           46         Halftime/fulltime correct sco                     388          1:1 1:1                  36.00    ✓
+  Half           46         Halftime/fulltime correct sco                     390          1:1 1:2                  32.00    ✓
+  Half           46         Halftime/fulltime correct sco                     392          1:1 2:1                  69.00    ✓
+  Half           46         Halftime/fulltime correct sco                     394          1:1 4+                   13.00    ✓
+  Half           46         Halftime/fulltime correct sco                     396          1:2 1:2                  70.00    ✓
+  Half           46         Halftime/fulltime correct sco                     398          1:2 4+                   16.00    ✓
+  Half           46         Halftime/fulltime correct sco                     400          2:0 2:0                  195.00   ✓
+  Half           46         Halftime/fulltime correct sco                     402          2:0 2:1                  160.00   ✓
+  Half           46         Halftime/fulltime correct sco                     404          2:0 3:0                  250.00   ✓
+  Half           46         Halftime/fulltime correct sco                     406          2:0 4+                   57.00    ✓
+  Half           46         Halftime/fulltime correct sco                     408          2:1 2:1                  190.00   ✓
+  Half           46         Halftime/fulltime correct sco                     410          2:1 4+                   38.00    ✓
+  Half           46         Halftime/fulltime correct sco                     412          3:0 3:0                  250.00   ✓
+  Half           46         Halftime/fulltime correct sco                     414          3:0 4+                   250.00   ✓
+  Half           46         Halftime/fulltime correct sco                     416          4+ 4+                    12.00    ✓
+
+  Goals          58         Both Halves Over X.5           total=1.5          74           Yes                      3.90     ✓
+  Goals          58         Both Halves Over X.5           total=1.5          76           No                       1.23     ✓
+
+  Goals          59         Both Halves Under X.5          total=1.5          74           Yes                      3.10     ✓
+  Goals          59         Both Halves Under X.5          total=1.5          76           No                       1.34     ✓
+
+  Goals          55         1st/2nd Half GG/NG                                806          No/No                    1.59     ✓
+  Goals          55         1st/2nd Half GG/NG                                808          Yes/No                   5.10     ✓
+  Goals          55         1st/2nd Half GG/NG                                810          Yes/Yes                  13.00    ✓
+  Goals          55         1st/2nd Half GG/NG                                812          No/Yes                   3.70     ✓
+
+  Goals          56         Home To Score In Both Halves                      74           Yes                      5.30     ✓
+  Goals          56         Home To Score In Both Halves                      76           No                       1.11     ✓
+
+  Goals          57         Away To Score In Both Halves                      74           Yes                      2.05     ✓
+  Goals          57         Away To Score In Both Halves                      76           No                       1.66     ✓
+
+  Main           26         Odd/Even                                          70           Odd                      1.89     ✓
+  Main           26         Odd/Even                                          72           Even                     1.85     ✓
+
+  Goals          27         Home Team Odd/Even                                70           Odd                      2.20     ✓
+  Goals          27         Home Team Odd/Even                                72           Even                     1.64     ✓
+
+  Goals          28         Away Team Odd/Even                                70           Odd                      1.89     ✓
+  Goals          28         Away Team Odd/Even                                72           Even                     1.85     ✓
+
+  Half           60         1st Half - 1X2                                    1            Home                     5.80     ✓
+  Half           60         1st Half - 1X2                                    2            Draw                     2.55     ✓
+  Half           60         1st Half - 1X2                                    3            Away                     1.86     ✓
+
+  Half           68         1st Half - Over/Under          total=0.5          12           Over 0.5                 1.25     ✓
+  Half           68         1st Half - Over/Under          total=0.5          13           Under 0.5                3.50     ✓
+  Half           68         1st Half - Over/Under          total=1.5          12           Over 1.5                 2.15     ✓
+  Half           68         1st Half - Over/Under          total=1.5          13           Under 1.5                1.59     ✓
+  Half           68         1st Half - Over/Under          total=2.5          12           Over 2.5                 4.50     ✓
+  Half           68         1st Half - Over/Under          total=2.5          13           Under 2.5                1.15     ✓
+
+  Half           63         1st Half - Double Chance                          9            Home or Draw             1.75     ✓
+  Half           63         1st Half - Double Chance                          10           Home or Away             1.41     ✓
+  Half           63         1st Half - Double Chance                          11           Draw or Away             1.13     ✓
+
+  Half           65         1st Half - Handicap            hcp=1:0            1711         Home (1:0)               1.83     ✓
+  Half           65         1st Half - Handicap            hcp=1:0            1712         Draw (1:0)               3.00     ✓
+  Half           65         1st Half - Handicap            hcp=1:0            1713         Away (1:0)               4.40     ✓
+
+  Half           66         1st Half - Handicap            hcp=0              1714         Home (0)                 3.60     ✓
+  Half           66         1st Half - Handicap            hcp=0              1715         Away (0)                 1.24     ✓
+  Half           66         1st Half - Handicap            hcp=1              1714         Home (+1.0)              1.32     ✓
+  Half           66         1st Half - Handicap            hcp=1              1715         Away (-1.0)              3.00     ✓
+  Half           66         1st Half - Handicap            hcp=0.5            1714         Home (+0.5)              1.82     ✓
+  Half           66         1st Half - Handicap            hcp=0.5            1715         Away (-0.5)              1.84     ✓
+
+  Goals          69         1st Half - Home O/U            total=0.5          12           Over 0.5                 2.55     ✓
+  Goals          69         1st Half - Home O/U            total=0.5          13           Under 0.5                1.41     ✓
+
+  Goals          70         1st Half - Away O/U            total=0.5          12           Over 0.5                 1.46     ✓
+  Goals          70         1st Half - Away O/U            total=0.5          13           Under 0.5                2.40     ✓
+
+  Goals          75         1st Half - GG/NG                                  74           Yes                      3.90     ✓
+  Goals          75         1st Half - GG/NG                                  76           No                       1.22     ✓
+
+  Half           64         1st Half - Draw No Bet                            4            Home                     3.70     ✓
+  Half           64         1st Half - Draw No Bet                            5            Away                     1.25     ✓
+
+  Half           810001     Goal Bounds - 1st Half                            0            0                        3.54     ✓
+  Half           810001     Goal Bounds - 1st Half                            1            0-1                      1.61     ✓
+  Half           810001     Goal Bounds - 1st Half                            2            0-2                      1.16     ✓
+  Half           810001     Goal Bounds - 1st Half                            11           1                        2.60     ✓
+  Half           810001     Goal Bounds - 1st Half                            12           1-2                      1.59     ✓
+  Half           810001     Goal Bounds - 1st Half                            13           1-3+                     1.25     ✓
+  Half           810001     Goal Bounds - 1st Half                            22           2                        3.49     ✓
+  Half           810001     Goal Bounds - 1st Half                            23           2-3+                     2.19     ✓
+  Half           810001     Goal Bounds - 1st Half                            33           3+                       4.64     ✓
+
+  Half           810002     Excluded Goals - 1st Half                         0            0                        1.25     ✓
+  Half           810002     Excluded Goals - 1st Half                         1            1                        1.44     ✓
+  Half           810002     Excluded Goals - 1st Half                         2            2                        1.26     ✓
+  Half           810002     Excluded Goals - 1st Half                         3            3+                       1.16     ✓
+
+  Half           81         1st Half - Correct Score                          462          0:0                      3.46     ✓
+  Half           81         1st Half - Correct Score                          464          1:1                      7.90     ✓
+  Half           81         1st Half - Correct Score                          466          2:2                      73.60    ✓
+  Half           81         1st Half - Correct Score                          468          1:0                      7.95     ✓
+  Half           81         1st Half - Correct Score                          470          2:0                      37.32    ✓
+  Half           81         1st Half - Correct Score                          472          2:1                      37.11    ✓
+  Half           81         1st Half - Correct Score                          474          0:1                      3.42     ✓
+  Half           81         1st Half - Correct Score                          476          0:2                      6.58     ✓
+  Half           81         1st Half - Correct Score                          478          1:2                      15.49    ✓
+  Half           81         1st Half - Correct Score                          480          Other                    8.90     ✓
+
+  Goals          71         1st Half - Exact Goals         variant=sr:exact_  sr:exact_goals:3+:88 0                        3.75     ✓
+  Goals          71         1st Half - Exact Goals         variant=sr:exact_  sr:exact_goals:3+:89 1                        2.65     ✓
+  Goals          71         1st Half - Exact Goals         variant=sr:exact_  sr:exact_goals:3+:90 2                        3.70     ✓
+  Goals          71         1st Half - Exact Goals         variant=sr:exact_  sr:exact_goals:3+:91 3+                       5.20     ✓
+
+  Goals          76         1st Half - Home Clean Sheet                       74           Yes                      2.40     ✓
+  Goals          76         1st Half - Home Clean Sheet                       76           No                       1.46     ✓
+
+  Goals          77         1st Half - Away Clean Sheet                       74           Yes                      1.41     ✓
+  Goals          77         1st Half - Away Clean Sheet                       76           No                       2.55     ✓
+
+  Half           78         1st Half - 1X2 & GG/NG                            78           Home & yes               30.00    ✓
+  Half           78         1st Half - 1X2 & GG/NG                            80           Home & no                6.40     ✓
+  Half           78         1st Half - 1X2 & GG/NG                            82           Draw & yes               7.10     ✓
+  Half           78         1st Half - 1X2 & GG/NG                            84           Draw & no                3.50     ✓
+  Half           78         1st Half - 1X2 & GG/NG                            86           Away & yes               10.00    ✓
+  Half           78         1st Half - 1X2 & GG/NG                            88           Away & no                2.05     ✓
+
+  Half           79         1st Half - 1X2 & Total         total=1.5          794          Home & Under 1.5         8.10     ✓
+  Half           79         1st Half - 1X2 & Total         total=1.5          796          Home & Over 1.5          16.00    ✓
+  Half           79         1st Half - 1X2 & Total         total=1.5          798          Draw & Under 1.5         3.50     ✓
+  Half           79         1st Half - 1X2 & Total         total=1.5          800          Draw & Over 1.5          7.25     ✓
+  Half           79         1st Half - 1X2 & Total         total=1.5          802          Away & Under 1.5         3.50     ✓
+  Half           79         1st Half - 1X2 & Total         total=1.5          804          Away & Over 1.5          3.33     ✓
+
+  Goals          552        1st Half - Multigoals                             1746         1-2                      1.48     ✓
+  Goals          552        1st Half - Multigoals                             1747         1-3                      1.29     ✓
+  Goals          552        1st Half - Multigoals                             1748         2-3                      2.20     ✓
+  Goals          552        1st Half - Multigoals                             1749         4+                       12.50    ✓
+  Goals          552        1st Half - Multigoals                             1805         No goal                  3.20     ✓
+
+  Combo          900036     HT Home to Win to Nil Yes/No                      39           Yes                      5.50     ✓
+  Combo          900036     HT Home to Win to Nil Yes/No                      40           No                       1.10     ✓
+
+  Combo          900037     HT Away to Win to Nil Yes/No                      39           Yes                      2.17     ✓
+  Combo          900037     HT Away to Win to Nil Yes/No                      40           No                       1.59     ✓
+
+  Goals          74         1st Half - Odd/Even                               70           Odd                      1.97     ✓
+  Goals          74         1st Half - Odd/Even                               72           Even                     1.78     ✓
+
+  Half           900032     HT Home Total Odd/Even                            32           Even                     1.33     ✓
+  Half           900032     HT Home Total Odd/Even                            33           Odd                      3.05     ✓
+
+  Half           900031     HT Away Total Odd/Even                            32           Even                     1.65     ✓
+  Half           900031     HT Away Total Odd/Even                            33           Odd                      2.12     ✓
+
+  Half           83         2nd Half - 1X2                                    1            Home                     5.25     ✓
+  Half           83         2nd Half - 1X2                                    2            Draw                     2.95     ✓
+  Half           83         2nd Half - 1X2                                    3            Away                     1.78     ✓
+
+  Half           90         2nd Half - Total               total=0.5          12           Over 0.5                 1.16     ✓
+  Half           90         2nd Half - Total               total=0.5          13           Under 0.5                4.40     ✓
+  Half           90         2nd Half - Total               total=1.5          12           Over 1.5                 1.78     ✓
+  Half           90         2nd Half - Total               total=1.5          13           Under 1.5                1.90     ✓
+  Half           90         2nd Half - Total               total=2.5          12           Over 2.5                 3.33     ✓
+  Half           90         2nd Half - Total               total=2.5          13           Under 2.5                1.26     ✓
+
+  Half           85         2nd Half - Double Chance                          9            Home or Draw             1.84     ✓
+  Half           85         2nd Half - Double Chance                          10           Home or Away             1.33     ✓
+  Half           85         2nd Half - Double Chance                          11           Draw or Away             1.15     ✓
+
+  Half           87         2nd Half - Handicap X:Y        hcp=1:0            1711         Home (1:0)               1.94     ✓
+  Half           87         2nd Half - Handicap X:Y        hcp=1:0            1712         Draw (1:0)               3.20     ✓
+  Half           87         2nd Half - Handicap X:Y        hcp=1:0            1713         Away (1:0)               3.60     ✓
+
+  Half           88         2nd Half - Handicap            hcp=0.5            1714         Home (+0.5)              1.93     ✓
+  Half           88         2nd Half - Handicap            hcp=0.5            1715         Away (-0.5)              1.75     ✓
+
+  Goals          91         2nd Half - Home Team Total     total=0.5          12           Over 0.5                 2.15     ✓
+  Goals          91         2nd Half - Home Team Total     total=0.5          13           Under 0.5                1.56     ✓
+
+  Goals          92         2nd Half - Away Team Total     total=1.5          12           Over 1.5                 2.55     ✓
+  Goals          92         2nd Half - Away Team Total     total=1.5          13           Under 1.5                1.41     ✓
+
+  Goals          95         2nd Half - GG/NG                                  74           Yes                      3.20     ✓
+  Goals          95         2nd Half - GG/NG                                  76           No                       1.33     ✓
+
+  Half           86         2nd Half - Draw No Bet                            4            Home                     3.60     ✓
+  Half           86         2nd Half - Draw No Bet                            5            Away                     1.26     ✓
+
+  Half           98         2nd Half - Correct Score                          546          0:0                      4.63     ✓
+  Half           98         2nd Half - Correct Score                          548          0:1                      3.97     ✓
+  Half           98         2nd Half - Correct Score                          550          0:2                      6.25     ✓
+  Half           98         2nd Half - Correct Score                          552          1:0                      8.38     ✓
+  Half           98         2nd Half - Correct Score                          554          1:1                      7.34     ✓
+  Half           98         2nd Half - Correct Score                          556          1:2                      12.15    ✓
+  Half           98         2nd Half - Correct Score                          558          2:0                      29.36    ✓
+  Half           98         2nd Half - Correct Score                          560          2:1                      26.54    ✓
+  Half           98         2nd Half - Correct Score                          562          2:2                      46.20    ✓
+  Half           98         2nd Half - Correct Score                          564          Other                    5.86     ✓
+
+  Goals          93         2nd Half - Exact Goals         variant=sr:exact_  sr:exact_goals:2+:85 0                        5.00     ✓
+  Goals          93         2nd Half - Exact Goals         variant=sr:exact_  sr:exact_goals:2+:86 1                        2.95     ✓
+  Goals          93         2nd Half - Exact Goals         variant=sr:exact_  sr:exact_goals:2+:87 2+                       1.81     ✓
+
+  Goals          96         2nd Half - Home Clean Sheet                       74           Yes                      2.80     ✓
+  Goals          96         2nd Half - Home Clean Sheet                       76           No                       1.35     ✓
+
+  Goals          97         2nd Half - Away Clean Sheet                       74           Yes                      1.56     ✓
+  Goals          97         2nd Half - Away Clean Sheet                       76           No                       2.15     ✓
+
+  Goals          553        2nd Half - Multigoals                             1746         1-2                      1.51     ✓
+  Goals          553        2nd Half - Multigoals                             1747         1-3                      1.26     ✓
+  Goals          553        2nd Half - Multigoals                             1748         2-3                      1.94     ✓
+  Goals          553        2nd Half - Multigoals                             1749         4+                       7.30     ✓
+  Goals          553        2nd Half - Multigoals                             1805         No goal                  4.20     ✓
+
+  Combo          900038     2nd Half Home to Win to Nil Y                     39           Yes                      5.50     ✓
+  Combo          900038     2nd Half Home to Win to Nil Y                     40           No                       1.10     ✓
+
+  Combo          900052     2nd Half Away to Win to Nil Y                     39           Yes                      2.17     ✓
+  Combo          900052     2nd Half Away to Win to Nil Y                     40           No                       1.59     ✓
+
+  Goals          94         2nd Half - Odd/Even                               70           Odd                      1.93     ✓
+  Goals          94         2nd Half - Odd/Even                               72           Even                     1.81     ✓
+
+  Half           900029     2nd Half Home Total Odd/Even                      32           Even                     1.41     ✓
+  Half           900029     2nd Half Home Total Odd/Even                      33           Odd                      2.70     ✓
+
+  Half           900030     2nd Half Away Total Odd/Even                      32           Even                     1.71     ✓
+  Half           900030     2nd Half Away Total Odd/Even                      33           Odd                      2.02     ✓
+
+  Main           12         Home No Bet                                       776          Draw                     3.60     ✓
+  Main           12         Home No Bet                                       778          Away                     1.23     ✓
+
+  Main           13         Away No Bet                                       780          Home                     2.15     ✓
+  Main           13         Away No Bet                                       782          Draw                     1.61     ✓
+
+  Main           15         Winning Margin                 variant=sr:winnin  sr:winning_margin:3+:113 Home by 1                8.70     ✓
+  Main           15         Winning Margin                 variant=sr:winnin  sr:winning_margin:3+:114 Home by 2                24.00    ✓
+  Main           15         Winning Margin                 variant=sr:winnin  sr:winning_margin:3+:115 Home by 3+               69.00    ✓
+  Main           15         Winning Margin                 variant=sr:winnin  sr:winning_margin:3+:116 Away by 1                3.80     ✓
+  Main           15         Winning Margin                 variant=sr:winnin  sr:winning_margin:3+:117 Away by 2                4.40     ✓
+  Main           15         Winning Margin                 variant=sr:winnin  sr:winning_margin:3+:118 Away by 3+               3.80     ✓
+  Main           15         Winning Margin                 variant=sr:winnin  sr:winning_margin:3+:119 Draw                     4.40     ✓
+
+  Goals          23         Home Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:88 0                        2.35     ✓
+  Goals          23         Home Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:89 1                        2.47     ✓
+  Goals          23         Home Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:90 2                        5.06     ✓
+  Goals          23         Home Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:91 3+                       12.26    ✓
+
+  Goals          24         Away Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:88 0                        7.85     ✓
+  Goals          24         Away Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:89 1                        3.70     ✓
+  Goals          24         Away Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:90 2                        3.37     ✓
+  Goals          24         Away Team Exact Goals          variant=sr:exact_  sr:exact_goals:3+:91 3+                       2.41     ✓
+
+  Main           30         Which Team To Score                               784          None                     18.16    ✓
+  Main           30         Which Team To Score                               788          Only Home                12.84    ✓
+  Main           30         Which Team To Score                               790          Only Away                2.59     ✓
+  Main           30         Which Team To Score                               792          Both teams               1.69     ✓
+
+  Goals          31         Home Team Clean Sheet                             74           Yes                      5.80     ✓
+  Goals          31         Home Team Clean Sheet                             76           No                       1.08     ✓
+
+  Goals          32         Away Team Clean Sheet                             74           Yes                      2.30     ✓
+  Goals          32         Away Team Clean Sheet                             76           No                       1.51     ✓
+
+  Half           48         Home To Win Both Halves                           74           Yes                      10.50    ✓
+  Half           48         Home To Win Both Halves                           76           No                       1.01     ✓
+
+  Half           49         Away To Win Both Halves                           74           Yes                      3.25     ✓
+  Half           49         Away To Win Both Halves                           76           No                       1.28     ✓
+
+  Half           50         Home To Win Either Half                           74           Yes                      2.85     ✓
+  Half           50         Home To Win Either Half                           76           No                       1.32     ✓
+
+  Half           51         Away To Win Either Half                           74           Yes                      1.23     ✓
+  Half           51         Away To Win Either Half                           76           No                       3.40     ✓
+
+  Combo          33         Home Team Win To Nil                              74           Yes                      8.10     ✓
+  Combo          33         Home Team Win To Nil                              76           No                       1.03     ✓
+
+  Combo          34         Away Team Win To Nil                              74           Yes                      2.55     ✓
+  Combo          34         Away Team Win To Nil                              76           No                       1.43     ✓
+
+  Half           52         Highest Scoring Half                              436          1st half                 2.90     ✓
+  Half           52         Highest Scoring Half                              438          2nd half                 2.10     ✓
+  Half           52         Highest Scoring Half                              440          Equal                    3.75     ✓
+
+  Half           53         Home Highest Scoring Half                         436          1st half                 4.00     ✓
+  Half           53         Home Highest Scoring Half                         438          2nd half                 3.00     ✓
+  Half           53         Home Highest Scoring Half                         440          Equal                    1.95     ✓
+
+  Half           54         Away Highest Scoring Half                         436          1st half                 2.95     ✓
+  Half           54         Away Highest Scoring Half                         438          2nd half                 2.30     ✓
+  Half           54         Away Highest Scoring Half                         440          Equal                    3.10     ✓
+
+  Half           900027     GG in Both Halves Yes/No                          39           Yes                      10.00    ✓
+  Half           900027     GG in Both Halves Yes/No                          40           No                       1.03     ✓
+
+  Goals          900041     No Draw Both Teams To Score Y                     39           Yes                      2.25     ✓
+  Goals          900041     No Draw Both Teams To Score Y                     40           No                       1.53     ✓
+
+  Corners        900300     Home Team Total Corners        total=1.5          30           Over 1.5                 1.20     ✓
+  Corners        900300     Home Team Total Corners        total=1.5          31           Under 1.5                4.00     ✓
+  Corners        900300     Home Team Total Corners        total=2.5          30           Over 2.5                 1.45     ✓
+  Corners        900300     Home Team Total Corners        total=2.5          31           Under 2.5                2.55     ✓
+  Corners        900300     Home Team Total Corners        total=3.5          30           Over 3.5                 2.05     ✓
+  Corners        900300     Home Team Total Corners        total=3.5          31           Under 3.5                1.69     ✓
+  Corners        900300     Home Team Total Corners        total=4.5          30           Over 4.5                 3.20     ✓
+  Corners        900300     Home Team Total Corners        total=4.5          31           Under 4.5                1.30     ✓
+
+  Corners        900301     Away Team Total Corners        total=4.5          30           Over 4.5                 1.35     ✓
+  Corners        900301     Away Team Total Corners        total=4.5          31           Under 4.5                2.95     ✓
+  Corners        900301     Away Team Total Corners        total=5.5          30           Over 5.5                 1.63     ✓
+  Corners        900301     Away Team Total Corners        total=5.5          31           Under 5.5                2.15     ✓
+  Corners        900301     Away Team Total Corners        total=6.5          30           Over 6.5                 2.05     ✓
+  Corners        900301     Away Team Total Corners        total=6.5          31           Under 6.5                1.69     ✓
+  Corners        900301     Away Team Total Corners        total=7.5          30           Over 7.5                 2.75     ✓
+  Corners        900301     Away Team Total Corners        total=7.5          31           Under 7.5                1.40     ✓
+
+  Corners        900302     1st Half - Home Total Corners  total=0.5          30           Over 0.5                 1.25     ✓
+  Corners        900302     1st Half - Home Total Corners  total=0.5          31           Under 0.5                3.60     ✓
+  Corners        900302     1st Half - Home Total Corners  total=1.5          30           Over 1.5                 2.05     ✓
+  Corners        900302     1st Half - Home Total Corners  total=1.5          31           Under 1.5                1.69     ✓
+  Corners        900302     1st Half - Home Total Corners  total=2.5          30           Over 2.5                 4.00     ✓
+  Corners        900302     1st Half - Home Total Corners  total=2.5          31           Under 2.5                1.20     ✓
+
+  Corners        900303     1st Half - Away Total Corners  total=1.5          30           Over 1.5                 1.25     ✓
+  Corners        900303     1st Half - Away Total Corners  total=1.5          31           Under 1.5                3.60     ✓
+  Corners        900303     1st Half - Away Total Corners  total=2.5          30           Over 2.5                 1.65     ✓
+  Corners        900303     1st Half - Away Total Corners  total=2.5          31           Under 2.5                2.12     ✓
+  Corners        900303     1st Half - Away Total Corners  total=3.5          30           Over 3.5                 2.35     ✓
+  Corners        900303     1st Half - Away Total Corners  total=3.5          31           Under 3.5                1.53     ✓
+  Corners        900303     1st Half - Away Total Corners  total=4.5          30           Over 4.5                 3.50     ✓
+  Corners        900303     1st Half - Away Total Corners  total=4.5          31           Under 4.5                1.26     ✓
+
+  Combo          37         1X2 & Over/Under               total=1.5          794          Home & Under 1.5         19.00    ✓
+  Combo          37         1X2 & Over/Under               total=1.5          796          Home & Over 1.5          7.25     ✓
+  Combo          37         1X2 & Over/Under               total=1.5          798          Draw & Under 1.5         16.50    ✓
+  Combo          37         1X2 & Over/Under               total=1.5          800          Draw & Over 1.5          5.20     ✓
+  Combo          37         1X2 & Over/Under               total=1.5          802          Away & Under 1.5         8.30     ✓
+  Combo          37         1X2 & Over/Under               total=1.5          804          Away & Over 1.5          1.58     ✓
+  Combo          37         1X2 & Over/Under               total=2.5          794          Home & Under 2.5         13.50    ✓
+  Combo          37         1X2 & Over/Under               total=2.5          796          Home & Over 2.5          9.00     ✓
+  Combo          37         1X2 & Over/Under               total=2.5          798          Draw & Under 2.5         5.80     ✓
+  Combo          37         1X2 & Over/Under               total=2.5          800          Draw & Over 2.5          13.00    ✓
+  Combo          37         1X2 & Over/Under               total=2.5          802          Away & Under 2.5         4.20     ✓
+  Combo          37         1X2 & Over/Under               total=2.5          804          Away & Over 2.5          1.90     ✓
+  Combo          37         1X2 & Over/Under               total=3.5          794          Home & Under 3.5         7.60     ✓
+  Combo          37         1X2 & Over/Under               total=3.5          796          Home & Over 3.5          19.50    ✓
+  Combo          37         1X2 & Over/Under               total=3.5          798          Draw & Under 3.5         5.90     ✓
+  Combo          37         1X2 & Over/Under               total=3.5          800          Draw & Over 3.5          13.00    ✓
+  Combo          37         1X2 & Over/Under               total=3.5          802          Away & Under 3.5         2.35     ✓
+  Combo          37         1X2 & Over/Under               total=3.5          804          Away & Over 3.5          2.95     ✓
+  Combo          37         1X2 & Over/Under               total=4.5          794          Home & Under 4.5         6.60     ✓
+  Combo          37         1X2 & Over/Under               total=4.5          796          Home & Over 4.5          29.00    ✓
+  Combo          37         1X2 & Over/Under               total=4.5          798          Draw & Under 4.5         4.30     ✓
+  Combo          37         1X2 & Over/Under               total=4.5          800          Draw & Over 4.5          60.00    ✓
+  Combo          37         1X2 & Over/Under               total=4.5          802          Away & Under 4.5         1.81     ✓
+  Combo          37         1X2 & Over/Under               total=4.5          804          Away & Over 4.5          4.60     ✓
+
+  Combo          35         1X2 & GG/NG                                       78           Home & yes               9.90     ✓
+  Combo          35         1X2 & GG/NG                                       80           Home & no                12.00    ✓
+  Combo          35         1X2 & GG/NG                                       82           Draw & yes               5.30     ✓
+  Combo          35         1X2 & GG/NG                                       84           Draw & no                17.00    ✓
+  Combo          35         1X2 & GG/NG                                       86           Away & yes               2.70     ✓
+  Combo          35         1X2 & GG/NG                                       88           Away & no                2.50     ✓
+
+  Combo          36         Over/Under & GG/NG             total=2.5          90           Over 2.5 & Yes           1.90     ✓
+  Combo          36         Over/Under & GG/NG             total=2.5          92           Under 2.5 & Yes          8.50     ✓
+  Combo          36         Over/Under & GG/NG             total=2.5          94           Over 2.5 & No            5.10     ✓
+  Combo          36         Over/Under & GG/NG             total=2.5          96           Under 2.5 & No           2.75     ✓
+
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1836         Home/Home & Under 1.5    42.18    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1839         Draw/Home & Under 1.5    29.97    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1840         Draw/Draw & Under 1.5    15.10    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1841         Draw/Away & Under 1.5    14.21    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1844         Away/Away & Under 1.5    16.10    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1845         Home/Home & Over 1.5     12.03    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1846         Home/Draw & Over 1.5     17.15    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1847         Home/Away & Over 1.5     19.43    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1848         Draw/Home & Over 1.5     19.83    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1849         Draw/Draw & Over 1.5     10.75    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1850         Draw/Away & Over 1.5     5.43     ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1851         Away/Home & Over 1.5     51.30    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1852         Away/Draw & Over 1.5     15.16    ✓
+  Combo          818        Halftime/Fulltime & Total      total=1.5          1853         Away/Away & Over 1.5     2.05     ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1836         Home/Home & Under 2.5    24.73    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1837         Home/Draw & Under 2.5    32.60    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1839         Draw/Home & Under 2.5    23.99    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1840         Draw/Draw & Under 2.5    7.98     ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1841         Draw/Away & Under 2.5    9.02     ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1843         Away/Draw & Under 2.5    28.19    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1844         Away/Away & Under 2.5    6.36     ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1845         Home/Home & Over 2.5     15.44    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1846         Home/Draw & Over 2.5     37.06    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1847         Home/Away & Over 2.5     19.82    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1848         Draw/Home & Over 2.5     24.68    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1849         Draw/Draw & Over 2.5     33.75    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1850         Draw/Away & Over 2.5     7.09     ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1851         Away/Home & Over 2.5     52.40    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1852         Away/Draw & Over 2.5     33.49    ✓
+  Combo          818        Halftime/Fulltime & Total      total=2.5          1853         Away/Away & Over 2.5     2.46     ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1836         Home/Home & Under 3.5    13.97    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1837         Home/Draw & Under 3.5    32.84    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1838         Home/Away & Under 3.5    50.80    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1839         Draw/Home & Under 3.5    15.28    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1840         Draw/Draw & Under 3.5    8.04     ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1841         Draw/Away & Under 3.5    5.75     ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1842         Away/Home & Under 3.5    100.00   ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1843         Away/Draw & Under 3.5    28.40    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1844         Away/Away & Under 3.5    3.41     ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1845         Home/Home & Over 3.5     30.57    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1846         Home/Draw & Over 3.5     37.34    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1847         Home/Away & Over 3.5     32.51    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1848         Draw/Home & Over 3.5     63.40    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1849         Draw/Draw & Over 3.5     34.00    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1850         Draw/Away & Over 3.5     13.33    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1851         Away/Home & Over 3.5     100.00   ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1852         Away/Draw & Over 3.5     33.74    ✓
+  Combo          818        Halftime/Fulltime & Total      total=3.5          1853         Away/Away & Over 3.5     3.61     ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1836         Home/Home & Under 4.5    11.76    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1837         Home/Draw & Under 4.5    19.51    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1838         Home/Away & Under 4.5    35.36    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1839         Draw/Home & Under 4.5    13.94    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1840         Draw/Draw & Under 4.5    6.74     ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1841         Draw/Away & Under 4.5    4.87     ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1842         Away/Home & Under 4.5    84.50    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1843         Away/Draw & Under 4.5    17.13    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1844         Away/Away & Under 4.5    2.54     ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1845         Home/Home & Over 4.5     49.83    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1846         Home/Draw & Over 4.5     100.00   ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1847         Home/Away & Over 4.5     43.90    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1848         Draw/Home & Over 4.5     97.50    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1849         Draw/Draw & Over 4.5     100.00   ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1850         Draw/Away & Over 4.5     22.97    ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1851         Away/Home & Over 4.5     100.00   ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1852         Away/Draw & Over 4.5     100.00   ✓
+  Combo          818        Halftime/Fulltime & Total      total=4.5          1853         Away/Away & Over 4.5     5.78     ✓
+
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1839         Draw/Home & Under 0.5    17.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1840         Draw/Draw & Under 0.5    9.10     ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1841         Draw/Away & Under 0.5    5.75     ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1845         Home/Home & Over 0.5     9.30     ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1846         Home/Draw & Over 0.5     17.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1847         Home/Away & Over 0.5     19.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1848         Draw/Home & Over 0.5     37.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1849         Draw/Draw & Over 0.5     19.50    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1850         Draw/Away & Over 0.5     11.50    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1851         Away/Home & Over 0.5     50.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1852         Away/Draw & Over 0.5     15.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=0.5          1853         Away/Away & Over 0.5     1.86     ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1836         Home/Home & Under 1.5    16.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1837         Home/Draw & Under 1.5    24.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1838         Home/Away & Under 1.5    26.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1839         Draw/Home & Under 1.5    18.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1840         Draw/Draw & Under 1.5    9.50     ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1841         Draw/Away & Under 1.5    6.00     ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1842         Away/Home & Under 1.5    70.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1843         Away/Draw & Under 1.5    21.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1844         Away/Away & Under 1.5    3.80     ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1845         Home/Home & Over 1.5     23.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1846         Home/Draw & Over 1.5     64.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1847         Home/Away & Over 1.5     81.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1848         Draw/Home & Over 1.5     39.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1849         Draw/Draw & Over 1.5     20.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1850         Draw/Away & Over 1.5     12.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1851         Away/Home & Over 1.5     220.00   ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1852         Away/Draw & Over 1.5     55.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=1.5          1853         Away/Away & Over 1.5     3.25     ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1836         Home/Home & Under 2.5    12.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1837         Home/Draw & Under 2.5    21.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1838         Home/Away & Under 2.5    24.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1839         Draw/Home & Under 2.5    12.50    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1840         Draw/Draw & Under 2.5    6.70     ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1841         Draw/Away & Under 2.5    4.20     ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1842         Away/Home & Under 2.5    64.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1843         Away/Draw & Under 2.5    18.50    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1844         Away/Away & Under 2.5    2.50     ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1845         Home/Home & Over 2.5     45.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1846         Home/Draw & Over 2.5     91.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1847         Home/Away & Over 2.5     105.00   ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1848         Draw/Home & Over 2.5     250.00   ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1849         Draw/Draw & Over 2.5     200.00   ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1850         Draw/Away & Over 2.5     120.00   ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1851         Away/Home & Over 2.5     250.00   ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1852         Away/Draw & Over 2.5     81.00    ✓
+  Combo          819        HT/FT & 1st Half Total         total=2.5          1853         Away/Away & Over 2.5     6.00     ✓
+
+  Combo          820        HT/FT & Exact Goals                               1854         draw/draw & 0            14.50    ✓
+  Combo          820        HT/FT & Exact Goals                               1855         Tigres FC/Tigres FC & 1  40.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1856         draw/Tigres FC & 1       28.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1857         draw/Atletico Nacional   13.50    ✓
+  Combo          820        HT/FT & Exact Goals                               1858         Atletico Nacional/Atlet  15.50    ✓
+  Combo          820        HT/FT & Exact Goals                               1859         Tigres FC/Tigres FC & 2  54.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1860         Tigres FC/draw & 2       30.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1861         draw/Tigres FC & 2       100.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1862         draw/draw & 2            15.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1863         draw/Atletico Nacional   21.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1864         Atletico Nacional/draw   26.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1865         Atletico Nacional/Atlet  9.30     ✓
+  Combo          820        HT/FT & Exact Goals                               1866         Tigres FC/Tigres FC & 3  29.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1867         Tigres FC/Atletico Naci  47.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1868         draw/Tigres FC & 3       37.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1869         draw/Atletico Nacional   13.50    ✓
+  Combo          820        HT/FT & Exact Goals                               1870         Atletico Nacional/Tigre  94.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1871         Atletico Nacional/Atlet  6.20     ✓
+  Combo          820        HT/FT & Exact Goals                               1872         Tigres FC/Tigres FC & 4  71.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1873         Tigres FC/draw & 4       45.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1874         Tigres FC/Atletico Naci  110.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1875         draw/Tigres FC & 4       160.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1876         draw/draw & 4            38.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1877         draw/Atletico Nacional   28.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1878         Atletico Nacional/Tigre  250.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1879         Atletico Nacional/draw   40.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1880         Atletico Nacional/Atlet  7.90     ✓
+  Combo          820        HT/FT & Exact Goals                               1881         Tigres FC/Tigres FC & 5  47.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1882         Tigres FC/draw & 5+      145.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1883         Tigres FC/Atletico Naci  41.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1884         draw/Tigres FC & 5+      91.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1885         draw/draw & 5+           175.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1886         draw/Atletico Nacional   21.00    ✓
+  Combo          820        HT/FT & Exact Goals                               1887         Atletico Nacional/Tigre  125.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1888         Atletico Nacional/draw   135.00   ✓
+  Combo          820        HT/FT & Exact Goals                               1889         Atletico Nacional/Atlet  5.50     ✓
+
+  Combo          547        Double Chance & Total          total=1.5          1724         Home/Draw & Under 1.5    8.40     ✓
+  Combo          547        Double Chance & Total          total=1.5          1725         Home/Away & Under 1.5    5.60     ✓
+  Combo          547        Double Chance & Total          total=1.5          1726         Draw/Away & Under 1.5    5.30     ✓
+  Combo          547        Double Chance & Total          total=1.5          1727         Home/Draw & Over 1.5     3.00     ✓
+  Combo          547        Double Chance & Total          total=1.5          1728         Home/Away & Over 1.5     1.34     ✓
+  Combo          547        Double Chance & Total          total=1.5          1729         Draw/Away & Over 1.5     1.28     ✓
+  Combo          547        Double Chance & Total          total=2.5          1724         Home/Draw & Under 2.5    4.10     ✓
+  Combo          547        Double Chance & Total          total=2.5          1725         Home/Away & Under 2.5    3.20     ✓
+  Combo          547        Double Chance & Total          total=2.5          1726         Draw/Away & Under 2.5    2.50     ✓
+  Combo          547        Double Chance & Total          total=2.5          1727         Home/Draw & Over 2.5     5.30     ✓
+  Combo          547        Double Chance & Total          total=2.5          1728         Home/Away & Over 2.5     1.62     ✓
+  Combo          547        Double Chance & Total          total=2.5          1729         Draw/Away & Over 2.5     1.69     ✓
+  Combo          547        Double Chance & Total          total=3.5          1724         Home/Draw & Under 3.5    3.40     ✓
+  Combo          547        Double Chance & Total          total=3.5          1725         Home/Away & Under 3.5    1.84     ✓
+  Combo          547        Double Chance & Total          total=3.5          1726         Draw/Away & Under 3.5    1.74     ✓
+  Combo          547        Double Chance & Total          total=3.5          1727         Home/Draw & Over 3.5     7.70     ✓
+  Combo          547        Double Chance & Total          total=3.5          1728         Home/Away & Over 3.5     2.55     ✓
+  Combo          547        Double Chance & Total          total=3.5          1729         Draw/Away & Over 3.5     2.40     ✓
+  Combo          547        Double Chance & Total          total=4.5          1724         Home/Draw & Under 4.5    2.65     ✓
+  Combo          547        Double Chance & Total          total=4.5          1725         Home/Away & Under 4.5    1.47     ✓
+  Combo          547        Double Chance & Total          total=4.5          1726         Draw/Away & Under 4.5    1.36     ✓
+  Combo          547        Double Chance & Total          total=4.5          1727         Home/Draw & Over 4.5     18.50    ✓
+  Combo          547        Double Chance & Total          total=4.5          1728         Home/Away & Over 4.5     3.90     ✓
+  Combo          547        Double Chance & Total          total=4.5          1729         Draw/Away & Over 4.5     4.10     ✓
+
+  Combo          546        Double Chance & GG/NG                             1718         Home/Draw & Yes          3.50     ✓
+  Combo          546        Double Chance & GG/NG                             1719         Home/Draw & No           7.10     ✓
+  Combo          546        Double Chance & GG/NG                             1720         Home/Away & Yes          2.15     ✓
+  Combo          546        Double Chance & GG/NG                             1721         Home/Away & No           2.10     ✓
+  Combo          546        Double Chance & GG/NG                             1722         Draw/Away & Yes          1.87     ✓
+  Combo          546        Double Chance & GG/NG                             1723         Draw/Away & No           2.20     ✓
+
+  Half           540        DC & 1st Half Both Teams Scor                     1718         Home/Draw & Yes          8.90     ✓
+  Half           540        DC & 1st Half Both Teams Scor                     1719         Home/Draw & No           3.00     ✓
+  Half           540        DC & 1st Half Both Teams Scor                     1720         Home/Away & Yes          4.60     ✓
+  Half           540        DC & 1st Half Both Teams Scor                     1721         Home/Away & No           1.41     ✓
+  Half           540        DC & 1st Half Both Teams Scor                     1722         Draw/Away & Yes          4.20     ✓
+  Half           540        DC & 1st Half Both Teams Scor                     1723         Draw/Away & No           1.35     ✓
+
+  Half           541        DC & 2nd Half Both Teams Scor                     1718         Home/Draw & Yes          7.00     ✓
+  Half           541        DC & 2nd Half Both Teams Scor                     1719         Home/Draw & No           3.40     ✓
+  Half           541        DC & 2nd Half Both Teams Scor                     1720         Home/Away & Yes          3.70     ✓
+  Half           541        DC & 2nd Half Both Teams Scor                     1721         Home/Away & No           1.51     ✓
+  Half           541        DC & 2nd Half Both Teams Scor                     1722         Draw/Away & Yes          3.33     ✓
+  Half           541        DC & 2nd Half Both Teams Scor                     1723         Draw/Away & No           1.46     ✓
+
+  Combo          900042     HT DC and Over/Under           total=1.5          145          Home/Draw & Over 1.5     5.10     ✓
+  Combo          900042     HT DC and Over/Under           total=1.5          146          Home/Away & Over 1.5     3.00     ✓
+  Combo          900042     HT DC and Over/Under           total=1.5          147          Draw/Away & Over 1.5     2.50     ✓
+  Combo          900042     HT DC and Over/Under           total=1.5          148          Home/Draw & Under 1.5    2.60     ✓
+  Combo          900042     HT DC and Over/Under           total=1.5          149          Home/Away & Under 1.5    2.55     ✓
+  Combo          900042     HT DC and Over/Under           total=1.5          150          Draw/Away & Under 1.5    1.90     ✓
+
+  Half           542        1st Half - DC & GG/NG                             1718         Home/Draw & Yes          5.50     ✓
+  Half           542        1st Half - DC & GG/NG                             1719         Home/Draw & No           2.25     ✓
+  Half           542        1st Half - DC & GG/NG                             1720         Home/Away & Yes          7.25     ✓
+  Half           542        1st Half - DC & GG/NG                             1721         Home/Away & No           1.61     ✓
+  Half           542        1st Half - DC & GG/NG                             1722         Draw/Away & Yes          4.10     ✓
+  Half           542        1st Half - DC & GG/NG                             1723         Draw/Away & No           1.38     ✓
+
+  Half           544        2nd Half - 1X2 & Total         total=1.5          794          Home & Under 1.5         8.40     ✓
+  Half           544        2nd Half - 1X2 & Total         total=1.5          796          Home & Over 1.5          11.00    ✓
+  Half           544        2nd Half - 1X2 & Total         total=1.5          798          Draw & Under 1.5         4.70     ✓
+  Half           544        2nd Half - 1X2 & Total         total=1.5          800          Draw & Over 1.5          6.40     ✓
+  Half           544        2nd Half - 1X2 & Total         total=1.5          802          Away & Under 1.5         4.00     ✓
+  Half           544        2nd Half - 1X2 & Total         total=1.5          804          Away & Over 1.5          2.70     ✓
+
+  Half           543        2nd Half - 1X2 & GG/NG                            78           Home & yes               20.00    ✓
+  Half           543        2nd Half - 1X2 & GG/NG                            80           Home & no                6.30     ✓
+  Half           543        2nd Half - 1X2 & GG/NG                            82           Draw & yes               6.30     ✓
+  Half           543        2nd Half - 1X2 & GG/NG                            84           Draw & no                4.60     ✓
+  Half           543        2nd Half - 1X2 & GG/NG                            86           Away & yes               7.10     ✓
+  Half           543        2nd Half - 1X2 & GG/NG                            88           Away & no                2.10     ✓
+
+  Combo          900043     2nd Half DC and Over/Under     total=1.5          145          Home/Draw & Over 1.5     4.10     ✓
+  Combo          900043     2nd Half DC and Over/Under     total=1.5          146          Home/Away & Over 1.5     2.35     ✓
+  Combo          900043     2nd Half DC and Over/Under     total=1.5          147          Draw/Away & Over 1.5     2.05     ✓
+  Combo          900043     2nd Half DC and Over/Under     total=1.5          148          Home/Draw & Under 1.5    3.25     ✓
+  Combo          900043     2nd Half DC and Over/Under     total=1.5          149          Home/Away & Under 1.5    2.85     ✓
+  Combo          900043     2nd Half DC and Over/Under     total=1.5          150          Draw/Away & Under 1.5    2.35     ✓
+
+  Half           545        2nd Half - DC & GG/NG                             1718         Home/Draw & Yes          4.70     ✓
+  Half           545        2nd Half - DC & GG/NG                             1719         Home/Draw & No           2.70     ✓
+  Half           545        2nd Half - DC & GG/NG                             1720         Home/Away & Yes          5.20     ✓
+  Half           545        2nd Half - DC & GG/NG                             1721         Home/Away & No           1.63     ✓
+  Half           545        2nd Half - DC & GG/NG                             1722         Draw/Away & Yes          3.33     ✓
+  Half           545        2nd Half - DC & GG/NG                             1723         Draw/Away & No           1.52     ✓
+
+  Combo          1179       1st H Res Or Match Res                            1            Home                     3.50     ✓
+  Combo          1179       1st H Res Or Match Res                            2            Draw                     1.89     ✓
+  Combo          1179       1st H Res Or Match Res                            3            Away                     1.28     ✓
+
+  Combo          854        Home Team Or Over X.5          total=2.5          74           Yes                      1.41     ✓
+  Combo          854        Home Team Or Over X.5          total=2.5          76           No                       2.65     ✓
+
+  Combo          855        Home Team Or Under X.5         total=2.5          74           Yes                      1.91     ✓
+  Combo          855        Home Team Or Under X.5         total=2.5          76           No                       1.77     ✓
+
+  Combo          856        Draw Or Over X.5               total=2.5          74           Yes                      1.27     ✓
+  Combo          856        Draw Or Over X.5               total=2.5          76           No                       3.33     ✓
+
+  Combo          857        Draw Or Under X.5              total=2.5          74           Yes                      2.00     ✓
+  Combo          857        Draw Or Under X.5              total=2.5          76           No                       1.68     ✓
+
+  Combo          858        Away Team Or Over X.5          total=2.5          74           Yes                      1.18     ✓
+  Combo          858        Away Team Or Over X.5          total=2.5          76           No                       4.10     ✓
+
+  Combo          859        Away Team Or Under X.5         total=2.5          74           Yes                      1.12     ✓
+  Combo          859        Away Team Or Under X.5         total=2.5          76           No                       5.00     ✓
+
+  Combo          860        Home Team Or GG/NG                                74           Yes                      1.53     ✓
+  Combo          860        Home Team Or GG/NG                                76           No                       2.30     ✓
+
+  Combo          861        Draw Or GG/NG                                     74           Yes                      1.57     ✓
+  Combo          861        Draw Or GG/NG                                     76           No                       2.20     ✓
+
+  Combo          862        Away Team Or GG/NG                                74           Yes                      1.08     ✓
+  Combo          862        Away Team Or GG/NG                                76           No                       6.10     ✓
+
+  Combo          863        Home Or Any Clean Sheet                           74           Yes                      1.73     ✓
+  Combo          863        Home Or Any Clean Sheet                           76           No                       1.96     ✓
+
+  Combo          864        Draw Or Any Clean Sheet                           74           Yes                      1.54     ✓
+  Combo          864        Draw Or Any Clean Sheet                           76           No                       2.25     ✓
+
+  Combo          865        Away Or Any Clean Sheet                           74           Yes                      1.24     ✓
+  Combo          865        Away Or Any Clean Sheet                           76           No                       3.60     ✓
+
+  Goals          548        Multigoals                                        1730         1-2                      1.83     ✓
+  Goals          548        Multigoals                                        1731         1-3                      1.34     ✓
+  Goals          548        Multigoals                                        1732         1-4                      1.15     ✓
+  Goals          548        Multigoals                                        1733         1-5                      1.08     ✓
+  Goals          548        Multigoals                                        1734         1-6                      1.04     ✓
+  Goals          548        Multigoals                                        1735         2-3                      1.57     ✓
+  Goals          548        Multigoals                                        1736         2-4                      1.28     ✓
+  Goals          548        Multigoals                                        1737         2-5                      1.17     ✓
+  Goals          548        Multigoals                                        1738         2-6                      1.12     ✓
+  Goals          548        Multigoals                                        1739         3-4                      1.66     ✓
+  Goals          548        Multigoals                                        1740         3-5                      1.42     ✓
+  Goals          548        Multigoals                                        1741         3-6                      1.33     ✓
+  Goals          548        Multigoals                                        1742         4-5                      2.10     ✓
+  Goals          548        Multigoals                                        1743         4-6                      1.82     ✓
+  Goals          548        Multigoals                                        1744         5-6                      3.10     ✓
+  Goals          548        Multigoals                                        1745         7+                       11.00    ✓
+  Goals          548        Multigoals                                        1804         No goal                  10.00    ✓
+
+  Goals          549        Home Team Multigoals                              1746         1-2                      1.60     ✓
+  Goals          549        Home Team Multigoals                              1747         1-3                      1.48     ✓
+  Goals          549        Home Team Multigoals                              1748         2-3                      3.39     ✓
+  Goals          549        Home Team Multigoals                              1749         4+                       30.00    ✓
+  Goals          549        Home Team Multigoals                              1805         No goal                  2.12     ✓
+
+  Goals          550        Away Team Multigoals                              1746         1-2                      1.67     ✓
+  Goals          550        Away Team Multigoals                              1747         1-3                      1.29     ✓
+  Goals          550        Away Team Multigoals                              1748         2-3                      1.80     ✓
+  Goals          550        Away Team Multigoals                              1749         4+                       4.09     ✓
+  Goals          550        Away Team Multigoals                              1805         No goal                  6.51     ✓
+
+  Goals          551        Multiscores                                       1750         1:0, 2:0 or 3:0          11.58    ✓
+  Goals          551        Multiscores                                       1751         0:1, 0:2 or 0:3          2.94     ✓
+  Goals          551        Multiscores                                       1752         4:0, 5:0 or 6:0          100.00   ✓
+  Goals          551        Multiscores                                       1753         0:4, 0:5 or 0:6          10.86    ✓
+  Goals          551        Multiscores                                       1754         2:1, 3:1 or 4:1          12.81    ✓
+  Goals          551        Multiscores                                       1755         1:2, 1:3 or 1:4          3.72     ✓
+  Goals          551        Multiscores                                       1756         3:2, 4:2, 4:3 or 5:1     34.46    ✓
+  Goals          551        Multiscores                                       1757         2:3, 2:4, 3:4 or 1:5     9.66     ✓
+  Goals          551        Multiscores                                       1758         Other Homewin            100.00   ✓
+  Goals          551        Multiscores                                       1759         Other Awaywin            23.90    ✓
+  Goals          551        Multiscores                                       1803         Draw                     3.92     ✓
+
+  ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  145 markets / 805 outcome rows  — copy marketId + outcomeId pairs into dual.py CONFIRMED_IDS
+======================================================================================================================

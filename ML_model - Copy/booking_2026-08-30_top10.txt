@@ -1,0 +1,39 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-08-30
+  Generated : 2026-08-30 04:47:30
+  Legs      : 10
+  Sorted by : odds
+  Combined odds : 56,535,319.94
+======================================================================
+
+  BOOKING CODE:  U57DG6
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    30 08  Western City Rangers FC vs Bulls F  HT Home Win            7.10  + 10.5%  0.6512
+  2    30 11  Jeju SK FC vs Daejeon Citizen FC    Over 4.5 Goals         6.70  +  5.1%  0.6327
+  3    30 22  Mirassol FC SP vs SE Palmeiras SP   Over 4.5 Goals         6.50  + 15.7%  0.6327
+  4    30 20  Bolivar SC vs Atletico Avila FC     Away Win               6.50  +  8.2%  0.7237
+  5    30 02  CF America vs Club Puebla           Away Win               5.80  +  6.8%  0.7237
+  6    30 19  CA Patronato Parana vs Club Almagr  Away Win               5.60  +  5.7%  0.7237
+  7    30 01  CA Talleres de Cordoba vs CA Centr  Away Win               5.50  +  5.4%  0.7237
+  8    30 19  CN Marcilio Dias SC vs Joinville E  Away Win               5.40  +  5.1%  0.7237
+  9    30 18  RFC Seraing vs Koninklijke Lierse   Over 4.5 Goals         5.40  + 12.5%  0.6327
+  10   30 13  Brodd vs Viking FK 2                Away Clean Sheet       5.40  +  3.3%  0.6508
+
+======================================================================
+  Tournament breakdown:
+      1x  NSW NPL, Women
+      1x  K-League 1
+      1x  Brasileiro Serie A
+      1x  Segunda Division
+      1x  Liga MX
+      1x  Primera Nacional
+      1x  Primera LPF
+      1x  Copa Santa Catarina
+      1x  Challenger Pro League
+      1x  3. Division, Group 4
+
+======================================================================

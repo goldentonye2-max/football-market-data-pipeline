@@ -1,0 +1,45 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-03
+  Generated : 2026-09-03 01:59:13
+  Legs      : 13
+  Sorted by : edge
+  Combined odds : 57,314.03
+======================================================================
+
+  BOOKING CODE:  PV0DPY
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    03 01  Velez Sarsfield vs Boca Juniors     Over 3.5 Goals         4.10  + 25.9%  0.6631
+  2    03 20  Cagliari vs Verona                  Over 2.5 Goals         2.10  + 19.9%  0.6410
+  3    03 18  AL Ahly SC (EGY) vs Smouha SC       Over 3.5 Goals         3.60  + 19.8%  0.6631
+  4    03 19  Toulouse vs Lille                   HT Away Win            2.80  + 18.3%  0.6617
+  5    03 16  Atlantis FC vs PEPO Lappeenranta    HT Over 1.5            1.54  + 15.1%  0.6269
+  6    03 00  CA Colegiales vs CA Ferrocarril Mi  Over 2.5 Goals         3.00  + 14.3%  0.6410
+  7    03 18  WKW ETO FC Gyor vs Ferencvarosi Bu  HT Over 1.5            2.20  + 13.4%  0.6269
+  8    02 23  SV Broki vs Delfines Del Este       Away Win               1.64  + 13.4%  0.7237
+  9    03 01  Barcelona SC vs CSD Independiente   HT Away Win            2.45  + 13.2%  0.6617
+  10   02 23  Goiatuba EC GO vs EC Sao Jose RS    Over 2.5 Goals         2.85  + 12.5%  0.6410
+  11   03 17  FK Banga Gargzdai vs FK Panevezys   Home Win               1.82  + 12.4%  0.7212
+  12   03 19  Basel vs FC Sion                    HT Over 1.5            2.15  + 12.4%  0.6269
+  13   03 19  Copenhagen vs Nordsjaelland         Over 2.5 Goals         1.45  + 12.2%  0.6410
+
+======================================================================
+  Tournament breakdown:
+      1x  Copa Argentina
+      1x  Coppa Italia
+      1x  Premier League
+      1x  Ligue 1
+      1x  Kakkonen
+      1x  Primera Nacional
+      1x  NB I
+      1x  CONCACAF Caribbean Cup
+      1x  LigaPro Primera A
+      1x  Brasileiro Serie D
+      1x  TOPLYGA
+      1x  Super League
+      1x  Superliga
+
+======================================================================

@@ -1,0 +1,33 @@
+=================================================================
+  DAILY 3-LEG ACCUMULATOR  (v2)
+  Friday 28 August 2026
+=================================================================
+
+  LEG 1: Dalian Yingbo FC vs Beijing Guoan
+    Pick    : OVER 11 5 CORNERS
+    Odds    : @ 3.00
+    Model P : 90.6%  EV: +171.9%
+    AUC     : 0.7103
+    League  : Chinese Super League
+    KO      : 2026-08-28 12:35
+
+  LEG 2: Lille vs PSG
+    Pick    : CORNERS  MATCH  OVER 11 5
+    Odds    : @ 3.25
+    Model P : 83.3%  EV: +170.8%
+    AUC     : 0.6824
+    League  : Ligue 1
+    KO      : 2026-08-28 19:45
+
+  LEG 3: AC Horsens vs Viborg FF
+    Pick    : CORNERS  MATCH  OVER 11 5
+    Odds    : @ 2.20
+    Model P : 83.3%  EV: +83.3%
+    AUC     : 0.6824
+    League  : Superliga
+    KO      : 2026-08-28 18:00
+
+─────────────────────────────────────────────────────────────────
+  Combined Odds : 21.45
+  Based on      : 8211 model predictions
+=================================================================

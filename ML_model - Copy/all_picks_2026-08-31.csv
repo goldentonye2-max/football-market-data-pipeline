@@ -1,0 +1,295 @@
+event_id,home_team,away_team,match,tournament,kickoff,target,pick,model_prob_%,implied_prob_%,edge_%,decimal_odds,model_auc,has_odds_match,hit_rate_%
+sr:match:72055136,CF Monterrey,Atletico San Luis,CF Monterrey vs Atletico San Luis,Liga MX,2026-08-31 03:10,target__away_clean_sheet,Away Clean Sheet,21.8,16.4,5.4,6.1,0.6508,True,23.0
+sr:match:73602922,Derby County U21,West Bromwich Albion FC U21,Derby County U21 vs West Bromwich Albion FC U21,U21 Premier League 2,2026-08-31 13:00,target__away_clean_sheet,Away Clean Sheet,29.1,23.3,5.8,4.3,0.6508,True,23.0
+sr:match:73602924,Manchester United U21,Leicester City U21,Manchester United U21 vs Leicester City U21,U21 Premier League 2,2026-08-31 14:00,target__away_clean_sheet,Away Clean Sheet,21.8,16.4,5.4,6.1,0.6508,True,23.0
+sr:match:72738110,Harrogate Town,Gateshead FC,Harrogate Town vs Gateshead FC,National League,2026-08-31 15:00,target__away_clean_sheet,Away Clean Sheet,21.8,17.9,3.9,5.6,0.6508,True,23.0
+sr:match:72758064,Hampton & Richmond Borough,Maidstone United FC,Hampton & Richmond Borough vs Maidstone United FC,National League South,2026-08-31 15:00,target__away_clean_sheet,Away Clean Sheet,47.3,37.0,10.2,2.7,0.6508,True,23.0
+sr:match:67126728,Djurgardens IF,Mjallby AIF,Djurgardens IF vs Mjallby AIF,Allsvenskan,2026-08-31 18:00,target__away_clean_sheet,Away Clean Sheet,21.8,16.4,5.4,6.1,0.6508,True,23.0
+sr:match:74105826,Maccabi Tel Aviv FC,Maccabi Haifa FC,Maccabi Tel Aviv FC vs Maccabi Haifa FC,Premier League,2026-08-31 18:30,target__away_clean_sheet,Away Clean Sheet,21.8,18.2,3.6,5.5,0.6508,True,23.0
+sr:match:72044670,Jong AZ Alkmaar,Jong FC Utrecht,Jong AZ Alkmaar vs Jong FC Utrecht,Eerste Divisie,2026-08-31 19:00,target__away_clean_sheet,Away Clean Sheet,21.8,15.4,6.4,6.5,0.6508,True,23.0
+sr:match:72044672,Jong PSV Eindhoven,Jong Ajax Amsterdam,Jong PSV Eindhoven vs Jong Ajax Amsterdam,Eerste Divisie,2026-08-31 19:00,target__away_clean_sheet,Away Clean Sheet,21.8,13.8,8.0,7.25,0.6508,True,23.0
+sr:match:72055136,CF Monterrey,Atletico San Luis,CF Monterrey vs Atletico San Luis,Liga MX,2026-08-31 03:10,target__away_win,Away Win,24.1,18.9,5.2,5.3,0.7237,True,32.7
+sr:match:68157070,San Jose Earthquakes II,Los Angeles FC 2,San Jose Earthquakes II vs Los Angeles FC 2,MLS Next Pro,2026-08-31 03:30,target__away_win,Away Win,42.4,30.3,12.1,3.3,0.7237,True,32.7
+sr:match:73602924,Manchester United U21,Leicester City U21,Manchester United U21 vs Leicester City U21,U21 Premier League 2,2026-08-31 14:00,target__away_win,Away Win,29.5,26.3,3.2,3.8,0.7237,True,32.7
+sr:match:72521994,Airbus UK Broughton,Holywell Town,Airbus UK Broughton vs Holywell Town,Cymru Premier,2026-08-31 14:30,target__away_win,Away Win,29.5,22.2,7.3,4.5,0.7237,True,32.7
+sr:match:72521996,Ammanford,Cardiff Metropolitan University FC,Ammanford vs Cardiff Metropolitan University FC,Cymru Premier,2026-08-31 14:30,target__away_win,Away Win,70.4,64.9,5.5,1.54,0.7237,True,32.7
+sr:match:72521998,Briton Ferry,Barry Town United FC,Briton Ferry vs Barry Town United FC,Cymru Premier,2026-08-31 14:30,target__away_win,Away Win,56.2,48.8,7.4,2.05,0.7237,True,32.7
+sr:match:72546034,Newport City FC,Swansea University,Newport City FC vs Swansea University,Cymru Championship South,2026-08-31 14:30,target__away_win,Away Win,50.0,44.4,5.6,2.25,0.7237,True,32.7
+sr:match:72738108,Forest Green Rovers,Altrincham FC,Forest Green Rovers vs Altrincham FC,National League,2026-08-31 15:00,target__away_win,Away Win,24.1,20.4,3.7,4.9,0.7237,True,32.7
+sr:match:72738110,Harrogate Town,Gateshead FC,Harrogate Town vs Gateshead FC,National League,2026-08-31 15:00,target__away_win,Away Win,29.5,20.4,9.1,4.9,0.7237,True,32.7
+sr:match:72522000,Caernarfon Town FC,The New Saints FC,Caernarfon Town FC vs The New Saints FC,Cymru Premier,2026-08-31 15:00,target__away_win,Away Win,74.3,67.6,6.8,1.48,0.7237,True,32.7
+sr:match:72759212,Kings Lynn FC,Scarborough Athletic,Kings Lynn FC vs Scarborough Athletic,National League North,2026-08-31 15:00,target__away_win,Away Win,50.0,39.2,10.8,2.55,0.7237,True,32.7
+sr:match:72759214,Macclesfield FC,Hebburn Town,Macclesfield FC vs Hebburn Town,National League North,2026-08-31 15:00,target__away_win,Away Win,24.1,19.6,4.5,5.1,0.7237,True,32.7
+sr:match:72759220,Southport FC,Hereford FC,Southport FC vs Hereford FC,National League North,2026-08-31 15:00,target__away_win,Away Win,42.4,38.5,4.0,2.6,0.7237,True,32.7
+sr:match:72759222,Spennymoor Town FC,Hednesford Town,Spennymoor Town FC vs Hednesford Town,National League North,2026-08-31 15:00,target__away_win,Away Win,42.4,38.5,4.0,2.6,0.7237,True,32.7
+sr:match:72758064,Hampton & Richmond Borough,Maidstone United FC,Hampton & Richmond Borough vs Maidstone United FC,National League South,2026-08-31 15:00,target__away_win,Away Win,56.2,51.8,4.4,1.93,0.7237,True,32.7
+sr:match:73409230,Araz Nakhchivan PFK,Sabah Masazir,Araz Nakhchivan PFK vs Sabah Masazir,Premier League,2026-08-31 15:00,target__away_win,Away Win,74.3,68.0,6.3,1.47,0.7237,True,32.7
+sr:match:72409646,FSC Bukovyna Chernivtsi,FC Dynamo Kyiv,FSC Bukovyna Chernivtsi vs FC Dynamo Kyiv,Premier League,2026-08-31 16:00,target__away_win,Away Win,74.3,66.2,8.1,1.51,0.7237,True,32.7
+sr:match:72045746,GFK Tikvesh 1930,FK Vardar Skopje,GFK Tikvesh 1930 vs FK Vardar Skopje,1. MFL,2026-08-31 16:00,target__away_win,Away Win,74.3,65.8,8.5,1.52,0.7237,True,32.7
+sr:match:67091492,Tampereen Ilves,HJK Helsinki,Tampereen Ilves vs HJK Helsinki,Veikkausliiga,2026-08-31 17:00,target__away_win,Away Win,56.2,52.6,3.5,1.9,0.7237,True,32.7
+sr:match:72284020,Hapoel Afula FC,Hapoel Ra`anana FC,Hapoel Afula FC vs Hapoel Ra`anana FC,National League,2026-08-31 17:00,target__away_win,Away Win,42.4,38.5,4.0,2.6,0.7237,True,32.7
+sr:match:71945216,US Lecce,Roma,US Lecce vs Roma,Serie A,2026-08-31 17:30,target__away_win,Away Win,74.3,66.7,7.7,1.5,0.7237,True,32.7
+sr:match:72936018,APO Levadiakos FC,Panathinaikos,APO Levadiakos FC vs Panathinaikos,Super League,2026-08-31 17:30,target__away_win,Away Win,68.8,60.6,8.2,1.65,0.7237,True,32.7
+sr:match:67126728,Djurgardens IF,Mjallby AIF,Djurgardens IF vs Mjallby AIF,Allsvenskan,2026-08-31 18:00,target__away_win,Away Win,29.5,17.9,11.7,5.6,0.7237,True,32.7
+sr:match:67126732,GAIS,IF Brommapojkarna,GAIS vs IF Brommapojkarna,Allsvenskan,2026-08-31 18:00,target__away_win,Away Win,23.6,20.4,3.2,4.9,0.7237,True,32.7
+sr:match:73463600,Al Masry Club,Pyramids FC,Al Masry Club vs Pyramids FC,Premier League,2026-08-31 18:00,target__away_win,Away Win,56.2,50.0,6.2,2.0,0.7237,True,32.7
+sr:match:73463598,Zamalek SC,Petrojet FC,Zamalek SC vs Petrojet FC,Premier League,2026-08-31 18:00,target__away_win,Away Win,23.6,19.2,4.4,5.2,0.7237,True,32.7
+sr:match:72176560,FC Wil 1900,FC Aarau,FC Wil 1900 vs FC Aarau,Challenge League,2026-08-31 19:15,target__away_win,Away Win,56.2,47.6,8.5,2.1,0.7237,True,32.7
+sr:match:72221212,Aston Villa,Arsenal,Aston Villa vs Arsenal,Premier League,2026-08-31 20:00,target__away_win,Away Win,74.3,62.9,11.4,1.59,0.7237,True,32.7
+sr:match:71913046,HNK Gorica,HNK Rijeka,HNK Gorica vs HNK Rijeka,HNL,2026-08-31 20:00,target__away_win,Away Win,74.3,61.7,12.6,1.62,0.7237,True,32.7
+sr:match:73293110,AC Renate,AS Cittadella,AC Renate vs AS Cittadella,"Serie C, Group A",2026-08-31 20:00,target__away_win,Away Win,50.0,43.5,6.5,2.3,0.7237,True,32.7
+sr:match:73293100,Calcio Desenzano,AC Trento,Calcio Desenzano vs AC Trento,"Serie C, Group A",2026-08-31 20:00,target__away_win,Away Win,50.0,45.5,4.5,2.2,0.7237,True,32.7
+sr:match:72530880,Braga,Vitoria SC Guimaraes,Braga vs Vitoria SC Guimaraes,Liga Portugal,2026-08-31 20:15,target__away_win,Away Win,23.6,20.5,3.1,4.88,0.7237,True,32.7
+sr:match:73265240,Estudiantes de La Plata,Newell's Old Boys,Estudiantes de La Plata vs Newell's Old Boys,Primera LPF,2026-08-31 23:00,target__away_win,Away Win,23.6,19.0,4.5,5.25,0.7237,True,32.7
+sr:match:72116134,Okinawa SV,Azul Claro Numazu,Okinawa SV vs Azul Claro Numazu,Japan Football League,2026-08-31 10:30,target__home_clean_sheet,Home Clean Sheet,44.4,36.4,8.1,2.75,0.6485,True,30.0
+sr:match:73602922,Derby County U21,West Bromwich Albion FC U21,Derby County U21 vs West Bromwich Albion FC U21,U21 Premier League 2,2026-08-31 13:00,target__home_clean_sheet,Home Clean Sheet,30.2,23.8,6.3,4.2,0.6485,True,30.0
+sr:match:72522002,Cambrian United,Pen-y-Bont FC,Cambrian United vs Pen-y-Bont FC,Cymru Premier,2026-08-31 14:30,target__home_clean_sheet,Home Clean Sheet,30.9,24.4,6.5,4.1,0.6485,True,30.0
+sr:match:72738118,Woking FC,Southend United,Woking FC vs Southend United,National League,2026-08-31 15:00,target__home_clean_sheet,Home Clean Sheet,30.2,25.6,4.5,3.9,0.6485,True,30.0
+sr:match:72738120,Worthing FC,Boreham Wood FC,Worthing FC vs Boreham Wood FC,National League,2026-08-31 15:00,target__home_clean_sheet,Home Clean Sheet,30.2,18.5,11.6,5.4,0.6485,True,30.0
+sr:match:72759222,Spennymoor Town FC,Hednesford Town,Spennymoor Town FC vs Hednesford Town,National League North,2026-08-31 15:00,target__home_clean_sheet,Home Clean Sheet,30.9,27.8,3.1,3.6,0.6485,True,30.0
+sr:match:73721686,FC Dunav Ruse,FC Lokomotiv 1929 Sofia,FC Dunav Ruse vs FC Lokomotiv 1929 Sofia,Parva Liga,2026-08-31 17:00,target__home_clean_sheet,Home Clean Sheet,30.9,27.8,3.1,3.6,0.6485,True,30.0
+sr:match:67921228,Lyn 1896 FK II,Sandefjord Fotball 2,Lyn 1896 FK II vs Sandefjord Fotball 2,"3. Division, Group 6",2026-08-31 17:00,target__home_clean_sheet,Home Clean Sheet,30.2,23.3,6.9,4.3,0.6485,True,30.0
+sr:match:73602928,Brighton & Hove Albion U21,Arsenal U21,Brighton & Hove Albion U21 vs Arsenal U21,U21 Premier League 2,2026-08-31 19:00,target__home_clean_sheet,Home Clean Sheet,30.9,27.0,3.8,3.7,0.6485,True,30.0
+sr:match:67123334,CA Lugano,AD Berazategui,CA Lugano vs AD Berazategui,Primera C,2026-08-31 19:00,target__home_clean_sheet,Home Clean Sheet,45.9,40.8,5.1,2.45,0.6485,True,30.0
+sr:match:72176560,FC Wil 1900,FC Aarau,FC Wil 1900 vs FC Aarau,Challenge League,2026-08-31 19:15,target__home_clean_sheet,Home Clean Sheet,30.2,21.7,8.4,4.6,0.6485,True,30.0
+sr:match:73805716,Encarnacion FC,Club Dr Benjamin Aceval,Encarnacion FC vs Club Dr Benjamin Aceval,Division Intermedia,2026-08-31 22:30,target__home_clean_sheet,Home Clean Sheet,33.3,28.6,4.8,3.5,0.6485,True,30.0
+sr:match:72521994,Airbus UK Broughton,Holywell Town,Airbus UK Broughton vs Holywell Town,Cymru Premier,2026-08-31 14:30,target__home_win,Home Win,67.3,62.1,5.2,1.61,0.7212,True,44.5
+sr:match:72522006,Flint Town United,Connah`s Quay Nomads FC,Flint Town United vs Connah`s Quay Nomads FC,Cymru Premier,2026-08-31 14:30,target__home_win,Home Win,25.0,21.3,3.7,4.7,0.7212,True,44.5
+sr:match:72546022,Aberystwyth Town FC,Llanelli Town,Aberystwyth Town FC vs Llanelli Town,Cymru Championship South,2026-08-31 14:30,target__home_win,Home Win,78.5,74.6,3.9,1.34,0.7212,True,44.5
+sr:match:73463596,Asyut Petroleum,National Bank of Egypt SC,Asyut Petroleum vs National Bank of Egypt SC,Premier League,2026-08-31 15:00,target__home_win,Home Win,33.3,28.6,4.8,3.5,0.7212,True,44.5
+sr:match:72738100,Boston United FC,AFC Hornchurch,Boston United FC vs AFC Hornchurch,National League,2026-08-31 15:00,target__home_win,Home Win,54.7,50.0,4.7,2.0,0.7212,True,44.5
+sr:match:72738108,Forest Green Rovers,Altrincham FC,Forest Green Rovers vs Altrincham FC,National League,2026-08-31 15:00,target__home_win,Home Win,67.3,63.7,3.7,1.57,0.7212,True,44.5
+sr:match:72738110,Harrogate Town,Gateshead FC,Harrogate Town vs Gateshead FC,National League,2026-08-31 15:00,target__home_win,Home Win,67.3,63.3,4.1,1.58,0.7212,True,44.5
+sr:match:72738120,Worthing FC,Boreham Wood FC,Worthing FC vs Boreham Wood FC,National League,2026-08-31 15:00,target__home_win,Home Win,28.1,23.3,4.9,4.3,0.7212,True,44.5
+sr:match:72759216,Radcliffe FC,Darlington FC,Radcliffe FC vs Darlington FC,National League North,2026-08-31 15:00,target__home_win,Home Win,47.3,40.8,6.5,2.45,0.7212,True,44.5
+sr:match:72759218,South Shields,Spalding United,South Shields vs Spalding United,National League North,2026-08-31 15:00,target__home_win,Home Win,78.5,72.5,6.1,1.38,0.7212,True,44.5
+sr:match:72759220,Southport FC,Hereford FC,Southport FC vs Hereford FC,National League North,2026-08-31 15:00,target__home_win,Home Win,47.3,41.7,5.6,2.4,0.7212,True,44.5
+sr:match:72758054,Dagenham and Redbridge FC,Slough Town,Dagenham and Redbridge FC vs Slough Town,National League South,2026-08-31 15:00,target__home_win,Home Win,78.5,70.9,7.6,1.41,0.7212,True,44.5
+sr:match:72758066,Maidenhead United FC,AFC Totton,Maidenhead United FC vs AFC Totton,National League South,2026-08-31 15:00,target__home_win,Home Win,67.3,61.0,6.4,1.64,0.7212,True,44.5
+sr:match:72758068,Salisbury FC,Billericay Town,Salisbury FC vs Billericay Town,National League South,2026-08-31 15:00,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:67912774,FC Torpedo Kutaisi,FC Meshakhte Tkibuli,FC Torpedo Kutaisi vs FC Meshakhte Tkibuli,Erovnuli Liga,2026-08-31 16:00,target__home_win,Home Win,78.5,69.9,8.6,1.43,0.7212,True,44.5
+sr:match:73721686,FC Dunav Ruse,FC Lokomotiv 1929 Sofia,FC Dunav Ruse vs FC Lokomotiv 1929 Sofia,Parva Liga,2026-08-31 17:00,target__home_win,Home Win,33.3,29.4,3.9,3.4,0.7212,True,44.5
+sr:match:67919828,Spjelkavik IL,Molde FK 2,Spjelkavik IL vs Molde FK 2,"3. Division, Group 2",2026-08-31 17:00,target__home_win,Home Win,83.3,72.5,10.9,1.38,0.7212,True,44.5
+sr:match:67920138,Aasane Fotball 2,Sogndal 2,Aasane Fotball 2 vs Sogndal 2,"3. Division, Group 3",2026-08-31 17:00,target__home_win,Home Win,78.5,66.7,11.9,1.5,0.7212,True,44.5
+sr:match:67920136,Fana IL,SK Brann 2,Fana IL vs SK Brann 2,"3. Division, Group 3",2026-08-31 17:00,target__home_win,Home Win,78.5,67.6,11.0,1.48,0.7212,True,44.5
+sr:match:67921228,Lyn 1896 FK II,Sandefjord Fotball 2,Lyn 1896 FK II vs Sandefjord Fotball 2,"3. Division, Group 6",2026-08-31 17:00,target__home_win,Home Win,67.3,59.5,7.8,1.68,0.7212,True,44.5
+sr:match:73206424,Al Bukiryah,AL Adalh FC,Al Bukiryah vs AL Adalh FC,Division 1,2026-08-31 17:05,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:73206426,AL Saqer FC,Al-Okhdood Club,AL Saqer FC vs Al-Okhdood Club,Division 1,2026-08-31 17:05,target__home_win,Home Win,34.4,27.8,6.6,3.6,0.7212,True,44.5
+sr:match:72522004,Colwyn Bay,Llandudno FC,Colwyn Bay vs Llandudno FC,Cymru Premier,2026-08-31 17:15,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:71913140,HNK Hajduk Split,NK Lokomotiva Zagreb,HNK Hajduk Split vs NK Lokomotiva Zagreb,HNL,2026-08-31 17:30,target__home_win,Home Win,78.5,69.9,8.6,1.43,0.7212,True,44.5
+sr:match:71924998,Copenhagen,SonderjyskE,Copenhagen vs SonderjyskE,Superliga,2026-08-31 18:00,target__home_win,Home Win,78.5,71.9,6.6,1.39,0.7212,True,44.5
+sr:match:73463600,Al Masry Club,Pyramids FC,Al Masry Club vs Pyramids FC,Premier League,2026-08-31 18:00,target__home_win,Home Win,28.1,24.4,3.7,4.1,0.7212,True,44.5
+sr:match:68311082,Hammarby Talang FF,Karlbergs BK,Hammarby Talang FF vs Karlbergs BK,Ettan,2026-08-31 18:00,target__home_win,Home Win,78.5,68.0,10.5,1.47,0.7212,True,44.5
+sr:match:72083020,FK Partizan Belgrade,OFK Beograd,FK Partizan Belgrade vs OFK Beograd,Superliga,2026-08-31 18:00,target__home_win,Home Win,67.3,57.8,9.5,1.73,0.7212,True,44.5
+sr:match:72559022,UD Logrones,CD Extremadura,UD Logrones vs CD Extremadura,Primera Federacion,2026-08-31 18:00,target__home_win,Home Win,47.3,40.8,6.5,2.45,0.7212,True,44.5
+sr:match:74105826,Maccabi Tel Aviv FC,Maccabi Haifa FC,Maccabi Tel Aviv FC vs Maccabi Haifa FC,Premier League,2026-08-31 18:30,target__home_win,Home Win,67.3,57.8,9.5,1.73,0.7212,True,44.5
+sr:match:73954082,Qadsia SC,Kuwait SC,Qadsia SC vs Kuwait SC,Premier League,2026-08-31 18:55,target__home_win,Home Win,34.4,29.4,5.0,3.4,0.7212,True,44.5
+sr:match:72044670,Jong AZ Alkmaar,Jong FC Utrecht,Jong AZ Alkmaar vs Jong FC Utrecht,Eerste Divisie,2026-08-31 19:00,target__home_win,Home Win,67.3,61.7,5.6,1.62,0.7212,True,44.5
+sr:match:73721684,FC Arda Kardzhali,POFC Botev Vratsa,FC Arda Kardzhali vs POFC Botev Vratsa,Parva Liga,2026-08-31 19:15,target__home_win,Home Win,78.5,67.1,11.4,1.49,0.7212,True,44.5
+sr:match:72723174,Besiktas Istanbul,Corum FK,Besiktas Istanbul vs Corum FK,Super Lig,2026-08-31 19:30,target__home_win,Home Win,71.5,67.6,4.0,1.48,0.7212,True,44.5
+sr:match:73805716,Encarnacion FC,Club Dr Benjamin Aceval,Encarnacion FC vs Club Dr Benjamin Aceval,Division Intermedia,2026-08-31 22:30,target__home_win,Home Win,34.4,30.0,4.3,3.33,0.7212,True,44.5
+sr:match:73265236,Defensa y Justicia,CA Platense,Defensa y Justicia vs CA Platense,Primera LPF,2026-08-31 23:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:73265240,Estudiantes de La Plata,Newell's Old Boys,Estudiantes de La Plata vs Newell's Old Boys,Primera LPF,2026-08-31 23:00,target__home_win,Home Win,67.3,58.5,8.9,1.71,0.7212,True,44.5
+sr:match:67119686,Club Comunicaciones,Deportivo Merlo,Club Comunicaciones vs Deportivo Merlo,Primera B,2026-08-31 23:00,target__home_win,Home Win,54.7,50.5,4.2,1.98,0.7212,True,44.5
+sr:match:72116134,Okinawa SV,Azul Claro Numazu,Okinawa SV vs Azul Claro Numazu,Japan Football League,2026-08-31 10:30,target__ht_away_win,HT Away Win,33.7,30.0,3.7,3.33,0.6617,True,26.6
+sr:match:72521996,Ammanford,Cardiff Metropolitan University FC,Ammanford vs Cardiff Metropolitan University FC,Cymru Premier,2026-08-31 14:30,target__ht_away_win,HT Away Win,54.0,48.8,5.2,2.05,0.6617,True,26.6
+sr:match:72546032,Carmarthen Town,Trethomas Bluebirds,Carmarthen Town vs Trethomas Bluebirds,Cymru Championship South,2026-08-31 14:30,target__ht_away_win,HT Away Win,33.7,30.0,3.7,3.33,0.6617,True,26.6
+sr:match:72738104,Eastleigh FC,Aldershot Town FC,Eastleigh FC vs Aldershot Town FC,National League,2026-08-31 15:00,target__ht_away_win,HT Away Win,42.4,30.0,12.4,3.33,0.6617,True,26.6
+sr:match:72738110,Harrogate Town,Gateshead FC,Harrogate Town vs Gateshead FC,National League,2026-08-31 15:00,target__ht_away_win,HT Away Win,33.7,20.4,13.3,4.9,0.6617,True,26.6
+sr:match:72738114,Solihull Moors FC,AFC Fylde,Solihull Moors FC vs AFC Fylde,National League,2026-08-31 15:00,target__ht_away_win,HT Away Win,42.4,33.3,9.1,3.0,0.6617,True,26.6
+sr:match:72738122,Yeovil Town,Tamworth FC,Yeovil Town vs Tamworth FC,National League,2026-08-31 15:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:72522000,Caernarfon Town FC,The New Saints FC,Caernarfon Town FC vs The New Saints FC,Cymru Premier,2026-08-31 15:00,target__ht_away_win,HT Away Win,60.0,51.8,8.2,1.93,0.6617,True,26.6
+sr:match:72759212,Kings Lynn FC,Scarborough Athletic,Kings Lynn FC vs Scarborough Athletic,National League North,2026-08-31 15:00,target__ht_away_win,HT Away Win,42.4,32.3,10.2,3.1,0.6617,True,26.6
+sr:match:72409646,FSC Bukovyna Chernivtsi,FC Dynamo Kyiv,FSC Bukovyna Chernivtsi vs FC Dynamo Kyiv,Premier League,2026-08-31 16:00,target__ht_away_win,HT Away Win,54.0,50.3,3.7,1.99,0.6617,True,26.6
+sr:match:67091484,AC Oulu,Seinajoen JK,AC Oulu vs Seinajoen JK,Veikkausliiga,2026-08-31 17:00,target__ht_away_win,HT Away Win,33.7,27.0,6.7,3.7,0.6617,True,26.6
+sr:match:73812380,FC Pyunik Yerevan,FC Ararat-Armenia,FC Pyunik Yerevan vs FC Ararat-Armenia,Premier League,2026-08-31 17:00,target__ht_away_win,HT Away Win,33.7,26.3,7.4,3.8,0.6617,True,26.6
+sr:match:72522004,Colwyn Bay,Llandudno FC,Colwyn Bay vs Llandudno FC,Cymru Premier,2026-08-31 17:15,target__ht_away_win,HT Away Win,33.7,30.3,3.4,3.3,0.6617,True,26.6
+sr:match:71945216,US Lecce,Roma,US Lecce vs Roma,Serie A,2026-08-31 17:30,target__ht_away_win,HT Away Win,60.0,50.3,9.7,1.99,0.6617,True,26.6
+sr:match:72936018,APO Levadiakos FC,Panathinaikos,APO Levadiakos FC vs Panathinaikos,Super League,2026-08-31 17:30,target__ht_away_win,HT Away Win,55.2,46.5,8.7,2.15,0.6617,True,26.6
+sr:match:67126728,Djurgardens IF,Mjallby AIF,Djurgardens IF vs Mjallby AIF,Allsvenskan,2026-08-31 18:00,target__ht_away_win,HT Away Win,21.7,18.2,3.5,5.5,0.6617,True,26.6
+sr:match:68311082,Hammarby Talang FF,Karlbergs BK,Hammarby Talang FF vs Karlbergs BK,Ettan,2026-08-31 18:00,target__ht_away_win,HT Away Win,21.7,18.5,3.1,5.4,0.6617,True,26.6
+sr:match:73960294,Szeged-Csanad Grosics Akademia,Kazincbarcikai SC,Szeged-Csanad Grosics Akademia vs Kazincbarcikai SC,NB II,2026-08-31 18:30,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:72723166,Amed Sportif Faaliyetler,Trabzonspor,Amed Sportif Faaliyetler vs Trabzonspor,Super Lig,2026-08-31 19:30,target__ht_away_win,HT Away Win,42.4,38.5,4.0,2.6,0.6617,True,26.6
+sr:match:72221212,Aston Villa,Arsenal,Aston Villa vs Arsenal,Premier League,2026-08-31 20:00,target__ht_away_win,HT Away Win,55.2,47.6,7.6,2.1,0.6617,True,26.6
+sr:match:71913046,HNK Gorica,HNK Rijeka,HNK Gorica vs HNK Rijeka,HNL,2026-08-31 20:00,target__ht_away_win,HT Away Win,55.2,46.5,8.7,2.15,0.6617,True,26.6
+sr:match:72814204,Skenderbeu Korce,FC Dinamo City,Skenderbeu Korce vs FC Dinamo City,Kategoria Superiore,2026-08-31 20:00,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:72521996,Ammanford,Cardiff Metropolitan University FC,Ammanford vs Cardiff Metropolitan University FC,Cymru Premier,2026-08-31 14:30,target__ht_home_win,HT Home Win,24.6,17.5,7.0,5.7,0.6512,True,34.4
+sr:match:72521998,Briton Ferry,Barry Town United FC,Briton Ferry vs Barry Town United FC,Cymru Premier,2026-08-31 14:30,target__ht_home_win,HT Home Win,29.5,26.3,3.2,3.8,0.6512,True,34.4
+sr:match:72522006,Flint Town United,Connah`s Quay Nomads FC,Flint Town United vs Connah`s Quay Nomads FC,Cymru Premier,2026-08-31 14:30,target__ht_home_win,HT Home Win,25.3,20.4,4.9,4.9,0.6512,True,34.4
+sr:match:72738104,Eastleigh FC,Aldershot Town FC,Eastleigh FC vs Aldershot Town FC,National League,2026-08-31 15:00,target__ht_home_win,HT Home Win,39.1,35.7,3.4,2.8,0.6512,True,34.4
+sr:match:72738118,Woking FC,Southend United,Woking FC vs Southend United,National League,2026-08-31 15:00,target__ht_home_win,HT Home Win,29.5,26.3,3.2,3.8,0.6512,True,34.4
+sr:match:72738120,Worthing FC,Boreham Wood FC,Worthing FC vs Boreham Wood FC,National League,2026-08-31 15:00,target__ht_home_win,HT Home Win,25.3,22.2,3.1,4.5,0.6512,True,34.4
+sr:match:72759222,Spennymoor Town FC,Hednesford Town,Spennymoor Town FC vs Hednesford Town,National League North,2026-08-31 15:00,target__ht_home_win,HT Home Win,39.1,34.5,4.6,2.9,0.6512,True,34.4
+sr:match:67912776,FC Gagra,FC Iberia 1999,FC Gagra vs FC Iberia 1999,Erovnuli Liga,2026-08-31 16:00,target__ht_home_win,HT Home Win,29.5,21.1,8.4,4.75,0.6512,True,34.4
+sr:match:67912774,FC Torpedo Kutaisi,FC Meshakhte Tkibuli,FC Torpedo Kutaisi vs FC Meshakhte Tkibuli,Erovnuli Liga,2026-08-31 16:00,target__ht_home_win,HT Home Win,58.1,53.8,4.3,1.86,0.6512,True,34.4
+sr:match:71901866,Dziugas,FC Hegelmann Kaunas,Dziugas vs FC Hegelmann Kaunas,TOPLYGA,2026-08-31 16:45,target__ht_home_win,HT Home Win,40.5,36.4,4.1,2.75,0.6512,True,34.4
+sr:match:68311082,Hammarby Talang FF,Karlbergs BK,Hammarby Talang FF vs Karlbergs BK,Ettan,2026-08-31 18:00,target__ht_home_win,HT Home Win,58.1,52.9,5.2,1.89,0.6512,True,34.4
+sr:match:71913046,HNK Gorica,HNK Rijeka,HNK Gorica vs HNK Rijeka,HNL,2026-08-31 20:00,target__ht_home_win,HT Home Win,25.3,17.9,7.4,5.6,0.6512,True,34.4
+sr:match:73293110,AC Renate,AS Cittadella,AC Renate vs AS Cittadella,"Serie C, Group A",2026-08-31 20:00,target__ht_home_win,HT Home Win,33.3,27.8,5.6,3.6,0.6512,True,34.4
+sr:match:73293100,Calcio Desenzano,AC Trento,Calcio Desenzano vs AC Trento,"Serie C, Group A",2026-08-31 20:00,target__ht_home_win,HT Home Win,29.5,25.6,3.8,3.9,0.6512,True,34.4
+sr:match:73805714,Paraguari AC,Resistencia SC,Paraguari AC vs Resistencia SC,Division Intermedia,2026-08-31 20:00,target__ht_home_win,HT Home Win,33.3,27.8,5.6,3.6,0.6512,True,34.4
+sr:match:72478512,Barcelona,Rayo Vallecano,Barcelona vs Rayo Vallecano,LaLiga,2026-08-31 20:30,target__ht_home_win,HT Home Win,76.9,70.9,6.0,1.41,0.6512,True,34.4
+sr:match:73812378,Sardarapat FC,FC Syunik,Sardarapat FC vs FC Syunik,Premier League,2026-08-31 13:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:72522002,Cambrian United,Pen-y-Bont FC,Cambrian United vs Pen-y-Bont FC,Cymru Premier,2026-08-31 14:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,39.2,7.5,2.55,0.6269,True,38.8
+sr:match:72522006,Flint Town United,Connah`s Quay Nomads FC,Flint Town United vs Connah`s Quay Nomads FC,Cymru Premier,2026-08-31 14:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,42.6,4.2,2.35,0.6269,True,38.8
+sr:match:72546024,Afan Lido,Ynyshir Albions,Afan Lido vs Ynyshir Albions,Cymru Championship South,2026-08-31 14:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72546036,Pontypridd Town,Llantwit Major,Pontypridd Town vs Llantwit Major,Cymru Championship South,2026-08-31 14:30,target__ht_over_1_5_goals,HT Over 1.5,58.9,52.4,6.5,1.91,0.6269,True,38.8
+sr:match:72738102,Carlisle United,Scunthorpe United,Carlisle United vs Scunthorpe United,National League,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72738108,Forest Green Rovers,Altrincham FC,Forest Green Rovers vs Altrincham FC,National League,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,48.8,10.1,2.05,0.6269,True,38.8
+sr:match:72738118,Woking FC,Southend United,Woking FC vs Southend United,National League,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.0,6.7,2.5,0.6269,True,38.8
+sr:match:72522000,Caernarfon Town FC,The New Saints FC,Caernarfon Town FC vs The New Saints FC,Cymru Premier,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72759204,Buxton FC,Merthyr Town,Buxton FC vs Merthyr Town,National League North,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,48.8,10.1,2.05,0.6269,True,38.8
+sr:match:72759208,Chorley FC,Brackley Town FC,Chorley FC vs Brackley Town FC,National League North,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:72759214,Macclesfield FC,Hebburn Town,Macclesfield FC vs Hebburn Town,National League North,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72759220,Southport FC,Hereford FC,Southport FC vs Hereford FC,National League North,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72759222,Spennymoor Town FC,Hednesford Town,Spennymoor Town FC vs Hednesford Town,National League North,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72758060,Farnham Town,Torquay United,Farnham Town vs Torquay United,National League South,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.8,5.9,2.45,0.6269,True,38.8
+sr:match:72758066,Maidenhead United FC,AFC Totton,Maidenhead United FC vs AFC Totton,National League South,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:72758072,Weston-super-Mare,Chelmsford City,Weston-super-Mare vs Chelmsford City,National League South,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,40.2,35.7,4.5,2.8,0.6269,True,38.8
+sr:match:73409230,Araz Nakhchivan PFK,Sabah Masazir,Araz Nakhchivan PFK vs Sabah Masazir,Premier League,2026-08-31 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:67912776,FC Gagra,FC Iberia 1999,FC Gagra vs FC Iberia 1999,Erovnuli Liga,2026-08-31 16:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:72045746,GFK Tikvesh 1930,FK Vardar Skopje,GFK Tikvesh 1930 vs FK Vardar Skopje,1. MFL,2026-08-31 16:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:73721686,FC Dunav Ruse,FC Lokomotiv 1929 Sofia,FC Dunav Ruse vs FC Lokomotiv 1929 Sofia,Parva Liga,2026-08-31 17:00,target__ht_over_1_5_goals,HT Over 1.5,40.2,35.7,4.5,2.8,0.6269,True,38.8
+sr:match:67091492,Tampereen Ilves,HJK Helsinki,Tampereen Ilves vs HJK Helsinki,Veikkausliiga,2026-08-31 17:00,target__ht_over_1_5_goals,HT Over 1.5,50.0,45.5,4.5,2.2,0.6269,True,38.8
+sr:match:67919828,Spjelkavik IL,Molde FK 2,Spjelkavik IL vs Molde FK 2,"3. Division, Group 2",2026-08-31 17:00,target__ht_over_1_5_goals,HT Over 1.5,80.0,65.4,14.6,1.53,0.6269,True,38.8
+sr:match:71945216,US Lecce,Roma,US Lecce vs Roma,Serie A,2026-08-31 17:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,34.5,12.3,2.9,0.6269,True,38.8
+sr:match:72936018,APO Levadiakos FC,Panathinaikos,APO Levadiakos FC vs Panathinaikos,Super League,2026-08-31 17:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:72478516,Osasuna,Getafe,Osasuna vs Getafe,LaLiga,2026-08-31 18:30,target__ht_over_1_5_goals,HT Over 1.5,31.9,23.3,8.7,4.3,0.6269,True,38.8
+sr:match:73960294,Szeged-Csanad Grosics Akademia,Kazincbarcikai SC,Szeged-Csanad Grosics Akademia vs Kazincbarcikai SC,NB II,2026-08-31 18:30,target__ht_over_1_5_goals,HT Over 1.5,38.4,35.1,3.3,2.85,0.6269,True,38.8
+sr:match:73206428,AL Tai,AL Jandal,AL Tai vs AL Jandal,Division 1,2026-08-31 18:40,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.8,5.9,2.45,0.6269,True,38.8
+sr:match:72044670,Jong AZ Alkmaar,Jong FC Utrecht,Jong AZ Alkmaar vs Jong FC Utrecht,Eerste Divisie,2026-08-31 19:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,51.8,7.1,1.93,0.6269,True,38.8
+sr:match:72044672,Jong PSV Eindhoven,Jong Ajax Amsterdam,Jong PSV Eindhoven vs Jong Ajax Amsterdam,Eerste Divisie,2026-08-31 19:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,55.9,3.0,1.79,0.6269,True,38.8
+sr:match:71945206,Atalanta,Bologna,Atalanta vs Bologna,Serie A,2026-08-31 19:45,target__ht_over_1_5_goals,HT Over 1.5,40.2,35.1,5.1,2.85,0.6269,True,38.8
+sr:match:72221212,Aston Villa,Arsenal,Aston Villa vs Arsenal,Premier League,2026-08-31 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:71913046,HNK Gorica,HNK Rijeka,HNK Gorica vs HNK Rijeka,HNL,2026-08-31 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:72530890,Benfica,Estoril Praia,Benfica vs Estoril Praia,Liga Portugal,2026-08-31 20:15,target__ht_over_1_5_goals,HT Over 1.5,62.3,51.3,11.0,1.95,0.6269,True,38.8
+sr:match:72530880,Braga,Vitoria SC Guimaraes,Braga vs Vitoria SC Guimaraes,Liga Portugal,2026-08-31 20:15,target__ht_over_1_5_goals,HT Over 1.5,46.7,35.7,11.0,2.8,0.6269,True,38.8
+sr:match:68194816,Breidablik,Stjarnan Gardabae,Breidablik vs Stjarnan Gardabae,Besta deild,2026-08-31 20:15,target__ht_over_1_5_goals,HT Over 1.5,61.5,56.5,5.0,1.77,0.6269,True,38.8
+sr:match:72478512,Barcelona,Rayo Vallecano,Barcelona vs Rayo Vallecano,LaLiga,2026-08-31 20:30,target__ht_over_1_5_goals,HT Over 1.5,62.3,54.6,7.6,1.83,0.6269,True,38.8
+sr:match:73602918,Brentford U21,Sunderland U21,Brentford U21 vs Sunderland U21,U21 Premier League 2,2026-08-31 13:00,target__over_2_5_goals,Over 2.5 Goals,81.2,76.3,4.8,1.31,0.641,True,56.0
+sr:match:73602924,Manchester United U21,Leicester City U21,Manchester United U21 vs Leicester City U21,U21 Premier League 2,2026-08-31 14:00,target__over_2_5_goals,Over 2.5 Goals,81.2,75.2,6.0,1.33,0.641,True,56.0
+sr:match:72521994,Airbus UK Broughton,Holywell Town,Airbus UK Broughton vs Holywell Town,Cymru Premier,2026-08-31 14:30,target__over_2_5_goals,Over 2.5 Goals,71.9,68.0,3.8,1.47,0.641,True,56.0
+sr:match:73463596,Asyut Petroleum,National Bank of Egypt SC,Asyut Petroleum vs National Bank of Egypt SC,Premier League,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,47.6,40.8,6.8,2.45,0.641,True,56.0
+sr:match:72738108,Forest Green Rovers,Altrincham FC,Forest Green Rovers vs Altrincham FC,National League,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,71.9,67.6,4.3,1.48,0.641,True,56.0
+sr:match:72738116,Sutton United,Wealdstone FC,Sutton United vs Wealdstone FC,National League,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,67.6,58.8,8.7,1.7,0.641,True,56.0
+sr:match:72738122,Yeovil Town,Tamworth FC,Yeovil Town vs Tamworth FC,National League,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,67.6,61.0,6.6,1.64,0.641,True,56.0
+sr:match:72759206,Chester FC,Morecambe FC,Chester FC vs Morecambe FC,National League North,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,67.6,61.7,5.8,1.62,0.641,True,56.0
+sr:match:72759216,Radcliffe FC,Darlington FC,Radcliffe FC vs Darlington FC,National League North,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.5,3.1,1.55,0.641,True,56.0
+sr:match:72758052,Chesham United,Dover Athletic FC,Chesham United vs Dover Athletic FC,National League South,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.3,4.3,1.58,0.641,True,56.0
+sr:match:72758070,Tonbridge Angels,Walton and Hersham FC,Tonbridge Angels vs Walton and Hersham FC,National League South,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,67.6,62.1,5.5,1.61,0.641,True,56.0
+sr:match:72758072,Weston-super-Mare,Chelmsford City,Weston-super-Mare vs Chelmsford City,National League South,2026-08-31 15:00,target__over_2_5_goals,Over 2.5 Goals,67.6,50.5,17.1,1.98,0.641,True,56.0
+sr:match:72305154,OFK Dynamo Malzenice,MFk Bytca,OFK Dynamo Malzenice vs MFk Bytca,2. Liga,2026-08-31 16:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.5,3.1,1.55,0.641,True,56.0
+sr:match:73954080,Al Salibikhaet,Al Shabab Kuwait,Al Salibikhaet vs Al Shabab Kuwait,Premier League,2026-08-31 16:40,target__over_2_5_goals,Over 2.5 Goals,50.0,45.5,4.5,2.2,0.641,True,56.0
+sr:match:67091484,AC Oulu,Seinajoen JK,AC Oulu vs Seinajoen JK,Veikkausliiga,2026-08-31 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,60.2,7.3,1.66,0.641,True,56.0
+sr:match:67091488,IF Gnistan,Turun Palloseura,IF Gnistan vs Turun Palloseura,Veikkausliiga,2026-08-31 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.5,3.1,1.55,0.641,True,56.0
+sr:match:67091492,Tampereen Ilves,HJK Helsinki,Tampereen Ilves vs HJK Helsinki,Veikkausliiga,2026-08-31 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.5,3.1,1.55,0.641,True,56.0
+sr:match:67920138,Aasane Fotball 2,Sogndal 2,Aasane Fotball 2 vs Sogndal 2,"3. Division, Group 3",2026-08-31 17:00,target__over_2_5_goals,Over 2.5 Goals,81.2,77.5,3.7,1.29,0.641,True,56.0
+sr:match:71945216,US Lecce,Roma,US Lecce vs Roma,Serie A,2026-08-31 17:30,target__over_2_5_goals,Over 2.5 Goals,67.6,48.8,18.8,2.05,0.641,True,56.0
+sr:match:71913140,HNK Hajduk Split,NK Lokomotiva Zagreb,HNK Hajduk Split vs NK Lokomotiva Zagreb,HNL,2026-08-31 17:30,target__over_2_5_goals,Over 2.5 Goals,67.6,62.1,5.5,1.61,0.641,True,56.0
+sr:match:72477344,Burgos CF,Real Sociedad San Sebastian B,Burgos CF vs Real Sociedad San Sebastian B,LALIGA HYPERMOTION,2026-08-31 18:00,target__over_2_5_goals,Over 2.5 Goals,52.5,46.5,6.0,2.15,0.641,True,56.0
+sr:match:67126728,Djurgardens IF,Mjallby AIF,Djurgardens IF vs Mjallby AIF,Allsvenskan,2026-08-31 18:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.5,3.1,1.55,0.641,True,56.0
+sr:match:67126738,IK Sirius,Malmo,IK Sirius vs Malmo,Allsvenskan,2026-08-31 18:00,target__over_2_5_goals,Over 2.5 Goals,68.9,65.4,3.6,1.53,0.641,True,56.0
+sr:match:73463600,Al Masry Club,Pyramids FC,Al Masry Club vs Pyramids FC,Premier League,2026-08-31 18:00,target__over_2_5_goals,Over 2.5 Goals,52.5,43.5,9.0,2.3,0.641,True,56.0
+sr:match:73463598,Zamalek SC,Petrojet FC,Zamalek SC vs Petrojet FC,Premier League,2026-08-31 18:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:72083020,FK Partizan Belgrade,OFK Beograd,FK Partizan Belgrade vs OFK Beograd,Superliga,2026-08-31 18:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.1,3.5,1.56,0.641,True,56.0
+sr:match:72478516,Osasuna,Getafe,Osasuna vs Getafe,LaLiga,2026-08-31 18:30,target__over_2_5_goals,Over 2.5 Goals,47.6,32.3,15.4,3.1,0.641,True,56.0
+sr:match:72387960,Rapid Bucuresti 1923,CS Universitatea Craiova,Rapid Bucuresti 1923 vs CS Universitatea Craiova,Superliga,2026-08-31 18:30,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:74105826,Maccabi Tel Aviv FC,Maccabi Haifa FC,Maccabi Tel Aviv FC vs Maccabi Haifa FC,Premier League,2026-08-31 18:30,target__over_2_5_goals,Over 2.5 Goals,71.9,66.7,5.2,1.5,0.641,True,56.0
+sr:match:73960294,Szeged-Csanad Grosics Akademia,Kazincbarcikai SC,Szeged-Csanad Grosics Akademia vs Kazincbarcikai SC,NB II,2026-08-31 18:30,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:67850102,KI Klaksvik,Eb/Streymur,KI Klaksvik vs Eb/Streymur,Premier League,2026-08-31 18:30,target__over_2_5_goals,Over 2.5 Goals,81.2,74.1,7.1,1.35,0.641,True,56.0
+sr:match:72044670,Jong AZ Alkmaar,Jong FC Utrecht,Jong AZ Alkmaar vs Jong FC Utrecht,Eerste Divisie,2026-08-31 19:00,target__over_2_5_goals,Over 2.5 Goals,81.2,73.0,8.2,1.37,0.641,True,56.0
+sr:match:72044672,Jong PSV Eindhoven,Jong Ajax Amsterdam,Jong PSV Eindhoven vs Jong Ajax Amsterdam,Eerste Divisie,2026-08-31 19:00,target__over_2_5_goals,Over 2.5 Goals,82.1,77.5,4.6,1.29,0.641,True,56.0
+sr:match:67125942,CA General Lamadrid,Canuelas FC,CA General Lamadrid vs Canuelas FC,Primera C,2026-08-31 19:00,target__over_2_5_goals,Over 2.5 Goals,45.6,40.0,5.6,2.5,0.641,True,56.0
+sr:match:67125944,Leones de Rosario FC,CA Atlas,Leones de Rosario FC vs CA Atlas,Primera C,2026-08-31 19:00,target__over_2_5_goals,Over 2.5 Goals,47.6,41.7,6.0,2.4,0.641,True,56.0
+sr:match:67123410,Sacachispas FC,ASD Justo Jose de Urquiza,Sacachispas FC vs ASD Justo Jose de Urquiza,Primera C,2026-08-31 19:00,target__over_2_5_goals,Over 2.5 Goals,47.6,39.2,8.4,2.55,0.641,True,56.0
+sr:match:73721684,FC Arda Kardzhali,POFC Botev Vratsa,FC Arda Kardzhali vs POFC Botev Vratsa,Parva Liga,2026-08-31 19:15,target__over_2_5_goals,Over 2.5 Goals,56.7,43.5,13.3,2.3,0.641,True,56.0
+sr:match:72723166,Amed Sportif Faaliyetler,Trabzonspor,Amed Sportif Faaliyetler vs Trabzonspor,Super Lig,2026-08-31 19:30,target__over_2_5_goals,Over 2.5 Goals,67.6,58.1,9.4,1.72,0.641,True,56.0
+sr:match:73293106,Novara FC,US Folgore Caratese,Novara FC vs US Folgore Caratese,"Serie C, Group A",2026-08-31 19:30,target__over_2_5_goals,Over 2.5 Goals,47.6,42.6,5.1,2.35,0.641,True,56.0
+sr:match:73293100,Calcio Desenzano,AC Trento,Calcio Desenzano vs AC Trento,"Serie C, Group A",2026-08-31 20:00,target__over_2_5_goals,Over 2.5 Goals,52.5,46.5,6.0,2.15,0.641,True,56.0
+sr:match:73293094,US Albinoleffe,ACD Ospitaletto,US Albinoleffe vs ACD Ospitaletto,"Serie C, Group A",2026-08-31 20:00,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:72530890,Benfica,Estoril Praia,Benfica vs Estoril Praia,Liga Portugal,2026-08-31 20:15,target__over_2_5_goals,Over 2.5 Goals,81.2,71.9,9.2,1.39,0.641,True,56.0
+sr:match:73067992,CD Teruel,Real Madrid Castilla,CD Teruel vs Real Madrid Castilla,Primera Federacion,2026-08-31 20:15,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:68194816,Breidablik,Stjarnan Gardabae,Breidablik vs Stjarnan Gardabae,Besta deild,2026-08-31 20:15,target__over_2_5_goals,Over 2.5 Goals,81.2,78.1,3.1,1.28,0.641,True,56.0
+sr:match:72478512,Barcelona,Rayo Vallecano,Barcelona vs Rayo Vallecano,LaLiga,2026-08-31 20:30,target__over_2_5_goals,Over 2.5 Goals,86.7,75.8,10.9,1.32,0.641,True,56.0
+sr:match:71936076,Atletico Grau,FBC Melgar,Atletico Grau vs FBC Melgar,Liga 1,2026-08-31 21:00,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:73265240,Estudiantes de La Plata,Newell's Old Boys,Estudiantes de La Plata vs Newell's Old Boys,Primera LPF,2026-08-31 23:00,target__over_2_5_goals,Over 2.5 Goals,47.6,43.5,4.1,2.3,0.641,True,56.0
+sr:match:67119686,Club Comunicaciones,Deportivo Merlo,Club Comunicaciones vs Deportivo Merlo,Primera B,2026-08-31 23:00,target__over_2_5_goals,Over 2.5 Goals,45.6,39.2,6.4,2.55,0.641,True,56.0
+sr:match:67117912,Club Atletico Los Andes,CA Acassuso,Club Atletico Los Andes vs CA Acassuso,Primera Nacional,2026-08-31 23:00,target__over_2_5_goals,Over 2.5 Goals,45.6,38.5,7.2,2.6,0.641,True,56.0
+sr:match:72055136,CF Monterrey,Atletico San Luis,CF Monterrey vs Atletico San Luis,Liga MX,2026-08-31 03:10,target__over_3_5_goals,Over 3.5 Goals,50.3,43.5,6.8,2.3,0.6631,True,35.0
+sr:match:68157070,San Jose Earthquakes II,Los Angeles FC 2,San Jose Earthquakes II vs Los Angeles FC 2,MLS Next Pro,2026-08-31 03:30,target__over_3_5_goals,Over 3.5 Goals,50.3,43.5,6.8,2.3,0.6631,True,35.0
+sr:match:73812378,Sardarapat FC,FC Syunik,Sardarapat FC vs FC Syunik,Premier League,2026-08-31 13:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:73602924,Manchester United U21,Leicester City U21,Manchester United U21 vs Leicester City U21,U21 Premier League 2,2026-08-31 14:00,target__over_3_5_goals,Over 3.5 Goals,58.2,54.9,3.2,1.82,0.6631,True,35.0
+sr:match:72521994,Airbus UK Broughton,Holywell Town,Airbus UK Broughton vs Holywell Town,Cymru Premier,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,50.3,46.5,3.8,2.15,0.6631,True,35.0
+sr:match:72521996,Ammanford,Cardiff Metropolitan University FC,Ammanford vs Cardiff Metropolitan University FC,Cymru Premier,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,41.3,34.5,6.8,2.9,0.6631,True,35.0
+sr:match:72521998,Briton Ferry,Barry Town United FC,Briton Ferry vs Barry Town United FC,Cymru Premier,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,42.5,38.5,4.0,2.6,0.6631,True,35.0
+sr:match:72522002,Cambrian United,Pen-y-Bont FC,Cambrian United vs Pen-y-Bont FC,Cymru Premier,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,40.1,33.3,6.8,3.0,0.6631,True,35.0
+sr:match:72522006,Flint Town United,Connah`s Quay Nomads FC,Flint Town United vs Connah`s Quay Nomads FC,Cymru Premier,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,42.5,37.7,4.8,2.65,0.6631,True,35.0
+sr:match:72522008,Haverfordwest County AFC,Trefelin BGC,Haverfordwest County AFC vs Trefelin BGC,Cymru Premier,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:72546026,Baglan Dragons,Caerphilly Athletic FC,Baglan Dragons vs Caerphilly Athletic FC,Cymru Championship South,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:72546032,Carmarthen Town,Trethomas Bluebirds,Carmarthen Town vs Trethomas Bluebirds,Cymru Championship South,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,51.6,46.5,5.1,2.15,0.6631,True,35.0
+sr:match:72546036,Pontypridd Town,Llantwit Major,Pontypridd Town vs Llantwit Major,Cymru Championship South,2026-08-31 14:30,target__over_3_5_goals,Over 3.5 Goals,54.5,51.0,3.4,1.96,0.6631,True,35.0
+sr:match:72738110,Harrogate Town,Gateshead FC,Harrogate Town vs Gateshead FC,National League,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,50.3,44.4,5.9,2.25,0.6631,True,35.0
+sr:match:72738116,Sutton United,Wealdstone FC,Sutton United vs Wealdstone FC,National League,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:72738118,Woking FC,Southend United,Woking FC vs Southend United,National League,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:72738122,Yeovil Town,Tamworth FC,Yeovil Town vs Tamworth FC,National League,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,42.5,39.2,3.3,2.55,0.6631,True,35.0
+sr:match:72522000,Caernarfon Town FC,The New Saints FC,Caernarfon Town FC vs The New Saints FC,Cymru Premier,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,42.5,39.2,3.3,2.55,0.6631,True,35.0
+sr:match:72759212,Kings Lynn FC,Scarborough Athletic,Kings Lynn FC vs Scarborough Athletic,National League North,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,42.5,34.5,8.0,2.9,0.6631,True,35.0
+sr:match:72759218,South Shields,Spalding United,South Shields vs Spalding United,National League North,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,50.3,46.5,3.8,2.15,0.6631,True,35.0
+sr:match:72759224,Worksop Town,Oxford City,Worksop Town vs Oxford City,National League North,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:72758054,Dagenham and Redbridge FC,Slough Town,Dagenham and Redbridge FC vs Slough Town,National League South,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,50.3,44.4,5.9,2.25,0.6631,True,35.0
+sr:match:72758056,Dorking Wanderers,Truro City,Dorking Wanderers vs Truro City,National League South,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:72758060,Farnham Town,Torquay United,Farnham Town vs Torquay United,National League South,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,41.3,36.4,4.9,2.75,0.6631,True,35.0
+sr:match:72758064,Hampton & Richmond Borough,Maidstone United FC,Hampton & Richmond Borough vs Maidstone United FC,National League South,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:72758066,Maidenhead United FC,AFC Totton,Maidenhead United FC vs AFC Totton,National League South,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,41.3,35.7,5.6,2.8,0.6631,True,35.0
+sr:match:72758068,Salisbury FC,Billericay Town,Salisbury FC vs Billericay Town,National League South,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.0,32.3,7.7,3.1,0.6631,True,35.0
+sr:match:72758072,Weston-super-Mare,Chelmsford City,Weston-super-Mare vs Chelmsford City,National League South,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.0,29.4,10.6,3.4,0.6631,True,35.0
+sr:match:69343072,FC Yelimai,FC Kairat Almaty,FC Yelimai vs FC Kairat Almaty,Premier League,2026-08-31 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:72409646,FSC Bukovyna Chernivtsi,FC Dynamo Kyiv,FSC Bukovyna Chernivtsi vs FC Dynamo Kyiv,Premier League,2026-08-31 16:00,target__over_3_5_goals,Over 3.5 Goals,40.1,30.0,10.1,3.33,0.6631,True,35.0
+sr:match:72045746,GFK Tikvesh 1930,FK Vardar Skopje,GFK Tikvesh 1930 vs FK Vardar Skopje,1. MFL,2026-08-31 16:00,target__over_3_5_goals,Over 3.5 Goals,41.3,36.4,4.9,2.75,0.6631,True,35.0
+sr:match:73019532,Simba SC,Geita Gold FC,Simba SC vs Geita Gold FC,Premier League,2026-08-31 16:30,target__over_3_5_goals,Over 3.5 Goals,40.1,36.4,3.8,2.75,0.6631,True,35.0
+sr:match:67091484,AC Oulu,Seinajoen JK,AC Oulu vs Seinajoen JK,Veikkausliiga,2026-08-31 17:00,target__over_3_5_goals,Over 3.5 Goals,42.5,39.2,3.3,2.55,0.6631,True,35.0
+sr:match:67091492,Tampereen Ilves,HJK Helsinki,Tampereen Ilves vs HJK Helsinki,Veikkausliiga,2026-08-31 17:00,target__over_3_5_goals,Over 3.5 Goals,50.3,43.5,6.8,2.3,0.6631,True,35.0
+sr:match:67091494,Vaasan Palloseura,FC Lahti,Vaasan Palloseura vs FC Lahti,Veikkausliiga,2026-08-31 17:00,target__over_3_5_goals,Over 3.5 Goals,40.0,35.7,4.3,2.8,0.6631,True,35.0
+sr:match:72284028,Hapoel Acre FC,Bnei Yehuda Tel Aviv FC,Hapoel Acre FC vs Bnei Yehuda Tel Aviv FC,National League,2026-08-31 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:73812380,FC Pyunik Yerevan,FC Ararat-Armenia,FC Pyunik Yerevan vs FC Ararat-Armenia,Premier League,2026-08-31 17:00,target__over_3_5_goals,Over 3.5 Goals,40.0,27.8,12.2,3.6,0.6631,True,35.0
+sr:match:67919828,Spjelkavik IL,Molde FK 2,Spjelkavik IL vs Molde FK 2,"3. Division, Group 2",2026-08-31 17:00,target__over_3_5_goals,Over 3.5 Goals,83.3,70.9,12.4,1.41,0.6631,True,35.0
+sr:match:67921228,Lyn 1896 FK II,Sandefjord Fotball 2,Lyn 1896 FK II vs Sandefjord Fotball 2,"3. Division, Group 6",2026-08-31 17:00,target__over_3_5_goals,Over 3.5 Goals,75.0,68.0,7.0,1.47,0.6631,True,35.0
+sr:match:71945216,US Lecce,Roma,US Lecce vs Roma,Serie A,2026-08-31 17:30,target__over_3_5_goals,Over 3.5 Goals,42.5,27.8,14.7,3.6,0.6631,True,35.0
+sr:match:72936018,APO Levadiakos FC,Panathinaikos,APO Levadiakos FC vs Panathinaikos,Super League,2026-08-31 17:30,target__over_3_5_goals,Over 3.5 Goals,41.3,32.3,9.0,3.1,0.6631,True,35.0
+sr:match:67919832,Ranheim 2,Orkla,Ranheim 2 vs Orkla,"3. Division, Group 2",2026-08-31 17:30,target__over_3_5_goals,Over 3.5 Goals,70.6,66.7,3.9,1.5,0.6631,True,35.0
+sr:match:67126738,IK Sirius,Malmo,IK Sirius vs Malmo,Allsvenskan,2026-08-31 18:00,target__over_3_5_goals,Over 3.5 Goals,50.3,44.4,5.9,2.25,0.6631,True,35.0
+sr:match:71924998,Copenhagen,SonderjyskE,Copenhagen vs SonderjyskE,Superliga,2026-08-31 18:00,target__over_3_5_goals,Over 3.5 Goals,50.3,46.5,3.8,2.15,0.6631,True,35.0
+sr:match:73463600,Al Masry Club,Pyramids FC,Al Masry Club vs Pyramids FC,Premier League,2026-08-31 18:00,target__over_3_5_goals,Over 3.5 Goals,40.0,23.8,16.2,4.2,0.6631,True,35.0
+sr:match:67126314,GIF Sundsvall,Norrby IF,GIF Sundsvall vs Norrby IF,Superettan,2026-08-31 18:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:68311082,Hammarby Talang FF,Karlbergs BK,Hammarby Talang FF vs Karlbergs BK,Ettan,2026-08-31 18:00,target__over_3_5_goals,Over 3.5 Goals,50.3,45.5,4.9,2.2,0.6631,True,35.0
+sr:match:73160348,AC Omonia Nicosia,Omonia Aradippou,AC Omonia Nicosia vs Omonia Aradippou,1st Division,2026-08-31 18:00,target__over_3_5_goals,Over 3.5 Goals,54.5,48.8,5.7,2.05,0.6631,True,35.0
+sr:match:74105826,Maccabi Tel Aviv FC,Maccabi Haifa FC,Maccabi Tel Aviv FC vs Maccabi Haifa FC,Premier League,2026-08-31 18:30,target__over_3_5_goals,Over 3.5 Goals,50.3,45.5,4.9,2.2,0.6631,True,35.0
+sr:match:73960294,Szeged-Csanad Grosics Akademia,Kazincbarcikai SC,Szeged-Csanad Grosics Akademia vs Kazincbarcikai SC,NB II,2026-08-31 18:30,target__over_3_5_goals,Over 3.5 Goals,40.0,27.8,12.2,3.6,0.6631,True,35.0
+sr:match:73206428,AL Tai,AL Jandal,AL Tai vs AL Jandal,Division 1,2026-08-31 18:40,target__over_3_5_goals,Over 3.5 Goals,41.3,35.7,5.6,2.8,0.6631,True,35.0
+sr:match:72176560,FC Wil 1900,FC Aarau,FC Wil 1900 vs FC Aarau,Challenge League,2026-08-31 19:15,target__over_3_5_goals,Over 3.5 Goals,50.3,44.4,5.9,2.25,0.6631,True,35.0
+sr:match:72723166,Amed Sportif Faaliyetler,Trabzonspor,Amed Sportif Faaliyetler vs Trabzonspor,Super Lig,2026-08-31 19:30,target__over_3_5_goals,Over 3.5 Goals,41.3,36.4,4.9,2.75,0.6631,True,35.0
+sr:match:72723174,Besiktas Istanbul,Corum FK,Besiktas Istanbul vs Corum FK,Super Lig,2026-08-31 19:30,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:74068562,Racing Club Montevideo,Albion FC,Racing Club Montevideo vs Albion FC,Primera Division,2026-08-31 19:30,target__over_3_5_goals,Over 3.5 Goals,40.1,25.0,15.1,4.0,0.6631,True,35.0
+sr:match:72572050,Dijon,Saint-Etienne,Dijon vs Saint-Etienne,Ligue 2,2026-08-31 19:45,target__over_3_5_goals,Over 3.5 Goals,40.1,30.3,9.8,3.3,0.6631,True,35.0
+sr:match:72221212,Aston Villa,Arsenal,Aston Villa vs Arsenal,Premier League,2026-08-31 20:00,target__over_3_5_goals,Over 3.5 Goals,50.3,33.3,17.0,3.0,0.6631,True,35.0
+sr:match:71913046,HNK Gorica,HNK Rijeka,HNK Gorica vs HNK Rijeka,HNL,2026-08-31 20:00,target__over_3_5_goals,Over 3.5 Goals,40.1,30.8,9.3,3.25,0.6631,True,35.0
+sr:match:72530890,Benfica,Estoril Praia,Benfica vs Estoril Praia,Liga Portugal,2026-08-31 20:15,target__over_3_5_goals,Over 3.5 Goals,58.2,50.3,7.9,1.99,0.6631,True,35.0
+sr:match:72530880,Braga,Vitoria SC Guimaraes,Braga vs Vitoria SC Guimaraes,Liga Portugal,2026-08-31 20:15,target__over_3_5_goals,Over 3.5 Goals,40.1,29.4,10.7,3.4,0.6631,True,35.0
+sr:match:72477348,RC Celta Fortuna,CD Castellon,RC Celta Fortuna vs CD Castellon,LALIGA HYPERMOTION,2026-08-31 20:30,target__over_3_5_goals,Over 3.5 Goals,41.3,37.0,4.2,2.7,0.6631,True,35.0
+sr:match:68157070,San Jose Earthquakes II,Los Angeles FC 2,San Jose Earthquakes II vs Los Angeles FC 2,MLS Next Pro,2026-08-31 03:30,target__over_4_5_goals,Over 4.5 Goals,31.1,25.6,5.4,3.9,0.6327,True,19.9
+sr:match:73602920,Chelsea U21,West Ham U21,Chelsea U21 vs West Ham U21,U21 Premier League 2,2026-08-31 13:00,target__over_4_5_goals,Over 4.5 Goals,36.1,31.2,4.9,3.2,0.6327,True,19.9
+sr:match:73602924,Manchester United U21,Leicester City U21,Manchester United U21 vs Leicester City U21,U21 Premier League 2,2026-08-31 14:00,target__over_4_5_goals,Over 4.5 Goals,39.3,35.7,3.6,2.8,0.6327,True,19.9
+sr:match:72738108,Forest Green Rovers,Altrincham FC,Forest Green Rovers vs Altrincham FC,National League,2026-08-31 15:00,target__over_4_5_goals,Over 4.5 Goals,31.1,27.8,3.3,3.6,0.6327,True,19.9
+sr:match:72738110,Harrogate Town,Gateshead FC,Harrogate Town vs Gateshead FC,National League,2026-08-31 15:00,target__over_4_5_goals,Over 4.5 Goals,31.1,26.3,4.7,3.8,0.6327,True,19.9
+sr:match:72759222,Spennymoor Town FC,Hednesford Town,Spennymoor Town FC vs Hednesford Town,National League North,2026-08-31 15:00,target__over_4_5_goals,Over 4.5 Goals,31.1,22.7,8.3,4.4,0.6327,True,19.9
+sr:match:72758052,Chesham United,Dover Athletic FC,Chesham United vs Dover Athletic FC,National League South,2026-08-31 15:00,target__over_4_5_goals,Over 4.5 Goals,31.1,23.8,7.2,4.2,0.6327,True,19.9
+sr:match:72758072,Weston-super-Mare,Chelmsford City,Weston-super-Mare vs Chelmsford City,National League South,2026-08-31 15:00,target__over_4_5_goals,Over 4.5 Goals,22.4,15.6,6.8,6.4,0.6327,True,19.9
+sr:match:71901866,Dziugas,FC Hegelmann Kaunas,Dziugas vs FC Hegelmann Kaunas,TOPLYGA,2026-08-31 16:45,target__over_4_5_goals,Over 4.5 Goals,22.4,16.4,6.0,6.1,0.6327,True,19.9
+sr:match:67091492,Tampereen Ilves,HJK Helsinki,Tampereen Ilves vs HJK Helsinki,Veikkausliiga,2026-08-31 17:00,target__over_4_5_goals,Over 4.5 Goals,31.1,25.0,6.1,4.0,0.6327,True,19.9
+sr:match:71924998,Copenhagen,SonderjyskE,Copenhagen vs SonderjyskE,Superliga,2026-08-31 18:00,target__over_4_5_goals,Over 4.5 Goals,31.1,27.8,3.3,3.6,0.6327,True,19.9
+sr:match:73463600,Al Masry Club,Pyramids FC,Al Masry Club vs Pyramids FC,Premier League,2026-08-31 18:00,target__over_4_5_goals,Over 4.5 Goals,22.4,12.2,10.2,8.2,0.6327,True,19.9
+sr:match:68311082,Hammarby Talang FF,Karlbergs BK,Hammarby Talang FF vs Karlbergs BK,Ettan,2026-08-31 18:00,target__over_4_5_goals,Over 4.5 Goals,31.1,27.8,3.3,3.6,0.6327,True,19.9
+sr:match:74105826,Maccabi Tel Aviv FC,Maccabi Haifa FC,Maccabi Tel Aviv FC vs Maccabi Haifa FC,Premier League,2026-08-31 18:30,target__over_4_5_goals,Over 4.5 Goals,31.1,27.0,4.0,3.7,0.6327,True,19.9
+sr:match:73602928,Brighton & Hove Albion U21,Arsenal U21,Brighton & Hove Albion U21 vs Arsenal U21,U21 Premier League 2,2026-08-31 19:00,target__over_4_5_goals,Over 4.5 Goals,39.3,29.4,9.9,3.4,0.6327,True,19.9
+sr:match:72572050,Dijon,Saint-Etienne,Dijon vs Saint-Etienne,Ligue 2,2026-08-31 19:45,target__over_4_5_goals,Over 4.5 Goals,22.4,15.9,6.5,6.3,0.6327,True,19.9
+sr:match:73550344,San Antonio Bulo Bulo,Guabira Montero,San Antonio Bulo Bulo vs Guabira Montero,Copa Bolivia,2026-08-31 20:00,target__over_4_5_goals,Over 4.5 Goals,31.1,27.0,4.0,3.7,0.6327,True,19.9

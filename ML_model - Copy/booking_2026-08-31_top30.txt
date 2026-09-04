@@ -1,0 +1,66 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-08-31
+  Generated : 2026-08-31 06:03:59
+  Legs      : 30
+  Sorted by : auc
+  Combined odds : 132,557,805,458.23
+======================================================================
+
+  BOOKING CODE:  QYHD7J
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    31 14  Airbus UK Broughton vs Holywell To  Away Win               4.50  +  7.3%  0.7237
+  2    31 14  Briton Ferry vs Barry Town United   Away Win               2.05  +  7.4%  0.7237
+  3    31 18  Djurgardens IF vs Mjallby AIF       Away Win               5.60  + 11.7%  0.7237
+  4    31 15  Kings Lynn FC vs Scarborough Athle  Away Win               2.55  + 10.8%  0.7237
+  5    31 03  San Jose Earthquakes II vs Los Ang  Away Win               3.30  + 12.1%  0.7237
+  6    31 20  HNK Gorica vs HNK Rijeka            Away Win               1.62  + 12.6%  0.7237
+  7    31 20  AC Renate vs AS Cittadella          Away Win               2.30  +  6.5%  0.7237
+  8    31 17  Hapoel Afula FC vs Hapoel Ra`anana  Away Win               2.60  +  4.0%  0.7237
+  9    31 15  Macclesfield FC vs Hebburn Town     Away Win               5.10  +  4.5%  0.7237
+  10   31 18  GAIS vs IF Brommapojkarna           Away Win               4.90  +  3.2%  0.7237
+  11   31 18  Zamalek SC vs Petrojet FC           Away Win               5.20  +  4.4%  0.7237
+  12   31 15  Araz Nakhchivan PFK vs Sabah Masaz  Away Win               1.47  +  6.3%  0.7237
+  13   31 19  FC Wil 1900 vs FC Aarau             Away Win               2.10  +  8.5%  0.7237
+  14   31 16  GFK Tikvesh 1930 vs FK Vardar Skop  Away Win               1.52  +  8.5%  0.7237
+  15   31 14  Newport City FC vs Swansea Univers  Away Win               2.25  +  5.6%  0.7237
+  16   31 15  Southport FC vs Hereford FC         Home Win               2.40  +  5.6%  0.7212
+  17   31 18  UD Logrones vs CD Extremadura       Home Win               2.45  +  6.5%  0.7212
+  18   31 15  South Shields vs Spalding United    Home Win               1.38  +  6.1%  0.7212
+  19   31 15  Boston United FC vs AFC Hornchurch  Home Win               2.00  +  4.7%  0.7212
+  20   31 14  Aberystwyth Town FC vs Llanelli To  Home Win               1.34  +  3.9%  0.7212
+  21   31 18  Qadsia SC vs Kuwait SC              Home Win               3.40  +  5.0%  0.7212
+  22   31 18  FK Partizan Belgrade vs OFK Beogra  Home Win               1.73  +  9.5%  0.7212
+  23   31 16  FC Torpedo Kutaisi vs FC Meshakhte  Home Win               1.43  +  8.6%  0.7212
+  24   31 17  HNK Hajduk Split vs NK Lokomotiva   Home Win               1.43  +  8.6%  0.7212
+  25   31 15  Dagenham and Redbridge FC vs Sloug  Home Win               1.41  +  7.6%  0.7212
+  26   31 17  AL Saqer FC vs Al-Okhdood Club      Home Win               3.60  +  6.6%  0.7212
+  27   31 18  Copenhagen vs SonderjyskE           Home Win               1.39  +  6.6%  0.7212
+  28   31 17  Colwyn Bay vs Llandudno FC          Home Win               2.30  +  3.8%  0.7212
+  29   31 17  Al Bukiryah vs AL Adalh FC          Home Win               2.30  +  3.8%  0.7212
+  30   31 23  Defensa y Justicia vs CA Platense   Home Win               2.35  +  4.7%  0.7212
+
+======================================================================
+  Tournament breakdown:
+      4x  National League North
+      3x  Cymru Premier
+      3x  Premier League
+      2x  Allsvenskan
+      2x  HNL
+      2x  National League
+      2x  Cymru Championship South
+      2x  Superliga
+      2x  Division 1
+      1x  MLS Next Pro
+      1x  Serie C, Group A
+      1x  Challenge League
+      1x  1. MFL
+      1x  Primera Federacion
+      1x  Erovnuli Liga
+      1x  National League South
+      1x  Primera LPF
+
+======================================================================

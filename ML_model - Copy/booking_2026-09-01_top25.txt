@@ -1,0 +1,62 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-01
+  Generated : 2026-09-01 02:15:34
+  Legs      : 25
+  Sorted by : odds
+  Combined odds : 136,732,377,632.84
+======================================================================
+
+  BOOKING CODE:  ZLNFL7
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    01 17  FK Sloga Doboj vs NK Celik Zenica   Over 4.5 Goals         7.70  + 18.1%  0.6327
+  2    01 13  Bristol City U21 vs Sheffield Unit  Home Clean Sheet       5.00  + 10.9%  0.6485
+  3    01 17  Parma Calcio vs US Cremonese        Over 3.5 Goals         4.10  + 15.7%  0.6631
+  4    01 20  Torino vs Monza                     Over 3.5 Goals         3.90  + 16.9%  0.6631
+  5    01 18  Kruger United vs Orlando Pirates F  Over 3.5 Goals         3.60  + 22.5%  0.6631
+  6    01 21  Orsomarso SC vs Asociacion Deporti  Over 3.5 Goals         3.60  + 12.3%  0.6631
+  7    01 17  Singida Black Stars FC vs Namungo   Over 3.5 Goals         3.60  + 12.3%  0.6631
+  8    01 16  Kazma SC vs Al Sahel                Over 3.5 Goals         3.60  + 12.3%  0.6631
+  9    01 18  Sariyer SK vs Pendikspor            Over 3.5 Goals         3.50  + 11.4%  0.6631
+  10   01 19  Tranmere Rovers FC vs Rotherham Un  Over 3.5 Goals         3.50  + 11.4%  0.6631
+  11   01 19  Swindon Town vs Port Vale           Over 3.5 Goals         3.40  + 10.6%  0.6631
+  12   01 19  Campobasso FC vs Scafatese Calcio   Over 3.5 Goals         3.40  + 10.7%  0.6631
+  13   01 19  Preston North End vs Bristol City   HT Away Win            3.33  + 12.4%  0.6617
+  14   01 20  Birmingham City vs Southampton      HT Away Win            3.33  + 12.4%  0.6617
+  15   01 19  Wycombe Wanderers vs Sheffield Wed  HT Away Win            3.20  + 11.2%  0.6617
+  16   01 15  Talaea El Gaish vs Zed FC           Over 2.5 Goals         2.80  + 11.9%  0.6410
+  17   01 18  KR Reykjavik vs Vikingur Reykjavik  HT Away Win            2.45  + 13.2%  0.6617
+  18   01 15  Ghazl El Mahallah vs Enppi Club     Over 1.5 Goals         1.68  + 11.4%  0.6116
+  19   01 18  FC Stade Nyonnais vs FC Winterthur  Away Win               1.67  + 14.5%  0.7237
+  20   01 01  CA Tigre vs CA Barracas Central     Over 1.5 Goals         1.66  + 10.7%  0.6116
+  21   01 01  Instituto AC Cordoba vs CA San Lor  Over 1.5 Goals         1.61  + 17.1%  0.6116
+  22   01 19  FC Zurich vs Young Boys Bern        Away Win               1.60  + 11.8%  0.7237
+  23   01 17  Nordstrand vs SF Grei               Home Win               1.49  + 11.4%  0.7212
+  24   01 19  FC Universitatea Cluj vs FC Petrol  Home Win               1.48  + 11.0%  0.7212
+  25   01 19  Achilles Veen vs SV Poortugaal      Over 2.5 Goals         1.45  + 12.2%  0.6410
+
+======================================================================
+  Tournament breakdown:
+      4x  Premier League
+      2x  Coppa Italia
+      2x  League Two
+      2x  Championship
+      2x  Primera LPF
+      1x  Premijer Liga
+      1x  U21 Professional Development League
+      1x  Premiership
+      1x  Liga Femenina
+      1x  1. Lig
+      1x  Coppa Italia Serie C
+      1x  League One
+      1x  Besta deild
+      1x  Challenge League
+      1x  Super League
+      1x  3. Division, Group 1
+      1x  Romania Cup
+      1x  KNVB beker
+
+======================================================================

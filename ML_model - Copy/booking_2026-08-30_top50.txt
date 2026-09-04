@@ -1,0 +1,109 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-08-30
+  Generated : 2026-08-30 04:56:14
+  Legs      : 50
+  Sorted by : model_prob
+  Combined odds : 32,005,773.62
+======================================================================
+
+  BOOKING CODE:  MMPR99
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    30 16  Slovan Bratislava vs MFK Zemplin M  Home Win               1.35  + 15.4%  0.7212
+  2    30 01  Alianza Lima vs Deportivo Garcilas  Home Win               1.31  + 13.1%  0.7212
+  3    30 09  Sparta Prague B vs FK Pribram B     Home Win               1.21  +  6.8%  0.7212
+  4    30 15  FC St. Gallen 1879 vs FC Thun       Over 2.5 Goals         1.32  + 10.9%  0.6410
+  5    30 18  Atletico Club Pueblonuevo vs CD Ba  Away Win               1.28  +  4.4%  0.7237
+  6    30 13  Bodoe/Glimt vs Rosenborg BK         Over 2.5 Goals         1.36  +  8.6%  0.6410
+  7    30 20  America FC MG vs AA Ponte Preta SP  Over 2.5 Goals         1.35  +  8.1%  0.6410
+  8    30 17  FC Noah Yerevan vs Ararat Yerevan   Over 2.5 Goals         1.35  +  7.7%  0.6410
+  9    30 16  Real Madrid vs Malaga CF            Over 2.5 Goals         1.30  +  4.8%  0.6410
+  10   30 16  Viking FK vs Aalesunds FK           Over 2.5 Goals         1.29  +  4.1%  0.6410
+  11   30 05  SWQ Thunder FC vs Pine Hills        Over 2.5 Goals         1.32  +  5.4%  0.6410
+  12   30 04  Marconi Stallions FC vs NWS Spirit  Over 2.5 Goals         1.33  +  6.0%  0.6410
+  13   30 13  Brattvaag vs IL Sandviken           Over 2.5 Goals         1.42  + 10.8%  0.6410
+  14   30 01  Minnesota United FC vs Orlando Cit  Over 2.5 Goals         1.47  + 13.1%  0.6410
+  15   30 12  Lucksta IF vs IFK Luleaa            Over 2.5 Goals         1.29  +  3.7%  0.6410
+  16   30 03  Portland Timbers vs Austin FC       Over 2.5 Goals         1.50  + 14.5%  0.6410
+  17   30 19  Al Qadsiah vs Al-Faisaly FC         Over 2.5 Goals         1.34  +  6.5%  0.6410
+  18   30 15  Trelleborgs FF vs Utsiktens BK      Over 2.5 Goals         1.33  +  6.0%  0.6410
+  19   30 06  Brunswick Juventus FC vs Manningha  Over 2.5 Goals         1.28  +  3.1%  0.6410
+  20   30 13  JK Tallinna Kalev vs Viljandi JK T  HT Over 1.5            1.53  + 14.6%  0.6269
+  21   30 13  Stabaek Fotball 2 vs Staal Joerpel  HT Over 1.5            1.49  + 12.9%  0.6269
+  22   30 12  Heming vs Valerenga IF 2            HT Over 1.5            1.53  + 14.6%  0.6269
+  23   30 18  FC Pari Nizhny Novgorod vs FC Volg  Home Win               1.50  + 11.9%  0.7212
+  24   30 22  Colo-Colo vs Audax Italiano         Home Win               1.49  + 11.4%  0.7212
+  25   30 15  Arendal FK vs Lysekloster           Home Win               1.37  +  5.5%  0.7212
+  26   30 19  ACF Fiorentina vs Ternana           Home Win               1.41  +  7.6%  0.7212
+  27   30 18  Salzburg vs FK Austria Wien         Home Win               1.38  +  6.1%  0.7212
+  28   30 14  FC Tyumen vs FC Irtysh Omsk         Home Win               1.38  +  6.1%  0.7212
+  29   30 13  Liverpool U21 vs Leeds United U21   Home Win               1.38  +  6.1%  0.7212
+  30   30 16  SK Zapy vs FK Jablonec B            Home Win               1.39  +  6.6%  0.7212
+  31   30 16  PFC Montana 1921 vs Gorna Oryahovi  Home Win               1.41  +  7.6%  0.7212
+  32   30 13  Grei Kvinner Elite FK vs Klepp IL   Home Win               1.47  + 10.5%  0.7212
+  33   30 18  Fram Reykjavik vs KA Akureyri       Home Win               1.51  + 12.3%  0.7212
+  34   30 15  FK Spartak Moscow vs FC Orenburg    Home Win               1.38  +  6.1%  0.7212
+  35   30 18  Mallorca vs AD Ceuta                Home Win               1.43  +  8.6%  0.7212
+  36   30 12  Guandong GZ-Power FC vs Changchun   Home Win               1.44  +  9.1%  0.7212
+  37   30 16  Man Utd vs Ipswich Town             Home Win               1.44  +  9.1%  0.7212
+  38   30 20  Academia Puerto Cabello B vs Real   Home Win               1.41  +  7.6%  0.7212
+  39   30 16  Egersunds IK vs Aasane Fotball      Home Win               1.48  + 11.0%  0.7212
+  40   30 20  CR Flamengo RJ vs Botafogo FR RJ    Home Win               1.42  +  8.1%  0.7212
+  41   30 22  Deportivo Tachira vs Caracas FC     Home Win               1.46  + 10.0%  0.7212
+  42   30 13  Eintracht Frankfurt vs 1. FC Nurem  HT Home Win            1.39  +  5.0%  0.6512
+  43   30 13  Hoenefoss BK vs Follo               HT Home Win            1.56  + 12.8%  0.6512
+  44   30 13  Feyenoord vs ADO Den Haag           HT Home Win            1.46  +  8.4%  0.6512
+  45   30 15  SC Telstar vs Ajax                  Away Win               1.57  + 10.6%  0.7237
+  46   30 11  Gwangju FC vs FC Seoul              Away Win               1.53  +  9.0%  0.7237
+  47   30 17  FK Spartak 1918 Varna vs Ludogoret  Away Win               1.53  +  9.0%  0.7237
+  48   30 16  Hoedd IL vs Stabaek IF              Away Win               1.51  +  8.1%  0.7237
+  49   30 17  FK Panevezys vs Vilnius FK Zalgiri  Away Win               1.49  +  7.2%  0.7237
+  50   30 14  Kolbotn vs IK Start                 Away Win               1.65  + 13.7%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      3x  Premier League
+      2x  CFL
+      2x  Eliteserien
+      2x  2nd Division Group 1
+      2x  MLS
+      2x  Primera Division
+      2x  1st Division, Women
+      2x  1st Division
+      2x  Eredivisie
+      1x  Superliga
+      1x  Liga 1
+      1x  Super League
+      1x  Club Friendly Games
+      1x  Brasileiro Serie B
+      1x  LaLiga
+      1x  Queensland Premier League 2
+      1x  U20 NSW NPL
+      1x  Division 2
+      1x  Saudi Pro League
+      1x  Ettan
+      1x  Victoria Premier League 1
+      1x  Esiliiga B
+      1x  3. Division, Group 4
+      1x  3. Division, Group 1
+      1x  1. Liga
+      1x  Serie A Cup, Women
+      1x  Bundesliga
+      1x  2. Liga, Division A
+      1x  U21 Premier League 2
+      1x  Vtora Liga
+      1x  Besta deild
+      1x  LALIGA HYPERMOTION
+      1x  China League 1
+      1x  Segunda Division
+      1x  Brasileiro Serie A
+      1x  Women Bundesliga
+      1x  2nd Division Group 2
+      1x  K-League 1
+      1x  Parva Liga
+      1x  TOPLYGA
+
+======================================================================

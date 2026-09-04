@@ -1,0 +1,57 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-08-30
+  Generated : 2026-08-30 04:46:33
+  Legs      : 20
+  Sorted by : edge
+  Combined odds : 227,808,703.20
+======================================================================
+
+  BOOKING CODE:  GGWAVE
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    30 18  Casa Pia Lisbon vs Moreirense FC    HT Away Win            4.10  + 29.6%  0.6617
+  2    30 14  Leeds United vs Brentford           HT Away Win            3.33  + 23.9%  0.6617
+  3    30 19  Argentino de Merlo vs Villa Dalmin  HT Away Win            3.10  + 21.7%  0.6617
+  4    30 17  Al-Hazm vs Al-Shabab FC (SA)        Away Win               1.87  + 20.9%  0.7237
+  5    30 17  Hapoel Kfar Shalem FC vs MS Footba  HT Away Win            2.95  + 20.1%  0.6617
+  6    30 16  Ranheim vs Odds BK                  HT Away Win            2.95  + 20.1%  0.6617
+  7    30 17  Eyupspor vs Alanyaspor              HT Away Win            2.95  + 20.1%  0.6617
+  8    30 14  Sunderland AFC vs Fulham            Over 2.5 Goals         2.05  + 18.8%  0.6410
+  9    30 14  AFC Wimbledon vs Wigan Athletic     Over 2.5 Goals         2.05  + 18.8%  0.6410
+  10   30 19  CA Banfield vs CA River Plate (ARG  Over 3.5 Goals         4.60  + 18.4%  0.6631
+  11   30 13  Melaka FC vs Negeri Sembilan        Away Win               1.78  + 18.2%  0.7237
+  12   30 16  Vaalerenga IF vs Molde              HT Away Win            2.75  + 17.6%  0.6617
+  13   30 17  NK Brinje Grosuplje vs NK Celje     Away Win               1.76  + 17.5%  0.7237
+  14   30 06  Alamein FC vs FC Bulleen Lions      Away Win               1.73  + 16.5%  0.7237
+  15   30 20  FC Famalicao vs Gil Vicente Barcel  Over 3.5 Goals         4.25  + 16.5%  0.6631
+  16   30 14  Lamontville Golden Arrows vs Mamel  HT Away Win            2.30  + 16.5%  0.6617
+  17   30 06  Illawarra Stingrays vs Macarthur R  Away Clean Sheet       3.20  + 16.0%  0.6508
+  18   30 17  Botev Plovdiv vs PFC Levski Sofia   Away Win               1.71  + 15.9%  0.7237
+  19   30 20  Gama DF vs AS Arapiraquense AL      Home Win               1.94  + 15.8%  0.7212
+  20   30 14  FC Dnepr Mogilev vs FC Isloch       Over 3.5 Goals         3.75  + 15.8%  0.6631
+
+======================================================================
+  Tournament breakdown:
+      2x  Liga Portugal
+      2x  Premier League
+      1x  Primera B
+      1x  Saudi Pro League
+      1x  National League
+      1x  1st Division
+      1x  Super Lig
+      1x  League One
+      1x  Primera LPF
+      1x  Super League
+      1x  Eliteserien
+      1x  PrvaLiga
+      1x  Victoria NPL, Women
+      1x  MTN 8
+      1x  NSW NPL, Women
+      1x  Parva Liga
+      1x  Brasileiro Serie D
+      1x  Vysshaya Liga
+
+======================================================================

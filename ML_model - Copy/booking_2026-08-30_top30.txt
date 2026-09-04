@@ -1,0 +1,76 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-08-30
+  Generated : 2026-08-30 04:59:07
+  Legs      : 30
+  Sorted by : auc
+  Combined odds : 840,169,716,573.43
+======================================================================
+
+  BOOKING CODE:  N6NQ9P
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    30 17  Al-Hazm vs Al-Shabab FC (SA)        Away Win               1.87  + 20.9%  0.7237
+  2    30 22  HYH Sebaco FC vs Real Esteli FC     Away Win               1.67  + 14.5%  0.7237
+  3    30 14  Kolbotn vs IK Start                 Away Win               1.65  + 13.7%  0.7237
+  4    30 19  Samsunspor vs Fenerbahce Istanbul   Away Win               1.64  + 13.4%  0.7237
+  5    30 11  FC Utrecht vs PSV Eindhoven         Away Win               1.64  + 13.4%  0.7237
+  6    30 20  Academia del Balompie Boliviano vs  Away Win               1.64  + 13.4%  0.7237
+  7    30 19  Leones Negros UDEG vs Piratas Vera  Away Win               2.60  +  4.0%  0.7237
+  8    30 23  Pacific FC vs HFX Wanderers FC      Away Win               2.20  +  4.5%  0.7237
+  9    30 14  Levanger FK vs Lorenskog IF         Away Win               5.00  + 10.6%  0.7237
+  10   30 15  SC Telstar vs Ajax                  Away Win               1.57  + 10.6%  0.7237
+  11   30 16  Karcag SE vs Fehervar FC Szekesfeh  Away Win               2.20  +  4.5%  0.7237
+  12   30 18  Atletico Club Pueblonuevo vs CD Ba  Away Win               1.28  +  4.4%  0.7237
+  13   30 12  1. FC Saarbrucken vs Hansa Rostock  Away Win               2.55  + 10.8%  0.7237
+  14   30 17  Washington Spirit vs Bay FC         Away Win               5.10  +  4.5%  0.7237
+  15   30 20  Real Madrid W vs Atletico Madrid W  Away Win               5.00  +  4.1%  0.7237
+  16   30 19  Asociacion Deportiva Tarma vs Spor  Away Win               2.65  + 12.3%  0.7237
+  17   30 16  Chrobry Glogow vs Ruch Chorzow      Away Win               2.25  + 11.7%  0.7237
+  18   30 18  Columbus Crew 2 vs Chicago Fire FC  Away Win               2.25  + 11.7%  0.7237
+  19   30 01  FC Tulsa vs Rhode Island FC         Away Win               2.65  + 12.3%  0.7237
+  20   30 02  Indigenas de Matagalpa FC vs Ranch  Away Win               5.00  +  4.1%  0.7237
+  21   30 17  Zira FK vs Neftchi Baku PFC         Away Win               2.60  +  4.0%  0.7237
+  22   30 21  Columbus Crew vs New England Revol  Away Win               3.40  + 13.0%  0.7237
+  23   30 13  MKS Arka Gdynia vs Polonia Bytom    Away Win               3.90  +  3.9%  0.7237
+  24   30 11  Gwangju FC vs FC Seoul              Away Win               1.53  +  9.0%  0.7237
+  25   30 19  Nafta 1903 Lendava vs NK Maribor    Away Win               1.53  +  9.0%  0.7237
+  26   30 19  CN Marcilio Dias SC vs Joinville E  Away Win               5.40  +  5.1%  0.7237
+  27   30 18  Puskas Akademia FC Felcsut vs Fere  Away Win               1.96  +  5.1%  0.7237
+  28   30 06  Preston Lions vs Melbourne Victory  Away Win               2.25  +  5.6%  0.7237
+  29   30 19  CA Patronato Parana vs Club Almagr  Away Win               5.60  +  5.7%  0.7237
+  30   30 09  SK Sturm Graz II vs Rapid Wien II   Away Win               2.35  +  7.4%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      2x  Primera Division
+      2x  Eredivisie
+      2x  1. Liga
+      1x  Saudi Pro League
+      1x  1st Division, Women
+      1x  Super Lig
+      1x  Copa Bolivia
+      1x  Liga de Expansion MX
+      1x  Canadian Premier League
+      1x  2nd Division Group 2
+      1x  NB II
+      1x  Club Friendly Games
+      1x  3. Liga
+      1x  National Womens Soccer League
+      1x  Primera Division Women
+      1x  Liga 1
+      1x  MLS Next Pro
+      1x  USL Championship
+      1x  Premier League
+      1x  MLS
+      1x  K-League 1
+      1x  PrvaLiga
+      1x  Copa Santa Catarina
+      1x  NB I
+      1x  Victoria NPL, Women
+      1x  Primera Nacional
+      1x  2. Liga
+
+======================================================================

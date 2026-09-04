@@ -1,0 +1,48 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-08-31
+  Generated : 2026-08-31 06:28:13
+  Legs      : 16
+  Sorted by : edge
+  Combined odds : 226.84
+======================================================================
+
+  BOOKING CODE:  VTR0FF
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    31 17  Aasane Fotball 2 vs Sogndal 2       Home Win               1.50  + 11.9%  0.7212
+  2    31 17  Fana IL vs SK Brann 2               Home Win               1.48  + 11.0%  0.7212
+  3    31 20  Barcelona vs Rayo Vallecano         Over 2.5 Goals         1.32  + 10.9%  0.6410
+  4    31 18  Hammarby Talang FF vs Karlbergs BK  Home Win               1.47  + 10.5%  0.7212
+  5    31 16  FC Torpedo Kutaisi vs FC Meshakhte  Home Win               1.43  +  8.6%  0.7212
+  6    31 17  HNK Hajduk Split vs NK Lokomotiva   Home Win               1.43  +  8.6%  0.7212
+  7    31 19  Jong AZ Alkmaar vs Jong FC Utrecht  Over 2.5 Goals         1.37  +  8.2%  0.6410
+  8    31 15  Dagenham and Redbridge FC vs Sloug  Home Win               1.41  +  7.6%  0.7212
+  9    31 18  KI Klaksvik vs Eb/Streymur          Over 2.5 Goals         1.35  +  7.1%  0.6410
+  10   31 18  Copenhagen vs SonderjyskE           Home Win               1.39  +  6.6%  0.7212
+  11   31 15  Araz Nakhchivan PFK vs Sabah Masaz  Away Win               1.47  +  6.3%  0.7237
+  12   31 15  South Shields vs Spalding United    Home Win               1.38  +  6.1%  0.7212
+  13   31 14  Manchester United U21 vs Leicester  Over 2.5 Goals         1.33  +  6.0%  0.6410
+  14   31 13  Brentford U21 vs Sunderland U21     Over 2.5 Goals         1.31  +  4.8%  0.6410
+  15   31 17  Ranheim 2 vs Orkla                  Over 3.5 Goals         1.50  +  3.9%  0.6631
+  16   31 14  Aberystwyth Town FC vs Llanelli To  Home Win               1.34  +  3.9%  0.7212
+
+======================================================================
+  Tournament breakdown:
+      2x  3. Division, Group 3
+      2x  Premier League
+      2x  U21 Premier League 2
+      1x  LaLiga
+      1x  Ettan
+      1x  Erovnuli Liga
+      1x  HNL
+      1x  Eerste Divisie
+      1x  National League South
+      1x  Superliga
+      1x  National League North
+      1x  3. Division, Group 2
+      1x  Cymru Championship South
+
+======================================================================
