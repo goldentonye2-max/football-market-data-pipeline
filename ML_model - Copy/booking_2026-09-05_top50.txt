@@ -1,0 +1,81 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-05
+  Generated : 2026-09-05 08:32:23
+  Legs      : 36
+  Sorted by : edge
+  Combined odds : 19,613,220,399.36
+======================================================================
+
+  BOOKING CODE:  N7YQYW
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    06 00  Inter Miami CF vs Atlanta United F  Corners Over 6.5       6.90  + 69.3%  0.5615
+  2    05 17  Young Boys Bern vs FC Luzern        Corners Over 6.5       6.70  + 68.9%  0.5615
+  3    05 19  Ajax vs PSV Eindhoven               Corners Over 6.5       8.10  + 66.6%  0.5615
+  4    05 15  FK Haugesund vs Sogndal Fotball     Corners Over 6.5       5.60  + 66.0%  0.5615
+  5    05 15  Kongsvinger IL Toppfotball vs Rauf  Corners Over 6.5       5.60  + 66.0%  0.5615
+  6    05 17  Schalke vs Bayern Munich            Corners Over 6.5       6.60  + 61.3%  0.5615
+  7    05 19  Stabaek IF vs Moss FK               Corners Over 6.5       6.10  + 60.0%  0.5615
+  8    05 16  A Sakiet Edayer vs Club S Hammam-L  Over 1.5 Goals         1.59  + 16.3%  0.6116
+  9    05 21  ASO Chlef vs CR Belouizdad          Over 1.5 Goals         1.55  + 14.7%  0.6116
+  10   05 16  Vision FC (GHA) vs Young Apostles   Over 1.5 Goals         1.51  + 14.3%  0.6116
+  11   05 19  Figueirense FC SC vs Barra FC SC    Over 1.5 Goals         1.54  + 14.2%  0.6116
+  12   05 15  KF Laci vs KF Teuta                 Over 1.5 Goals         1.53  + 13.8%  0.6116
+  13   05 16  CA Bizertin vs Olympique de Beja    Over 1.5 Goals         1.51  + 12.9%  0.6116
+  14   05 19  CSD Tristan Suarez vs San Martin d  Over 1.5 Goals         1.72  + 12.4%  0.6116
+  15   05 18  Alverca Futebol vs Braga            HT Over 0.5            1.44  + 11.8%  0.6199
+  16   05 19  CR Temouchent vs CS Constantine     Over 1.5 Goals         1.48  + 11.6%  0.6116
+  17   05 17  Jkt Tanzania vs Pamba Jiji SC       Over 1.5 Goals         1.45  + 11.5%  0.6116
+  18   05 19  CA Acassuso vs CA All Boys          Over 1.5 Goals         1.68  + 11.0%  0.6116
+  19   05 19  Africain vs Djoliba AC              Over 1.5 Goals         1.42  + 10.7%  0.6116
+  20   05 10  Matsumoto Yamaga FC vs FC Osaka     Over 1.5 Goals         1.32  + 10.4%  0.6116
+  21   05 19  Danubio FC vs CA Penarol Montevide  HT Over 0.5            1.49  + 10.3%  0.6199
+  22   05 19  CD Universidad Cesar Vallejo vs Cl  Over 1.5 Goals         1.44  +  9.7%  0.6116
+  23   05 21  Trindade AC GO vs Goiania EC GO     Over 1.5 Goals         1.44  +  9.7%  0.6116
+  24   05 15  Estrela Amadora vs FC Famalicao     Over 1.5 Goals         1.40  +  9.7%  0.6116
+  25   05 14  Fiorentina vs Torino                Over 1.5 Goals         1.34  +  9.7%  0.6116
+  26   05 19  Volta Redonda FC RJ vs Fluminense   Over 1.5 Goals         1.33  +  9.1%  0.6116
+  27   05 15  Erzurumspor FK vs Konyaspor         HT Over 0.5            1.46  +  8.9%  0.6199
+  28   05 19  FK Mladost Lucani vs FK Radnicki N  HT Over 0.5            1.46  +  8.9%  0.6199
+  29   05 15  Royal Charleroi SC vs Union Gilloi  Over 1.5 Goals         1.29  +  8.7%  0.6116
+  30   05 15  Chertanovo Moscow vs ZFK Krasnodar  Over 1.5 Goals         1.42  +  8.7%  0.6116
+  31   05 17  Unionistas de Salamanca CF vs Real  Over 1.5 Goals         1.38  +  8.6%  0.6116
+  32   05 19  Nice vs Le Mans FC                  Over 1.5 Goals         1.27  +  8.4%  0.6116
+  33   05 13  Rayong FC vs Prachuap FC            HT Over 0.5            1.37  +  8.2%  0.6199
+  34   05 09  Psim Yogyakarta vs Persita Tangera  Over 1.5 Goals         1.37  +  8.1%  0.6116
+  35   05 12  Stoke City vs Charlton Athletic     Over 1.5 Goals         1.37  +  8.1%  0.6116
+  36   05 17  Campobasso FC vs AS Gubbio          Over 1.5 Goals         1.38  +  8.0%  0.6116
+
+======================================================================
+  Tournament breakdown:
+      5x  Ligue 1
+      3x  1st Division
+      2x  Super League
+      2x  Premier League
+      2x  Primera Nacional
+      2x  Liga Portugal
+      1x  MLS
+      1x  Eredivisie
+      1x  Bundesliga
+      1x  Copa Santa Catarina
+      1x  Kategoria Superiore
+      1x  CAF Champions League
+      1x  J3 League
+      1x  Primera Division
+      1x  Liga 2
+      1x  Goiano, 2. Divisao
+      1x  Serie A
+      1x  U20 Carioca, Serie A
+      1x  Super Lig
+      1x  Superliga
+      1x  Pro League
+      1x  Superleague, Women
+      1x  Primera Federacion
+      1x  Thai League 1
+      1x  Championship
+      1x  Serie C, Group B
+
+======================================================================

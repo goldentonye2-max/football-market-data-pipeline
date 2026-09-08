@@ -171,8 +171,11 @@ df["btts"]       = ((df["ft_home"] > 0) & (df["ft_away"] > 0)).astype(float)
 df["home_cs"]    = (df["ft_away"] == 0).astype(float)
 df["away_cs"]    = (df["ft_home"] == 0).astype(float)
 
-print(f"  Analysis table: {len(df)} rows, "
-      f"{df['corner_kicks'].notna().sum()} with corner data\n")
+corner_col = "corner_kicks" if "corner_kicks" in df.columns else None
+corner_count = df[corner_col].notna().sum() if corner_col else 0
+print(f"  Analysis table: {len(df)} rows, {corner_count} with corner data")
+print(f"  Stat columns found: {[c for c in df.columns if c in ['corner_kicks','yellow_cards','red_cards','total_shots','shots_on_target','ball_possession']]}")
+print()
 
 # ── DEFINE WHAT TO CHECK ──────────────────────────────────────────────────
 # (stat_column, threshold, label)

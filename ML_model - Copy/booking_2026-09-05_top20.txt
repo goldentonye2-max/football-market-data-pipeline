@@ -1,0 +1,56 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-05
+  Generated : 2026-09-05 08:33:41
+  Legs      : 20
+  Sorted by : edge
+  Combined odds : 2,083,654,862,875,322.75
+======================================================================
+
+  BOOKING CODE:  QMYNUB
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    06 00  Inter Miami CF vs Atlanta United F  Corners Over 6.5       6.90  + 69.3%  0.5615
+  2    05 17  Young Boys Bern vs FC Luzern        Corners Over 6.5       6.70  + 68.9%  0.5615
+  3    05 19  Ajax vs PSV Eindhoven               Corners Over 6.5       8.10  + 66.6%  0.5615
+  4    05 15  FK Haugesund vs Sogndal Fotball     Corners Over 6.5       5.60  + 66.0%  0.5615
+  5    05 15  Kongsvinger IL Toppfotball vs Rauf  Corners Over 6.5       5.60  + 66.0%  0.5615
+  6    05 17  Schalke vs Bayern Munich            Corners Over 6.5       6.60  + 61.3%  0.5615
+  7    05 19  Stabaek IF vs Moss FK               Corners Over 6.5       6.10  + 60.0%  0.5615
+  8    05 17  Vllaznia Shkoder vs Partizani Tira  Over 4.5 Goals         7.30  + 17.4%  0.6327
+  9    05 11  Tokushima Vortis vs Iwaki FC        Over 3.5 Goals         4.10  + 15.6%  0.6631
+  10   05 15  Chertanovo Moscow vs ZFK Krasnodar  Over 3.5 Goals         4.10  + 15.6%  0.6631
+  11   05 17  CD Mafra vs SC Covilha              Over 3.5 Goals         4.00  + 15.1%  0.6631
+  12   05 17  Vitoria Guimaraes B vs CD Trofense  Over 3.5 Goals         4.00  + 15.1%  0.6631
+  13   05 11  Bucheon FC 1995 vs Daejeon Citizen  Over 4.5 Goals         6.25  + 15.1%  0.6327
+  14   05 11  Podhale Nowy Targ vs Sandecja Nowy  Over 4.5 Goals         5.75  + 13.7%  0.6327
+  15   06 00  San Marcos FC vs Art Municipal Jal  Over 4.5 Goals         5.70  + 13.5%  0.6327
+  16   05 17  SK Artis Brno vs Viktoria Plzen     Home Clean Sheet       5.75  + 13.5%  0.6485
+  17   05 18  Al Hussein Irbid vs AL Jazeera Clu  HT Away Win           12.00  + 13.3%  0.6617
+  18   05 14  Zhetysu Taldykorgan vs FC Irtysh P  Over 4.5 Goals         5.50  + 12.9%  0.6327
+  19   05 20  Villarreal vs RC Deportivo De La C  Over 4.5 Goals         5.25  + 12.0%  0.6327
+  20   05 17  AGF Aarhus vs Silkeborg IF          Away Win               5.50  + 11.3%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      3x  1st Division
+      2x  Liga Portugal 3
+      1x  MLS
+      1x  Super League
+      1x  Eredivisie
+      1x  Bundesliga
+      1x  Kategoria Superiore
+      1x  J2 League
+      1x  Superleague, Women
+      1x  K-League 1
+      1x  II Liga
+      1x  Primera Division
+      1x  1. Liga
+      1x  Jordan League
+      1x  Premier League
+      1x  LaLiga
+      1x  Superliga
+
+======================================================================
