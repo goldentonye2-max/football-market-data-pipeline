@@ -44227,3 +44227,820 @@ STEP 1: Collecting fixture list (next {} hours)...
 2026-09-08 00:44:52,480  INFO    Odds rows inserted     : 105,436
 2026-09-08 00:44:52,480  INFO    Database               : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
 2026-09-08 00:44:52,480  INFO  =================================================================
+2026-09-08 23:13:38,952  INFO  =================================================================
+2026-09-08 23:13:38,997  INFO    SportyBet DB Scraper  —  2026-09-08
+2026-09-08 23:13:38,997  INFO    Database : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-08 23:13:38,998  INFO  =================================================================
+2026-09-08 23:13:39,025  INFO  
+STEP 1: Collecting fixture list (next {} hours)...
+2026-09-08 23:13:39,028  INFO    Fixture list — page 1...
+2026-09-08 23:13:44,353  INFO    Total fixtures reported by API: 210  (3 page(s) — includes SRL)
+2026-09-08 23:13:44,354  INFO    Page 1: 100 real  |  0 SRL filtered  |  running total: 100 real fixtures
+2026-09-08 23:13:45,355  INFO    Fixture list — page 2...
+2026-09-09 00:00:29,082  INFO  =================================================================
+2026-09-09 00:00:29,082  INFO    SportyBet DB Scraper  —  2026-09-09
+2026-09-09 00:00:29,083  INFO    Database : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-09 00:00:29,083  INFO  =================================================================
+2026-09-09 00:00:29,085  INFO  
+STEP 1: Collecting fixture list (next {} hours)...
+2026-09-09 00:00:29,086  INFO    Fixture list — page 1...
+2026-09-09 00:00:35,110  INFO    Total fixtures reported by API: 221  (3 page(s) — includes SRL)
+2026-09-09 00:00:35,111  INFO    Page 1: 100 real  |  0 SRL filtered  |  running total: 100 real fixtures
+2026-09-09 00:00:36,113  INFO    Fixture list — page 2...
+2026-09-09 00:00:42,070  INFO    Page 2: 87 real  |  13 SRL filtered  |  running total: 187 real fixtures
+2026-09-09 00:00:43,070  INFO    Fixture list — page 3...
+2026-09-09 00:00:47,580  INFO    Page 3: 21 real  |  0 SRL filtered  |  running total: 208 real fixtures
+2026-09-09 00:00:47,580  INFO    SRL fixtures filtered out this run: 13
+2026-09-09 00:00:47,581  INFO    Done. 208 real fixtures to process.
+
+2026-09-09 00:00:47,581  INFO  STEP 2: Fetching markets and storing in database...
+2026-09-09 00:00:47,581  INFO    Estimated time: ~6 min 56 sec
+
+2026-09-09 00:00:47,581  INFO    [  1/208]  Barcelona vs Feyenoord  (sr:match:74165880)
+2026-09-09 00:02:06,235  INFO      789 raw markets → 1732 odds rows stored
+2026-09-09 00:02:08,236  INFO    [  2/208]  Stuttgart vs Viking FK  (sr:match:74165882)
+2026-09-09 00:02:29,806  INFO      701 raw markets → 1725 odds rows stored
+2026-09-09 00:02:31,807  INFO    [  3/208]  Liverpool vs Atletico Madrid  (sr:match:74165884)
+2026-09-09 00:02:47,573  INFO      821 raw markets → 1782 odds rows stored
+2026-09-09 00:02:49,574  INFO    [  4/208]  Napoli vs Arsenal  (sr:match:74165890)
+2026-09-09 00:03:06,301  INFO      811 raw markets → 1764 odds rows stored
+2026-09-09 00:03:08,303  INFO    [  5/208]  PSG vs Slovan Bratislava  (sr:match:74165886)
+2026-09-09 00:03:20,886  INFO      687 raw markets → 1409 odds rows stored
+2026-09-09 00:03:22,887  INFO    [  6/208]  Sporting vs Galatasaray Istanbul  (sr:match:74165888)
+2026-09-09 00:03:36,043  INFO      808 raw markets → 1762 odds rows stored
+2026-09-09 00:03:38,044  INFO    [  7/208]  Chelsea vs Leeds United  (sr:match:74158478)
+2026-09-09 00:03:50,872  INFO      446 raw markets → 1418 odds rows stored
+2026-09-09 00:03:52,874  INFO    [  8/208]  AFC Whyteleafe vs Crowborough Athletic  (sr:match:74395816)
+2026-09-09 00:04:27,963  WARNING      Attempt 1/3 failed: HTTPSConnectionPool(host='www.sportybet.com', port=443): Read timed out. (read timeout=15)
+2026-09-09 00:04:27,964  INFO      Waiting 5s before retry...
+2026-09-09 00:04:35,576  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:04:37,577  INFO    [  9/208]  Exmouth Town vs Banbury United  (sr:match:74395818)
+2026-09-09 00:04:44,609  INFO      109 raw markets → 406 odds rows stored
+2026-09-09 00:04:46,610  INFO    [ 10/208]  FC Viktoriya Sumy vs FC Metalist Kharkiv  (sr:match:74224342)
+2026-09-09 00:04:51,866  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:04:53,868  INFO    [ 11/208]  Probiy Gorodenka vs FC Oleksandriya  (sr:match:74224242)
+2026-09-09 00:05:01,153  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:05:03,155  INFO    [ 12/208]  Agrobiznes Volochisk vs FC Livyi Bereh Kyiv  (sr:match:74223644)
+2026-09-09 00:05:08,341  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:05:10,343  INFO    [ 13/208]  FSK Mariupol vs FC Zorya Luhansk  (sr:match:74224068)
+2026-09-09 00:05:13,602  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:05:15,604  INFO    [ 14/208]  FC Polissya Zhytomyr vs FK Kudrivka  (sr:match:74224698)
+2026-09-09 00:05:20,807  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:05:22,808  INFO    [ 15/208]  Derby County vs West Bromwich Albion  (sr:match:72339810)
+2026-09-09 00:05:35,437  INFO      441 raw markets → 1365 odds rows stored
+2026-09-09 00:05:37,440  INFO    [ 16/208]  Norwich vs Birmingham City  (sr:match:72339812)
+2026-09-09 00:05:50,594  INFO      467 raw markets → 1438 odds rows stored
+2026-09-09 00:05:52,595  INFO    [ 17/208]  Charlton Athletic vs Queens Park Rangers  (sr:match:72339808)
+2026-09-09 00:06:02,197  INFO      451 raw markets → 1383 odds rows stored
+2026-09-09 00:06:04,198  INFO    [ 18/208]  FC Twente Enschede vs SC Telstar  (sr:match:72041082)
+2026-09-09 00:06:16,227  INFO      589 raw markets → 1365 odds rows stored
+2026-09-09 00:06:18,252  INFO    [ 19/208]  Moreirense FC vs Benfica  (sr:match:72530864)
+2026-09-09 00:06:26,564  INFO      568 raw markets → 1322 odds rows stored
+2026-09-09 00:06:28,565  INFO    [ 20/208]  SE Palmeiras SP vs LDU Quito  (sr:match:73903098)
+2026-09-09 00:06:41,034  INFO      391 raw markets → 1300 odds rows stored
+2026-09-09 00:06:43,036  INFO    [ 21/208]  VfB Stuttgart vs Viking FK  (sr:match:74301734)
+2026-09-09 00:06:47,171  INFO      13 raw markets → 35 odds rows stored
+2026-09-09 00:06:49,172  INFO    [ 22/208]  SSC Napoli U20 vs Arsenal FC  (sr:match:74479798)
+2026-09-09 00:06:54,366  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:06:56,367  INFO    [ 23/208]  Paris Saint-Germain FC vs Slovan Bratislava  (sr:match:74301738)
+2026-09-09 00:07:07,021  INFO      193 raw markets → 840 odds rows stored
+2026-09-09 00:07:09,022  INFO    [ 24/208]  Sporting CP vs Galatasaray SK  (sr:match:74301740)
+2026-09-09 00:07:18,458  INFO      201 raw markets → 862 odds rows stored
+2026-09-09 00:07:20,459  INFO    [ 25/208]  Liverpool vs Atletico Madrid  (sr:match:74301742)
+2026-09-09 00:07:27,625  INFO      202 raw markets → 863 odds rows stored
+2026-09-09 00:07:29,626  INFO    [ 26/208]  FK Jablonec vs FC Banik Ostrava  (sr:match:73853726)
+2026-09-09 00:07:37,233  INFO      349 raw markets → 1186 odds rows stored
+2026-09-09 00:07:39,234  INFO    [ 27/208]  FC Hradec Kralove vs Viktoria Plzen  (sr:match:74280036)
+2026-09-09 00:07:52,097  INFO      357 raw markets → 1202 odds rows stored
+2026-09-09 00:07:54,099  INFO    [ 28/208]  Mio Biwako Shiga vs Tokyo Verdy  (sr:match:72596876)
+2026-09-09 00:08:11,915  INFO      222 raw markets → 933 odds rows stored
+2026-09-09 00:08:13,920  INFO    [ 29/208]  AC Nagano Parceiro vs Mito Hollyhock  (sr:match:72596884)
+2026-09-09 00:08:22,752  INFO      221 raw markets → 930 odds rows stored
+2026-09-09 00:08:24,754  INFO    [ 30/208]  Fukushima United FC vs Vegalta Sendai  (sr:match:72596878)
+2026-09-09 00:08:53,997  INFO      223 raw markets → 934 odds rows stored
+2026-09-09 00:08:55,999  INFO    [ 31/208]  Kamatamare Sanuki vs JEF United Chiba  (sr:match:72596886)
+2026-09-09 00:09:06,705  INFO      222 raw markets → 933 odds rows stored
+2026-09-09 00:09:08,706  INFO    [ 32/208]  Kochi United SC vs V-Varen Nagasaki  (sr:match:72596888)
+2026-09-09 00:09:16,270  INFO      222 raw markets → 933 odds rows stored
+2026-09-09 00:09:18,295  INFO    [ 33/208]  Matsumoto Yamaga FC vs Shonan Bellmare  (sr:match:72596882)
+2026-09-09 00:09:25,578  INFO      220 raw markets → 929 odds rows stored
+2026-09-09 00:09:27,579  INFO    [ 34/208]  Tochigi SC vs Montedio Yamagata  (sr:match:72596880)
+2026-09-09 00:09:35,235  INFO      221 raw markets → 931 odds rows stored
+2026-09-09 00:09:37,237  INFO    [ 35/208]  Daejeon Citizen FC vs FC Anyang  (sr:match:67817862)
+2026-09-09 00:09:47,139  INFO      257 raw markets → 1014 odds rows stored
+2026-09-09 00:09:49,140  INFO    [ 36/208]  FC Pohang Steelers vs Gimcheon Sangmu FC  (sr:match:67817868)
+2026-09-09 00:10:08,993  INFO      254 raw markets → 1008 odds rows stored
+2026-09-09 00:10:10,995  INFO    [ 37/208]  Gangwon FC vs Jeonbuk FC  (sr:match:67817864)
+2026-09-09 00:10:18,489  INFO      260 raw markets → 1020 odds rows stored
+2026-09-09 00:10:20,490  INFO    [ 38/208]  Gwangju FC vs Jeju SK FC  (sr:match:67817866)
+2026-09-09 00:10:27,421  INFO      257 raw markets → 1013 odds rows stored
+2026-09-09 00:10:29,422  INFO    [ 39/208]  Rangers vs St Mirren FC  (sr:match:74156004)
+2026-09-09 00:10:39,185  INFO      380 raw markets → 1240 odds rows stored
+2026-09-09 00:10:41,187  INFO    [ 40/208]  St. Johnstone FC vs Celtic  (sr:match:74194012)
+2026-09-09 00:10:49,287  INFO      382 raw markets → 1244 odds rows stored
+2026-09-09 00:10:51,289  INFO    [ 41/208]  Cuiaba EC MT vs Athletic Club Sjdr MG  (sr:match:68823262)
+2026-09-09 00:10:59,593  INFO      240 raw markets → 974 odds rows stored
+2026-09-09 00:11:01,595  INFO    [ 42/208]  Criciuma EC SC vs EC Juventude RS  (sr:match:68823258)
+2026-09-09 00:11:25,537  INFO      239 raw markets → 975 odds rows stored
+2026-09-09 00:11:27,538  INFO    [ 43/208]  Botafogo FC SP vs Gremio Novorizontino SP  (sr:match:68823246)
+2026-09-09 00:11:35,864  INFO      239 raw markets → 973 odds rows stored
+2026-09-09 00:11:37,865  INFO    [ 44/208]  Fortaleza EC CE vs Avai FC SC  (sr:match:68823254)
+2026-09-09 00:11:49,163  INFO      240 raw markets → 974 odds rows stored
+2026-09-09 00:11:51,164  INFO    [ 45/208]  Vanloese IF vs Hillerod Fodbold  (sr:match:74318080)
+2026-09-09 00:11:55,869  INFO      72 raw markets → 135 odds rows stored
+2026-09-09 00:11:57,870  INFO    [ 46/208]  Kolding IF vs Odense Boldklub  (sr:match:74318086)
+2026-09-09 00:12:08,372  INFO      237 raw markets → 876 odds rows stored
+2026-09-09 00:12:10,372  INFO    [ 47/208]  Modern Sport FC vs Wadi Degla SC  (sr:match:73463630)
+2026-09-09 00:12:20,433  INFO      203 raw markets → 867 odds rows stored
+2026-09-09 00:12:22,453  INFO    [ 48/208]  Pyramids FC vs El Gouna FC  (sr:match:73463624)
+2026-09-09 00:12:31,208  INFO      205 raw markets → 866 odds rows stored
+2026-09-09 00:12:33,210  INFO    [ 49/208]  Al Mokawloon Al Arab vs AL Ahly SC (EGY)  (sr:match:73463634)
+2026-09-09 00:12:42,571  INFO      209 raw markets → 877 odds rows stored
+2026-09-09 00:12:44,573  INFO    [ 50/208]  Enppi Club vs Zed FC  (sr:match:73463632)
+2026-09-09 00:12:53,252  INFO      204 raw markets → 868 odds rows stored
+2026-09-09 00:12:55,253  INFO    [ 51/208]  FC Volna Nizhny Novgorod Oblast vs SK Rotor Volgograd  (sr:match:74148128)
+2026-09-09 00:13:07,368  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:13:09,369  INFO    [ 52/208]  FC Krasnoe Znamya Noginsk vs FC Ska-Khabarovsk  (sr:match:74148102)
+2026-09-09 00:13:18,573  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:13:20,620  INFO    [ 53/208]  Dinamo Kirov vs FC Kamaz Naberezhnye Chelny  (sr:match:74148118)
+2026-09-09 00:13:28,393  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:13:30,394  INFO    [ 54/208]  FC Kaluga vs FK Ufa  (sr:match:74148122)
+2026-09-09 00:13:38,530  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:13:40,532  INFO    [ 55/208]  FC Murom vs FK Veles Moscow  (sr:match:74148126)
+2026-09-09 00:13:50,878  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:13:52,879  INFO    [ 56/208]  FC Sokol Saratov vs Leningradets  (sr:match:74148116)
+2026-09-09 00:14:00,228  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:14:02,230  INFO    [ 57/208]  FC Volgar Astrakhan vs FC Volga Ulyanovsk  (sr:match:74148110)
+2026-09-09 00:14:09,016  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:14:11,017  INFO    [ 58/208]  Dinamo Stavropol vs FC Nizhny Novgorod  (sr:match:74148104)
+2026-09-09 00:14:20,677  INFO      161 raw markets → 736 odds rows stored
+2026-09-09 00:14:22,679  INFO    [ 59/208]  Dinamo St Petersburg vs FK Sochi  (sr:match:74148112)
+2026-09-09 00:14:30,028  INFO      162 raw markets → 738 odds rows stored
+2026-09-09 00:14:32,029  INFO    [ 60/208]  FC Chertanovo Moscow vs FC Neftekhimik Nizhnekamsk  (sr:match:74148108)
+2026-09-09 00:14:39,001  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:14:41,003  INFO    [ 61/208]  FC Druzhba Maykop vs FC Yenisey Krasnoyarsk  (sr:match:74148106)
+2026-09-09 00:14:46,995  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 00:14:48,996  INFO    [ 62/208]  Al-Kholood vs Al-Shabab FC (SA)  (sr:match:73159946)
+2026-09-09 00:14:59,328  INFO      359 raw markets → 1218 odds rows stored
+2026-09-09 00:15:01,329  INFO    [ 63/208]  Al Nassr Club vs Abha Club  (sr:match:73159950)
+2026-09-09 00:15:10,403  INFO      358 raw markets → 1217 odds rows stored
+2026-09-09 00:15:12,404  INFO    [ 64/208]  Al-Fateh SC vs Diriyah Club  (sr:match:73159948)
+2026-09-09 00:15:22,324  INFO      357 raw markets → 1218 odds rows stored
+2026-09-09 00:15:24,325  INFO    [ 65/208]  Sydney FC vs Melbourne Victory  (sr:match:74115040)
+2026-09-09 00:15:29,797  INFO      63 raw markets → 243 odds rows stored
+2026-09-09 00:15:31,798  INFO    [ 66/208]  Boca Juniors vs Sao Paulo FC SP  (sr:match:73873124)
+2026-09-09 00:15:42,170  INFO      361 raw markets → 1260 odds rows stored
+2026-09-09 00:15:44,171  INFO    [ 67/208]  Santos FC SP vs Atletico Mineiro MG  (sr:match:73902970)
+2026-09-09 00:15:52,706  INFO      316 raw markets → 1168 odds rows stored
+2026-09-09 00:15:54,708  INFO    [ 68/208]  Deportivo Riestra AFBC vs CA Banfield  (sr:match:74322880)
+2026-09-09 00:16:03,919  INFO      209 raw markets → 902 odds rows stored
+2026-09-09 00:16:05,920  INFO    [ 69/208]  OFI Crete vs Nestos Chrysoupoli FC  (sr:match:74069116)
+2026-09-09 00:16:15,062  INFO      191 raw markets → 816 odds rows stored
+2026-09-09 00:16:17,063  INFO    [ 70/208]  FC Ryukyu vs Giravanz Kitakyushu  (sr:match:73526700)
+2026-09-09 00:16:25,419  INFO      174 raw markets → 771 odds rows stored
+2026-09-09 00:16:27,420  INFO    [ 71/208]  Italy vs New Zealand  (sr:match:71680640)
+2026-09-09 00:16:36,015  INFO      174 raw markets → 799 odds rows stored
+2026-09-09 00:16:38,016  INFO    [ 72/208]  France vs Ecuador  (sr:match:71680628)
+2026-09-09 00:16:46,493  INFO      175 raw markets → 800 odds rows stored
+2026-09-09 00:16:48,494  INFO    [ 73/208]  Japan vs USA  (sr:match:71680642)
+2026-09-09 00:16:55,722  INFO      177 raw markets → 805 odds rows stored
+2026-09-09 00:16:57,723  INFO    [ 74/208]  Internacional de Palmira vs Atletico FC Cali  (sr:match:72636128)
+2026-09-09 00:17:04,483  INFO      174 raw markets → 769 odds rows stored
+2026-09-09 00:17:06,486  INFO    [ 75/208]  Independiente Valle Del Cauca vs Deportes Quindio  (sr:match:72636130)
+2026-09-09 00:17:16,601  INFO      174 raw markets → 771 odds rows stored
+2026-09-09 00:17:18,602  INFO    [ 76/208]  Al-Raed Club vs AL Jeel  (sr:match:73206454)
+2026-09-09 00:17:25,342  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:17:27,343  INFO    [ 77/208]  AL Jandal vs Al Bukiryah  (sr:match:73206456)
+2026-09-09 00:17:34,555  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:17:36,555  INFO    [ 78/208]  Jeddah Club vs Al-Orobah  (sr:match:73206458)
+2026-09-09 00:17:44,275  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:17:46,276  INFO    [ 79/208]  Landskrona BoIS vs Helsingborgs IF  (sr:match:67126340)
+2026-09-09 00:17:56,462  INFO      241 raw markets → 982 odds rows stored
+2026-09-09 00:17:58,509  INFO    [ 80/208]  Ljungskile SK vs Norrby IF  (sr:match:67126342)
+2026-09-09 00:18:08,363  INFO      238 raw markets → 976 odds rows stored
+2026-09-09 00:18:10,364  INFO    [ 81/208]  Sandvikens IF vs IK Oddevold  (sr:match:67126348)
+2026-09-09 00:18:19,080  INFO      236 raw markets → 972 odds rows stored
+2026-09-09 00:18:21,080  INFO    [ 82/208]  United IK Nordic vs IFK Varnamo  (sr:match:67126354)
+2026-09-09 00:18:30,939  INFO      237 raw markets → 974 odds rows stored
+2026-09-09 00:18:32,940  INFO    [ 83/208]  SD Compostela vs CD Derio  (sr:match:74350040)
+2026-09-09 00:18:36,582  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:18:38,583  INFO    [ 84/208]  UD Santa Marta vs CF Vimenor  (sr:match:74350042)
+2026-09-09 00:18:41,471  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:18:43,472  INFO    [ 85/208]  CF Badalona vs Sestao River Club  (sr:match:74350050)
+2026-09-09 00:18:48,729  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:18:50,742  INFO    [ 86/208]  Comillas CF vs CE L'Hospitalet  (sr:match:74350048)
+2026-09-09 00:18:53,830  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:18:55,831  INFO    [ 87/208]  Torrent CF vs Atletico Saguntino  (sr:match:74320954)
+2026-09-09 00:19:01,608  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:19:03,621  INFO    [ 88/208]  AD San Juan Pamplona vs Terrassa FC  (sr:match:74350052)
+2026-09-09 00:19:06,793  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:19:08,793  INFO    [ 89/208]  CF Motril vs RC Recreativo de Huelva  (sr:match:74350054)
+2026-09-09 00:19:11,619  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:19:13,620  INFO    [ 90/208]  CF Talavera de La Reina vs CDA Navalcarnero  (sr:match:74350056)
+2026-09-09 00:19:16,432  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:19:18,470  INFO    [ 91/208]  CP Cacereno SAD vs UD San Pedro  (sr:match:74350058)
+2026-09-09 00:19:22,353  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:19:24,354  INFO    [ 92/208]  Curico Unido vs Union Espanola  (sr:match:73039456)
+2026-09-09 00:19:32,507  INFO      174 raw markets → 771 odds rows stored
+2026-09-09 00:19:34,508  INFO    [ 93/208]  Deportes Temuco vs Santiago Wanderers  (sr:match:73040126)
+2026-09-09 00:19:55,744  INFO      174 raw markets → 771 odds rows stored
+2026-09-09 00:19:57,745  INFO    [ 94/208]  Deportes Recoleta vs San Marcos de Arica  (sr:match:73039694)
+2026-09-09 00:20:08,281  INFO      174 raw markets → 771 odds rows stored
+2026-09-09 00:20:10,282  INFO    [ 95/208]  FCI Levadia Tallinn vs FC Kuressaare  (sr:match:68214804)
+2026-09-09 00:20:21,823  INFO      180 raw markets → 804 odds rows stored
+2026-09-09 00:20:23,824  INFO    [ 96/208]  Parnu JK Vaprus vs Harju JK Laagri  (sr:match:68214806)
+2026-09-09 00:20:33,043  INFO      182 raw markets → 810 odds rows stored
+2026-09-09 00:20:35,044  INFO    [ 97/208]  Tartu JK Tammeka vs Paide Linnameeskond  (sr:match:68214802)
+2026-09-09 00:20:42,291  INFO      182 raw markets → 810 odds rows stored
+2026-09-09 00:20:44,292  INFO    [ 98/208]  CA Defensores de Belgrano vs Club Atletico Los Andes  (sr:match:73804342)
+2026-09-09 00:20:53,433  INFO      181 raw markets → 806 odds rows stored
+2026-09-09 00:20:55,435  INFO    [ 99/208]  PFC Levski Sofia vs PFC CSKA Sofia  (sr:match:72574804)
+2026-09-09 00:21:06,780  INFO      245 raw markets → 936 odds rows stored
+2026-09-09 00:21:08,781  INFO    [100/208]  PAOK Thessaloniki B vs Olympiacos Piraeus B  (sr:match:74272016)
+2026-09-09 00:21:24,586  INFO      70 raw markets → 260 odds rows stored
+2026-09-09 00:21:26,602  INFO    [101/208]  HJK Helsinki vs FC Inter Turku  (sr:match:74299668)
+2026-09-09 00:21:34,169  INFO      205 raw markets → 869 odds rows stored
+2026-09-09 00:21:36,171  INFO    [102/208]  Club Atletico Barinas vs Atletico El Vigia  (sr:match:73644558)
+2026-09-09 00:21:40,496  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:21:42,497  INFO    [103/208]  Academia Anzoategui FC vs Deportivo Miranda  (sr:match:73639316)
+2026-09-09 00:21:45,608  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:21:47,609  INFO    [104/208]  Monagas SC vs Bolivar SC  (sr:match:73646684)
+2026-09-09 00:21:55,774  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:21:57,776  INFO    [105/208]  Urena SC vs Deportivo Rayo Zuliano  (sr:match:73646588)
+2026-09-09 00:22:10,128  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:22:12,129  INFO    [106/208]  Yaracuyanos FC vs Aragua FC  (sr:match:73644832)
+2026-09-09 00:22:17,231  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:22:19,308  INFO    [107/208]  Barquisimeto SC vs Caracas FC  (sr:match:73644830)
+2026-09-09 00:22:25,286  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:22:27,288  INFO    [108/208]  FC Samgurali Tskaltubo vs FC Dila Gori  (sr:match:67912802)
+2026-09-09 00:22:49,590  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:22:51,591  INFO    [109/208]  FC Spaeri vs FC Rustavi  (sr:match:67912800)
+2026-09-09 00:23:09,000  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:23:11,002  INFO    [110/208]  FC Dinamo Batumi vs FC Iberia 1999  (sr:match:67912796)
+2026-09-09 00:23:29,801  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:23:31,804  INFO    [111/208]  1.SK Prostejov vs SK Sigma Olomouc  (sr:match:74160948)
+2026-09-09 00:24:07,010  INFO      167 raw markets → 748 odds rows stored
+2026-09-09 00:24:09,011  INFO    [112/208]  FK Viktoria Zizkov vs Sparta Prague  (sr:match:74160932)
+2026-09-09 00:24:15,597  INFO      167 raw markets → 748 odds rows stored
+2026-09-09 00:24:17,598  INFO    [113/208]  Sardarapat FC vs FC Pyunik Yerevan  (sr:match:74352276)
+2026-09-09 00:24:42,748  INFO      174 raw markets → 770 odds rows stored
+2026-09-09 00:24:44,750  INFO    [114/208]  Nova Bana vs FC Vion Zlate Moravce - Vrable  (sr:match:74158104)
+2026-09-09 00:25:00,860  INFO      105 raw markets → 349 odds rows stored
+2026-09-09 00:25:02,966  INFO    [115/208]  FC Banik Prievidza vs OFK Banik Lehota Pod Vtacnikom  (sr:match:74299068)
+2026-09-09 00:25:13,872  INFO      104 raw markets → 350 odds rows stored
+2026-09-09 00:25:15,874  INFO    [116/208]  FK Decic Tuzi vs OFK Petrovac  (sr:match:72304272)
+2026-09-09 00:25:33,706  INFO      152 raw markets → 727 odds rows stored
+2026-09-09 00:25:35,708  INFO    [117/208]  HNK Vukovar 1991 vs HNK Cibalia Vinkovci  (sr:match:74140326)
+2026-09-09 00:25:48,721  INFO      167 raw markets → 749 odds rows stored
+2026-09-09 00:25:50,722  INFO    [118/208]  NK Bedem Ivankovo vs GNK Dinamo Zagreb  (sr:match:74140302)
+2026-09-09 00:25:55,810  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:25:57,811  INFO    [119/208]  NK Hrvatski Dragovoljac vs NK Slaven Belupo  (sr:match:74140306)
+2026-09-09 00:26:10,741  INFO      166 raw markets → 745 odds rows stored
+2026-09-09 00:26:13,940  INFO    [120/208]  NK Segesta vs NK Osijek  (sr:match:74140310)
+2026-09-09 00:26:47,086  INFO      167 raw markets → 748 odds rows stored
+2026-09-09 00:26:49,203  INFO    [121/208]  NK Tomislav Donji Andrijevci vs NK Lokomotiva Zagreb  (sr:match:74140312)
+2026-09-09 00:27:02,372  INFO      125 raw markets → 578 odds rows stored
+2026-09-09 00:27:04,374  INFO    [122/208]  NK Uskok vs HNK Gorica  (sr:match:74140308)
+2026-09-09 00:27:21,062  INFO      167 raw markets → 748 odds rows stored
+2026-09-09 00:27:23,063  INFO    [123/208]  NK Zagora vs NK Varazdin  (sr:match:74140316)
+2026-09-09 00:27:40,555  INFO      165 raw markets → 742 odds rows stored
+2026-09-09 00:27:44,211  INFO    [124/208]  Orijent 1919 Rijeka vs NK Mladost Zdralovi  (sr:match:74140322)
+2026-09-09 00:28:16,583  INFO      167 raw markets → 749 odds rows stored
+2026-09-09 00:28:18,584  INFO    [125/208]  NK Koprivnica vs NK Rudes Zagreb  (sr:match:74140318)
+2026-09-09 00:28:30,442  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:28:32,444  INFO    [126/208]  Hapoel Azor FC vs FC Tzeirey Tira  (sr:match:111111114287455)
+2026-09-09 00:29:09,318  INFO      93 raw markets → 338 odds rows stored
+2026-09-09 00:29:11,319  INFO    [127/208]  Hapoel Nir Ramat Hasharon FC vs Hapoel Mahane Yehuda  (sr:match:74317910)
+2026-09-09 00:29:39,907  WARNING      Attempt 1/3 failed: HTTPSConnectionPool(host='www.sportybet.com', port=443): Read timed out. (read timeout=15)
+2026-09-09 00:29:39,908  INFO      Waiting 5s before retry...
+2026-09-09 00:30:02,739  WARNING      Attempt 2/3 failed: HTTPSConnectionPool(host='www.sportybet.com', port=443): Read timed out. (read timeout=15)
+2026-09-09 00:30:02,740  INFO      Waiting 5s before retry...
+2026-09-09 00:30:26,406  WARNING      Attempt 3/3 failed: HTTPSConnectionPool(host='www.sportybet.com', port=443): Read timed out. (read timeout=15)
+2026-09-09 00:30:26,406  WARNING      FAILED after 3 attempts — skipping
+2026-09-09 00:30:28,407  INFO    [128/208]  Hapoel Hadera FC vs Shimshon Tel Aviv  (sr:match:74317906)
+2026-09-09 00:30:45,681  WARNING      Attempt 1/3 failed: HTTPSConnectionPool(host='www.sportybet.com', port=443): Read timed out. (read timeout=15)
+2026-09-09 00:30:45,682  INFO      Waiting 5s before retry...
+2026-09-09 00:31:01,626  INFO      93 raw markets → 338 odds rows stored
+2026-09-09 00:31:03,627  INFO    [129/208]  Holon Yermiyahu FC vs Hapoel Marmorek FC  (sr:match:111111114287449)
+2026-09-09 00:31:17,768  INFO      93 raw markets → 338 odds rows stored
+2026-09-09 00:31:19,770  INFO    [130/208]  Ironi Beit Shemesh vs MK KFAR Saba 1928  (sr:match:111111114397745)
+2026-09-09 00:31:32,417  INFO      93 raw markets → 338 odds rows stored
+2026-09-09 00:31:34,420  INFO    [131/208]  Hapoel Herzelia FC vs AS Nordia Jerusalem  (sr:match:111111114287453)
+2026-09-09 00:32:00,674  INFO      93 raw markets → 336 odds rows stored
+2026-09-09 00:32:02,676  INFO    [132/208]  Baqa Al-Gharbiyye vs Ironi Nesher  (sr:match:111111114287760)
+2026-09-09 00:32:12,613  INFO      93 raw markets → 338 odds rows stored
+2026-09-09 00:32:14,614  INFO    [133/208]  Deportivo San Pedro vs Deportivo Mixco  (sr:match:74406224)
+2026-09-09 00:32:25,397  INFO      174 raw markets → 771 odds rows stored
+2026-09-09 00:32:27,398  INFO    [134/208]  FK Zeljeznicar Sarajevo vs FK Sarajevo  (sr:match:73721700)
+2026-09-09 00:32:42,911  INFO      182 raw markets → 810 odds rows stored
+2026-09-09 00:32:44,914  INFO    [135/208]  CA Platense vs Boca Juniors  (sr:match:74292830)
+2026-09-09 00:32:55,063  INFO      10 raw markets → 21 odds rows stored
+2026-09-09 00:32:57,065  INFO    [136/208]  Instituto AC Cordoba Reserves vs CA Sarmiento de Junin  (sr:match:74292774)
+2026-09-09 00:33:01,990  INFO      18 raw markets → 85 odds rows stored
+2026-09-09 00:33:03,991  INFO    [137/208]  San Lorenzo de Almagro Res. vs CA Union Santa Fe Reserve  (sr:match:74292776)
+2026-09-09 00:33:10,374  INFO      18 raw markets → 85 odds rows stored
+2026-09-09 00:33:12,375  INFO    [138/208]  San Martin de San Juan Reserve vs Defensa Y Justicia Reserve  (sr:match:74292826)
+2026-09-09 00:33:20,276  INFO      18 raw markets → 85 odds rows stored
+2026-09-09 00:33:22,278  INFO    [139/208]  CA Talleres de Cordoba Reserve vs CA Barracas Central Reserve  (sr:match:74292778)
+2026-09-09 00:33:27,130  INFO      18 raw markets → 85 odds rows stored
+2026-09-09 00:33:29,131  INFO    [140/208]  CA Central Cordoba SE Reserve vs Estudiantes de Rio Cuarto Reserve  (sr:match:74292836)
+2026-09-09 00:33:33,783  INFO      18 raw markets → 85 odds rows stored
+2026-09-09 00:33:35,784  INFO    [141/208]  Club Fernando de La Mora vs Deportivo Capiata  (sr:match:74456104)
+2026-09-09 00:33:49,644  INFO      81 raw markets → 279 odds rows stored
+2026-09-09 00:33:51,645  INFO    [142/208]  Encarnacion FC vs Tacuary Asuncion  (sr:match:74456106)
+2026-09-09 00:34:06,994  INFO      81 raw markets → 279 odds rows stored
+2026-09-09 00:34:08,995  INFO    [143/208]  Deportivo Santani vs Independiente Campo Grande  (sr:match:74456110)
+2026-09-09 00:34:20,551  INFO      81 raw markets → 279 odds rows stored
+2026-09-09 00:34:22,553  INFO    [144/208]  FK Novaci 2005 vs GFK Ohrid  (sr:match:74192452)
+2026-09-09 00:34:36,548  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:34:38,550  INFO    [145/208]  CD Inca vs Atletico Balboa  (sr:match:73075254)
+2026-09-09 00:34:56,206  INFO      97 raw markets → 319 odds rows stored
+2026-09-09 00:34:58,210  INFO    [146/208]  CD Platense Municipal Zacatecoluca vs AD Isidro Metapan  (sr:match:73075256)
+2026-09-09 00:35:07,201  INFO      93 raw markets → 311 odds rows stored
+2026-09-09 00:35:09,202  INFO    [147/208]  KF Feronikeli vs FC Drita  (sr:match:74352054)
+2026-09-09 00:35:15,270  INFO      25 raw markets → 123 odds rows stored
+2026-09-09 00:35:17,271  INFO    [148/208]  SC Gjilani vs Ballkani  (sr:match:74352056)
+2026-09-09 00:35:25,023  INFO      25 raw markets → 123 odds rows stored
+2026-09-09 00:35:27,024  INFO    [149/208]  FK Kauno Zalgiris vs FK Suduva Marijampole  (sr:match:73045438)
+2026-09-09 00:36:04,704  INFO      182 raw markets → 810 odds rows stored
+2026-09-09 00:36:06,706  INFO    [150/208]  UMF Njardvik vs Throttur Reykjavik  (sr:match:74472066)
+2026-09-09 00:36:18,181  INFO      174 raw markets → 771 odds rows stored
+2026-09-09 00:36:20,188  INFO    [151/208]  HK Kopavogur vs Fylkir Reykjavik  (sr:match:74472394)
+2026-09-09 00:36:30,898  INFO      175 raw markets → 777 odds rows stored
+2026-09-09 00:36:32,899  INFO    [152/208]  EC Guarani RS vs APAFUT Caxias Do Sul RS  (sr:match:74151260)
+2026-09-09 00:36:39,120  INFO      5 raw markets → 12 odds rows stored
+2026-09-09 00:36:41,121  INFO    [153/208]  EC Pelotas RS vs CE Aimore RS  (sr:match:74224886)
+2026-09-09 00:36:43,658  INFO      5 raw markets → 12 odds rows stored
+2026-09-09 00:36:45,659  INFO    [154/208]  Passo Fundo vs CE Gramadense RS  (sr:match:74231206)
+2026-09-09 00:36:49,204  INFO      5 raw markets → 12 odds rows stored
+2026-09-09 00:36:51,205  INFO    [155/208]  Entebbe UPPC FC vs Lugazi Municipal FC  (sr:match:73961602)
+2026-09-09 00:36:57,224  INFO      3 raw markets → 8 odds rows stored
+2026-09-09 00:36:59,225  INFO    [156/208]  SC Villa vs Express FC  (sr:match:73961600)
+2026-09-09 00:37:02,573  INFO      3 raw markets → 8 odds rows stored
+2026-09-09 00:37:04,574  INFO    [157/208]  Mamelodi Sundowns vs Siwelele FC  (sr:match:73258804)
+2026-09-09 00:37:11,736  INFO      262 raw markets → 971 odds rows stored
+2026-09-09 00:37:13,738  INFO    [158/208]  Mashujaa FC vs Singida Black Stars FC  (sr:match:73019548)
+2026-09-09 00:37:13,845  INFO      Already in database — skipping
+2026-09-09 00:37:13,845  INFO    [159/208]  Penang FA vs Melaka FC  (sr:match:74058952)
+2026-09-09 00:37:17,935  INFO      55 raw markets → 186 odds rows stored
+2026-09-09 00:37:19,936  INFO    [160/208]  Brunei DPMM FC vs Terengganu FC  (sr:match:111111114415794)
+2026-09-09 00:37:24,262  INFO      54 raw markets → 191 odds rows stored
+2026-09-09 00:37:26,263  INFO    [161/208]  Kuala Lumpur City FC vs Perak FA  (sr:match:74058954)
+2026-09-09 00:37:30,503  INFO      54 raw markets → 188 odds rows stored
+2026-09-09 00:37:32,505  INFO    [162/208]  Selangor FC vs Sabah FC  (sr:match:74058956)
+2026-09-09 00:37:38,716  INFO      55 raw markets → 193 odds rows stored
+2026-09-09 00:37:40,718  INFO    [163/208]  FC Kairat Almaty vs FC Zhenis  (sr:match:74070694)
+2026-09-09 00:37:47,406  INFO      150 raw markets → 723 odds rows stored
+2026-09-09 00:37:49,408  INFO    [164/208]  Shahdagh-Samur Gusar vs FK Karvan Yevlakh  (sr:match:73730270)
+2026-09-09 00:37:52,487  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:37:54,489  INFO    [165/208]  AGMK FC vs Pakhtakor  (sr:match:68380544)
+2026-09-09 00:38:05,354  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:38:07,355  INFO    [166/208]  FK Neftchi Fargona vs FK Termez Surkhon  (sr:match:68380538)
+2026-09-09 00:38:14,705  INFO      88 raw markets → 293 odds rows stored
+2026-09-09 00:38:16,707  INFO    [167/208]  PFC Nasaf vs FC Bunyodkor  (sr:match:68380546)
+2026-09-09 00:38:21,803  INFO      89 raw markets → 295 odds rows stored
+2026-09-09 00:38:23,804  INFO    [168/208]  FC Cabinda vs Primeiro de Agosto  (sr:match:74436700)
+2026-09-09 00:38:28,678  INFO      25 raw markets → 121 odds rows stored
+2026-09-09 00:38:30,678  INFO    [169/208]  AL Julan vs Zakho FC  (sr:match:74203114)
+2026-09-09 00:38:36,492  INFO      59 raw markets → 235 odds rows stored
+2026-09-09 00:38:38,494  INFO    [170/208]  AL Talaba vs AL Karkh  (sr:match:74203116)
+2026-09-09 00:38:43,058  INFO      59 raw markets → 235 odds rows stored
+2026-09-09 00:38:45,060  INFO    [171/208]  AL Minaa vs AL Naft Maysan  (sr:match:74203120)
+2026-09-09 00:39:03,908  INFO      59 raw markets → 235 odds rows stored
+2026-09-09 00:39:05,909  INFO    [172/208]  Newroz SC vs AL Mosul SC  (sr:match:74203118)
+2026-09-09 00:39:14,957  INFO      59 raw markets → 235 odds rows stored
+2026-09-09 00:39:16,959  INFO    [173/208]  AL Karma vs AL Naft  (sr:match:74203122)
+2026-09-09 00:39:26,065  INFO      59 raw markets → 235 odds rows stored
+2026-09-09 00:39:28,067  INFO    [174/208]  Santa Clara vs SC Farense  (sr:match:72962224)
+2026-09-09 00:39:43,006  INFO      55 raw markets → 183 odds rows stored
+2026-09-09 00:39:45,008  INFO    [175/208]  SL Benfica vs FC Vizela U23  (sr:match:72962238)
+2026-09-09 00:39:51,348  INFO      55 raw markets → 183 odds rows stored
+2026-09-09 00:39:53,349  INFO    [176/208]  CD Getafe vs CF Pozuelo de Alarcon  (sr:match:73930088)
+2026-09-09 00:39:56,977  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:39:58,978  INFO    [177/208]  Oviedo Moderno vs Real Sporting de Gijon Sad  (sr:match:73930090)
+2026-09-09 00:40:02,263  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:40:04,263  INFO    [178/208]  Elche CF SAD vs Levante UD  (sr:match:73929924)
+2026-09-09 00:40:07,720  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:40:09,722  INFO    [179/208]  CD Atletico Baleares vs Villarreal CF  (sr:match:73930000)
+2026-09-09 00:40:13,497  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:40:15,498  INFO    [180/208]  Sporting de Huelva vs Malaga CF  (sr:match:73930168)
+2026-09-09 00:40:18,740  INFO      9 raw markets → 19 odds rows stored
+2026-09-09 00:40:20,740  INFO    [181/208]  Burgos CF vs Club Bizkerre  (sr:match:73930080)
+2026-09-09 00:40:22,968  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:40:24,970  INFO    [182/208]  RC Celta de Vigo vs Real Aviles CF  (sr:match:73930170)
+2026-09-09 00:40:28,468  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:40:30,469  INFO    [183/208]  Sport Extremadura CD vs Cacereno Femenino  (sr:match:73930174)
+2026-09-09 00:40:33,858  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:40:35,860  INFO    [184/208]  CD Samper vs Club Olympia Las Rozas  (sr:match:73930176)
+2026-09-09 00:40:39,168  INFO      1 raw markets → 3 odds rows stored
+2026-09-09 00:40:41,169  INFO    [185/208]  FC Basel vs Grasshopper Zurich  (sr:match:72652022)
+2026-09-09 00:40:45,464  INFO      71 raw markets → 294 odds rows stored
+2026-09-09 00:40:47,468  INFO    [186/208]  FC Zurich vs Young Boys Bern  (sr:match:72652024)
+2026-09-09 00:40:52,168  INFO      71 raw markets → 294 odds rows stored
+2026-09-09 00:40:54,169  INFO    [187/208]  FC Luzern vs FC Rapperswil-Jona  (sr:match:72652018)
+2026-09-09 00:40:58,156  INFO      71 raw markets → 294 odds rows stored
+2026-09-09 00:41:00,157  INFO    [188/208]  IFK Goteborg vs Hacken Gothenburg W  (sr:match:74197324)
+2026-09-09 00:41:03,966  INFO      45 raw markets → 125 odds rows stored
+2026-09-09 00:41:05,967  INFO    [189/208]  Hammarby IF vs Gamla Upsala SK  (sr:match:74234888)
+2026-09-09 00:41:08,740  INFO      2 raw markets → 5 odds rows stored
+2026-09-09 00:41:10,741  INFO    [190/208]  America de Cali Sa vs Orsomarso SC  (sr:match:74325106)
+2026-09-09 00:41:16,143  INFO      67 raw markets → 251 odds rows stored
+2026-09-09 00:41:18,144  INFO    [191/208]  Independiente Santa Fe vs Asociacion Deportivo Cali  (sr:match:74325104)
+2026-09-09 00:41:22,355  INFO      67 raw markets → 251 odds rows stored
+2026-09-09 00:41:24,356  INFO    [192/208]  RB Do Norte AM vs Nacional Fast Clube AM  (sr:match:74381082)
+2026-09-09 00:41:31,115  INFO      10 raw markets → 69 odds rows stored
+2026-09-09 00:41:33,117  INFO    [193/208]  Oriente Petrolero vs Guabira Montero  (sr:match:73550354)
+2026-09-09 00:41:38,163  INFO      84 raw markets → 286 odds rows stored
+2026-09-09 00:41:40,165  INFO    [194/208]  Cdt Real Oruro vs CA Nacional Potosi  (sr:match:73550356)
+2026-09-09 00:41:45,788  INFO      80 raw markets → 278 odds rows stored
+2026-09-09 00:41:47,789  INFO    [195/208]  FC Universitario de Vinto vs The Strongest  (sr:match:73550358)
+2026-09-09 00:41:54,412  INFO      80 raw markets → 278 odds rows stored
+2026-09-09 00:41:56,413  INFO    [196/208]  Racing Club Montevideo vs Central Espanol FC  (sr:match:73858418)
+2026-09-09 00:42:02,308  INFO      72 raw markets → 219 odds rows stored
+2026-09-09 00:42:04,310  INFO    [197/208]  CA Boston River vs Colon FC  (sr:match:73858760)
+2026-09-09 00:42:08,748  INFO      72 raw markets → 219 odds rows stored
+2026-09-09 00:42:10,749  INFO    [198/208]  Terremoto vs CA Bella Vista  (sr:match:111111114388517)
+2026-09-09 00:42:17,453  INFO      74 raw markets → 229 odds rows stored
+2026-09-09 00:42:19,455  INFO    [199/208]  Goiania EC GO vs Goianesia EC GO  (sr:match:72014366)
+2026-09-09 00:42:24,757  INFO      59 raw markets → 235 odds rows stored
+2026-09-09 00:42:26,759  INFO    [200/208]  Gremio Anapolis GO vs Crixas EC GO  (sr:match:72014360)
+2026-09-09 00:42:29,685  INFO      3 raw markets → 8 odds rows stored
+2026-09-09 00:42:31,686  INFO    [201/208]  Trindade AC GO vs Rio Verde  (sr:match:72014364)
+2026-09-09 00:42:35,364  INFO      3 raw markets → 8 odds rows stored
+2026-09-09 00:42:37,365  INFO    [202/208]  Lautp vs Kultsu FC  (sr:match:69924838)
+2026-09-09 00:42:41,688  INFO      16 raw markets → 73 odds rows stored
+2026-09-09 00:42:43,690  INFO    [203/208]  KPV/Akatemia vs Nykarleby IK  (sr:match:69924270)
+2026-09-09 00:42:46,542  INFO      16 raw markets → 73 odds rows stored
+2026-09-09 00:42:48,543  INFO    [204/208]  FC Vaajakoski/2 vs Keupa  (sr:match:70712012)
+2026-09-09 00:42:51,690  INFO      16 raw markets → 73 odds rows stored
+2026-09-09 00:42:53,691  INFO    [205/208]  LePa vs GrIFK/Akatemia  (sr:match:111111113733035)
+2026-09-09 00:42:56,520  INFO      17 raw markets → 75 odds rows stored
+2026-09-09 00:42:58,522  INFO    [206/208]  Aizawl FC vs Dinthar FC  (sr:match:111111114348034)
+2026-09-09 00:43:03,749  INFO      17 raw markets → 71 odds rows stored
+2026-09-09 00:43:05,751  INFO    [207/208]  CD Platense vs AD Isidro Metapan  (sr:match:74458164)
+2026-09-09 00:43:08,789  INFO      3 raw markets → 8 odds rows stored
+2026-09-09 00:43:10,790  INFO    [208/208]  San Antonio FC vs Louisville City FC  (sr:match:73722728)
+2026-09-09 00:43:16,674  INFO      148 raw markets → 711 odds rows stored
+2026-09-09 00:43:19,433  INFO  
+=================================================================
+2026-09-09 00:43:19,434  INFO    SCRAPER COMPLETE
+2026-09-09 00:43:19,435  INFO    Real fixtures scraped  : 206
+2026-09-09 00:43:19,435  INFO    Already in DB (skipped): 1
+2026-09-09 00:43:19,436  INFO    Failed                 : 1
+2026-09-09 00:43:19,437  INFO    Odds rows inserted     : 107,850
+2026-09-09 00:43:19,437  INFO    Database               : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-09 00:43:19,438  INFO  =================================================================
+2026-09-09 23:46:34,070  INFO  =================================================================
+2026-09-09 23:46:34,433  INFO    SportyBet DB Scraper  —  2026-09-09
+2026-09-09 23:46:34,434  INFO    Database : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-09 23:46:34,434  INFO  =================================================================
+2026-09-09 23:46:34,437  INFO  
+STEP 1: Collecting fixture list (next {} hours)...
+2026-09-09 23:46:34,437  INFO    Fixture list — page 1...
+2026-09-09 23:47:14,590  INFO    Total fixtures reported by API: 171  (2 page(s) — includes SRL)
+2026-09-09 23:47:14,591  INFO    Page 1: 99 real  |  1 SRL filtered  |  running total: 99 real fixtures
+2026-09-09 23:47:15,592  INFO    Fixture list — page 2...
+2026-09-09 23:47:22,278  INFO    Page 2: 65 real  |  6 SRL filtered  |  running total: 164 real fixtures
+2026-09-09 23:47:22,278  INFO    SRL fixtures filtered out this run: 7
+2026-09-09 23:47:22,279  INFO    Done. 164 real fixtures to process.
+
+2026-09-09 23:47:22,279  INFO  STEP 2: Fetching markets and storing in database...
+2026-09-09 23:47:22,280  INFO    Estimated time: ~5 min 28 sec
+
+2026-09-09 23:47:22,280  INFO    [  1/164]  Fenerbahce Istanbul vs Roma  (sr:match:74165892)
+2026-09-09 23:48:28,240  INFO      803 raw markets → 1748 odds rows stored
+2026-09-09 23:48:30,244  INFO    [  2/164]  PSV Eindhoven vs Shakhtar D  (sr:match:74165894)
+2026-09-09 23:49:09,389  INFO      774 raw markets → 1738 odds rows stored
+2026-09-09 23:49:11,391  INFO    [  3/164]  Bayern Munich vs Bodoe/Glimt  (sr:match:74165898)
+2026-09-09 23:49:26,795  INFO      792 raw markets → 1729 odds rows stored
+2026-09-09 23:49:28,797  INFO    [  4/164]  Como 1907 vs RB Leipzig  (sr:match:74165896)
+2026-09-09 23:49:56,928  INFO      789 raw markets → 1745 odds rows stored
+2026-09-09 23:49:58,945  INFO    [  5/164]  Man Utd vs Sabah Masazir  (sr:match:74165900)
+2026-09-09 23:50:16,097  INFO      675 raw markets → 1651 odds rows stored
+2026-09-09 23:50:18,098  INFO    [  6/164]  Slavia Prague vs Lens  (sr:match:74165902)
+2026-09-09 23:50:36,017  INFO      801 raw markets → 1760 odds rows stored
+2026-09-09 23:50:38,019  INFO    [  7/164]  FC Nyva Vinnytsia vs FC Dynamo Kyiv  (sr:match:74223852)
+2026-09-09 23:50:42,655  INFO      10 raw markets → 21 odds rows stored
+2026-09-09 23:50:44,656  INFO    [  8/164]  Estrela Amadora vs Braga  (sr:match:72530856)
+2026-09-09 23:50:57,194  INFO      565 raw markets → 1315 odds rows stored
+2026-09-09 23:50:59,195  INFO    [  9/164]  Estudiantes de La Plata vs SC Corinthians SP  (sr:match:73911210)
+2026-09-09 23:51:26,608  INFO      406 raw markets → 1337 odds rows stored
+2026-09-09 23:51:28,609  INFO    [ 10/164]  FC Barcelona vs Feyenoord Rotterdam  (sr:match:74301732)
+2026-09-09 23:51:34,680  INFO      200 raw markets → 857 odds rows stored
+2026-09-09 23:51:36,682  INFO    [ 11/164]  Fenerbahce vs AS Roma  (sr:match:74479816)
+2026-09-09 23:51:47,679  INFO      203 raw markets → 866 odds rows stored
+2026-09-09 23:51:49,681  INFO    [ 12/164]  PSV Eindhoven vs FC Shakhtar Donetsk  (sr:match:74301748)
+2026-09-09 23:52:00,730  INFO      200 raw markets → 860 odds rows stored
+2026-09-09 23:52:02,731  INFO    [ 13/164]  Slavia Prague vs RC Lens  (sr:match:74301750)
+2026-09-09 23:52:11,988  INFO      202 raw markets → 868 odds rows stored
+2026-09-09 23:52:13,990  INFO    [ 14/164]  Como 1907 U20 vs RB Leipzig  (sr:match:74479730)
+2026-09-09 23:52:21,357  INFO      16 raw markets → 42 odds rows stored
+2026-09-09 23:52:23,361  INFO    [ 15/164]  Manchester United FC vs Sabah Masazir  (sr:match:74301744)
+2026-09-09 23:52:43,139  INFO      155 raw markets → 685 odds rows stored
+2026-09-09 23:52:45,140  INFO    [ 16/164]  Atlanta United FC vs Orlando City SC  (sr:match:66299490)
+2026-09-09 23:53:12,578  INFO      630 raw markets → 1483 odds rows stored
+2026-09-09 23:53:14,579  INFO    [ 17/164]  CF Montreal vs Charlotte FC  (sr:match:66299494)
+2026-09-09 23:53:27,689  INFO      626 raw markets → 1479 odds rows stored
+2026-09-09 23:53:29,690  INFO    [ 18/164]  DC United vs Columbus Crew  (sr:match:66299492)
+2026-09-09 23:53:48,194  INFO      631 raw markets → 1480 odds rows stored
+2026-09-09 23:53:50,195  INFO    [ 19/164]  Toronto FC vs Nashville SC  (sr:match:66299500)
+2026-09-09 23:54:01,326  INFO      631 raw markets → 1480 odds rows stored
+2026-09-09 23:54:03,327  INFO    [ 20/164]  Philadelphia Union vs FC Cincinnati  (sr:match:66299498)
+2026-09-09 23:54:21,036  INFO      637 raw markets → 1487 odds rows stored
+2026-09-09 23:54:23,038  INFO    [ 21/164]  New York City FC vs New England Revolution  (sr:match:66299496)
+2026-09-09 23:54:36,034  INFO      642 raw markets → 1491 odds rows stored
+2026-09-09 23:54:38,036  INFO    [ 22/164]  Austin FC vs Colorado Rapids  (sr:match:66299502)
+2026-09-09 23:54:54,971  INFO      629 raw markets → 1456 odds rows stored
+2026-09-09 23:54:56,972  INFO    [ 23/164]  Chicago Fire vs Inter Miami CF  (sr:match:66299504)
+2026-09-09 23:55:08,215  INFO      663 raw markets → 1564 odds rows stored
+2026-09-09 23:55:10,216  INFO    [ 24/164]  Houston Dynamo vs Real Salt Lake  (sr:match:66299506)
+2026-09-09 23:55:21,361  INFO      630 raw markets → 1466 odds rows stored
+2026-09-09 23:55:23,364  INFO    [ 25/164]  Minnesota United FC vs FC Dallas  (sr:match:66299508)
+2026-09-09 23:55:35,990  INFO      641 raw markets → 1488 odds rows stored
+2026-09-09 23:55:37,991  INFO    [ 26/164]  Los Angeles FC vs New York Red Bulls  (sr:match:66299510)
+2026-09-09 23:55:48,098  INFO      638 raw markets → 1483 odds rows stored
+2026-09-09 23:55:50,100  INFO    [ 27/164]  Portland Timbers vs Saint Louis City SC  (sr:match:66299512)
+2026-09-09 23:56:03,406  INFO      632 raw markets → 1483 odds rows stored
+2026-09-09 23:56:05,407  INFO    [ 28/164]  San Diego FC vs San Jose Earthquakes  (sr:match:66299514)
+2026-09-09 23:56:15,117  INFO      615 raw markets → 1447 odds rows stored
+2026-09-09 23:56:17,118  INFO    [ 29/164]  Vancouver Whitecaps FC vs Los Angeles Galaxy  (sr:match:66299518)
+2026-09-09 23:56:28,556  INFO      624 raw markets → 1474 odds rows stored
+2026-09-09 23:56:30,557  INFO    [ 30/164]  America FC MG vs Nautico PE  (sr:match:68823250)
+2026-09-09 23:56:43,423  INFO      245 raw markets → 985 odds rows stored
+2026-09-09 23:56:45,425  INFO    [ 31/164]  Operario Ferroviario EC PR vs CR Brasil AL  (sr:match:68823252)
+2026-09-09 23:56:57,475  INFO      244 raw markets → 983 odds rows stored
+2026-09-09 23:56:59,477  INFO    [ 32/164]  AC Goianiense GO vs Ceara SC CE  (sr:match:68823256)
+2026-09-09 23:57:08,270  INFO      244 raw markets → 981 odds rows stored
+2026-09-09 23:57:10,271  INFO    [ 33/164]  Sao Bernardo FC vs Londrina EC PR  (sr:match:68823248)
+2026-09-09 23:57:24,497  INFO      240 raw markets → 975 odds rows stored
+2026-09-09 23:57:26,498  INFO    [ 34/164]  Vila Nova FC GO vs Goias EC GO  (sr:match:68823264)
+2026-09-09 23:57:34,282  INFO      237 raw markets → 969 odds rows stored
+2026-09-09 23:57:36,283  INFO    [ 35/164]  Sundby BK vs FC Midtjylland  (sr:match:74318088)
+2026-09-09 23:57:40,792  INFO      73 raw markets → 139 odds rows stored
+2026-09-09 23:57:42,794  INFO    [ 36/164]  FC Dynamo Barnaul vs FC Chelyabinsk  (sr:match:74148114)
+2026-09-09 23:57:51,529  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 23:57:53,531  INFO    [ 37/164]  Luki-Energiya V.luki vs FK Ural Yekaterinburg  (sr:match:74148100)
+2026-09-09 23:58:01,997  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 23:58:03,998  INFO    [ 38/164]  FC Shinnik Yaroslavl vs Torpedo Moscow  (sr:match:74148120)
+2026-09-09 23:58:10,479  INFO      162 raw markets → 739 odds rows stored
+2026-09-09 23:58:12,480  INFO    [ 39/164]  Panathinaikos vs AE Kifisia FC  (sr:match:74070666)
+2026-09-09 23:58:22,635  INFO      352 raw markets → 1186 odds rows stored
+2026-09-09 23:58:24,640  INFO    [ 40/164]  America de Cali vs Deportivo Pereira FC SA  (sr:match:73333390)
+2026-09-09 23:58:33,852  INFO      184 raw markets → 789 odds rows stored
+2026-09-09 23:58:35,854  INFO    [ 41/164]  CD Once Caldas vs Alianza FC Valledupar  (sr:match:74095500)
+2026-09-09 23:58:45,324  INFO      184 raw markets → 789 odds rows stored
+2026-09-09 23:58:47,326  INFO    [ 42/164]  AD Pasto vs Independiente Medellin  (sr:match:74095670)
+2026-09-09 23:58:56,486  INFO      186 raw markets → 795 odds rows stored
+2026-09-09 23:58:58,487  INFO    [ 43/164]  Asteras Tripolis vs Aris Thessaloniki  (sr:match:74351762)
+2026-09-09 23:59:09,318  INFO      195 raw markets → 826 odds rows stored
+2026-09-09 23:59:11,320  INFO    [ 44/164]  Stevenage FC vs Luton  (sr:match:72341162)
+2026-09-09 23:59:21,225  INFO      323 raw markets → 1124 odds rows stored
+2026-09-09 23:59:23,226  INFO    [ 45/164]  China PR vs Nigeria  (sr:match:71680666)
+2026-09-09 23:59:29,992  INFO      177 raw markets → 805 odds rows stored
+2026-09-09 23:59:31,992  INFO    [ 46/164]  Colombia vs Portugal U20  (sr:match:71680654)
+2026-09-09 23:59:49,580  INFO      177 raw markets → 805 odds rows stored
+2026-09-09 23:59:51,581  INFO    [ 47/164]  AS Cannes vs Amiens  (sr:match:72523898)
+2026-09-10 00:00:00,089  INFO      180 raw markets → 819 odds rows stored
+2026-09-10 00:00:02,090  INFO    [ 48/164]  Huntsville City FC vs Chattanooga FC  (sr:match:68157114)
+2026-09-10 00:00:09,768  INFO      173 raw markets → 769 odds rows stored
+2026-09-10 00:00:11,770  INFO    [ 49/164]  North Texas SC vs Houston Dynamo 2  (sr:match:68157116)
+2026-09-10 00:00:20,224  INFO      173 raw markets → 769 odds rows stored
+2026-09-10 00:00:22,226  INFO    [ 50/164]  San Jose Earthquakes II vs Ventura County FC  (sr:match:72208216)
+2026-09-10 00:00:31,354  INFO      173 raw markets → 769 odds rows stored
+2026-09-10 00:00:33,355  INFO    [ 51/164]  FC Bulle vs FC Amical Saint-Prex  (sr:match:72520906)
+2026-09-10 00:00:41,570  INFO      72 raw markets → 296 odds rows stored
+2026-09-10 00:00:43,572  INFO    [ 52/164]  Boyaca Patriotas vs Barranquilla FC  (sr:match:73439382)
+2026-09-10 00:00:51,458  INFO      174 raw markets → 771 odds rows stored
+2026-09-10 00:00:53,459  INFO    [ 53/164]  Orsomarso SC vs Tigres FC  (sr:match:74329776)
+2026-09-10 00:01:00,383  INFO      174 raw markets → 771 odds rows stored
+2026-09-10 00:01:02,447  INFO    [ 54/164]  Al Nasr Cairo vs Dayrout  (sr:match:73078666)
+2026-09-10 00:01:08,133  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:01:10,141  INFO    [ 55/164]  FC Masar vs El Sekka El Hadid  (sr:match:73078672)
+2026-09-10 00:01:18,187  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:01:20,189  INFO    [ 56/164]  Kahrabaa Ismailia vs El Dakhleya Sc  (sr:match:73078670)
+2026-09-10 00:01:23,294  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:01:25,327  INFO    [ 57/164]  Mega Sport Belqas vs Haras El Hodood  (sr:match:73078674)
+2026-09-10 00:01:29,621  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:01:31,622  INFO    [ 58/164]  Pharco FC vs Baladiyyat AL Mehalla  (sr:match:73078668)
+2026-09-10 00:01:39,378  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:01:41,379  INFO    [ 59/164]  Falkenbergs FF vs Osters IF  (sr:match:67126352)
+2026-09-10 00:01:48,510  INFO      239 raw markets → 978 odds rows stored
+2026-09-10 00:01:50,511  INFO    [ 60/164]  GIF Sundsvall vs Orebro SK  (sr:match:67126346)
+2026-09-10 00:01:58,030  INFO      237 raw markets → 974 odds rows stored
+2026-09-10 00:02:00,032  INFO    [ 61/164]  Ostersunds FK vs IK Brage  (sr:match:67126344)
+2026-09-10 00:02:08,919  INFO      239 raw markets → 977 odds rows stored
+2026-09-10 00:02:10,920  INFO    [ 62/164]  Varbergs BoIS vs IFK Norrkoping FK  (sr:match:67126350)
+2026-09-10 00:02:19,498  INFO      237 raw markets → 974 odds rows stored
+2026-09-10 00:02:21,500  INFO    [ 63/164]  Enkopings SK vs Assyriska FF  (sr:match:68311100)
+2026-09-10 00:02:27,944  INFO      155 raw markets → 730 odds rows stored
+2026-09-10 00:02:29,945  INFO    [ 64/164]  Deportes Copiapo vs Deportes Magallanes  (sr:match:73039206)
+2026-09-10 00:02:37,274  INFO      174 raw markets → 771 odds rows stored
+2026-09-10 00:02:39,275  INFO    [ 65/164]  Deportes Iquique vs CD Santa Cruz  (sr:match:73039698)
+2026-09-10 00:02:46,432  INFO      174 raw markets → 771 odds rows stored
+2026-09-10 00:02:48,433  INFO    [ 66/164]  FK Radnik Surdulica vs Crvena Zvezda  (sr:match:74314902)
+2026-09-10 00:02:57,425  INFO      200 raw markets → 857 odds rows stored
+2026-09-10 00:02:59,426  INFO    [ 67/164]  Al Jazira (UAE) vs Al-Nasr Dubai CSC  (sr:match:73926850)
+2026-09-10 00:03:16,812  INFO      182 raw markets → 810 odds rows stored
+2026-09-10 00:03:18,813  INFO    [ 68/164]  Dubai United FC vs Shabab Al Ahli Dubai  (sr:match:73926848)
+2026-09-10 00:03:26,878  INFO      182 raw markets → 809 odds rows stored
+2026-09-10 00:03:28,879  INFO    [ 69/164]  Al Ain FC vs Al Wasl FC  (sr:match:73926852)
+2026-09-10 00:03:37,002  INFO      182 raw markets → 810 odds rows stored
+2026-09-10 00:03:39,004  INFO    [ 70/164]  FC Nomme United vs JK Tallinna Kalev  (sr:match:68774316)
+2026-09-10 00:03:46,566  INFO      91 raw markets → 300 odds rows stored
+2026-09-10 00:03:48,568  INFO    [ 71/164]  FC Tallinn vs Maardu Linnameeskond  (sr:match:68774312)
+2026-09-10 00:03:56,946  INFO      91 raw markets → 303 odds rows stored
+2026-09-10 00:03:58,947  INFO    [ 72/164]  Nomme Kalju FC vs Tallinna FC Flora  (sr:match:68774314)
+2026-09-10 00:04:07,174  INFO      90 raw markets → 299 odds rows stored
+2026-09-10 00:04:09,175  INFO    [ 73/164]  FC Levadia Tallinn vs Tartu JK Welco  (sr:match:68774318)
+2026-09-10 00:04:18,803  INFO      83 raw markets → 287 odds rows stored
+2026-09-10 00:04:20,804  INFO    [ 74/164]  Viimsi JK vs FC Elva  (sr:match:68774320)
+2026-09-10 00:04:30,071  INFO      91 raw markets → 303 odds rows stored
+2026-09-10 00:04:32,072  INFO    [ 75/164]  FK Teleoptik vs FK Naftagas Elemir  (sr:match:72120856)
+2026-09-10 00:04:39,121  INFO      18 raw markets → 85 odds rows stored
+2026-09-10 00:04:41,123  INFO    [ 76/164]  Cumbaya FC vs Gualaceo SC  (sr:match:74207762)
+2026-09-10 00:04:45,329  INFO      10 raw markets → 69 odds rows stored
+2026-09-10 00:04:47,330  INFO    [ 77/164]  San Antonio FC vs Atletico Rojiblanco  (sr:match:73998336)
+2026-09-10 00:04:50,806  INFO      10 raw markets → 69 odds rows stored
+2026-09-10 00:04:52,808  INFO    [ 78/164]  IFK Haninge vs Djurgardens IF  (sr:match:73199148)
+2026-09-10 00:04:56,230  INFO      15 raw markets → 47 odds rows stored
+2026-09-10 00:04:58,232  INFO    [ 79/164]  FC Dinamo Tbilisi vs FC Meshakhte Tkibuli  (sr:match:67912794)
+2026-09-10 00:05:03,709  INFO      88 raw markets → 293 odds rows stored
+2026-09-10 00:05:05,710  INFO    [ 80/164]  FC Gagra vs FC Torpedo Kutaisi  (sr:match:67912798)
+2026-09-10 00:05:12,630  INFO      89 raw markets → 295 odds rows stored
+2026-09-10 00:05:14,632  INFO    [ 81/164]  Club Mercedes vs CSDC Espanol  (sr:match:67123462)
+2026-09-10 00:05:20,509  INFO      88 raw markets → 294 odds rows stored
+2026-09-10 00:05:22,510  INFO    [ 82/164]  Inter Toronto vs Pacific FC  (sr:match:68686104)
+2026-09-10 00:05:30,196  INFO      174 raw markets → 771 odds rows stored
+2026-09-10 00:05:32,236  INFO    [ 83/164]  Hapoel Kfar Saba FC vs Maccabi Ironi Kiryat Gat  (sr:match:72284066)
+2026-09-10 00:05:39,204  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:05:41,205  INFO    [ 84/164]  Hapoel Kfar Shalem FC vs Maccabi Achi Nazareth FC  (sr:match:72284056)
+2026-09-10 00:05:48,915  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:05:50,917  INFO    [ 85/164]  Hapoel Rishon Lezion FC vs MS Football Hapoel Kiryat Yam  (sr:match:72284060)
+2026-09-10 00:05:59,454  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:06:01,456  INFO    [ 86/164]  Ironi Modiin vs Bnei Yehuda Tel Aviv FC  (sr:match:72284062)
+2026-09-10 00:06:18,951  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:06:20,952  INFO    [ 87/164]  Maccabi Bney Reine vs Hapoel Afula FC  (sr:match:72284054)
+2026-09-10 00:06:30,669  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:06:32,669  INFO    [ 88/164]  Maccabi Kabilio Jaffa vs Hapoel Ra`anana FC  (sr:match:72284052)
+2026-09-10 00:06:39,331  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:06:41,358  INFO    [ 89/164]  AL Wakrah SC vs Al-Shamal  (sr:match:73374502)
+2026-09-10 00:06:48,017  INFO      191 raw markets → 833 odds rows stored
+2026-09-10 00:06:50,019  INFO    [ 90/164]  Al-Sailiya SC vs Al Sadd SC  (sr:match:73374510)
+2026-09-10 00:07:09,807  INFO      221 raw markets → 913 odds rows stored
+2026-09-10 00:07:11,809  INFO    [ 91/164]  The Cong - Viettel FC vs Cong An Ha Noi FC  (sr:match:74090420)
+2026-09-10 00:07:20,881  INFO      179 raw markets → 790 odds rows stored
+2026-09-10 00:07:22,882  INFO    [ 92/164]  FK Arsenal Tivat vs OFK Mladost DG  (sr:match:72304274)
+2026-09-10 00:07:28,775  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:07:30,776  INFO    [ 93/164]  FK Bokelj Kotor vs FK Otrant-Olympic Ulcinj  (sr:match:72304278)
+2026-09-10 00:07:36,742  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:07:38,744  INFO    [ 94/164]  FK Buducnost vs FK Jezero Plav  (sr:match:72304276)
+2026-09-10 00:07:46,388  INFO      152 raw markets → 727 odds rows stored
+2026-09-10 00:07:48,389  INFO    [ 95/164]  Hapoel Karmiel FC vs Hapoel Bnei Musmus  (sr:match:111111114287758)
+2026-09-10 00:07:54,520  INFO      93 raw markets → 338 odds rows stored
+2026-09-10 00:07:56,520  INFO    [ 96/164]  Beitar Naharia vs Hapoel Bnei Jat United  (sr:match:74317874)
+2026-09-10 00:07:59,414  INFO      5 raw markets → 12 odds rows stored
+2026-09-10 00:08:01,416  INFO    [ 97/164]  Maccabi Um El Fahem vs Maccabi Neve Shaanan Eldad  (sr:match:74317864)
+2026-09-10 00:08:06,653  INFO      93 raw markets → 338 odds rows stored
+2026-09-10 00:08:08,655  INFO    [ 98/164]  Comunicaciones FC  vs CD Marquense  (sr:match:74170884)
+2026-09-10 00:08:14,056  INFO      174 raw markets → 769 odds rows stored
+2026-09-10 00:08:16,058  INFO    [ 99/164]  CD Suchitepequez vs CD Guastatoya  (sr:match:74298658)
+2026-09-10 00:08:22,155  INFO      174 raw markets → 770 odds rows stored
+2026-09-10 00:08:24,158  INFO    [100/164]  Aurora FC vs CSD Municipal  (sr:match:74413194)
+2026-09-10 00:08:36,377  INFO      174 raw markets → 771 odds rows stored
+2026-09-10 00:08:38,379  INFO    [101/164]  HYH Sebaco FC vs Diriangen FC Diriamba  (sr:match:74321094)
+2026-09-10 00:08:43,613  INFO      140 raw markets → 695 odds rows stored
+2026-09-10 00:08:45,614  INFO    [102/164]  CA Banfield vs Gimnasia de Mendoza Reserve  (sr:match:74292782)
+2026-09-10 00:08:50,894  INFO      18 raw markets → 85 odds rows stored
+2026-09-10 00:08:52,895  INFO    [103/164]  CA Tigre Reserve vs Atletico Tucuman Reserve  (sr:match:74292786)
+2026-09-10 00:08:56,786  INFO      18 raw markets → 85 odds rows stored
+2026-09-10 00:08:58,791  INFO    [104/164]  Deportivo Riestra Afbc Reserve vs CA Lanus  (sr:match:74292846)
+2026-09-10 00:09:02,714  INFO      18 raw markets → 85 odds rows stored
+2026-09-10 00:09:04,715  INFO    [105/164]  Estudiantes de LP Reserve vs CA Huracan  (sr:match:74292842)
+2026-09-10 00:09:08,442  INFO      18 raw markets → 85 odds rows stored
+2026-09-10 00:09:10,444  INFO    [106/164]  Independiente Rivadavia de Mendoza Reserve vs Newells Old Boys  (sr:match:74292850)
+2026-09-10 00:09:13,488  INFO      18 raw markets → 85 odds rows stored
+2026-09-10 00:09:15,489  INFO    [107/164]  Rosario Central Reserve vs CD Godoy Cruz  (sr:match:74292780)
+2026-09-10 00:09:21,784  INFO      18 raw markets → 85 odds rows stored
+2026-09-10 00:09:23,785  INFO    [108/164]  Carapegua vs Club Dr Benjamin Aceval  (sr:match:74456166)
+2026-09-10 00:09:35,120  INFO      81 raw markets → 279 odds rows stored
+2026-09-10 00:09:37,121  INFO    [109/164]  12 de Junio de Villa Hayes vs CA Tembetary Ypane  (sr:match:74456168)
+2026-09-10 00:09:52,768  INFO      81 raw markets → 279 odds rows stored
+2026-09-10 00:09:54,770  INFO    [110/164]  Tallinna JK Legion vs FA Tartu Kalev  (sr:match:68852236)
+2026-09-10 00:10:03,994  INFO      59 raw markets → 233 odds rows stored
+2026-09-10 00:10:05,995  INFO    [111/164]  Parnu JK Vaprus II vs FC Phoenix Johvi  (sr:match:68852238)
+2026-09-10 00:10:15,781  INFO      59 raw markets → 233 odds rows stored
+2026-09-10 00:10:17,782  INFO    [112/164]  Tartu JK Tammeka U21 vs Viljandi JK Tulevik  (sr:match:68852240)
+2026-09-10 00:10:26,625  INFO      3 raw markets → 8 odds rows stored
+2026-09-10 00:10:28,626  INFO    [113/164]  Municipal Limeno vs CD Aguila San Miguel  (sr:match:73075258)
+2026-09-10 00:10:40,588  INFO      97 raw markets → 319 odds rows stored
+2026-09-10 00:10:42,588  INFO    [114/164]  KF Dukagjini vs KF Malisheva  (sr:match:74352058)
+2026-09-10 00:10:55,495  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:10:57,496  INFO    [115/164]  Al Riffa vs AL-Khaldiya SC  (sr:match:73675430)
+2026-09-10 00:11:09,771  INFO      174 raw markets → 771 odds rows stored
+2026-09-10 00:11:11,772  INFO    [116/164]  Al-Muharraq SC vs Manama Club  (sr:match:73675432)
+2026-09-10 00:11:22,376  INFO      173 raw markets → 767 odds rows stored
+2026-09-10 00:11:24,377  INFO    [117/164]  SERC Brasil de Farroupilha RS vs CE Bento Goncalves RS  (sr:match:74224982)
+2026-09-10 00:11:27,019  INFO      0 raw markets → 0 odds rows stored
+2026-09-10 00:11:29,021  INFO    [118/164]  FC Santa Cruz RS vs GE Bage RS  (sr:match:74235008)
+2026-09-10 00:11:38,431  INFO      140 raw markets → 695 odds rows stored
+2026-09-10 00:11:40,432  INFO    [119/164]  Sport Club Gaucho Passo Fundo RS vs Gremio Esportivo Gloria RS  (sr:match:74244050)
+2026-09-10 00:11:49,084  INFO      140 raw markets → 695 odds rows stored
+2026-09-10 00:11:51,085  INFO    [120/164]  Ben Aknoun vs US Biskra  (sr:match:74136258)
+2026-09-10 00:12:00,709  INFO      182 raw markets → 810 odds rows stored
+2026-09-10 00:12:02,710  INFO    [121/164]  USM Alger vs Js El Biar  (sr:match:74136372)
+2026-09-10 00:12:12,133  INFO      181 raw markets → 805 odds rows stored
+2026-09-10 00:12:14,135  INFO    [122/164]  Uganda Police FC vs Updf FC  (sr:match:73961604)
+2026-09-10 00:12:17,678  INFO      3 raw markets → 8 odds rows stored
+2026-09-10 00:12:19,680  INFO    [123/164]  AL Jazeera Club Amman vs Shabab AL Ordun  (sr:match:74173580)
+2026-09-10 00:12:29,133  INFO      163 raw markets → 741 odds rows stored
+2026-09-10 00:12:31,135  INFO    [124/164]  Ibri vs Saham  (sr:match:74339368)
+2026-09-10 00:12:36,757  INFO      33 raw markets → 139 odds rows stored
+2026-09-10 00:12:38,757  INFO    [125/164]  Al Nahda vs Al-Seeb  (sr:match:74339370)
+2026-09-10 00:12:44,960  INFO      33 raw markets → 139 odds rows stored
+2026-09-10 00:12:46,961  INFO    [126/164]  Samail SC vs Fanja  (sr:match:74339372)
+2026-09-10 00:12:50,879  INFO      33 raw markets → 139 odds rows stored
+2026-09-10 00:12:52,880  INFO    [127/164]  Esteghlal Khuzestan FC vs Tractor Tabriz  (sr:match:73883660)
+2026-09-10 00:12:56,970  INFO      11 raw markets → 24 odds rows stored
+2026-09-10 00:12:58,971  INFO    [128/164]  Shams Azar Qazvin vs Gol Gohar Sirjan FC  (sr:match:73883664)
+2026-09-10 00:13:01,903  INFO      11 raw markets → 24 odds rows stored
+2026-09-10 00:13:03,904  INFO    [129/164]  Sabail FK vs Energetik Mingechevir  (sr:match:73730264)
+2026-09-10 00:13:07,054  INFO      10 raw markets → 69 odds rows stored
+2026-09-10 00:13:09,055  INFO    [130/164]  Zaqatala FK vs Baku SC  (sr:match:73730262)
+2026-09-10 00:13:12,789  INFO      10 raw markets → 69 odds rows stored
+2026-09-10 00:13:14,828  INFO    [131/164]  Cabrayil vs Khankendi FK  (sr:match:73730266)
+2026-09-10 00:13:19,535  INFO      10 raw markets → 69 odds rows stored
+2026-09-10 00:13:21,536  INFO    [132/164]  Amman FC vs Hay AL Amir Hassan  (sr:match:73497520)
+2026-09-10 00:13:28,583  INFO      33 raw markets → 139 odds rows stored
+2026-09-10 00:13:30,583  INFO    [133/164]  Ittihad AL Ramtha vs AL Sareeh  (sr:match:73497522)
+2026-09-10 00:13:35,238  INFO      33 raw markets → 139 odds rows stored
+2026-09-10 00:13:37,240  INFO    [134/164]  FC Andijon vs FK Kokand 1912  (sr:match:68380550)
+2026-09-10 00:13:43,279  INFO      89 raw markets → 295 odds rows stored
+2026-09-10 00:13:45,280  INFO    [135/164]  PFK Dinamo Samarqand vs Qizilqum Zarafshon  (sr:match:68380542)
+2026-09-10 00:13:52,434  INFO      89 raw markets → 295 odds rows stored
+2026-09-10 00:13:54,435  INFO    [136/164]  Xorazm Fk Urganch vs PFC Sogdiana  (sr:match:68380540)
+2026-09-10 00:14:00,838  INFO      89 raw markets → 295 odds rows stored
+2026-09-10 00:14:02,839  INFO    [137/164]  FK Utenos Utenis vs FK Sirijus  (sr:match:72379550)
+2026-09-10 00:14:06,795  INFO      3 raw markets → 8 odds rows stored
+2026-09-10 00:14:08,796  INFO    [138/164]  Al Quwa Al Jawiya vs Al Zawraa  (sr:match:74203124)
+2026-09-10 00:14:11,793  INFO      3 raw markets → 8 odds rows stored
+2026-09-10 00:14:13,795  INFO    [139/164]  Amazonas FC AM vs Monte Roraima RR  (sr:match:73953272)
+2026-09-10 00:14:29,936  INFO      0 raw markets → 0 odds rows stored
+2026-09-10 00:14:31,937  INFO    [140/164]  Millonarios FC vs Atletico Nacional SA  (sr:match:74325032)
+2026-09-10 00:14:36,153  INFO      0 raw markets → 0 odds rows stored
+2026-09-10 00:14:38,154  INFO    [141/164]  Alafoss vs Hafnir  (sr:match:70844586)
+2026-09-10 00:14:42,705  INFO      18 raw markets → 77 odds rows stored
+2026-09-10 00:14:44,706  INFO    [142/164]  Alftanes vs Ellidi  (sr:match:70844590)
+2026-09-10 00:14:50,275  INFO      12 raw markets → 61 odds rows stored
+2026-09-10 00:14:52,276  INFO    [143/164]  Vaengir Jupiters vs IH Hafnarfjordur  (sr:match:70844588)
+2026-09-10 00:15:01,363  INFO      20 raw markets → 81 odds rows stored
+2026-09-10 00:15:03,364  INFO    [144/164]  Portmore United vs Mount Pleasant FC  (sr:match:71913676)
+2026-09-10 00:15:06,920  INFO      0 raw markets → 0 odds rows stored
+2026-09-10 00:15:08,921  INFO    [145/164]  Deportivo Saprissa San Jose vs CS Cartagines  (sr:match:74161586)
+2026-09-10 00:15:18,222  INFO      148 raw markets → 711 odds rows stored
+2026-09-10 00:15:20,224  INFO    [146/164]  FC Motagua Tegucigalpa vs Alianza FC San Salvador  (sr:match:74161588)
+2026-09-10 00:15:27,902  INFO      148 raw markets → 711 odds rows stored
+2026-09-10 00:15:29,903  INFO    [147/164]  Blooming Santa Cruz vs GV Club Deportivo San Jose de Oruro  (sr:match:73550360)
+2026-09-10 00:15:40,356  INFO      84 raw markets → 285 odds rows stored
+2026-09-10 00:15:42,357  INFO    [148/164]  Deportivo Maldonado vs Montevideo Wanderers  (sr:match:73858356)
+2026-09-10 00:15:47,874  INFO      0 raw markets → 0 odds rows stored
+2026-09-10 00:15:49,876  INFO    [149/164]  CA Cerro vs CS Cerrito  (sr:match:74026954)
+2026-09-10 00:15:54,885  INFO      73 raw markets → 225 odds rows stored
+2026-09-10 00:15:56,886  INFO    [150/164]  Atlantis FC/Pm vs LPS Laajasalon  (sr:match:70684346)
+2026-09-10 00:16:00,576  INFO      16 raw markets → 72 odds rows stored
+2026-09-10 00:16:02,578  INFO    [151/164]  Tampereen Peli-Toverit vs NOPS  (sr:match:69923836)
+2026-09-10 00:16:05,825  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:16:07,826  INFO    [152/164]  Tips vs FC Lahti 69  (sr:match:69921928)
+2026-09-10 00:16:14,269  INFO      17 raw markets → 76 odds rows stored
+2026-09-10 00:16:16,271  INFO    [153/164]  Vpv vs FC Ylivieska  (sr:match:72510126)
+2026-09-10 00:16:20,341  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:16:22,344  INFO    [154/164]  Ppj/Lauttasaari vs VJS 2  (sr:match:70684348)
+2026-09-10 00:16:31,808  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:16:33,809  INFO    [155/164]  Hoogee vs Mps  (sr:match:72170278)
+2026-09-10 00:16:42,446  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:16:44,448  INFO    [156/164]  Hps 2 vs Valtti  (sr:match:70684350)
+2026-09-10 00:16:50,698  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:16:52,698  INFO    [157/164]  Juventus FC Managua vs FC Esteli  (sr:match:74425426)
+2026-09-10 00:16:58,705  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:17:00,706  INFO    [158/164]  Municipal Limeno vs CD Aguila  (sr:match:74458168)
+2026-09-10 00:17:03,928  INFO      25 raw markets → 123 odds rows stored
+2026-09-10 00:17:05,929  INFO    [159/164]  Skeid U19 vs Ullern U19  (sr:match:111111113759443)
+2026-09-10 00:17:09,061  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:17:11,061  INFO    [160/164]  Christiania BK U19 vs Sarpsborg FK U19  (sr:match:111111113746620)
+2026-09-10 00:17:13,919  INFO      12 raw markets → 62 odds rows stored
+2026-09-10 00:17:15,920  INFO    [161/164]  Grorud U19 vs Sprint-Jeløy U19  (sr:match:111111113746617)
+2026-09-10 00:17:19,240  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:17:21,242  INFO    [162/164]  KFUM U19 vs Lillehammer FK U19  (sr:match:111111113759447)
+2026-09-10 00:17:25,128  INFO      16 raw markets → 73 odds rows stored
+2026-09-10 00:17:27,129  INFO    [163/164]  Klofta U19 vs Gjelleråsen U19  (sr:match:111111113746618)
+2026-09-10 00:17:30,418  INFO      16 raw markets → 72 odds rows stored
+2026-09-10 00:17:32,419  INFO    [164/164]  Skedsmo U19 vs Ullensaker/Kisa U19  (sr:match:111111113759448)
+2026-09-10 00:17:36,411  INFO      12 raw markets → 61 odds rows stored
+2026-09-10 00:17:38,718  INFO  
+=================================================================
+2026-09-10 00:17:38,719  INFO    SCRAPER COMPLETE
+2026-09-10 00:17:38,719  INFO    Real fixtures scraped  : 164
+2026-09-10 00:17:38,719  INFO    Already in DB (skipped): 0
+2026-09-10 00:17:38,719  INFO    Failed                 : 0
+2026-09-10 00:17:38,720  INFO    Odds rows inserted     : 96,029
+2026-09-10 00:17:38,720  INFO    Database               : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-10 00:17:38,720  INFO  =================================================================

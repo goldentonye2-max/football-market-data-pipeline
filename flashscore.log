@@ -51548,3 +51548,1425 @@
 2026-09-08 02:01:48,021  INFO    flashscore_stats   : 36,244 rows
 2026-09-08 02:01:48,025  INFO    flashscore_incidents: 7,124 rows
 2026-09-08 02:01:48,026  INFO  =================================================================
+2026-09-09 00:56:27,035  INFO  =================================================================
+2026-09-09 00:56:27,074  INFO    FlashScore Pipeline  —  2026-09-08
+2026-09-09 00:56:27,075  INFO    Database : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-09 00:56:27,076  INFO  =================================================================
+2026-09-09 00:56:27,090  INFO  
+[1] LINKER — matching FlashScore matches to fixtures...
+2026-09-09 00:56:27,091  INFO    Fetching FlashScore list for 2026-09-08 (offset -1)...
+2026-09-09 00:56:33,433  INFO    FlashScore returned 278 match records for 2026-09-08
+2026-09-09 00:56:43,834  INFO    SportyBet fixtures for 2026-09-08: 198
+2026-09-09 00:56:44,048  INFO      ✅  [0.81]  AEK Athens vs LASK Linz  →  AEK Athens vs LASK  (EgODGq9F)
+2026-09-09 00:56:44,091  INFO      ✅  [0.94]  Club Brugge vs Aston Villa  →  Club Brugge KV vs Aston Villa  (hYMyrzBC)
+2026-09-09 00:56:44,135  INFO      ✅  [0.82]  Borussia Dortmund vs Villarreal  →  Dortmund vs Villarreal  (lGdh9XQ8)
+2026-09-09 00:56:44,224  INFO      ✅  [1.00]  Lille vs Betis  →  Lille vs Betis  (StY6NNoJ)
+2026-09-09 00:56:44,359  INFO      ✅  [0.85]  Porto vs Man City  →  FC Porto vs Manchester City  (SYL9LRdk)
+2026-09-09 00:56:44,445  INFO      ✅  [1.00]  Real Madrid vs Inter  →  Real Madrid vs Inter  (foBRjez1)
+2026-09-09 00:56:44,504  INFO      ✅  [0.87]  Bournemouth vs Lincoln City  →  Bournemouth vs Lincoln  (WKNAVZup)
+2026-09-09 00:56:44,603  INFO      ✅  [1.00]  Crystal Palace vs Middlesbrough FC  →  Crystal Palace vs Middlesbrough  (4YLITDAd)
+2026-09-09 00:56:44,726  INFO      ✅  [0.89]  Leyton Orient London vs Bradford City FC  →  Leyton Orient vs Bradford City  (E1rwHzRj)
+2026-09-09 00:56:44,856  INFO      ✅  [0.81]  Sunderland AFC vs Hull City  →  Sunderland vs Hull  (t8zPvvJc)
+2026-09-09 00:56:44,871  INFO      ✅  [1.00]  Millwall FC vs Newcastle  →  Millwall vs Newcastle  (SQcCD1Kb)
+2026-09-09 00:56:44,900  WARNING      ✗   Boldmere St Michaels FC vs Bourne Town  (best score: 0.64)
+2026-09-09 00:56:45,053  INFO      ✅  [0.71]  Brentwood Town FC vs Concord Rangers  →  Brentwood vs Concord  (KAH4DKsC)
+2026-09-09 00:56:45,115  INFO      ✅  [0.88]  Fakenham Town vs Ware FC  →  Fakenham vs Ware  (AqGXol7K)
+2026-09-09 00:56:45,136  WARNING      ✗   Havant & Waterlooville vs Chippenham Town  (best score: 0.69)
+2026-09-09 00:56:45,151  INFO      ✅  [0.87]  Hitchin Town vs Biggleswade Town  →  Hitchin vs Biggleswade Town  (Aivkgde4)
+2026-09-09 00:56:45,280  INFO      ✅  [0.82]  Kettering Town vs Wellingborough Town  →  Kettering vs Wellingborough  (6B9Xn4R1)
+2026-09-09 00:56:45,434  INFO      ✅  [0.83]  Needham Market vs Stanway Rovers  →  Needham Market vs Stanway  (pQxUALM6)
+2026-09-09 00:56:45,577  INFO      ✅  [0.89]  Worcester City vs Knowle FC  →  Worcester vs Knowle  (CjVWBwWQ)
+2026-09-09 00:56:45,666  INFO      ✅  [0.81]  Blackburn Rovers vs Sheffield United  →  Blackburn vs Sheffield Utd  (6a9dh3KO)
+2026-09-09 00:56:45,870  INFO      ✅  [0.70]  Cardiff City vs Stoke City  →  Cardiff vs Stoke  (dbDGQPN6)
+2026-09-09 00:56:45,937  INFO      ✅  [0.87]  Southampton vs Swansea City  →  Southampton vs Swansea  (0lVsUbUb)
+2026-09-09 00:56:46,003  INFO      ✅  [0.79]  Watford vs Preston North End  →  Watford vs Preston  (AT3T62ZH)
+2026-09-09 00:56:46,016  INFO      ✅  [1.00]  Wrexham AFC vs Burnley  →  Wrexham vs Burnley  (CANTKfio)
+2026-09-09 00:56:46,122  INFO      ✅  [0.77]  Bolton Wanderers vs West Ham  →  Bolton vs West Ham  (dOl6C65t)
+2026-09-09 00:56:46,252  INFO      ✅  [0.72]  NEC Nijmegen vs Excelsior Rotterdam  →  Nijmegen vs Excelsior  (UozGEIIk)
+2026-09-09 00:56:46,445  INFO      ✅  [0.86]  Fluminense FC RJ vs CA Platense  →  Fluminense (Bra) vs Platense (Arg)  (0KaRDUH0)
+2026-09-09 00:56:46,455  WARNING      ✗   AEK Athens vs LASK Linz U19  (best score: 0.62)
+2026-09-09 00:56:46,478  INFO      ✅  [0.80]  FC Porto vs Manchester City FC  →  FC Porto U19 vs Manchester City U19  (Cbsr0ZUF)
+2026-09-09 00:56:46,488  INFO      ✅  [0.85]  Club Brugge vs Aston Villa  →  Club Brugge U19 vs Aston Villa U19  (lbRFEYq9)
+2026-09-09 00:56:46,500  WARNING      ✗   LOSC Lille vs Real Betis Balompie  (best score: 0.48)
+2026-09-09 00:56:46,508  WARNING      ✗   Borussia Dortmund vs Villarreal CF  (best score: 0.68)
+2026-09-09 00:56:46,517  INFO      ✅  [0.71]  Real Madrid vs Inter Milano  →  Real Madrid U19 vs Inter U19  (ERVLhiNk)
+2026-09-09 00:56:46,702  INFO      ✅  [0.83]  Incheon United FC vs Bucheon FC 1995  →  Incheon vs Bucheon FC 1995  (hOKxhV4e)
+2026-09-09 00:56:46,709  INFO      ✅  [1.00]  Ulsan HD FC vs FC Seoul  →  Ulsan HD vs Seoul  (KAMUgizq)
+2026-09-09 00:56:46,866  INFO      ✅  [0.85]  Union de Santa Fe vs Instituto AC Cordoba  →  Union de Santa Fe vs Instituto  (2myy0lPc)
+2026-09-09 00:56:46,918  INFO      ✅  [1.00]  Smouha SC vs Ceramica Cleopatra  →  Smouha vs Ceramica Cleopatra  (dvB2g38F)
+2026-09-09 00:56:46,932  INFO      ✅  [0.93]  Zamalek SC vs Abo Qair Semads  →  Zamalek vs Abu Qir Semad  (ANCfePw3)
+2026-09-09 00:56:46,943  INFO      ✅  [0.88]  FK Ryazan vs Spartak Kostroma  →  Ryazan vs S. Kostroma  (EVmhwHOH)
+2026-09-09 00:56:46,959  INFO      ✅  [0.76]  FC Tekstilshchik Ivanovo vs PFK Arsenal Tula  →  Tekstilshtik vs Arsenal Tula  (2Lq4pqdC)
+2026-09-09 00:56:47,028  INFO      ✅  [1.00]  Al-Ettifaq FC vs Al-Faisaly FC  →  Al Ettifaq vs Al-Faisaly  (KY1CSPbe)
+2026-09-09 00:56:47,032  INFO      ✅  [0.94]  Al-Hazm vs Al-Taawoun FC  →  Al Hazem vs Al Taawon  (hn0KQ3T7)
+2026-09-09 00:56:47,095  INFO      ✅  [0.85]  Al Qadsiah vs Al Ahli Saudi FC  →  Al Qadsiah vs Al Ahli SC  (QkeEnojR)
+2026-09-09 00:56:47,190  INFO      ✅  [0.90]  Al-Ittihad Club vs Al-Fayha FC  →  Al Ittihad vs Al Fayha  (Khh6l7LE)
+2026-09-09 00:56:47,226  INFO      ✅  [1.00]  Airdrieonians FC vs St Mirren B  →  Airdrieonians vs St. Mirren B  (fk1HnlGF)
+2026-09-09 00:56:47,249  INFO      ✅  [0.76]  Annan Athletic FC vs Motherwell B  →  Annan vs Motherwell B  (ChMdSJU0)
+2026-09-09 00:56:47,266  INFO      ✅  [1.00]  Banks O´Dee FC vs Forfar Athletic FC  →  Banks O' Dee vs Forfar Athletic  (CCCjl1iK)
+2026-09-09 00:56:47,281  INFO      ✅  [0.82]  Berwick Rangers vs Hibernian B  →  Berwick vs Hibernian B  (bsE5zKwK)
+2026-09-09 00:56:47,292  INFO      ✅  [1.00]  Clyde FC vs East Fife FC  →  Clyde vs East Fife  (lh6UtJqf)
+2026-09-09 00:56:47,305  INFO      ✅  [0.76]  Clydebank FC vs Alloa Athletic FC  →  Clydebank FC vs Alloa  (UV7pwyqJ)
+2026-09-09 00:56:47,316  INFO      ✅  [1.00]  Cove Rangers FC vs Dumbarton FC  →  Cove Rangers vs Dumbarton  (h8o2eIbm)
+2026-09-09 00:56:47,419  INFO      ✅  [1.00]  Cowdenbeath FC vs Kilmarnock FC B  →  Cowdenbeath vs Kilmarnock B  (Ya2HizbC)
+2026-09-09 00:56:47,435  INFO      ✅  [1.00]  Cumbernauld Colts FC vs Kelty Hearts FC  →  Cumbernauld Colts vs Kelty Hearts  (dxtZ9HDt)
+2026-09-09 00:56:47,499  INFO      ✅  [1.00]  East Kilbride FC vs Bonnyrigg Rose  →  East Kilbride vs Bonnyrigg Rose  (zmsk6ZC5)
+2026-09-09 00:56:47,668  INFO      ✅  [0.94]  Edinburgh City FC vs Queen of the South FC  →  Edinburgh City vs Queen of South  (jwl52iCU)
+2026-09-09 00:56:47,703  INFO      ✅  [1.00]  Elgin City FC vs Fraserburgh  →  Elgin City vs Fraserburgh  (h6MMKYRb)
+2026-09-09 00:56:47,732  INFO      ✅  [0.90]  Formartine United vs Dundee United B  →  Formartine Utd vs Dundee Utd B  (WIn204tp)
+2026-09-09 00:56:47,749  WARNING      ✗   Gala Fairydean Rovers vs Heart of Midlothian B  (best score: 0.64)
+2026-09-09 00:56:47,757  INFO      ✅  [1.00]  Montrose FC vs Dundee FC B  →  Montrose vs Dundee FC B  (WAbBI32S)
+2026-09-09 00:56:47,790  INFO      ✅  [1.00]  Peterhead FC vs Clachnacuddin FC  →  Peterhead vs Clachnacuddin  (z7mkBLf2)
+2026-09-09 00:56:47,807  INFO      ✅  [1.00]  Ross County FC vs Aberdeen FC B  →  Ross County vs Aberdeen B  (lUwqX2HL)
+2026-09-09 00:56:47,825  INFO      ✅  [0.80]  Spartans FC vs Hamilton Academical FC  →  Spartans vs Hamilton  (QeA4Gbnl)
+2026-09-09 00:56:47,837  WARNING      ✗   Stirling Albion FC vs Glasgow Rangers FC B  (best score: 0.69)
+2026-09-09 00:56:47,840  WARNING      ✗   Independiente Santa Fe vs CR Vasco da Gama RJ  (best score: 0.47)
+2026-09-09 00:56:47,842  INFO      ✅  [0.78]  Atletico Nacional vs Deportivo Cali  →  Atl. Nacional vs Dep. Cali  (8EfR3hAs)
+2026-09-09 00:56:47,854  INFO      ✅  [0.71]  Olympiacos vs Volos NPS  →  Olympiacos Piraeus vs Volos  (fm2LhBte)
+2026-09-09 00:56:47,959  WARNING      ✗   Benin vs Argentina  (best score: 0.69)
+2026-09-09 00:56:47,963  WARNING      ✗   Brazil vs Canada  (best score: 0.67)
+2026-09-09 00:56:47,971  INFO      ✅  [0.71]  England vs Tanzania  →  England U20 W vs Tanzania U20 W  (8xPor5eR)
+2026-09-09 00:56:47,981  WARNING      ✗   Poland vs Mexico  (best score: 0.67)
+2026-09-09 00:56:48,312  INFO      ✅  [0.70]  Atlanta United 2 vs CT United FC  →  Atlanta United 2 vs Connecticut FC  (8UZP9ilf)
+2026-09-09 00:56:48,336  INFO      ✅  [1.00]  Toronto FC II vs Columbus Crew 2  →  Toronto FC II vs Columbus Crew 2  (fsOJ19EN)
+2026-09-09 00:56:48,340  INFO      ✅  [0.77]  New York City FC II vs Red Bull New York II  →  New York City II vs New York Red Bulls II  (C2tHBDJs)
+2026-09-09 00:56:48,349  INFO      ✅  [1.00]  Olympic Kingsway SC vs Perth Azzurri  →  Olympic Kingsway vs Perth Azzurri  (2NM1uHW1)
+2026-09-09 00:56:48,404  INFO      ✅  [0.90]  Al-Zlfe vs Hajer FC  →  Al Zulfi vs Hajer  (M7q3l0HF)
+2026-09-09 00:56:48,413  INFO      ✅  [1.00]  Damac FC vs AL Ula  →  Damac vs Al-Ula  (S6BzWi1l)
+2026-09-09 00:56:48,436  INFO      ✅  [0.88]  AL Anwar vs AL Tai  →  Al Anwar vs Al Taee  (0K9rUVV0)
+2026-09-09 00:56:48,452  INFO      ✅  [0.86]  Doncaster Rovers vs Huddersfield  →  Doncaster vs Huddersfield  (W6rRxQNt)
+2026-09-09 00:56:48,497  INFO      ✅  [0.74]  Exeter City vs Tottenham Hotspur U21  →  Exeter vs Tottenham U21  (KU5qnkIi)
+2026-09-09 00:56:48,499  INFO      ✅  [0.87]  UD San Fernando vs Orihuela CF  →  San Fernando vs Orihuela  (lGlbO8eE)
+2026-09-09 00:56:48,581  INFO      ✅  [0.85]  Puerto Montt vs CSD Rangers  →  D. Puerto Montt vs Rangers  (8GWDdcjm)
+2026-09-09 00:56:49,028  INFO      ✅  [0.90]  CS Emelec vs Manta FC  →  Emelec vs Manta  (KU78rBsn)
+2026-09-09 00:56:49,156  INFO      ✅  [0.76]  Mushuc Runa SC vs Leones Futbol Club  →  Mushuc Runa vs Leones del Norte  (KzaIOGjD)
+2026-09-09 00:56:49,164  INFO      ✅  [1.00]  Orense SC vs Guayaquil City FC  →  Orense vs Guayaquil City  (AyWrSkc5)
+2026-09-09 00:56:49,275  INFO      ✅  [0.83]  AFC Telford United vs Oxford City  →  AFC Telford vs Oxford City  (4MJDix9M)
+2026-09-09 00:56:49,290  INFO      ✅  [1.00]  Buxton FC vs Brackley Town FC  →  Buxton vs Brackley Town  (0h5qnGWq)
+2026-09-09 00:56:49,304  INFO      ✅  [1.00]  Chester FC vs Merthyr Town  →  Chester vs Merthyr Town  (YXBuEXPp)
+2026-09-09 00:56:49,356  INFO      ✅  [1.00]  Chorley FC vs Darlington FC  →  Chorley vs Darlington  (n93ipf1d)
+2026-09-09 00:56:49,366  INFO      ✅  [0.90]  Harborough Town FC vs Hereford FC  →  Harborough vs Hereford  (EFew8cg3)
+2026-09-09 00:56:49,433  INFO      ✅  [0.88]  Kings Lynn FC vs Hednesford Town  →  King’s Lynn vs Hednesford  (nTgo6yOF)
+2026-09-09 00:56:49,445  INFO      ✅  [0.85]  Macclesfield FC vs Scarborough Athletic  →  Macclesfield vs Scarborough  (hSLImT7l)
+2026-09-09 00:56:49,479  INFO      ✅  [1.00]  Radcliffe FC vs Hebburn Town  →  Radcliffe vs Hebburn Town  (bPOQo7x1)
+2026-09-09 00:56:49,502  INFO      ✅  [1.00]  South Shields vs Marine FC  →  South Shields vs Marine  (WxNYqo7D)
+2026-09-09 00:56:49,518  INFO      ✅  [1.00]  Southport FC vs Morecambe FC  →  Southport vs Morecambe  (bqFK7laK)
+2026-09-09 00:56:49,530  INFO      ✅  [0.90]  Spennymoor Town FC vs Spalding United  →  Spennymoor vs Spalding United  (UR5j2SMs)
+2026-09-09 00:56:49,540  WARNING      ✗   Worksop Town vs Bedford Town Football Club  (best score: 0.58)
+2026-09-09 00:56:49,550  INFO      ✅  [0.73]  Chesham United vs Billericay Town  →  Chesham vs Billericay  (AmYZzwLH)
+2026-09-09 00:56:49,566  WARNING      ✗   Dagenham and Redbridge FC vs Dover Athletic FC  (best score: 0.50)
+2026-09-09 00:56:49,581  WARNING      ✗   Dorking Wanderers vs Chelmsford City  (best score: 0.69)
+2026-09-09 00:56:49,720  INFO      ✅  [0.79]  Ebbsfleet United FC vs Hemel Hempstead Town  →  Ebbsfleet vs Hemel Hempstead  (vNEaib5b)
+2026-09-09 00:56:49,745  INFO      ✅  [0.86]  Folkestone Invicta vs Horsham FC  →  Folkestone vs Horsham FC  (nmI7kxzB)
+2026-09-09 00:56:49,760  INFO      ✅  [0.90]  Hampton & Richmond Borough vs Farnborough FC  →  Hampton & Richmond vs Farnborough  (hnpuXTJq)
+2026-09-09 00:56:49,820  INFO      ✅  [0.70]  Maidenhead United FC vs Torquay United  →  Maidenhead vs Torquay  (QarmV7ld)
+2026-09-09 00:56:49,925  INFO      ✅  [0.85]  Salisbury FC vs Slough Town  →  Salisbury vs Slough  (I7pYhBt3)
+2026-09-09 00:56:50,035  INFO      ✅  [0.72]  Tonbridge Angels vs Maidstone United FC  →  Tonbridge vs Maidstone  (QXmtikBF)
+2026-09-09 00:56:50,058  INFO      ✅  [1.00]  Weston-super-Mare vs AFC Totton  →  Weston-super-Mare vs AFC Totton  (bonlkTuS)
+2026-09-09 00:56:50,073  INFO      ✅  [1.00]  SK Djerv 1919 vs FK Haugesund  →  Djerv 1919 vs Haugesund  (n34Z1MQ7)
+2026-09-09 00:56:50,096  INFO      ✅  [0.76]  Asker Fotball vs Stroemsgodset IF  →  Asker vs Stromsgodset  (K6aTN3mR)
+2026-09-09 00:56:50,133  INFO      ✅  [0.72]  Fleetwood Town U21 vs Burnley Reserves  →  Fleetwood U21 vs Burnley U21  (6Tbbrj9K)
+2026-09-09 00:56:50,144  INFO      ✅  [0.88]  Hull City U21 vs Brentford U21  →  Hull U21 vs Brentford U21  (APmxy81f)
+2026-09-09 00:56:50,150  WARNING      ✗   JK Narva Trans vs Tallinna FC Flora  (best score: 0.53)
+2026-09-09 00:56:50,158  INFO      ✅  [0.74]  Nomme Kalju FC vs FC Nomme United  →  Kalju vs Nomme Utd  (b1N1aEjR)
+2026-09-09 00:56:50,166  INFO      ✅  [0.91]  FC Lahti vs IFK Mariehamn  →  Lahti vs Mariehamn  (lvwCe90f)
+2026-09-09 00:56:50,173  WARNING      ✗   Tampereen Ilves vs FF Jaro  (best score: 0.61)
+2026-09-09 00:56:50,185  WARNING      ✗   Turun Palloseura vs Seinajoen JK  (best score: 0.39)
+2026-09-09 00:56:50,194  WARNING      ✗   Vaasan Palloseura vs AC Oulu  (best score: 0.60)
+2026-09-09 00:56:50,203  WARNING      ✗   IF Gnistan vs Kuopion Palloseura  (best score: 0.68)
+2026-09-09 00:56:50,211  INFO      ✅  [1.00]  Larne FC vs Bangor FC  →  Larne vs Bangor FC  (67sGQdCU)
+2026-09-09 00:56:50,221  INFO      ✅  [0.92]  CA Claypole vs Central Ballester  →  Claypole vs Central Ballester  (Sjnoo5e2)
+2026-09-09 00:56:50,303  INFO      ✅  [0.80]  Umecit vs CA Independiente de La Chorrera  →  UMECIT vs Independiente  (jRc37YXA)
+2026-09-09 00:56:50,327  WARNING      ✗   SK Novohrad Lucenec vs KFC Komarno  (best score: 0.69)
+2026-09-09 00:56:50,345  WARNING      ✗   MFK Spartak Medzev vs MFK Zemplin Michalovce  (best score: 0.56)
+2026-09-09 00:56:50,349  INFO      ✅  [0.91]  MSK Namestovo vs MFk Bytca  →  Namestovo vs MFK Bytca  (b9bs3fkA)
+2026-09-09 00:56:50,356  WARNING      ✗   Raca Bratislava vs FC STK 1914 Samorin  (best score: 0.51)
+2026-09-09 00:56:50,364  INFO      ✅  [0.82]  Spisska Nova Ves vs FK Zeleziarne Podbrezova  →  Spisska Nova Ves vs Podbrezova  (x0qAf9p9)
+2026-09-09 00:56:50,407  INFO      ✅  [0.85]  FK Sutjeska Niksic vs FK Mornar Bar  →  Sutjeska vs Mornar Bar  (f3Q7oDQi)
+2026-09-09 00:56:50,412  INFO      ✅  [0.75]  NK Vardarac vs HNK Hajduk Split  →  Vardarac Vardaroc vs Hajduk Split  (lrFa9szp)
+2026-09-09 00:56:50,418  INFO      ✅  [0.88]  NK Zagorec Krapina vs NK Istra 1961  →  Zagorec K. vs Istra 1961  (4EFF0DiC)
+2026-09-09 00:56:50,419  WARNING      ✗   AD Cofutpa vs Municipal Grecia  (best score: 0.68)
+2026-09-09 00:56:50,433  INFO      ✅  [0.74]  At Rafaela Reserve vs Independiente Reserve  →  Atl. Rafaela 2 vs Independiente 2  (SCKTAkGa)
+2026-09-09 00:56:50,443  WARNING      ✗   CA Quilmes Reserve vs Ferro Carril Oeste  (best score: 0.54)
+2026-09-09 00:56:50,454  INFO      ✅  [0.75]  Colon de Santa Fe Reserve vs CA Belgrano  →  Colon Santa Fe 2 vs Belgrano 2  (42Lddj16)
+2026-09-09 00:56:50,469  INFO      ✅  [0.73]  Racing Club Reserve vs Argentinos Juniors Reserve  →  Racing Club 2 vs Argentinos Jrs 2  (AJf1PlVh)
+2026-09-09 00:56:50,484  INFO      ✅  [0.71]  Velez Sarsfield Reserve vs Gimnasia de la Plata Reserve  →  Velez Sarsfield 2 vs Gimnasia L.P. 2  (EVsHqDH0)
+2026-09-09 00:56:50,486  WARNING      ✗   CA River Plate (Arg) Reserve vs CA Aldosivi Reserve  (best score: 0.65)
+2026-09-09 00:56:50,494  INFO      ✅  [0.89]  3 de Noviembre vs Club Sol de América  →  3 de Noviembre vs Sol de America  (M1UHTSXR)
+2026-09-09 00:56:50,515  INFO      ✅  [1.00]  Paraguari AC vs Guairena FC  →  Paraguari AC vs Guairena  (IXFmO6ek)
+2026-09-09 00:56:50,519  INFO      ✅  [0.95]  Club General Caballero JLM vs Resistencia SC  →  General Caballero JLM vs Resistencia  (QcJeMpQ1)
+2026-09-09 00:56:50,526  INFO      ✅  [0.76]  KF Drenica Skenderaj vs FC Prishtina  →  Drenica vs Prishtina  (IirJRHof)
+2026-09-09 00:56:50,532  INFO      ✅  [0.93]  KF Vushtrria vs KF Llapi  →  Vushtrria vs KF Llapi  (ARvBTwHs)
+2026-09-09 00:56:50,545  WARNING      ✗   Central Espanol Reserve vs Albion FC  (best score: 0.41)
+2026-09-09 00:56:50,632  WARNING      ✗   Cerro Porteño Reserves vs Club Nacional Asuncion Reserves  (best score: 0.31)
+2026-09-09 00:56:50,635  INFO      ✅  [1.00]  Bul FC vs Ntugasaze FC  →  BUL vs Ntugasaze  (YibcyQY2)
+2026-09-09 00:56:50,644  INFO      ✅  [0.79]  Kigezi Homeboyz FC vs Kampala Capital City Authority FC  →  Kigezi HomeBoyz vs Kampala City  (tI15Z33F)
+2026-09-09 00:56:50,658  INFO      ✅  [1.00]  Maroons FC vs Blacks Power FC  →  Maroons vs Blacks Power  (vVODTDFd)
+2026-09-09 00:56:50,673  WARNING      ✗   Mashujaa FC vs Singida Black Stars FC  (best score: 0.39)
+2026-09-09 00:56:50,686  INFO      ✅  [1.00]  Eintracht Trier vs SC Freiburg II  →  Eintracht Trier vs Freiburg II  (bcS8lHg2)
+2026-09-09 00:56:50,706  INFO      ✅  [0.74]  FC Astoria Walldorf vs Stuttgarter Kickers  →  Walldorf vs Stutt. Kickers  (CtU0jwPk)
+2026-09-09 00:56:50,728  INFO      ✅  [0.72]  Offenbacher FC Kickers 1901 vs TSV Steinbach Haiger  →  Offenbach vs Steinbach Haiger  (Q3KfCKo9)
+2026-09-09 00:56:50,730  WARNING      ✗   Negeri Sembilan vs Wan Tendong Stable  (best score: 0.63)
+2026-09-09 00:56:50,735  INFO      ✅  [0.88]  Star City FC vs Kedah FA  →  Star City vs Kedah  (YZdg9AHD)
+2026-09-09 00:56:50,741  WARNING      ✗   PEPO Lappeenranta vs HIFK  (best score: 0.69)
+2026-09-09 00:56:51,005  INFO      ✅  [1.00]  FC Kiffen vs Atlantis FC  →  Kiffen vs Atlantis  (EwxB7o5M)
+2026-09-09 00:56:51,028  INFO      ✅  [0.70]  HPS vs PPJ Helsinki  →  HPS vs PPJ  (CUsBCXnJ)
+2026-09-09 00:56:51,104  INFO      ✅  [1.00]  FC Domagnano vs SC Faetano  →  Domagnano vs Faetano  (SEutrDg2)
+2026-09-09 00:56:51,118  INFO      ✅  [0.93]  SP Tre Penne vs AC Juvenes/Dogana  →  Tre Penne vs Juvenes/Dogana  (Qoi2ke1S)
+2026-09-09 00:56:51,173  WARNING      ✗   PFC Montana 1921 vs PFC Vihren Sandanski  (best score: 0.54)
+2026-09-09 00:56:51,177  INFO      ✅  [0.96]  Al Mesaimeer vs Al Kharaitiyat SC  →  Al Mesaimeer vs Al-Kharitiyath  (hUxDIMdT)
+2026-09-09 00:56:51,180  INFO      ✅  [0.88]  Duhok FC vs Gas Alshimal  →  Duhok vs Ghaz Al Shamal  (Y3rVk5CU)
+2026-09-09 00:56:51,183  INFO      ✅  [1.00]  Erbil SC vs Diyala FC  →  Erbil vs Diyala  (2JIvA8cn)
+2026-09-09 00:56:51,185  INFO      ✅  [0.74]  Estoril Praia vs FC Famalicao  →  Estoril U23 vs Famalicao U23  (xrdE00z2)
+2026-09-09 00:56:51,187  INFO      ✅  [0.85]  Portimonense vs FC Felgueiras 1932 U23  →  Portimonense U23 vs Felgueiras U23  (Uyq0O3S8)
+2026-09-09 00:56:51,190  INFO      ✅  [0.80]  Rio Ave vs Torreense  →  Rio Ave U23 vs Torreense U23  (tvkT94DF)
+2026-09-09 00:56:51,199  INFO      ✅  [0.82]  Maritimo Madeira vs Gil Vicente FC U23  →  Maritimo U23 vs Gil Vicente U23  (8pwvHLKr)
+2026-09-09 00:56:51,207  INFO      ✅  [0.94]  Academico Viseu vs Moreirense FC U23  →  Academico Viseu U23 vs Moreirense U23  (Eimy8rrS)
+2026-09-09 00:56:51,225  INFO      ✅  [0.74]  Estrela Amadora vs UD Leiria U23  →  Estrela U23 vs Leiria U23  (tbynFake)
+2026-09-09 00:56:51,237  INFO      ✅  [0.85]  Athletic Club MG vs Real Brasilia FC DF  →  Athletic Club U20 vs Real Brasilia U20  (0U8vKIF7)
+2026-09-09 00:56:51,247  INFO      ✅  [0.74]  Atletico Mineiro MG vs Sobradinho  →  Atletico-MG U20 vs Sobradinho U20  (x4NpVrO8)
+2026-09-09 00:56:51,395  INFO      ✅  [0.73]  CR Flamengo RJ vs Forte FC ES  →  Flamengo RJ U20 vs Forte U20  (OOmEcP3T)
+2026-09-09 00:56:51,426  INFO      ✅  [0.71]  EC Bahia BA vs Alagoinhas AC BA  →  Bahia U20 vs Alagoinhas U20  (2XRj911k)
+2026-09-09 00:56:51,441  WARNING      ✗   Gremio FB Porto Alegrense RS vs Real SC RS  (best score: 0.52)
+2026-09-09 00:56:51,453  INFO      ✅  [0.81]  AD Sao Caetano SP vs Osasco Sporting SP  →  Sao Caetano U20 vs Osasco Sporting U20  (p4avCptC)
+2026-09-09 00:56:51,519  INFO      ✅  [0.72]  EC Agua Santa SP vs SE Palmeiras SP  →  Agua Santa U20 vs Palmeiras U20  (j12nAOAO)
+2026-09-09 00:56:51,547  WARNING      ✗   SD Huesca vs Zaragoza Cff  (best score: 0.36)
+2026-09-09 00:56:51,568  WARNING      ✗   Alhama CF vs CD Alba Fundacion  (best score: 0.49)
+2026-09-09 00:56:51,569  INFO      ✅  [0.88]  Club Leon vs Puebla FC  →  Club Leon W vs Puebla W  (fDFlTXDa)
+2026-09-09 00:56:51,627  INFO      ✅  [0.86]  Koldingq vs Broendby IF  →  KoldingQ W vs Brondby W  (0haYsiDM)
+2026-09-09 00:56:51,632  WARNING      ✗   CR Vasco da Gama RJ vs CA Piauiense PI  (best score: 0.41)
+2026-09-09 00:56:51,638  WARNING      ✗   CD Cortulua vs Internacional de Bogota  (best score: 0.42)
+2026-09-09 00:56:51,786  INFO      ✅  [1.00]  SC Rust vs SV Leithaprodersdorf  →  Rust vs Leithaprodersdorf  (0M6fquVi)
+2026-09-09 00:56:51,856  INFO      ✅  [0.85]  Club Aurora vs Real Potosi  →  Aurora vs Real Potosi  (GQblKcte)
+2026-09-09 00:56:51,867  INFO      ✅  [0.82]  Alianca FC GO vs Anapolina Saf GO  →  Alianca GO W vs Anapolina W  (YROB6SRr)
+2026-09-09 00:56:51,869  INFO      ✅  [0.81]  Inter Playa Del Carmen vs Pioneros de Cancun  →  Inter Playa Del Carmen vs Pioneros  (SCz1dNmJ)
+2026-09-09 00:56:51,870  WARNING      ✗   Kanan FC Aizawl vs Saikhamakawn FC  (best score: 0.07)
+2026-09-09 00:56:51,873  WARNING      ✗   Mizoram Police FC vs Mls FC Lawtngtlai  (best score: 0.30)
+2026-09-09 00:56:51,887  INFO      ✅  [0.91]  AFC Hornchurch vs Ipswich Town U21  →  Hornchurch vs Ipswich U21  (6LSdYdKl)
+2026-09-09 00:56:51,900  INFO      ✅  [0.96]  Boreham Wood FC vs Newcastle United U21  →  Boreham Wood vs Newcastle Utd U21  (Q7fSW40s)
+2026-09-09 00:56:51,910  INFO      ✅  [0.79]  Boston United FC vs West Bromwich Albion FC U21  →  Boston Utd vs West Brom U21  (CrajR0UI)
+2026-09-09 00:56:51,918  WARNING      ✗   FC Halifax Town vs Wolverhampton Wanderers U21  (best score: 0.64)
+2026-09-09 00:56:51,925  INFO      ✅  [0.86]  Gateshead FC vs Derby County U21  →  Gateshead vs Derby U21  (SlCNWqqp)
+2026-09-09 00:56:51,934  INFO      ✅  [0.77]  Scunthorpe United vs Nottingham Forest U21  →  Scunthorpe vs Nottingham U21  (S82HhR53)
+2026-09-09 00:56:51,967  INFO      ✅  [0.86]  Solihull Moors FC vs Leeds United U21  →  Solihull Moors vs Leeds U21  (4IerTMa6)
+2026-09-09 00:56:51,979  INFO      ✅  [0.74]  Sutton United vs Birmingham City U21  →  Sutton vs Birmingham U21  (vkixk4MP)
+2026-09-09 00:56:51,985  INFO      ✅  [0.89]  Aldershot Town FC vs West Ham U21  →  Aldershot vs West Ham U21  (hxR4Wzk1)
+2026-09-09 00:56:52,124  INFO      ✅  [0.89]  Braintree Town FC vs Fulham U21  →  Braintree vs Fulham U21  (02UCUEJD)
+2026-09-09 00:56:52,145  INFO      ✅  [0.91]  Worthing FC vs Norwich City U21  →  Worthing vs Norwich U21  (fP3dxRxK)
+2026-09-09 00:56:52,157  INFO      ✅  [1.00]  Woking FC vs Southampton U21  →  Woking vs Southampton U21  (8njFsMEa)
+2026-09-09 00:56:52,202  INFO      ✅  [0.85]  Caicara EC PI vs River PI  →  Caicara vs River-PI  (noLI2hNc)
+2026-09-09 00:56:53,994  INFO      Newly linked : 159
+2026-09-09 00:56:53,994  INFO      Already done : 0
+2026-09-09 00:56:53,995  INFO  
+[2] STATS — fetching match statistics and incidents...
+2026-09-09 00:56:53,998  INFO    Matches needing stats for 2026-09-08: 159
+2026-09-09 00:56:53,998  INFO    [  1/159]  AEK Athens vs LASK Linz  (EgODGq9F)
+2026-09-09 00:56:56,496  INFO      Stats   : 120 rows stored
+2026-09-09 00:56:59,692  INFO      Incidents: 11 rows stored
+2026-09-09 00:57:01,725  INFO    [  2/159]  Club Brugge vs Aston Villa  (hYMyrzBC)
+2026-09-09 00:57:03,239  INFO      Stats   : 120 rows stored
+2026-09-09 00:57:05,406  INFO      Incidents: 20 rows stored
+2026-09-09 00:57:07,357  INFO    [  3/159]  Borussia Dortmund vs Villarreal  (lGdh9XQ8)
+2026-09-09 00:57:08,780  INFO      Stats   : 122 rows stored
+2026-09-09 00:57:11,058  INFO      Incidents: 19 rows stored
+2026-09-09 00:57:13,060  INFO    [  4/159]  Lille vs Betis  (StY6NNoJ)
+2026-09-09 00:57:14,640  INFO      Stats   : 124 rows stored
+2026-09-09 00:57:16,914  INFO      Incidents: 20 rows stored
+2026-09-09 00:57:19,047  INFO    [  5/159]  Porto vs Man City  (SYL9LRdk)
+2026-09-09 00:57:20,896  INFO      Stats   : 122 rows stored
+2026-09-09 00:57:24,487  INFO      Incidents: 17 rows stored
+2026-09-09 00:57:26,504  INFO    [  6/159]  Real Madrid vs Inter  (foBRjez1)
+2026-09-09 00:57:27,969  INFO      Stats   : 120 rows stored
+2026-09-09 00:57:30,768  INFO      Incidents: 16 rows stored
+2026-09-09 00:57:32,927  INFO    [  7/159]  Bournemouth vs Lincoln City  (WKNAVZup)
+2026-09-09 00:57:38,042  INFO      Stats   : 122 rows stored
+2026-09-09 00:57:42,282  INFO      Incidents: 19 rows stored
+2026-09-09 00:57:44,056  INFO    [  8/159]  Crystal Palace vs Middlesbrough FC  (4YLITDAd)
+2026-09-09 00:57:45,780  INFO      Stats   : 122 rows stored
+2026-09-09 00:57:47,908  INFO      Incidents: 15 rows stored
+2026-09-09 00:57:49,759  INFO    [  9/159]  Leyton Orient London vs Bradford City FC  (E1rwHzRj)
+2026-09-09 00:57:53,667  INFO      Stats   : 122 rows stored
+2026-09-09 00:57:57,115  INFO      Incidents: 18 rows stored
+2026-09-09 00:57:59,235  INFO    [ 10/159]  Sunderland AFC vs Hull City  (t8zPvvJc)
+2026-09-09 00:58:01,547  INFO      Stats   : 119 rows stored
+2026-09-09 00:58:03,904  INFO      Incidents: 14 rows stored
+2026-09-09 00:58:05,929  INFO    [ 11/159]  Millwall FC vs Newcastle  (SQcCD1Kb)
+2026-09-09 00:58:07,314  INFO      Stats   : 119 rows stored
+2026-09-09 00:58:11,389  INFO      Incidents: 14 rows stored
+2026-09-09 00:58:13,474  INFO    [ 12/159]  Brentwood Town FC vs Concord Rangers  (KAH4DKsC)
+2026-09-09 00:58:17,901  INFO      Stats   : empty response
+2026-09-09 00:58:20,740  INFO      Incidents: empty response
+2026-09-09 00:58:22,465  INFO    [ 13/159]  Fakenham Town vs Ware FC  (AqGXol7K)
+2026-09-09 00:58:24,239  INFO      Stats   : empty response
+2026-09-09 00:58:28,954  INFO      Incidents: empty response
+2026-09-09 00:58:30,723  INFO    [ 14/159]  Hitchin Town vs Biggleswade Town  (Aivkgde4)
+2026-09-09 00:58:32,134  INFO      Stats   : empty response
+2026-09-09 00:58:34,307  INFO      Incidents: empty response
+2026-09-09 00:58:36,108  INFO    [ 15/159]  Kettering Town vs Wellingborough Town  (6B9Xn4R1)
+2026-09-09 00:58:47,922  WARNING      Stats fetch failed: Failed to perform, curl: (56) Connection closed abruptly. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 00:58:58,666  INFO      Incidents: empty response
+2026-09-09 00:59:00,322  INFO    [ 16/159]  Needham Market vs Stanway Rovers  (pQxUALM6)
+2026-09-09 00:59:11,634  INFO      Stats   : empty response
+2026-09-09 00:59:21,176  INFO      Incidents: empty response
+2026-09-09 00:59:22,978  INFO    [ 17/159]  Worcester City vs Knowle FC  (CjVWBwWQ)
+2026-09-09 00:59:29,493  INFO      Stats   : empty response
+2026-09-09 00:59:36,035  INFO      Incidents: empty response
+2026-09-09 00:59:37,794  INFO    [ 18/159]  Blackburn Rovers vs Sheffield United  (6a9dh3KO)
+2026-09-09 00:59:42,576  INFO      Stats   : 119 rows stored
+2026-09-09 00:59:46,116  INFO      Incidents: 13 rows stored
+2026-09-09 00:59:48,294  INFO    [ 19/159]  Cardiff City vs Stoke City  (dbDGQPN6)
+2026-09-09 00:59:50,293  INFO      Stats   : 122 rows stored
+2026-09-09 00:59:53,390  INFO      Incidents: 10 rows stored
+2026-09-09 00:59:56,793  INFO    [ 20/159]  Southampton vs Swansea City  (0lVsUbUb)
+2026-09-09 00:59:58,625  INFO      Stats   : 119 rows stored
+2026-09-09 01:00:05,405  INFO      Incidents: 14 rows stored
+2026-09-09 01:00:07,848  INFO    [ 21/159]  Watford vs Preston North End  (AT3T62ZH)
+2026-09-09 01:00:10,934  INFO      Stats   : 121 rows stored
+2026-09-09 01:00:26,702  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15012 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:00:31,807  INFO    [ 22/159]  Wrexham AFC vs Burnley  (CANTKfio)
+2026-09-09 01:00:38,272  INFO      Stats   : 122 rows stored
+2026-09-09 01:00:44,835  INFO      Incidents: 15 rows stored
+2026-09-09 01:00:49,402  INFO    [ 23/159]  Bolton Wanderers vs West Ham  (dOl6C65t)
+2026-09-09 01:00:59,953  INFO      Stats   : 122 rows stored
+2026-09-09 01:01:06,513  INFO      Incidents: 16 rows stored
+2026-09-09 01:01:08,736  INFO    [ 24/159]  NEC Nijmegen vs Excelsior Rotterdam  (UozGEIIk)
+2026-09-09 01:01:11,572  INFO      Stats   : 120 rows stored
+2026-09-09 01:01:14,336  INFO      Incidents: 18 rows stored
+2026-09-09 01:01:17,462  INFO    [ 25/159]  Fluminense FC RJ vs CA Platense  (0KaRDUH0)
+2026-09-09 01:01:21,175  INFO      Stats   : 119 rows stored
+2026-09-09 01:01:28,946  INFO      Incidents: 13 rows stored
+2026-09-09 01:01:34,434  INFO    [ 26/159]  FC Porto vs Manchester City FC  (Cbsr0ZUF)
+2026-09-09 01:01:39,327  INFO      Stats   : 42 rows stored
+2026-09-09 01:01:42,439  INFO      Incidents: 19 rows stored
+2026-09-09 01:01:44,520  INFO    [ 27/159]  Club Brugge vs Aston Villa  (lbRFEYq9)
+2026-09-09 01:01:57,667  WARNING      Stats fetch failed: Failed to perform, curl: (56) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:02:13,432  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15008 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:02:16,156  INFO    [ 28/159]  Real Madrid vs Inter Milano  (ERVLhiNk)
+2026-09-09 01:02:21,007  INFO      Stats   : 33 rows stored
+2026-09-09 01:02:24,450  INFO      Incidents: 18 rows stored
+2026-09-09 01:02:29,275  INFO    [ 29/159]  Incheon United FC vs Bucheon FC 1995  (hOKxhV4e)
+2026-09-09 01:02:37,134  INFO      Stats   : 42 rows stored
+2026-09-09 01:02:46,075  INFO      Incidents: 15 rows stored
+2026-09-09 01:02:48,481  INFO    [ 30/159]  Ulsan HD FC vs FC Seoul  (KAMUgizq)
+2026-09-09 01:02:53,923  INFO      Stats   : 42 rows stored
+2026-09-09 01:02:58,785  INFO      Incidents: 12 rows stored
+2026-09-09 01:03:01,404  INFO    [ 31/159]  Union de Santa Fe vs Instituto AC Cordoba  (2myy0lPc)
+2026-09-09 01:03:06,764  INFO      Stats   : 125 rows stored
+2026-09-09 01:03:09,543  INFO      Incidents: 22 rows stored
+2026-09-09 01:03:11,580  INFO    [ 32/159]  Smouha SC vs Ceramica Cleopatra  (dvB2g38F)
+2026-09-09 01:03:15,603  INFO      Stats   : 119 rows stored
+2026-09-09 01:03:18,999  INFO      Incidents: 16 rows stored
+2026-09-09 01:03:21,136  INFO    [ 33/159]  Zamalek SC vs Abo Qair Semads  (ANCfePw3)
+2026-09-09 01:03:31,514  INFO      Stats   : 120 rows stored
+2026-09-09 01:03:33,779  INFO      Incidents: 16 rows stored
+2026-09-09 01:03:36,048  INFO    [ 34/159]  FK Ryazan vs Spartak Kostroma  (EVmhwHOH)
+2026-09-09 01:03:37,617  INFO      Stats   : 38 rows stored
+2026-09-09 01:03:45,950  INFO      Incidents: 14 rows stored
+2026-09-09 01:03:47,866  INFO    [ 35/159]  FC Tekstilshchik Ivanovo vs PFK Arsenal Tula  (2Lq4pqdC)
+2026-09-09 01:03:49,236  INFO      Stats   : 35 rows stored
+2026-09-09 01:03:51,507  INFO      Incidents: 14 rows stored
+2026-09-09 01:03:53,383  INFO    [ 36/159]  Al-Ettifaq FC vs Al-Faisaly FC  (KY1CSPbe)
+2026-09-09 01:03:59,024  INFO      Stats   : 119 rows stored
+2026-09-09 01:04:01,365  INFO      Incidents: 12 rows stored
+2026-09-09 01:04:03,539  INFO    [ 37/159]  Al-Hazm vs Al-Taawoun FC  (hn0KQ3T7)
+2026-09-09 01:04:05,135  INFO      Stats   : 119 rows stored
+2026-09-09 01:04:07,466  INFO      Incidents: 13 rows stored
+2026-09-09 01:04:09,793  INFO    [ 38/159]  Al Qadsiah vs Al Ahli Saudi FC  (QkeEnojR)
+2026-09-09 01:04:11,354  INFO      Stats   : 123 rows stored
+2026-09-09 01:04:14,512  INFO      Incidents: 19 rows stored
+2026-09-09 01:04:16,631  INFO    [ 39/159]  Al-Ittihad Club vs Al-Fayha FC  (Khh6l7LE)
+2026-09-09 01:04:19,107  INFO      Stats   : 121 rows stored
+2026-09-09 01:04:22,193  INFO      Incidents: 15 rows stored
+2026-09-09 01:04:24,195  INFO    [ 40/159]  Airdrieonians FC vs St Mirren B  (fk1HnlGF)
+2026-09-09 01:04:28,774  INFO      Stats   : 24 rows stored
+2026-09-09 01:04:31,446  INFO      Incidents: 1 rows stored
+2026-09-09 01:04:33,283  INFO    [ 41/159]  Annan Athletic FC vs Motherwell B  (ChMdSJU0)
+2026-09-09 01:04:36,054  INFO      Stats   : 24 rows stored
+2026-09-09 01:04:38,838  INFO      Incidents: 4 rows stored
+2026-09-09 01:04:40,902  INFO    [ 42/159]  Banks O´Dee FC vs Forfar Athletic FC  (CCCjl1iK)
+2026-09-09 01:04:44,360  INFO      Stats   : 24 rows stored
+2026-09-09 01:04:46,580  INFO      Incidents: 2 rows stored
+2026-09-09 01:04:48,575  INFO    [ 43/159]  Berwick Rangers vs Hibernian B  (bsE5zKwK)
+2026-09-09 01:04:52,307  INFO      Stats   : 24 rows stored
+2026-09-09 01:04:57,857  INFO      Incidents: 1 rows stored
+2026-09-09 01:04:59,843  INFO    [ 44/159]  Clyde FC vs East Fife FC  (lh6UtJqf)
+2026-09-09 01:05:02,280  INFO      Stats   : 24 rows stored
+2026-09-09 01:05:04,535  INFO      Incidents: 5 rows stored
+2026-09-09 01:05:06,757  INFO    [ 45/159]  Clydebank FC vs Alloa Athletic FC  (UV7pwyqJ)
+2026-09-09 01:05:09,849  INFO      Stats   : 28 rows stored
+2026-09-09 01:05:12,545  INFO      Incidents: 4 rows stored
+2026-09-09 01:05:14,544  INFO    [ 46/159]  Cove Rangers FC vs Dumbarton FC  (h8o2eIbm)
+2026-09-09 01:05:19,403  INFO      Stats   : 16 rows stored
+2026-09-09 01:05:22,308  INFO      Incidents: 7 rows stored
+2026-09-09 01:05:24,177  INFO    [ 47/159]  Cowdenbeath FC vs Kilmarnock FC B  (Ya2HizbC)
+2026-09-09 01:05:28,851  INFO      Stats   : 24 rows stored
+2026-09-09 01:05:32,772  INFO      Incidents: 3 rows stored
+2026-09-09 01:05:34,864  INFO    [ 48/159]  Cumbernauld Colts FC vs Kelty Hearts FC  (dxtZ9HDt)
+2026-09-09 01:05:36,372  INFO      Stats   : 24 rows stored
+2026-09-09 01:05:40,364  INFO      Incidents: 3 rows stored
+2026-09-09 01:05:42,429  INFO    [ 49/159]  East Kilbride FC vs Bonnyrigg Rose  (zmsk6ZC5)
+2026-09-09 01:05:44,188  INFO      Stats   : 24 rows stored
+2026-09-09 01:05:48,462  INFO      Incidents: 4 rows stored
+2026-09-09 01:05:50,421  INFO    [ 50/159]  Edinburgh City FC vs Queen of the South FC  (jwl52iCU)
+2026-09-09 01:05:51,987  INFO      Stats   : 24 rows stored
+2026-09-09 01:05:54,431  INFO      Incidents: 2 rows stored
+2026-09-09 01:05:56,396  INFO    [ 51/159]  Elgin City FC vs Fraserburgh  (h6MMKYRb)
+2026-09-09 01:05:58,297  INFO      Stats   : 24 rows stored
+2026-09-09 01:06:00,746  INFO      Incidents: 7 rows stored
+2026-09-09 01:06:02,556  INFO    [ 52/159]  Formartine United vs Dundee United B  (WIn204tp)
+2026-09-09 01:06:04,097  INFO      Stats   : 24 rows stored
+2026-09-09 01:06:06,362  INFO      Incidents: 5 rows stored
+2026-09-09 01:06:08,218  INFO    [ 53/159]  Montrose FC vs Dundee FC B  (WAbBI32S)
+2026-09-09 01:06:09,850  INFO      Stats   : 24 rows stored
+2026-09-09 01:06:12,034  INFO      Incidents: 5 rows stored
+2026-09-09 01:06:13,976  INFO    [ 54/159]  Peterhead FC vs Clachnacuddin FC  (z7mkBLf2)
+2026-09-09 01:06:15,495  INFO      Stats   : 16 rows stored
+2026-09-09 01:06:19,184  INFO      Incidents: 3 rows stored
+2026-09-09 01:06:21,378  INFO    [ 55/159]  Ross County FC vs Aberdeen FC B  (lUwqX2HL)
+2026-09-09 01:06:24,950  INFO      Stats   : 26 rows stored
+2026-09-09 01:06:32,920  INFO      Incidents: 8 rows stored
+2026-09-09 01:06:34,680  INFO    [ 56/159]  Spartans FC vs Hamilton Academical FC  (QeA4Gbnl)
+2026-09-09 01:06:36,377  INFO      Stats   : 24 rows stored
+2026-09-09 01:06:39,394  INFO      Incidents: 4 rows stored
+2026-09-09 01:06:41,471  INFO    [ 57/159]  Atletico Nacional vs Deportivo Cali  (8EfR3hAs)
+2026-09-09 01:06:43,065  INFO      Stats   : 27 rows stored
+2026-09-09 01:06:46,242  INFO      Incidents: 18 rows stored
+2026-09-09 01:06:48,241  INFO    [ 58/159]  Olympiacos vs Volos NPS  (fm2LhBte)
+2026-09-09 01:06:50,090  INFO      Stats   : 122 rows stored
+2026-09-09 01:06:52,267  INFO      Incidents: 17 rows stored
+2026-09-09 01:06:54,578  INFO    [ 59/159]  England vs Tanzania  (8xPor5eR)
+2026-09-09 01:06:55,327  INFO      Stats   : 116 rows stored
+2026-09-09 01:06:58,172  INFO      Incidents: 15 rows stored
+2026-09-09 01:07:00,444  INFO    [ 60/159]  Atlanta United 2 vs CT United FC  (8UZP9ilf)
+2026-09-09 01:07:02,076  INFO      Stats   : 124 rows stored
+2026-09-09 01:07:04,374  INFO      Incidents: 20 rows stored
+2026-09-09 01:07:06,504  INFO    [ 61/159]  Toronto FC II vs Columbus Crew 2  (fsOJ19EN)
+2026-09-09 01:07:08,065  INFO      Stats   : 121 rows stored
+2026-09-09 01:07:12,077  INFO      Incidents: 17 rows stored
+2026-09-09 01:07:14,252  INFO    [ 62/159]  New York City FC II vs Red Bull New York II  (C2tHBDJs)
+2026-09-09 01:07:17,556  INFO      Stats   : 122 rows stored
+2026-09-09 01:07:19,855  INFO      Incidents: 17 rows stored
+2026-09-09 01:07:21,893  INFO    [ 63/159]  Olympic Kingsway SC vs Perth Azzurri  (2NM1uHW1)
+2026-09-09 01:07:23,301  INFO      Stats   : 24 rows stored
+2026-09-09 01:07:25,167  INFO      Incidents: 2 rows stored
+2026-09-09 01:07:27,027  INFO    [ 64/159]  Al-Zlfe vs Hajer FC  (M7q3l0HF)
+2026-09-09 01:07:28,530  INFO      Stats   : 120 rows stored
+2026-09-09 01:07:30,675  INFO      Incidents: 13 rows stored
+2026-09-09 01:07:32,741  INFO    [ 65/159]  Damac FC vs AL Ula  (S6BzWi1l)
+2026-09-09 01:07:34,124  INFO      Stats   : 120 rows stored
+2026-09-09 01:07:35,981  INFO      Incidents: 10 rows stored
+2026-09-09 01:07:38,018  INFO    [ 66/159]  AL Anwar vs AL Tai  (0K9rUVV0)
+2026-09-09 01:07:39,431  INFO      Stats   : 122 rows stored
+2026-09-09 01:07:41,695  INFO      Incidents: 17 rows stored
+2026-09-09 01:07:43,872  INFO    [ 67/159]  Doncaster Rovers vs Huddersfield  (W6rRxQNt)
+2026-09-09 01:07:45,269  INFO      Stats   : 122 rows stored
+2026-09-09 01:07:47,748  INFO      Incidents: 17 rows stored
+2026-09-09 01:07:49,642  INFO    [ 68/159]  Exeter City vs Tottenham Hotspur U21  (KU5qnkIi)
+2026-09-09 01:07:51,264  INFO      Stats   : 120 rows stored
+2026-09-09 01:07:53,541  INFO      Incidents: 17 rows stored
+2026-09-09 01:07:55,797  INFO    [ 69/159]  UD San Fernando vs Orihuela CF  (lGlbO8eE)
+2026-09-09 01:08:00,172  INFO      Stats   : 36 rows stored
+2026-09-09 01:08:02,449  INFO      Incidents: 4 rows stored
+2026-09-09 01:08:04,499  INFO    [ 70/159]  Puerto Montt vs CSD Rangers  (8GWDdcjm)
+2026-09-09 01:08:06,012  INFO      Stats   : 29 rows stored
+2026-09-09 01:08:08,188  INFO      Incidents: 16 rows stored
+2026-09-09 01:08:10,082  INFO    [ 71/159]  CS Emelec vs Manta FC  (KU78rBsn)
+2026-09-09 01:08:11,366  INFO      Stats   : 124 rows stored
+2026-09-09 01:08:13,245  INFO      Incidents: 20 rows stored
+2026-09-09 01:08:14,988  INFO    [ 72/159]  Mushuc Runa SC vs Leones Futbol Club  (KzaIOGjD)
+2026-09-09 01:08:20,501  INFO      Stats   : 119 rows stored
+2026-09-09 01:08:22,729  INFO      Incidents: 11 rows stored
+2026-09-09 01:08:24,678  INFO    [ 73/159]  Orense SC vs Guayaquil City FC  (AyWrSkc5)
+2026-09-09 01:08:26,245  INFO      Stats   : 122 rows stored
+2026-09-09 01:08:28,458  INFO      Incidents: 19 rows stored
+2026-09-09 01:08:30,432  INFO    [ 74/159]  AFC Telford United vs Oxford City  (4MJDix9M)
+2026-09-09 01:08:32,087  INFO      Stats   : 36 rows stored
+2026-09-09 01:08:36,010  INFO      Incidents: 1 rows stored
+2026-09-09 01:08:37,761  INFO    [ 75/159]  Buxton FC vs Brackley Town FC  (0h5qnGWq)
+2026-09-09 01:08:39,661  INFO      Stats   : 36 rows stored
+2026-09-09 01:08:41,817  INFO      Incidents: 5 rows stored
+2026-09-09 01:08:43,833  INFO    [ 76/159]  Chester FC vs Merthyr Town  (YXBuEXPp)
+2026-09-09 01:08:45,815  INFO      Stats   : 24 rows stored
+2026-09-09 01:08:52,937  INFO      Incidents: 1 rows stored
+2026-09-09 01:08:54,704  INFO    [ 77/159]  Chorley FC vs Darlington FC  (n93ipf1d)
+2026-09-09 01:08:56,731  INFO      Stats   : 36 rows stored
+2026-09-09 01:08:59,709  INFO      Incidents: 8 rows stored
+2026-09-09 01:09:01,780  INFO    [ 78/159]  Harborough Town FC vs Hereford FC  (EFew8cg3)
+2026-09-09 01:09:05,624  INFO      Stats   : 36 rows stored
+2026-09-09 01:09:11,051  INFO      Incidents: 3 rows stored
+2026-09-09 01:09:12,891  INFO    [ 79/159]  Kings Lynn FC vs Hednesford Town  (nTgo6yOF)
+2026-09-09 01:09:18,337  INFO      Stats   : 36 rows stored
+2026-09-09 01:09:20,731  INFO      Incidents: 6 rows stored
+2026-09-09 01:09:22,504  INFO    [ 80/159]  Macclesfield FC vs Scarborough Athletic  (hSLImT7l)
+2026-09-09 01:09:25,858  INFO      Stats   : 38 rows stored
+2026-09-09 01:09:28,152  INFO      Incidents: 1 rows stored
+2026-09-09 01:09:30,059  INFO    [ 81/159]  Radcliffe FC vs Hebburn Town  (bPOQo7x1)
+2026-09-09 01:09:31,508  INFO      Stats   : 36 rows stored
+2026-09-09 01:09:34,217  INFO      Incidents: 6 rows stored
+2026-09-09 01:09:36,270  INFO    [ 82/159]  South Shields vs Marine FC  (WxNYqo7D)
+2026-09-09 01:09:37,783  INFO      Stats   : 36 rows stored
+2026-09-09 01:09:39,982  INFO      Incidents: 3 rows stored
+2026-09-09 01:09:41,892  INFO    [ 83/159]  Southport FC vs Morecambe FC  (bqFK7laK)
+2026-09-09 01:09:46,009  INFO      Stats   : 36 rows stored
+2026-09-09 01:09:49,094  INFO      Incidents: 3 rows stored
+2026-09-09 01:09:50,872  INFO    [ 84/159]  Spennymoor Town FC vs Spalding United  (UR5j2SMs)
+2026-09-09 01:09:58,304  INFO      Stats   : 36 rows stored
+2026-09-09 01:10:03,473  INFO      Incidents: 4 rows stored
+2026-09-09 01:10:05,274  INFO    [ 85/159]  Chesham United vs Billericay Town  (AmYZzwLH)
+2026-09-09 01:10:07,653  INFO      Stats   : 36 rows stored
+2026-09-09 01:10:09,923  INFO      Incidents: 3 rows stored
+2026-09-09 01:10:11,971  INFO    [ 86/159]  Ebbsfleet United FC vs Hemel Hempstead Town  (vNEaib5b)
+2026-09-09 01:10:13,928  INFO      Stats   : 38 rows stored
+2026-09-09 01:10:16,203  INFO      Incidents: 1 rows stored
+2026-09-09 01:10:17,963  INFO    [ 87/159]  Folkestone Invicta vs Horsham FC  (nmI7kxzB)
+2026-09-09 01:10:19,569  INFO      Stats   : 36 rows stored
+2026-09-09 01:10:21,938  INFO      Incidents: 2 rows stored
+2026-09-09 01:10:23,846  INFO    [ 88/159]  Hampton & Richmond Borough vs Farnborough FC  (hnpuXTJq)
+2026-09-09 01:10:28,244  INFO      Stats   : 38 rows stored
+2026-09-09 01:10:33,576  INFO      Incidents: 3 rows stored
+2026-09-09 01:10:35,343  INFO    [ 89/159]  Maidenhead United FC vs Torquay United  (QarmV7ld)
+2026-09-09 01:10:42,546  INFO      Stats   : 41 rows stored
+2026-09-09 01:10:45,680  INFO      Incidents: 6 rows stored
+2026-09-09 01:10:47,789  INFO    [ 90/159]  Salisbury FC vs Slough Town  (I7pYhBt3)
+2026-09-09 01:10:49,755  INFO      Stats   : 36 rows stored
+2026-09-09 01:10:52,054  INFO      Incidents: 7 rows stored
+2026-09-09 01:10:54,000  INFO    [ 91/159]  Tonbridge Angels vs Maidstone United FC  (QXmtikBF)
+2026-09-09 01:10:55,623  INFO      Stats   : 36 rows stored
+2026-09-09 01:10:57,966  INFO      Incidents: 1 rows stored
+2026-09-09 01:10:59,738  INFO    [ 92/159]  Weston-super-Mare vs AFC Totton  (bonlkTuS)
+2026-09-09 01:11:06,680  INFO      Stats   : 36 rows stored
+2026-09-09 01:11:11,655  INFO      Incidents: 4 rows stored
+2026-09-09 01:11:13,390  INFO    [ 93/159]  SK Djerv 1919 vs FK Haugesund  (n34Z1MQ7)
+2026-09-09 01:11:28,424  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15023 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:11:31,377  INFO      Incidents: 4 rows stored
+2026-09-09 01:11:33,142  INFO    [ 94/159]  Asker Fotball vs Stroemsgodset IF  (K6aTN3mR)
+2026-09-09 01:11:36,349  INFO      Stats   : 24 rows stored
+2026-09-09 01:11:42,802  INFO      Incidents: 5 rows stored
+2026-09-09 01:11:44,573  INFO    [ 95/159]  Fleetwood Town U21 vs Burnley Reserves  (6Tbbrj9K)
+2026-09-09 01:11:46,133  INFO      Stats   : 24 rows stored
+2026-09-09 01:11:52,705  INFO      Incidents: 3 rows stored
+2026-09-09 01:11:54,711  INFO    [ 96/159]  Hull City U21 vs Brentford U21  (APmxy81f)
+2026-09-09 01:11:56,184  INFO      Stats   : 24 rows stored
+2026-09-09 01:12:00,352  INFO      Incidents: 2 rows stored
+2026-09-09 01:12:02,236  INFO    [ 97/159]  Nomme Kalju FC vs FC Nomme United  (b1N1aEjR)
+2026-09-09 01:12:03,591  INFO      Stats   : 27 rows stored
+2026-09-09 01:12:06,633  INFO      Incidents: 17 rows stored
+2026-09-09 01:12:08,705  INFO    [ 98/159]  FC Lahti vs IFK Mariehamn  (lvwCe90f)
+2026-09-09 01:12:12,953  INFO      Stats   : 119 rows stored
+2026-09-09 01:12:15,167  INFO      Incidents: 16 rows stored
+2026-09-09 01:12:17,213  INFO    [ 99/159]  Larne FC vs Bangor FC  (67sGQdCU)
+2026-09-09 01:12:20,572  INFO      Stats   : 27 rows stored
+2026-09-09 01:12:22,702  INFO      Incidents: 14 rows stored
+2026-09-09 01:12:24,450  INFO    [100/159]  CA Claypole vs Central Ballester  (Sjnoo5e2)
+2026-09-09 01:12:26,335  INFO      Stats   : 24 rows stored
+2026-09-09 01:12:28,467  INFO      Incidents: 1 rows stored
+2026-09-09 01:12:30,291  INFO    [101/159]  Umecit vs CA Independiente de La Chorrera  (jRc37YXA)
+2026-09-09 01:12:31,790  INFO      Stats   : 41 rows stored
+2026-09-09 01:12:34,687  INFO      Incidents: 18 rows stored
+2026-09-09 01:12:36,435  INFO    [102/159]  MSK Namestovo vs MFk Bytca  (b9bs3fkA)
+2026-09-09 01:12:37,861  INFO      Stats   : 36 rows stored
+2026-09-09 01:12:40,211  INFO      Incidents: 10 rows stored
+2026-09-09 01:12:42,226  INFO    [103/159]  Spisska Nova Ves vs FK Zeleziarne Podbrezova  (x0qAf9p9)
+2026-09-09 01:12:43,753  INFO      Stats   : 36 rows stored
+2026-09-09 01:12:46,034  INFO      Incidents: 3 rows stored
+2026-09-09 01:12:48,004  INFO    [104/159]  FK Sutjeska Niksic vs FK Mornar Bar  (f3Q7oDQi)
+2026-09-09 01:12:49,624  INFO      Stats   : 37 rows stored
+2026-09-09 01:12:52,055  INFO      Incidents: 8 rows stored
+2026-09-09 01:12:54,097  INFO    [105/159]  NK Vardarac vs HNK Hajduk Split  (lrFa9szp)
+2026-09-09 01:12:57,775  INFO      Stats   : 24 rows stored
+2026-09-09 01:13:00,095  INFO      Incidents: 2 rows stored
+2026-09-09 01:13:02,505  INFO    [106/159]  NK Zagorec Krapina vs NK Istra 1961  (4EFF0DiC)
+2026-09-09 01:13:04,025  INFO      Stats   : 36 rows stored
+2026-09-09 01:13:09,401  INFO      Incidents: 5 rows stored
+2026-09-09 01:13:11,450  INFO    [107/159]  At Rafaela Reserve vs Independiente Reserve  (SCKTAkGa)
+2026-09-09 01:13:13,029  INFO      Stats   : 26 rows stored
+2026-09-09 01:13:15,775  INFO      Incidents: 4 rows stored
+2026-09-09 01:13:17,590  INFO    [108/159]  Colon de Santa Fe Reserve vs CA Belgrano  (42Lddj16)
+2026-09-09 01:13:21,017  INFO      Stats   : 24 rows stored
+2026-09-09 01:13:23,375  INFO      Incidents: 4 rows stored
+2026-09-09 01:13:25,272  INFO    [109/159]  Racing Club Reserve vs Argentinos Juniors Reserve  (AJf1PlVh)
+2026-09-09 01:13:28,891  INFO      Stats   : 26 rows stored
+2026-09-09 01:13:31,408  INFO      Incidents: 6 rows stored
+2026-09-09 01:13:33,396  INFO    [110/159]  Velez Sarsfield Reserve vs Gimnasia de la Plata Reserve  (EVsHqDH0)
+2026-09-09 01:13:37,072  INFO      Stats   : 24 rows stored
+2026-09-09 01:13:43,461  INFO      Incidents: empty response
+2026-09-09 01:13:45,284  INFO    [111/159]  3 de Noviembre vs Club Sol de América  (M1UHTSXR)
+2026-09-09 01:14:00,293  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15005 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:14:02,508  INFO      Incidents: 1 rows stored
+2026-09-09 01:14:04,370  INFO    [112/159]  Paraguari AC vs Guairena FC  (IXFmO6ek)
+2026-09-09 01:14:06,609  INFO      Stats   : 24 rows stored
+2026-09-09 01:14:16,880  INFO      Incidents: 4 rows stored
+2026-09-09 01:14:18,897  INFO    [113/159]  Club General Caballero JLM vs Resistencia SC  (QcJeMpQ1)
+2026-09-09 01:14:20,908  INFO      Stats   : 36 rows stored
+2026-09-09 01:14:23,333  INFO      Incidents: 3 rows stored
+2026-09-09 01:14:25,374  INFO    [114/159]  KF Drenica Skenderaj vs FC Prishtina  (IirJRHof)
+2026-09-09 01:14:29,153  INFO      Stats   : 24 rows stored
+2026-09-09 01:14:31,443  INFO      Incidents: 5 rows stored
+2026-09-09 01:14:33,343  INFO    [115/159]  KF Vushtrria vs KF Llapi  (ARvBTwHs)
+2026-09-09 01:14:34,834  INFO      Stats   : 16 rows stored
+2026-09-09 01:14:37,586  INFO      Incidents: 4 rows stored
+2026-09-09 01:14:39,489  INFO    [116/159]  Bul FC vs Ntugasaze FC  (YibcyQY2)
+2026-09-09 01:14:41,022  INFO      Stats   : 36 rows stored
+2026-09-09 01:14:43,307  INFO      Incidents: 5 rows stored
+2026-09-09 01:14:45,355  INFO    [117/159]  Kigezi Homeboyz FC vs Kampala Capital City Authority FC  (tI15Z33F)
+2026-09-09 01:14:49,487  INFO      Stats   : 36 rows stored
+2026-09-09 01:14:55,749  INFO      Incidents: empty response
+2026-09-09 01:14:57,676  INFO    [118/159]  Maroons FC vs Blacks Power FC  (vVODTDFd)
+2026-09-09 01:15:00,068  INFO      Stats   : 35 rows stored
+2026-09-09 01:15:02,773  INFO      Incidents: 3 rows stored
+2026-09-09 01:15:04,798  INFO    [119/159]  Eintracht Trier vs SC Freiburg II  (bcS8lHg2)
+2026-09-09 01:15:11,310  INFO      Stats   : empty response
+2026-09-09 01:15:13,594  INFO      Incidents: empty response
+2026-09-09 01:15:15,468  INFO    [120/159]  FC Astoria Walldorf vs Stuttgarter Kickers  (CtU0jwPk)
+2026-09-09 01:15:30,480  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15005 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:15:35,094  INFO      Incidents: 3 rows stored
+2026-09-09 01:15:36,969  INFO    [121/159]  Offenbacher FC Kickers 1901 vs TSV Steinbach Haiger  (Q3KfCKo9)
+2026-09-09 01:15:38,958  INFO      Stats   : empty response
+2026-09-09 01:15:41,284  INFO      Incidents: 5 rows stored
+2026-09-09 01:15:43,101  INFO    [122/159]  Star City FC vs Kedah FA  (YZdg9AHD)
+2026-09-09 01:15:44,634  INFO      Stats   : 24 rows stored
+2026-09-09 01:15:50,663  INFO      Incidents: 2 rows stored
+2026-09-09 01:15:52,547  INFO    [123/159]  FC Kiffen vs Atlantis FC  (EwxB7o5M)
+2026-09-09 01:15:54,500  INFO      Stats   : 39 rows stored
+2026-09-09 01:15:56,714  INFO      Incidents: 15 rows stored
+2026-09-09 01:15:58,620  INFO    [124/159]  HPS vs PPJ Helsinki  (CUsBCXnJ)
+2026-09-09 01:16:02,335  INFO      Stats   : 39 rows stored
+2026-09-09 01:16:04,683  INFO      Incidents: 24 rows stored
+2026-09-09 01:16:06,460  INFO    [125/159]  FC Domagnano vs SC Faetano  (SEutrDg2)
+2026-09-09 01:16:08,401  INFO      Stats   : 36 rows stored
+2026-09-09 01:16:10,619  INFO      Incidents: 4 rows stored
+2026-09-09 01:16:12,532  INFO    [126/159]  SP Tre Penne vs AC Juvenes/Dogana  (Qoi2ke1S)
+2026-09-09 01:16:14,643  INFO      Stats   : 36 rows stored
+2026-09-09 01:16:19,806  INFO      Incidents: 3 rows stored
+2026-09-09 01:16:21,848  INFO    [127/159]  Al Mesaimeer vs Al Kharaitiyat SC  (hUxDIMdT)
+2026-09-09 01:16:24,399  INFO      Stats   : 33 rows stored
+2026-09-09 01:16:27,052  INFO      Incidents: 2 rows stored
+2026-09-09 01:16:28,838  INFO    [128/159]  Duhok FC vs Gas Alshimal  (Y3rVk5CU)
+2026-09-09 01:16:30,625  INFO      Stats   : 24 rows stored
+2026-09-09 01:16:32,850  INFO      Incidents: 2 rows stored
+2026-09-09 01:16:34,771  INFO    [129/159]  Erbil SC vs Diyala FC  (2JIvA8cn)
+2026-09-09 01:16:37,046  INFO      Stats   : 26 rows stored
+2026-09-09 01:16:39,579  INFO      Incidents: 3 rows stored
+2026-09-09 01:16:41,548  INFO    [130/159]  Estoril Praia vs FC Famalicao  (xrdE00z2)
+2026-09-09 01:16:43,028  INFO      Stats   : 36 rows stored
+2026-09-09 01:16:44,938  INFO      Incidents: 6 rows stored
+2026-09-09 01:16:46,933  INFO    [131/159]  Portimonense vs FC Felgueiras 1932 U23  (Uyq0O3S8)
+2026-09-09 01:16:48,329  INFO      Stats   : 36 rows stored
+2026-09-09 01:16:50,526  INFO      Incidents: 2 rows stored
+2026-09-09 01:16:52,498  INFO    [132/159]  Rio Ave vs Torreense  (tvkT94DF)
+2026-09-09 01:16:55,318  INFO      Stats   : 36 rows stored
+2026-09-09 01:16:57,852  INFO      Incidents: 5 rows stored
+2026-09-09 01:16:59,727  INFO    [133/159]  Maritimo Madeira vs Gil Vicente FC U23  (8pwvHLKr)
+2026-09-09 01:17:14,745  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15012 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:17:17,542  INFO      Incidents: 2 rows stored
+2026-09-09 01:17:19,263  INFO    [134/159]  Academico Viseu vs Moreirense FC U23  (Eimy8rrS)
+2026-09-09 01:17:21,341  INFO      Stats   : 36 rows stored
+2026-09-09 01:17:23,602  INFO      Incidents: 4 rows stored
+2026-09-09 01:17:25,475  INFO    [135/159]  Estrela Amadora vs UD Leiria U23  (tbynFake)
+2026-09-09 01:17:26,982  INFO      Stats   : 36 rows stored
+2026-09-09 01:17:31,707  INFO      Incidents: 2 rows stored
+2026-09-09 01:17:33,635  INFO    [136/159]  Athletic Club MG vs Real Brasilia FC DF  (0U8vKIF7)
+2026-09-09 01:17:35,679  INFO      Stats   : 24 rows stored
+2026-09-09 01:17:38,619  INFO      Incidents: 3 rows stored
+2026-09-09 01:17:40,430  INFO    [137/159]  Atletico Mineiro MG vs Sobradinho  (x4NpVrO8)
+2026-09-09 01:17:44,465  INFO      Stats   : 36 rows stored
+2026-09-09 01:17:48,379  INFO      Incidents: 4 rows stored
+2026-09-09 01:17:50,391  INFO    [138/159]  CR Flamengo RJ vs Forte FC ES  (OOmEcP3T)
+2026-09-09 01:17:54,641  INFO      Stats   : 36 rows stored
+2026-09-09 01:17:59,220  INFO      Incidents: 6 rows stored
+2026-09-09 01:18:01,031  INFO    [139/159]  EC Bahia BA vs Alagoinhas AC BA  (2XRj911k)
+2026-09-09 01:18:02,538  INFO      Stats   : 36 rows stored
+2026-09-09 01:18:07,096  INFO      Incidents: 16 rows stored
+2026-09-09 01:18:09,144  INFO    [140/159]  AD Sao Caetano SP vs Osasco Sporting SP  (p4avCptC)
+2026-09-09 01:18:14,097  INFO      Stats   : empty response
+2026-09-09 01:18:16,960  INFO      Incidents: 3 rows stored
+2026-09-09 01:18:18,768  INFO    [141/159]  EC Agua Santa SP vs SE Palmeiras SP  (j12nAOAO)
+2026-09-09 01:18:20,764  INFO      Stats   : empty response
+2026-09-09 01:18:23,074  INFO      Incidents: 3 rows stored
+2026-09-09 01:18:24,966  INFO    [142/159]  Club Leon vs Puebla FC  (fDFlTXDa)
+2026-09-09 01:18:28,302  INFO      Stats   : 122 rows stored
+2026-09-09 01:18:30,688  INFO      Incidents: 19 rows stored
+2026-09-09 01:18:32,480  INFO    [143/159]  Koldingq vs Broendby IF  (0haYsiDM)
+2026-09-09 01:18:36,069  INFO      Stats   : 38 rows stored
+2026-09-09 01:18:38,441  INFO      Incidents: 15 rows stored
+2026-09-09 01:18:40,324  INFO    [144/159]  SC Rust vs SV Leithaprodersdorf  (0M6fquVi)
+2026-09-09 01:18:41,802  INFO      Stats   : empty response
+2026-09-09 01:18:44,474  INFO      Incidents: empty response
+2026-09-09 01:18:46,241  INFO    [145/159]  Club Aurora vs Real Potosi  (GQblKcte)
+2026-09-09 01:18:52,669  INFO      Stats   : 119 rows stored
+2026-09-09 01:18:54,864  INFO      Incidents: 14 rows stored
+2026-09-09 01:18:57,247  INFO    [146/159]  Alianca FC GO vs Anapolina Saf GO  (YROB6SRr)
+2026-09-09 01:18:59,255  INFO      Stats   : empty response
+2026-09-09 01:19:01,515  INFO      Incidents: empty response
+2026-09-09 01:19:03,269  INFO    [147/159]  Inter Playa Del Carmen vs Pioneros de Cancun  (SCz1dNmJ)
+2026-09-09 01:19:05,043  INFO      Stats   : 26 rows stored
+2026-09-09 01:19:09,174  INFO      Incidents: 7 rows stored
+2026-09-09 01:19:10,926  INFO    [148/159]  AFC Hornchurch vs Ipswich Town U21  (6LSdYdKl)
+2026-09-09 01:19:14,237  INFO      Stats   : 24 rows stored
+2026-09-09 01:19:16,989  INFO      Incidents: 13 rows stored
+2026-09-09 01:19:18,915  INFO    [149/159]  Boreham Wood FC vs Newcastle United U21  (Q7fSW40s)
+2026-09-09 01:19:20,492  INFO      Stats   : 26 rows stored
+2026-09-09 01:19:22,814  INFO      Incidents: 14 rows stored
+2026-09-09 01:19:24,904  INFO    [150/159]  Boston United FC vs West Bromwich Albion FC U21  (CrajR0UI)
+2026-09-09 01:19:26,723  INFO      Stats   : 27 rows stored
+2026-09-09 01:19:34,209  INFO      Incidents: 14 rows stored
+2026-09-09 01:19:36,015  INFO    [151/159]  Gateshead FC vs Derby County U21  (SlCNWqqp)
+2026-09-09 01:19:37,886  INFO      Stats   : 27 rows stored
+2026-09-09 01:19:41,800  INFO      Incidents: 17 rows stored
+2026-09-09 01:19:43,788  INFO    [152/159]  Scunthorpe United vs Nottingham Forest U21  (S82HhR53)
+2026-09-09 01:19:45,367  INFO      Stats   : 27 rows stored
+2026-09-09 01:19:47,469  INFO      Incidents: 15 rows stored
+2026-09-09 01:19:49,248  INFO    [153/159]  Solihull Moors FC vs Leeds United U21  (4IerTMa6)
+2026-09-09 01:19:51,411  INFO      Stats   : 29 rows stored
+2026-09-09 01:19:53,536  INFO      Incidents: 20 rows stored
+2026-09-09 01:19:55,595  INFO    [154/159]  Sutton United vs Birmingham City U21  (vkixk4MP)
+2026-09-09 01:19:59,488  INFO      Stats   : 27 rows stored
+2026-09-09 01:20:01,855  INFO      Incidents: 29 rows stored
+2026-09-09 01:20:04,002  INFO    [155/159]  Aldershot Town FC vs West Ham U21  (hxR4Wzk1)
+2026-09-09 01:20:05,535  INFO      Stats   : 28 rows stored
+2026-09-09 01:20:07,825  INFO      Incidents: 15 rows stored
+2026-09-09 01:20:09,988  INFO    [156/159]  Braintree Town FC vs Fulham U21  (02UCUEJD)
+2026-09-09 01:20:17,238  INFO      Stats   : 26 rows stored
+2026-09-09 01:20:21,350  INFO      Incidents: 13 rows stored
+2026-09-09 01:20:23,411  INFO    [157/159]  Worthing FC vs Norwich City U21  (fP3dxRxK)
+2026-09-09 01:20:25,790  INFO      Stats   : 27 rows stored
+2026-09-09 01:20:30,540  INFO      Incidents: 23 rows stored
+2026-09-09 01:20:32,685  INFO    [158/159]  Woking FC vs Southampton U21  (8njFsMEa)
+2026-09-09 01:20:44,833  WARNING      Stats fetch failed: Failed to perform, curl: (56) Connection closed abruptly. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-09 01:20:47,362  INFO      Incidents: 18 rows stored
+2026-09-09 01:20:49,074  INFO    [159/159]  Caicara EC PI vs River PI  (noLI2hNc)
+2026-09-09 01:20:50,955  INFO      Stats   : 2 rows stored
+2026-09-09 01:20:53,177  INFO      Incidents: 6 rows stored
+2026-09-09 01:20:55,502  INFO  
+=================================================================
+2026-09-09 01:20:55,503  INFO    PIPELINE COMPLETE
+2026-09-09 01:20:55,503  INFO    Date               : 2026-09-08
+2026-09-09 01:20:55,504  INFO    Matches linked     : 159
+2026-09-09 01:20:55,505  INFO    Stats fetched      : 159
+2026-09-09 01:20:55,506  INFO    flashscore_stats   : 8,075 rows
+2026-09-09 01:20:55,506  INFO    flashscore_incidents: 1,391 rows
+2026-09-09 01:20:55,507  INFO  =================================================================
+2026-09-10 00:32:08,367  INFO  =================================================================
+2026-09-10 00:32:08,387  INFO    FlashScore Pipeline  —  2026-09-09
+2026-09-10 00:32:08,388  INFO    Database : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-10 00:32:08,389  INFO  =================================================================
+2026-09-10 00:32:08,395  INFO  
+[1] LINKER — matching FlashScore matches to fixtures...
+2026-09-10 00:32:08,396  INFO    Fetching FlashScore list for 2026-09-09 (offset -1)...
+2026-09-10 00:33:47,857  INFO  =================================================================
+2026-09-10 00:33:47,858  INFO    FlashScore Pipeline  —  2026-09-09
+2026-09-10 00:33:47,863  INFO    Database : C:\Users\ADMIN\Desktop\football-market-data-pipeline\sportybet.db
+2026-09-10 00:33:47,864  INFO  =================================================================
+2026-09-10 00:33:47,868  INFO  
+[1] LINKER — matching FlashScore matches to fixtures...
+2026-09-10 00:33:47,909  INFO    Fetching FlashScore list for 2026-09-09 (offset -1)...
+2026-09-10 00:33:50,781  INFO    FlashScore returned 361 match records for 2026-09-09
+2026-09-10 00:33:50,795  INFO    SportyBet fixtures for 2026-09-09: 208
+2026-09-10 00:33:50,886  INFO      ✅  [0.83]  Club Sando vs Delfines Del Este  →  Sando (Tri) vs Delfines Del Este (Dom)  (40pOmxoT)
+2026-09-10 00:33:50,985  INFO      ✅  [0.86]  Hartford Athletic vs Colorado Springs Switchbacks FC  →  Hartford Athletic vs Colorado Springs  (xduf6ffJ)
+2026-09-10 00:33:51,172  INFO      ✅  [1.00]  Barcelona vs Feyenoord  →  Barcelona vs Feyenoord  (nD1UprQ0)
+2026-09-10 00:33:51,261  INFO      ✅  [1.00]  Stuttgart vs Viking FK  →  Stuttgart vs Viking  (xUAf7KE4)
+2026-09-10 00:33:51,349  INFO      ✅  [0.90]  Liverpool vs Atletico Madrid  →  Liverpool vs Atl. Madrid  (6aa0PFtQ)
+2026-09-10 00:33:51,495  INFO      ✅  [1.00]  Napoli vs Arsenal  →  Napoli vs Arsenal  (juiAv14K)
+2026-09-10 00:33:51,511  INFO      ✅  [1.00]  PSG vs Slovan Bratislava  →  PSG vs Slovan Bratislava  (vRfGDXa4)
+2026-09-10 00:33:51,634  INFO      ✅  [0.78]  Sporting vs Galatasaray Istanbul  →  Sporting CP vs Galatasaray  (QaIiWiUj)
+2026-09-10 00:33:51,714  INFO      ✅  [0.79]  Chelsea vs Leeds United  →  Chelsea vs Leeds  (K2DLaNQF)
+2026-09-10 00:33:51,736  INFO      ✅  [0.85]  AFC Whyteleafe vs Crowborough Athletic  →  Whyteleafe vs Crowborough  (fJEgRt7m)
+2026-09-10 00:33:51,853  INFO      ✅  [0.83]  Exmouth Town vs Banbury United  →  Exmouth Town vs Banbury  (4WdZwKjg)
+2026-09-10 00:33:51,858  INFO      ✅  [0.86]  FC Viktoriya Sumy vs FC Metalist Kharkiv  →  Viktoria vs Metalist Kharkiv  (jeNm3hYp)
+2026-09-10 00:33:52,028  INFO      ✅  [0.97]  Probiy Gorodenka vs FC Oleksandriya  →  Probiy Horodenka vs Oleksandriya  (rNVlNDPG)
+2026-09-10 00:33:52,083  INFO      ✅  [0.82]  Agrobiznes Volochisk vs FC Livyi Bereh Kyiv  →  Ahrobiznes Volochysk vs Livyi Bereg  (zcStPZf4)
+2026-09-10 00:33:52,096  INFO      ✅  [0.88]  FSK Mariupol vs FC Zorya Luhansk  →  Fenix Mariupol vs FK Zorya Luhansk  (nJKSFVHj)
+2026-09-10 00:33:52,151  INFO      ✅  [1.00]  FC Polissya Zhytomyr vs FK Kudrivka  →  Polissya Zhytomyr vs Kudrivka  (MFkUccd5)
+2026-09-10 00:33:52,175  WARNING      ✗   Derby County vs West Bromwich Albion  (best score: 0.60)
+2026-09-10 00:33:52,217  INFO      ✅  [0.90]  Norwich vs Birmingham City  →  Norwich vs Birmingham  (MqP28FAM)
+2026-09-10 00:33:52,250  WARNING      ✗   Charlton Athletic vs Queens Park Rangers  (best score: 0.46)
+2026-09-10 00:33:52,316  INFO      ✅  [0.79]  FC Twente Enschede vs SC Telstar  →  Twente vs Telstar  (jXbSlBHG)
+2026-09-10 00:33:52,594  INFO      ✅  [1.00]  Moreirense FC vs Benfica  →  Moreirense vs Benfica  (67ZYbIP9)
+2026-09-10 00:33:52,600  INFO      ✅  [0.88]  SE Palmeiras SP vs LDU Quito  →  Palmeiras (Bra) vs LDU Quito (Ecu)  (MHvWTvoS)
+2026-09-10 00:33:52,674  INFO      ✅  [0.72]  VfB Stuttgart vs Viking FK  →  Stuttgart U19 vs Viking U19  (hM4SN6c3)
+2026-09-10 00:33:52,683  INFO      ✅  [0.72]  SSC Napoli U20 vs Arsenal FC  →  Napoli U19 vs Arsenal U19  (vBE15U6e)
+2026-09-10 00:33:52,697  WARNING      ✗   Paris Saint-Germain FC vs Slovan Bratislava  (best score: 0.56)
+2026-09-10 00:33:52,749  INFO      ✅  [0.85]  Sporting CP vs Galatasaray SK  →  Sporting CP U19 vs Galatasaray U19  (COC938y8)
+2026-09-10 00:33:52,830  INFO      ✅  [0.75]  Liverpool vs Atletico Madrid  →  Liverpool U19 vs Atl. Madrid U19  (Y5909bPQ)
+2026-09-10 00:33:52,985  INFO      ✅  [0.85]  FK Jablonec vs FC Banik Ostrava  →  Jablonec vs Ostrava  (URaSa9Ls)
+2026-09-10 00:33:53,094  INFO      ✅  [0.76]  FC Hradec Kralove vs Viktoria Plzen  →  Hradec Kralove vs Plzen  (A51rdRK6)
+2026-09-10 00:33:53,293  WARNING      ✗   Mio Biwako Shiga vs Tokyo Verdy  (best score: 0.60)
+2026-09-10 00:33:53,300  WARNING      ✗   AC Nagano Parceiro vs Mito Hollyhock  (best score: 0.51)
+2026-09-10 00:33:53,309  INFO      ✅  [0.95]  Fukushima United FC vs Vegalta Sendai  →  Fukushima Utd vs Vegalta Sendai  (Uqqofdxe)
+2026-09-10 00:33:53,315  WARNING      ✗   Kamatamare Sanuki vs JEF United Chiba  (best score: 0.61)
+2026-09-10 00:33:53,323  INFO      ✅  [1.00]  Kochi United SC vs V-Varen Nagasaki  →  Kochi United vs V-Varen Nagasaki  (4GKcGngc)
+2026-09-10 00:33:53,503  INFO      ✅  [0.77]  Matsumoto Yamaga FC vs Shonan Bellmare  →  Yamaga vs Shonan Bellmare  (Ghcu7Nbn)
+2026-09-10 00:33:53,521  INFO      ✅  [1.00]  Tochigi SC vs Montedio Yamagata  →  Tochigi SC vs Montedio Yamagata  (WpizGIsH)
+2026-09-10 00:33:53,721  INFO      ✅  [0.82]  Daejeon Citizen FC vs FC Anyang  →  Daejeon vs Anyang  (byjwj9Z7)
+2026-09-10 00:33:53,726  INFO      ✅  [0.79]  FC Pohang Steelers vs Gimcheon Sangmu FC  →  Pohang vs Gimcheon Sangmu  (IuN36UJl)
+2026-09-10 00:33:53,729  INFO      ✅  [1.00]  Gangwon FC vs Jeonbuk FC  →  Gangwon vs Jeonbuk  (QsrPDCRE)
+2026-09-10 00:33:53,839  INFO      ✅  [1.00]  Gwangju FC vs Jeju SK FC  →  Gwangju FC vs Jeju SK  (ncWXBjdR)
+2026-09-10 00:33:53,949  INFO      ✅  [1.00]  Rangers vs St Mirren FC  →  Rangers vs St. Mirren  (jFwdNbHj)
+2026-09-10 00:33:54,054  INFO      ✅  [1.00]  St. Johnstone FC vs Celtic  →  St Johnstone vs Celtic  (ILVso29c)
+2026-09-10 00:33:54,307  INFO      ✅  [0.72]  Cuiaba EC MT vs Athletic Club Sjdr MG  →  Cuiaba vs Athletic Club  (O07YV0T9)
+2026-09-10 00:33:54,506  INFO      ✅  [0.80]  Criciuma EC SC vs EC Juventude RS  →  Criciuma vs Juventude  (OtHvAJ6j)
+2026-09-10 00:33:54,523  INFO      ✅  [0.86]  Botafogo FC SP vs Gremio Novorizontino SP  →  Botafogo SP vs Novorizontino  (IqYT22aN)
+2026-09-10 00:33:54,737  INFO      ✅  [0.88]  Fortaleza EC CE vs Avai FC SC  →  Fortaleza vs Avai  (tfX0H1EG)
+2026-09-10 00:33:54,840  INFO      ✅  [0.80]  Vanloese IF vs Hillerod Fodbold  →  Vanlose vs Hillerod  (8Wi2MnmD)
+2026-09-10 00:33:54,875  INFO      ✅  [0.79]  Kolding IF vs Odense Boldklub  →  Kolding IF vs Odense  (tMDai7nm)
+2026-09-10 00:33:55,026  INFO      ✅  [1.00]  Modern Sport FC vs Wadi Degla SC  →  Modern Sport vs Wadi Degla  (44EAiswS)
+2026-09-10 00:33:55,043  INFO      ✅  [1.00]  Pyramids FC vs El Gouna FC  →  Pyramids vs El Gouna  (ITP8XLod)
+2026-09-10 00:33:55,067  WARNING      ✗   Al Mokawloon Al Arab vs AL Ahly SC (EGY)  (best score: 0.61)
+2026-09-10 00:33:55,221  INFO      ✅  [0.83]  Enppi Club vs Zed FC  →  Enppi vs ZED  (0z0tnL0k)
+2026-09-10 00:33:55,321  INFO      ✅  [0.75]  FC Volna Nizhny Novgorod Oblast vs SK Rotor Volgograd  →  Volna Nizhegorodskaya vs R. Volgograd  (08uQQMIr)
+2026-09-10 00:33:55,332  INFO      ✅  [0.88]  FC Krasnoe Znamya Noginsk vs FC Ska-Khabarovsk  →  Krasnoye Znamya vs SKA Khabarovsk  (pYUHgx9b)
+2026-09-10 00:33:55,380  WARNING      ✗   Dinamo Kirov vs FC Kamaz Naberezhnye Chelny  (best score: 0.47)
+2026-09-10 00:33:55,393  INFO      ✅  [1.00]  FC Kaluga vs FK Ufa  →  Kaluga vs Ufa  (nqn0yegU)
+2026-09-10 00:33:55,410  INFO      ✅  [1.00]  FC Murom vs FK Veles Moscow  →  Murom vs Veles Moscow  (v9ZtiXRa)
+2026-09-10 00:33:55,427  INFO      ✅  [0.85]  FC Sokol Saratov vs Leningradets  →  Saratov vs Leningradets  (f9DhqVY9)
+2026-09-10 00:33:55,456  INFO      ✅  [0.88]  FC Volgar Astrakhan vs FC Volga Ulyanovsk  →  Volgar-Astrakhan vs Ulyanovsk  (tnstNvI7)
+2026-09-10 00:33:55,481  WARNING      ✗   Dinamo Stavropol vs FC Nizhny Novgorod  (best score: 0.61)
+2026-09-10 00:33:55,503  INFO      ✅  [0.80]  Dinamo St Petersburg vs FK Sochi  →  Dynamo SPB vs Sochi  (xKVzI0WF)
+2026-09-10 00:33:55,525  INFO      ✅  [0.74]  FC Chertanovo Moscow vs FC Neftekhimik Nizhnekamsk  →  Chertanovo M. vs Neftekhimik  (buX4YDKi)
+2026-09-10 00:33:55,561  WARNING      ✗   FC Druzhba Maykop vs FC Yenisey Krasnoyarsk  (best score: 0.57)
+2026-09-10 00:33:55,615  INFO      ✅  [1.00]  Al-Kholood vs Al-Shabab FC (SA)  →  Al Kholood vs Al Shabab  (MLtpsPDl)
+2026-09-10 00:33:55,631  WARNING      ✗   Al Nassr Club vs Abha Club  (best score: 0.69)
+2026-09-10 00:33:55,805  INFO      ✅  [0.82]  Al-Fateh SC vs Diriyah Club  →  Al Fateh vs Al Diriyah  (Uophu3r1)
+2026-09-10 00:33:55,855  INFO      ✅  [1.00]  Sydney FC vs Melbourne Victory  →  Sydney FC vs Melbourne Victory  (C69bvK76)
+2026-09-10 00:33:55,857  INFO      ✅  [0.93]  Boca Juniors vs Sao Paulo FC SP  →  Boca Juniors (Arg) vs Sao Paulo (Bra)  (xvKOe1w3)
+2026-09-10 00:33:55,919  INFO      ✅  [0.77]  Santos FC SP vs Atletico Mineiro MG  →  Santos (Bra) vs Atletico-MG (Bra)  (EXpU9Jgd)
+2026-09-10 00:33:55,938  INFO      ✅  [0.75]  Deportivo Riestra AFBC vs CA Banfield  →  Dep. Riestra vs Banfield  (CbofJWeK)
+2026-09-10 00:33:56,072  INFO      ✅  [0.83]  OFI Crete vs Nestos Chrysoupoli FC  →  OFI Crete vs Chrisoupolis  (2D5TjkB7)
+2026-09-10 00:33:56,320  INFO      ✅  [1.00]  FC Ryukyu vs Giravanz Kitakyushu  →  Ryukyu vs Giravanz Kitakyushu  (UTloAHm2)
+2026-09-10 00:33:56,438  INFO      ✅  [0.71]  Italy vs New Zealand  →  Italy U20 W vs New Zealand U20 W  (UVyk0bY9)
+2026-09-10 00:33:56,464  WARNING      ✗   France vs Ecuador  (best score: 0.68)
+2026-09-10 00:33:56,481  WARNING      ✗   Japan vs USA  (best score: 0.56)
+2026-09-10 00:33:56,483  INFO      ✅  [0.75]  Internacional de Palmira vs Atletico FC Cali  →  Inter Palmira vs Atletico F.C.  (fH1WqDJj)
+2026-09-10 00:33:56,599  INFO      ✅  [0.70]  Independiente Valle Del Cauca vs Deportes Quindio  →  Ind. Valle del Cauca vs Quindio  (WbfBdj3d)
+2026-09-10 00:33:56,611  INFO      ✅  [0.87]  Al-Raed Club vs AL Jeel  →  Al Raed vs Al Jeel  (ny8jS90D)
+2026-09-10 00:33:56,637  INFO      ✅  [1.00]  AL Jandal vs Al Bukiryah  →  Al Jandal vs Al Bukiryah  (Es0xjDhK)
+2026-09-10 00:33:56,653  INFO      ✅  [0.80]  Jeddah Club vs Al-Orobah  →  Jeddah vs Al Orubah  (ADo8piGs)
+2026-09-10 00:33:56,731  INFO      ✅  [0.88]  Landskrona BoIS vs Helsingborgs IF  →  Landskrona vs Helsingborg  (zN0SGaAj)
+2026-09-10 00:33:56,754  INFO      ✅  [1.00]  Ljungskile SK vs Norrby IF  →  Ljungskile vs Norrby  (tKmEv32c)
+2026-09-10 00:33:56,789  INFO      ✅  [0.97]  Sandvikens IF vs IK Oddevold  →  Sandviken vs Oddevold  (UqM1VbPq)
+2026-09-10 00:33:56,810  WARNING      ✗   United IK Nordic vs IFK Varnamo  (best score: 0.62)
+2026-09-10 00:33:56,828  INFO      ✅  [0.82]  SD Compostela vs CD Derio  →  Compostela vs Derio  (I9yOqGNi)
+2026-09-10 00:33:56,854  INFO      ✅  [0.76]  UD Santa Marta vs CF Vimenor  →  Santa Marta Tormes vs Vimenor  (K2BV50um)
+2026-09-10 00:33:56,867  INFO      ✅  [0.76]  CF Badalona vs Sestao River Club  →  CF Badalona vs Sestao  (tAijVG8b)
+2026-09-10 00:33:56,886  INFO      ✅  [0.87]  Comillas CF vs CE L'Hospitalet  →  Comillas vs L Hospitalet  (A7AQEeOH)
+2026-09-10 00:33:56,901  INFO      ✅  [0.75]  Torrent CF vs Atletico Saguntino  →  Torrent vs Saguntino  (KKh6RY7N)
+2026-09-10 00:33:56,915  INFO      ✅  [0.85]  AD San Juan Pamplona vs Terrassa FC  →  AD San Juan vs Terrassa  (xtcJGHg5)
+2026-09-10 00:33:56,935  INFO      ✅  [0.82]  CF Motril vs RC Recreativo de Huelva  →  Motril vs Recreativo Huelva  (n7fbTfwB)
+2026-09-10 00:33:57,025  INFO      ✅  [0.75]  CF Talavera de La Reina vs CDA Navalcarnero  →  CF Talavera vs Navalcarnero  (YPHo2IvC)
+2026-09-10 00:33:57,046  INFO      ✅  [0.85]  CP Cacereno SAD vs UD San Pedro  →  Cacereno vs UD San Pedro  (4SbBIwPh)
+2026-09-10 00:33:57,224  INFO      ✅  [0.92]  Curico Unido vs Union Espanola  →  Curico Unido vs U. Espanola  (n3wogOqe)
+2026-09-10 00:33:57,229  INFO      ✅  [0.88]  Deportes Temuco vs Santiago Wanderers  →  Deportes Temuco vs S. Wanderers  (vwzwepFr)
+2026-09-10 00:33:57,252  INFO      ✅  [0.82]  Deportes Recoleta vs San Marcos de Arica  →  Recoleta vs San Marcos de Arica  (nkbCvPU1)
+2026-09-10 00:33:57,480  INFO      ✅  [0.77]  FCI Levadia Tallinn vs FC Kuressaare  →  Levadia vs Kuressaare  (dd5ljADD)
+2026-09-10 00:33:57,504  INFO      ✅  [1.00]  Parnu JK Vaprus vs Harju JK Laagri  →  Parnu JK Vaprus vs Harju JK Laagri  (zR60cRKt)
+2026-09-10 00:33:57,530  WARNING      ✗   Tartu JK Tammeka vs Paide Linnameeskond  (best score: 0.51)
+2026-09-10 00:33:57,562  WARNING      ✗   CA Defensores de Belgrano vs Club Atletico Los Andes  (best score: 0.66)
+2026-09-10 00:33:57,613  INFO      ✅  [0.85]  PFC Levski Sofia vs PFC CSKA Sofia  →  Levski Sofia vs CSKA Sofia  (ITgxJtTa)
+2026-09-10 00:33:57,624  INFO      ✅  [0.74]  PAOK Thessaloniki B vs Olympiacos Piraeus B  →  PAOK B vs Olympiacos Piraeus B  (4K0kbEM6)
+2026-09-10 00:33:57,776  INFO      ✅  [0.70]  HJK Helsinki vs FC Inter Turku  →  HJK vs Inter Turku  (SYLurdV1)
+2026-09-10 00:33:57,885  INFO      ✅  [0.75]  Club Atletico Barinas vs Atletico El Vigia  →  Atletico Barinas vs El Vigia  (YLNM9W9t)
+2026-09-10 00:33:57,907  WARNING      ✗   Academia Anzoategui FC vs Deportivo Miranda  (best score: 0.64)
+2026-09-10 00:33:58,012  INFO      ✅  [1.00]  Monagas SC vs Bolivar SC  →  Monagas vs Bolivar  (b1CX1cUh)
+2026-09-10 00:33:58,022  INFO      ✅  [0.85]  Urena SC vs Deportivo Rayo Zuliano  →  Urena vs Rayo Zuliano  (QX7kxDk1)
+2026-09-10 00:33:58,034  INFO      ✅  [1.00]  Yaracuyanos FC vs Aragua FC  →  Yaracuyanos vs Aragua  (Yw5cV4xH)
+2026-09-10 00:33:58,039  INFO      ✅  [1.00]  Barquisimeto SC vs Caracas FC  →  Barquisimeto vs Caracas  (QD1kXQ74)
+2026-09-10 00:33:58,186  INFO      ✅  [0.82]  FC Samgurali Tskaltubo vs FC Dila Gori  →  Samgurali vs Dila Gori  (CCgttsX7)
+2026-09-10 00:33:58,203  INFO      ✅  [1.00]  FC Spaeri vs FC Rustavi  →  Spaeri vs Rustavi  (4njYs32e)
+2026-09-10 00:33:58,229  INFO      ✅  [1.00]  FC Dinamo Batumi vs FC Iberia 1999  →  Dinamo Batumi vs Iberia 1999  (QZqz2OgR)
+2026-09-10 00:33:58,585  INFO      ✅  [0.95]  1.SK Prostejov vs SK Sigma Olomouc  →  Prostejov vs Sigma Olomouc  (fuCX2pvf)
+2026-09-10 00:33:58,635  INFO      ✅  [0.79]  FK Viktoria Zizkov vs Sparta Prague  →  Zizkov vs Sparta Prague  (tdAu1O86)
+2026-09-10 00:33:58,644  INFO      ✅  [1.00]  Sardarapat FC vs FC Pyunik Yerevan  →  Sardarapat vs Pyunik Yerevan  (2yturTW7)
+2026-09-10 00:33:58,665  INFO      ✅  [0.89]  Nova Bana vs FC Vion Zlate Moravce - Vrable  →  Nova Bana vs Z. Moravce-Vrable  (4riXyJj3)
+2026-09-10 00:33:58,678  INFO      ✅  [0.75]  FC Banik Prievidza vs OFK Banik Lehota Pod Vtacnikom  →  Banik Prievidza vs Lehota p. V.  (hfpnEFbd)
+2026-09-10 00:33:58,847  INFO      ✅  [0.73]  FK Decic Tuzi vs OFK Petrovac  →  Decic vs Petrovac  (bXz1zmIj)
+2026-09-10 00:33:58,861  WARNING      ✗   HNK Vukovar 1991 vs HNK Cibalia Vinkovci  (best score: 0.69)
+2026-09-10 00:33:58,878  INFO      ✅  [0.87]  NK Bedem Ivankovo vs GNK Dinamo Zagreb  →  Bedem Ivankovo vs Din. Zagreb  (nLkmFC65)
+2026-09-10 00:33:58,892  INFO      ✅  [0.85]  NK Hrvatski Dragovoljac vs NK Slaven Belupo  →  Dragovoljac vs Slaven Belupo  (zJ31T2RF)
+2026-09-10 00:33:58,902  INFO      ✅  [1.00]  NK Segesta vs NK Osijek  →  Segesta vs Osijek  (fogeDjyI)
+2026-09-10 00:33:58,924  WARNING      ✗   NK Tomislav Donji Andrijevci vs NK Lokomotiva Zagreb  (best score: 0.68)
+2026-09-10 00:33:58,942  INFO      ✅  [0.71]  NK Uskok vs HNK Gorica  →  Uskok Klis vs Gorica  (255gVOd3)
+2026-09-10 00:33:58,966  INFO      ✅  [1.00]  NK Zagora vs NK Varazdin  →  Zagora vs Varazdin  (hCTTE3CM)
+2026-09-10 00:33:59,065  INFO      ✅  [0.77]  Orijent 1919 Rijeka vs NK Mladost Zdralovi  →  Orijent vs Mladost Zdralovi  (E7iuHYyg)
+2026-09-10 00:33:59,074  INFO      ✅  [0.79]  NK Koprivnica vs NK Rudes Zagreb  →  Koprivnica vs Rudes  (6slXIf7t)
+2026-09-10 00:33:59,142  INFO      ✅  [0.96]  Hapoel Azor FC vs FC Tzeirey Tira  →  Hapoel Azor vs Tzeirei Tira  (pWHLKweU)
+2026-09-10 00:33:59,160  INFO      ✅  [1.00]  Hapoel Hadera FC vs Shimshon Tel Aviv  →  Hapoel Hadera vs Shimshon Tel Aviv  (KnZPGUgd)
+2026-09-10 00:33:59,185  INFO      ✅  [0.90]  Holon Yermiyahu FC vs Hapoel Marmorek FC  →  Holon Yermiyahu vs H. Marmorek  (ngRBvYo3)
+2026-09-10 00:33:59,209  INFO      ✅  [0.95]  Ironi Beit Shemesh vs MK KFAR Saba 1928  →  Ironi Beit Shemesh vs Kfar Saba 1928  (COpIjUFs)
+2026-09-10 00:33:59,236  INFO      ✅  [0.92]  Hapoel Herzelia FC vs AS Nordia Jerusalem  →  Hapoel Herzliya vs Nordia Jerusalem  (88ewwLAb)
+2026-09-10 00:33:59,254  WARNING      ✗   Baqa Al-Gharbiyye vs Ironi Nesher  (best score: 0.61)
+2026-09-10 00:33:59,259  INFO      ✅  [1.00]  Deportivo San Pedro vs Deportivo Mixco  →  Deportivo San Pedro vs Deportivo Mixco  (KQHOJerI)
+2026-09-10 00:33:59,290  INFO      ✅  [0.85]  FK Zeljeznicar Sarajevo vs FK Sarajevo  →  Zeljeznicar vs FK Sarajevo  (hhy7Yvd4)
+2026-09-10 00:33:59,316  INFO      ✅  [0.84]  CA Platense vs Boca Juniors  →  Platense 2 vs Boca Juniors 2  (OOJt0Y1s)
+2026-09-10 00:33:59,350  WARNING      ✗   Instituto AC Cordoba Reserves vs CA Sarmiento de Junin  (best score: 0.67)
+2026-09-10 00:33:59,381  WARNING      ✗   San Lorenzo de Almagro Res. vs CA Union Santa Fe Reserve  (best score: 0.65)
+2026-09-10 00:33:59,413  INFO      ✅  [0.74]  San Martin de San Juan Reserve vs Defensa Y Justicia Reserve  →  San Martin S.J. 2 vs Defensa y Justicia 2  (x6dgRA0t)
+2026-09-10 00:33:59,429  INFO      ✅  [0.73]  CA Talleres de Cordoba Reserve vs CA Barracas Central Reserve  →  Talleres Cordoba 2 vs Barracas Central 2  (dAw4fUVI)
+2026-09-10 00:33:59,440  INFO      ✅  [0.75]  CA Central Cordoba SE Reserve vs Estudiantes de Rio Cuarto Reserve  →  Central Cordoba 2 vs Estudiantes Rio Cuarto 2  (65v9oZnl)
+2026-09-10 00:33:59,452  INFO      ✅  [0.83]  Club Fernando de La Mora vs Deportivo Capiata  →  Fernando de la Mora vs Dep. Capiata  (xnQtplI8)
+2026-09-10 00:33:59,461  INFO      ✅  [0.80]  Encarnacion FC vs Tacuary Asuncion  →  Encarnacion FC vs Tacuary  (AaOlrSnL)
+2026-09-10 00:33:59,481  INFO      ✅  [0.85]  Deportivo Santani vs Independiente Campo Grande  →  Deportivo Santani vs Independiente FBC  (trFKx6Ar)
+2026-09-10 00:33:59,490  INFO      ✅  [0.71]  FK Novaci 2005 vs GFK Ohrid  →  Novaci vs Ohrid  (M9zxgcBd)
+2026-09-10 00:33:59,687  INFO      ✅  [0.74]  CD Inca vs Atletico Balboa  →  Inca Aruba vs Atletico Balboa  (ziwQE4GP)
+2026-09-10 00:33:59,695  WARNING      ✗   CD Platense Municipal Zacatecoluca vs AD Isidro Metapan  (best score: 0.64)
+2026-09-10 00:33:59,708  INFO      ✅  [0.93]  KF Feronikeli vs FC Drita  →  Feronikeli vs Drita  (OloRPeG6)
+2026-09-10 00:33:59,727  INFO      ✅  [1.00]  SC Gjilani vs Ballkani  →  Gjilani vs FC Ballkani  (d2qZNZpJ)
+2026-09-10 00:33:59,738  INFO      ✅  [0.75]  FK Kauno Zalgiris vs FK Suduva Marijampole  →  Kauno Zalgiris vs Suduva  (hv2ILj2b)
+2026-09-10 00:33:59,752  INFO      ✅  [0.71]  UMF Njardvik vs Throttur Reykjavik  →  Njardvik vs Throttur  (f1NStacK)
+2026-09-10 00:33:59,759  INFO      ✅  [0.70]  HK Kopavogur vs Fylkir Reykjavik  →  Kopavogur vs Fylkir  (GjxZKHz1)
+2026-09-10 00:33:59,765  WARNING      ✗   EC Guarani RS vs APAFUT Caxias Do Sul RS  (best score: 0.64)
+2026-09-10 00:33:59,771  WARNING      ✗   EC Pelotas RS vs CE Aimore RS  (best score: 0.68)
+2026-09-10 00:33:59,774  INFO      ✅  [0.88]  Passo Fundo vs CE Gramadense RS  →  Passo Fundo vs Gramadense  (hSZQqAiK)
+2026-09-10 00:33:59,779  INFO      ✅  [0.77]  Entebbe UPPC FC vs Lugazi Municipal FC  →  Entebbe UPPC vs Lugazi  (Ue5rSLek)
+2026-09-10 00:33:59,786  INFO      ✅  [1.00]  SC Villa vs Express FC  →  Villa vs Express  (YPJCXsYR)
+2026-09-10 00:34:00,012  INFO      ✅  [1.00]  Mamelodi Sundowns vs Siwelele FC  →  Mamelodi Sundowns vs Siwelele  (SIeRpO76)
+2026-09-10 00:34:00,027  INFO      ✅  [0.90]  Penang FA vs Melaka FC  →  Penang vs Melaka FC  (fPeg4OZG)
+2026-09-10 00:34:00,412  INFO      ✅  [0.77]  Brunei DPMM FC vs Terengganu FC  →  DPMM vs Terengganu  (2ka1224T)
+2026-09-10 00:34:00,418  INFO      ✅  [0.88]  Kuala Lumpur City FC vs Perak FA  →  Kuala Lumpur City vs Perak  (2ku4Busp)
+2026-09-10 00:34:00,427  INFO      ✅  [1.00]  Selangor FC vs Sabah FC  →  Selangor vs Sabah  (bgjQINlA)
+2026-09-10 00:34:00,439  INFO      ✅  [1.00]  FC Kairat Almaty vs FC Zhenis  →  Kairat Almaty vs Zhenis  (8fQ0H3s2)
+2026-09-10 00:34:00,448  WARNING      ✗   Shahdagh-Samur Gusar vs FK Karvan Yevlakh  (best score: 0.64)
+2026-09-10 00:34:00,494  INFO      ✅  [0.75]  AGMK FC vs Pakhtakor  →  OKMK vs Pakhtakor  (6TfFB9Xa)
+2026-09-10 00:34:00,506  INFO      ✅  [1.00]  FK Neftchi Fargona vs FK Termez Surkhon  →  Neftchi Fargona vs Termez Surkhon  (zRDkelmJ)
+2026-09-10 00:34:00,516  INFO      ✅  [0.74]  PFC Nasaf vs FC Bunyodkor  →  Nasaf Qarshi vs Bunyodkor  (hpgN9m2C)
+2026-09-10 00:34:00,524  INFO      ✅  [1.00]  FC Cabinda vs Primeiro de Agosto  →  Cabinda vs Primeiro de Agosto  (lxEjGILr)
+2026-09-10 00:34:00,534  INFO      ✅  [0.88]  AL Julan vs Zakho FC  →  Al Golan vs Zakho  (rcKf6QdB)
+2026-09-10 00:34:00,545  INFO      ✅  [1.00]  AL Talaba vs AL Karkh  →  Al Talaba vs Al Karkh  (AqMn8nSb)
+2026-09-10 00:34:00,558  INFO      ✅  [0.86]  AL Minaa vs AL Naft Maysan  →  Al Minaa vs Naft Missan  (0jpNiRsI)
+2026-09-10 00:34:00,574  INFO      ✅  [1.00]  Newroz SC vs AL Mosul SC  →  Newroz vs Al Mosul  (p0w7e9rg)
+2026-09-10 00:34:00,584  INFO      ✅  [1.00]  AL Karma vs AL Naft  →  Al-Karma vs Al Naft  (jNN244RN)
+2026-09-10 00:34:00,659  INFO      ✅  [0.81]  Santa Clara vs SC Farense  →  Santa Clara U23 vs SC Farense U23  (SEZgDwK7)
+2026-09-10 00:34:00,668  INFO      ✅  [0.83]  SL Benfica vs FC Vizela U23  →  Benfica U23 vs Vizela U23  (pzv72M5k)
+2026-09-10 00:34:00,675  WARNING      ✗   CD Getafe vs CF Pozuelo de Alarcon  (best score: 0.37)
+2026-09-10 00:34:00,687  WARNING      ✗   Oviedo Moderno vs Real Sporting de Gijon Sad  (best score: 0.34)
+2026-09-10 00:34:00,698  WARNING      ✗   Elche CF SAD vs Levante UD  (best score: 0.40)
+2026-09-10 00:34:00,715  WARNING      ✗   CD Atletico Baleares vs Villarreal CF  (best score: 0.44)
+2026-09-10 00:34:00,725  WARNING      ✗   Sporting de Huelva vs Malaga CF  (best score: 0.52)
+2026-09-10 00:34:00,739  WARNING      ✗   Burgos CF vs Club Bizkerre  (best score: 0.36)
+2026-09-10 00:34:00,753  WARNING      ✗   RC Celta de Vigo vs Real Aviles CF  (best score: 0.45)
+2026-09-10 00:34:00,769  WARNING      ✗   Sport Extremadura CD vs Cacereno Femenino  (best score: 0.36)
+2026-09-10 00:34:00,781  WARNING      ✗   CD Samper vs Club Olympia Las Rozas  (best score: 0.36)
+2026-09-10 00:34:00,824  INFO      ✅  [0.80]  FC Basel vs Grasshopper Zurich  →  Basel W vs Grasshopper W  (vy4xzU0f)
+2026-09-10 00:34:00,835  INFO      ✅  [0.84]  FC Zurich vs Young Boys Bern  →  Zurich W vs Young Boys W  (zLO4LUo1)
+2026-09-10 00:34:00,884  INFO      ✅  [0.90]  FC Luzern vs FC Rapperswil-Jona  →  Luzern W vs Rapperswil-Jona W  (6N5UyjWs)
+2026-09-10 00:34:00,915  WARNING      ✗   IFK Goteborg vs Hacken Gothenburg W  (best score: 0.66)
+2026-09-10 00:34:00,927  INFO      ✅  [0.91]  Hammarby IF vs Gamla Upsala SK  →  Hammarby W vs Gamla Upsala W  (OA4FZblo)
+2026-09-10 00:34:00,937  INFO      ✅  [0.91]  America de Cali Sa vs Orsomarso SC  →  America de Cali W vs Orsomarso W  (Cr96DNgT)
+2026-09-10 00:34:00,948  WARNING      ✗   Independiente Santa Fe vs Asociacion Deportivo Cali  (best score: 0.48)
+2026-09-10 00:34:00,951  INFO      ✅  [0.75]  RB Do Norte AM vs Nacional Fast Clube AM  →  RB do Norte vs Fast Clube  (htgHHIGr)
+2026-09-10 00:34:00,952  INFO      ✅  [0.82]  Oriente Petrolero vs Guabira Montero  →  Oriente Petrolero vs Guabira  (Oj2dIyB7)
+2026-09-10 00:34:00,965  INFO      ✅  [0.87]  Cdt Real Oruro vs CA Nacional Potosi  →  Real Oruro vs Nacional Potosi  (Gpkrtu3E)
+2026-09-10 00:34:00,970  INFO      ✅  [1.00]  FC Universitario de Vinto vs The Strongest  →  Universitario de Vinto vs The Strongest  (MqHFNWnm)
+2026-09-10 00:34:00,990  INFO      ✅  [0.86]  Racing Club Montevideo vs Central Espanol FC  →  Racing Montevideo vs Central Esp.  (2ootXtce)
+2026-09-10 00:34:00,993  WARNING      ✗   CA Boston River vs Colon FC  (best score: 0.38)
+2026-09-10 00:34:01,001  WARNING      ✗   Terremoto vs CA Bella Vista  (best score: 0.44)
+2026-09-10 00:34:01,094  INFO      ✅  [0.72]  Goiania EC GO vs Goianesia EC GO  →  Goiania vs Goianesia  (jPfufsNk)
+2026-09-10 00:34:01,101  WARNING      ✗   Gremio Anapolis GO vs Crixas EC GO  (best score: 0.55)
+2026-09-10 00:34:01,129  INFO      ✅  [0.92]  Trindade AC GO vs Rio Verde  →  Trindade vs Rio Verde  (pQS7CkwH)
+2026-09-10 00:34:01,189  WARNING      ✗   Lautp vs Kultsu FC  (best score: 0.34)
+2026-09-10 00:34:01,197  WARNING      ✗   KPV/Akatemia vs Nykarleby IK  (best score: 0.41)
+2026-09-10 00:34:01,214  WARNING      ✗   FC Vaajakoski/2 vs Keupa  (best score: 0.40)
+2026-09-10 00:34:01,225  WARNING      ✗   LePa vs GrIFK/Akatemia  (best score: 0.39)
+2026-09-10 00:34:01,227  WARNING      ✗   Aizawl FC vs Dinthar FC  (best score: 0.35)
+2026-09-10 00:34:01,236  WARNING      ✗   CD Platense vs AD Isidro Metapan  (best score: 0.57)
+2026-09-10 00:34:01,237  INFO      ✅  [1.00]  San Antonio FC vs Louisville City FC  →  San Antonio vs Louisville City  (UkSuUcnQ)
+2026-09-10 00:34:02,432  INFO      Newly linked : 162
+2026-09-10 00:34:02,433  INFO      Already done : 0
+2026-09-10 00:34:02,434  INFO  
+[2] STATS — fetching match statistics and incidents...
+2026-09-10 00:34:02,436  INFO    Matches needing stats for 2026-09-09: 162
+2026-09-10 00:34:02,437  INFO    [  1/162]  Club Sando vs Delfines Del Este  (40pOmxoT)
+2026-09-10 00:34:13,658  INFO      Stats   : 120 rows stored
+2026-09-10 00:34:26,391  INFO      Incidents: 13 rows stored
+2026-09-10 00:34:28,411  INFO    [  2/162]  Hartford Athletic vs Colorado Springs Switchbacks FC  (xduf6ffJ)
+2026-09-10 00:34:31,224  INFO      Stats   : 121 rows stored
+2026-09-10 00:34:37,934  INFO      Incidents: 13 rows stored
+2026-09-10 00:34:39,810  INFO    [  3/162]  Barcelona vs Feyenoord  (nD1UprQ0)
+2026-09-10 00:34:42,759  INFO      Stats   : 122 rows stored
+2026-09-10 00:34:46,954  INFO      Incidents: 18 rows stored
+2026-09-10 00:34:49,011  INFO    [  4/162]  Stuttgart vs Viking FK  (xUAf7KE4)
+2026-09-10 00:34:55,697  INFO      Stats   : 120 rows stored
+2026-09-10 00:35:03,161  INFO      Incidents: 17 rows stored
+2026-09-10 00:35:05,260  INFO    [  5/162]  Liverpool vs Atletico Madrid  (6aa0PFtQ)
+2026-09-10 00:35:16,682  INFO      Stats   : 120 rows stored
+2026-09-10 00:35:32,452  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15010 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:35:34,184  INFO    [  6/162]  Napoli vs Arsenal  (juiAv14K)
+2026-09-10 00:35:47,840  INFO      Stats   : 120 rows stored
+2026-09-10 00:35:57,978  INFO      Incidents: 14 rows stored
+2026-09-10 00:36:00,704  INFO    [  7/162]  PSG vs Slovan Bratislava  (vRfGDXa4)
+2026-09-10 00:36:05,653  INFO      Stats   : 121 rows stored
+2026-09-10 00:36:08,103  INFO      Incidents: 18 rows stored
+2026-09-10 00:36:10,301  INFO    [  8/162]  Sporting vs Galatasaray Istanbul  (QaIiWiUj)
+2026-09-10 00:36:13,069  INFO      Stats   : 120 rows stored
+2026-09-10 00:36:16,155  INFO      Incidents: 20 rows stored
+2026-09-10 00:36:18,419  INFO    [  9/162]  Chelsea vs Leeds United  (K2DLaNQF)
+2026-09-10 00:36:20,527  INFO      Stats   : 122 rows stored
+2026-09-10 00:36:27,751  INFO      Incidents: 21 rows stored
+2026-09-10 00:36:29,939  INFO    [ 10/162]  AFC Whyteleafe vs Crowborough Athletic  (fJEgRt7m)
+2026-09-10 00:36:44,954  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15011 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:37:00,711  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:37:02,364  INFO    [ 11/162]  Exmouth Town vs Banbury United  (4WdZwKjg)
+2026-09-10 00:37:15,528  INFO      Stats   : empty response
+2026-09-10 00:37:31,287  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Operation timed out after 15000 milliseconds with 0 out of 80 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:37:32,943  INFO    [ 12/162]  FC Viktoriya Sumy vs FC Metalist Kharkiv  (jeNm3hYp)
+2026-09-10 00:37:43,823  INFO      Stats   : 2 rows stored
+2026-09-10 00:37:49,033  INFO      Incidents: 11 rows stored
+2026-09-10 00:37:51,187  INFO    [ 13/162]  Probiy Gorodenka vs FC Oleksandriya  (rNVlNDPG)
+2026-09-10 00:37:58,859  INFO      Stats   : 3 rows stored
+2026-09-10 00:38:03,668  INFO      Incidents: 19 rows stored
+2026-09-10 00:38:05,613  INFO    [ 14/162]  Agrobiznes Volochisk vs FC Livyi Bereh Kyiv  (zcStPZf4)
+2026-09-10 00:38:07,130  INFO      Stats   : 2 rows stored
+2026-09-10 00:38:09,428  INFO      Incidents: 20 rows stored
+2026-09-10 00:38:11,292  INFO    [ 15/162]  FSK Mariupol vs FC Zorya Luhansk  (nJKSFVHj)
+2026-09-10 00:38:14,715  INFO      Stats   : 2 rows stored
+2026-09-10 00:38:17,410  INFO      Incidents: 9 rows stored
+2026-09-10 00:38:19,294  INFO    [ 16/162]  FC Polissya Zhytomyr vs FK Kudrivka  (MFkUccd5)
+2026-09-10 00:38:22,828  INFO      Stats   : 2 rows stored
+2026-09-10 00:38:27,977  INFO      Incidents: 9 rows stored
+2026-09-10 00:38:29,880  INFO    [ 17/162]  Norwich vs Birmingham City  (MqP28FAM)
+2026-09-10 00:38:34,605  INFO      Stats   : 120 rows stored
+2026-09-10 00:38:47,154  INFO      Incidents: 20 rows stored
+2026-09-10 00:38:49,173  INFO    [ 18/162]  FC Twente Enschede vs SC Telstar  (jXbSlBHG)
+2026-09-10 00:38:57,985  INFO      Stats   : 120 rows stored
+2026-09-10 00:39:10,338  INFO      Incidents: 15 rows stored
+2026-09-10 00:39:12,505  INFO    [ 19/162]  Moreirense FC vs Benfica  (67ZYbIP9)
+2026-09-10 00:39:24,207  INFO      Stats   : 120 rows stored
+2026-09-10 00:39:27,881  INFO      Incidents: 20 rows stored
+2026-09-10 00:39:29,674  INFO    [ 20/162]  SE Palmeiras SP vs LDU Quito  (MHvWTvoS)
+2026-09-10 00:39:31,388  INFO      Stats   : 122 rows stored
+2026-09-10 00:39:33,695  INFO      Incidents: 11 rows stored
+2026-09-10 00:39:35,717  INFO    [ 21/162]  VfB Stuttgart vs Viking FK  (hM4SN6c3)
+2026-09-10 00:39:38,768  INFO      Stats   : 40 rows stored
+2026-09-10 00:39:45,446  INFO      Incidents: 16 rows stored
+2026-09-10 00:39:47,519  INFO    [ 22/162]  SSC Napoli U20 vs Arsenal FC  (vBE15U6e)
+2026-09-10 00:39:50,810  INFO      Stats   : 42 rows stored
+2026-09-10 00:39:54,607  INFO      Incidents: 18 rows stored
+2026-09-10 00:39:56,680  INFO    [ 23/162]  Sporting CP vs Galatasaray SK  (COC938y8)
+2026-09-10 00:40:00,979  INFO      Stats   : 44 rows stored
+2026-09-10 00:40:07,539  INFO      Incidents: 21 rows stored
+2026-09-10 00:40:09,579  INFO    [ 24/162]  Liverpool vs Atletico Madrid  (Y5909bPQ)
+2026-09-10 00:40:12,606  INFO      Stats   : 42 rows stored
+2026-09-10 00:40:16,676  INFO      Incidents: 22 rows stored
+2026-09-10 00:40:18,752  INFO    [ 25/162]  FK Jablonec vs FC Banik Ostrava  (URaSa9Ls)
+2026-09-10 00:40:20,339  INFO      Stats   : 124 rows stored
+2026-09-10 00:40:22,533  INFO      Incidents: 17 rows stored
+2026-09-10 00:40:24,653  INFO    [ 26/162]  FC Hradec Kralove vs Viktoria Plzen  (A51rdRK6)
+2026-09-10 00:40:27,825  INFO      Stats   : 121 rows stored
+2026-09-10 00:40:31,925  INFO      Incidents: 13 rows stored
+2026-09-10 00:40:33,964  INFO    [ 27/162]  Fukushima United FC vs Vegalta Sendai  (Uqqofdxe)
+2026-09-10 00:40:35,698  INFO      Stats   : 36 rows stored
+2026-09-10 00:40:39,039  INFO      Incidents: 17 rows stored
+2026-09-10 00:40:40,995  INFO    [ 28/162]  Kochi United SC vs V-Varen Nagasaki  (4GKcGngc)
+2026-09-10 00:40:42,990  INFO      Stats   : 39 rows stored
+2026-09-10 00:40:45,362  INFO      Incidents: 12 rows stored
+2026-09-10 00:40:47,355  INFO    [ 29/162]  Matsumoto Yamaga FC vs Shonan Bellmare  (Ghcu7Nbn)
+2026-09-10 00:40:50,206  INFO      Stats   : 51 rows stored
+2026-09-10 00:40:54,402  INFO      Incidents: 30 rows stored
+2026-09-10 00:40:56,245  INFO    [ 30/162]  Tochigi SC vs Montedio Yamagata  (WpizGIsH)
+2026-09-10 00:40:59,040  INFO      Stats   : 38 rows stored
+2026-09-10 00:41:07,583  INFO      Incidents: 14 rows stored
+2026-09-10 00:41:09,901  INFO    [ 31/162]  Daejeon Citizen FC vs FC Anyang  (byjwj9Z7)
+2026-09-10 00:41:14,414  INFO      Stats   : 42 rows stored
+2026-09-10 00:41:18,171  INFO      Incidents: 17 rows stored
+2026-09-10 00:41:20,059  INFO    [ 32/162]  FC Pohang Steelers vs Gimcheon Sangmu FC  (IuN36UJl)
+2026-09-10 00:41:28,478  INFO      Stats   : 44 rows stored
+2026-09-10 00:41:33,750  INFO      Incidents: 13 rows stored
+2026-09-10 00:41:35,779  INFO    [ 33/162]  Gangwon FC vs Jeonbuk FC  (QsrPDCRE)
+2026-09-10 00:41:41,706  INFO      Stats   : 42 rows stored
+2026-09-10 00:41:46,542  INFO      Incidents: 14 rows stored
+2026-09-10 00:41:48,682  INFO    [ 34/162]  Gwangju FC vs Jeju SK FC  (ncWXBjdR)
+2026-09-10 00:41:57,754  INFO      Stats   : 41 rows stored
+2026-09-10 00:42:02,009  INFO      Incidents: 14 rows stored
+2026-09-10 00:42:04,049  INFO    [ 35/162]  Rangers vs St Mirren FC  (jFwdNbHj)
+2026-09-10 00:42:12,704  INFO      Stats   : 119 rows stored
+2026-09-10 00:42:16,360  INFO      Incidents: 13 rows stored
+2026-09-10 00:42:18,082  INFO    [ 36/162]  St. Johnstone FC vs Celtic  (ILVso29c)
+2026-09-10 00:42:21,109  INFO      Stats   : 119 rows stored
+2026-09-10 00:42:24,138  INFO      Incidents: 15 rows stored
+2026-09-10 00:42:25,924  INFO    [ 37/162]  Cuiaba EC MT vs Athletic Club Sjdr MG  (O07YV0T9)
+2026-09-10 00:42:28,431  INFO      Stats   : 119 rows stored
+2026-09-10 00:42:34,967  INFO      Incidents: 14 rows stored
+2026-09-10 00:42:36,760  INFO    [ 38/162]  Criciuma EC SC vs EC Juventude RS  (OtHvAJ6j)
+2026-09-10 00:42:41,882  INFO      Stats   : 122 rows stored
+2026-09-10 00:42:48,661  INFO      Incidents: 19 rows stored
+2026-09-10 00:42:50,529  INFO    [ 39/162]  Botafogo FC SP vs Gremio Novorizontino SP  (IqYT22aN)
+2026-09-10 00:42:52,147  INFO      Stats   : 120 rows stored
+2026-09-10 00:42:57,644  INFO      Incidents: 7 rows stored
+2026-09-10 00:42:59,608  INFO    [ 40/162]  Fortaleza EC CE vs Avai FC SC  (tfX0H1EG)
+2026-09-10 00:43:01,401  INFO      Stats   : 119 rows stored
+2026-09-10 00:43:07,194  INFO      Incidents: 3 rows stored
+2026-09-10 00:43:08,940  INFO    [ 41/162]  Vanloese IF vs Hillerod Fodbold  (8Wi2MnmD)
+2026-09-10 00:43:13,600  INFO      Stats   : 6 rows stored
+2026-09-10 00:43:20,855  INFO      Incidents: 15 rows stored
+2026-09-10 00:43:22,708  INFO    [ 42/162]  Kolding IF vs Odense Boldklub  (tMDai7nm)
+2026-09-10 00:43:29,238  INFO      Stats   : 2 rows stored
+2026-09-10 00:43:32,372  INFO      Incidents: 14 rows stored
+2026-09-10 00:43:34,222  INFO    [ 43/162]  Modern Sport FC vs Wadi Degla SC  (44EAiswS)
+2026-09-10 00:43:37,196  INFO      Stats   : 122 rows stored
+2026-09-10 00:43:40,797  INFO      Incidents: 18 rows stored
+2026-09-10 00:43:42,888  INFO    [ 44/162]  Pyramids FC vs El Gouna FC  (ITP8XLod)
+2026-09-10 00:43:48,170  INFO      Stats   : 119 rows stored
+2026-09-10 00:43:54,086  INFO      Incidents: 13 rows stored
+2026-09-10 00:43:55,860  INFO    [ 45/162]  Enppi Club vs Zed FC  (0z0tnL0k)
+2026-09-10 00:44:01,077  INFO      Stats   : 122 rows stored
+2026-09-10 00:44:08,925  INFO      Incidents: 16 rows stored
+2026-09-10 00:44:10,990  INFO    [ 46/162]  FC Volna Nizhny Novgorod Oblast vs SK Rotor Volgograd  (08uQQMIr)
+2026-09-10 00:44:18,819  INFO      Stats   : 26 rows stored
+2026-09-10 00:44:23,231  INFO      Incidents: 15 rows stored
+2026-09-10 00:44:25,067  INFO    [ 47/162]  FC Krasnoe Znamya Noginsk vs FC Ska-Khabarovsk  (pYUHgx9b)
+2026-09-10 00:44:27,405  INFO      Stats   : 27 rows stored
+2026-09-10 00:44:29,889  INFO      Incidents: 17 rows stored
+2026-09-10 00:44:31,783  INFO    [ 48/162]  FC Kaluga vs FK Ufa  (nqn0yegU)
+2026-09-10 00:44:37,002  INFO      Stats   : 26 rows stored
+2026-09-10 00:44:41,022  INFO      Incidents: 15 rows stored
+2026-09-10 00:44:43,179  INFO    [ 49/162]  FC Murom vs FK Veles Moscow  (v9ZtiXRa)
+2026-09-10 00:44:45,519  INFO      Stats   : 26 rows stored
+2026-09-10 00:44:53,219  INFO      Incidents: 14 rows stored
+2026-09-10 00:44:55,137  INFO    [ 50/162]  FC Sokol Saratov vs Leningradets  (f9DhqVY9)
+2026-09-10 00:45:05,556  INFO      Stats   : 39 rows stored
+2026-09-10 00:45:15,600  INFO      Incidents: 29 rows stored
+2026-09-10 00:45:17,604  INFO    [ 51/162]  FC Volgar Astrakhan vs FC Volga Ulyanovsk  (tnstNvI7)
+2026-09-10 00:45:32,612  WARNING      Stats fetch failed: Failed to perform, curl: (28) Operation timed out after 15001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:45:44,103  INFO      Incidents: 26 rows stored
+2026-09-10 00:45:45,797  INFO    [ 52/162]  Dinamo St Petersburg vs FK Sochi  (xKVzI0WF)
+2026-09-10 00:45:59,046  WARNING      Stats fetch failed: Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:46:14,804  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15005 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:46:16,563  INFO    [ 53/162]  FC Chertanovo Moscow vs FC Neftekhimik Nizhnekamsk  (buX4YDKi)
+2026-09-10 00:46:31,579  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15013 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:46:47,338  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15007 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:46:48,986  INFO    [ 54/162]  Al-Kholood vs Al-Shabab FC (SA)  (MLtpsPDl)
+2026-09-10 00:47:04,004  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15015 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:47:19,763  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15005 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:47:21,412  INFO    [ 55/162]  Al-Fateh SC vs Diriyah Club  (Uophu3r1)
+2026-09-10 00:47:36,431  WARNING      Stats fetch failed: Failed to perform, curl: (28) Connection timed out after 15012 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:47:52,205  WARNING      Incidents fetch failed: Failed to perform, curl: (28) Connection timed out after 15021 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-10 00:47:53,913  INFO    [ 56/162]  Sydney FC vs Melbourne Victory  (C69bvK76)
+2026-09-10 00:48:00,486  INFO      Stats   : 120 rows stored
+2026-09-10 00:48:03,564  INFO      Incidents: 13 rows stored
+2026-09-10 00:48:05,560  INFO    [ 57/162]  Boca Juniors vs Sao Paulo FC SP  (xvKOe1w3)
+2026-09-10 00:48:07,279  INFO      Stats   : 119 rows stored
+2026-09-10 00:48:09,432  INFO      Incidents: 11 rows stored
+2026-09-10 00:48:11,427  INFO    [ 58/162]  Santos FC SP vs Atletico Mineiro MG  (EXpU9Jgd)
+2026-09-10 00:48:14,585  INFO      Stats   : 117 rows stored
+2026-09-10 00:48:20,953  INFO      Incidents: 11 rows stored
+2026-09-10 00:48:22,669  INFO    [ 59/162]  Deportivo Riestra AFBC vs CA Banfield  (CbofJWeK)
+2026-09-10 00:48:26,129  INFO      Stats   : 119 rows stored
+2026-09-10 00:48:30,963  INFO      Incidents: 11 rows stored
+2026-09-10 00:48:32,892  INFO    [ 60/162]  OFI Crete vs Nestos Chrysoupoli FC  (2D5TjkB7)
+2026-09-10 00:48:34,835  INFO      Stats   : 119 rows stored
+2026-09-10 00:48:37,025  INFO      Incidents: 15 rows stored
+2026-09-10 00:48:38,849  INFO    [ 61/162]  FC Ryukyu vs Giravanz Kitakyushu  (UTloAHm2)
+2026-09-10 00:48:40,406  INFO      Stats   : 38 rows stored
+2026-09-10 00:48:43,117  INFO      Incidents: 14 rows stored
+2026-09-10 00:48:45,053  INFO    [ 62/162]  Italy vs New Zealand  (UVyk0bY9)
+2026-09-10 00:48:50,454  INFO      Stats   : 119 rows stored
+2026-09-10 00:48:52,732  INFO      Incidents: 14 rows stored
+2026-09-10 00:48:54,739  INFO    [ 63/162]  Internacional de Palmira vs Atletico FC Cali  (fH1WqDJj)
+2026-09-10 00:48:59,951  INFO      Stats   : 27 rows stored
+2026-09-10 00:49:04,027  INFO      Incidents: 6 rows stored
+2026-09-10 00:49:05,774  INFO    [ 64/162]  Independiente Valle Del Cauca vs Deportes Quindio  (WbfBdj3d)
+2026-09-10 00:49:07,601  INFO      Stats   : 27 rows stored
+2026-09-10 00:49:10,809  INFO      Incidents: 6 rows stored
+2026-09-10 00:49:12,685  INFO    [ 65/162]  Al-Raed Club vs AL Jeel  (ny8jS90D)
+2026-09-10 00:49:16,218  INFO      Stats   : 122 rows stored
+2026-09-10 00:49:20,502  INFO      Incidents: 16 rows stored
+2026-09-10 00:49:22,498  INFO    [ 66/162]  AL Jandal vs Al Bukiryah  (Es0xjDhK)
+2026-09-10 00:49:29,132  INFO      Stats   : 124 rows stored
+2026-09-10 00:49:34,164  INFO      Incidents: 18 rows stored
+2026-09-10 00:49:36,241  INFO    [ 67/162]  Jeddah Club vs Al-Orobah  (ADo8piGs)
+2026-09-10 00:49:40,244  INFO      Stats   : 122 rows stored
+2026-09-10 00:49:53,278  INFO      Incidents: 17 rows stored
+2026-09-10 00:49:55,030  INFO    [ 68/162]  Landskrona BoIS vs Helsingborgs IF  (zN0SGaAj)
+2026-09-10 00:49:57,577  INFO      Stats   : 41 rows stored
+2026-09-10 00:50:00,250  INFO      Incidents: 18 rows stored
+2026-09-10 00:50:02,052  INFO    [ 69/162]  Ljungskile SK vs Norrby IF  (tKmEv32c)
+2026-09-10 00:50:03,545  INFO      Stats   : 41 rows stored
+2026-09-10 00:50:05,760  INFO      Incidents: 12 rows stored
+2026-09-10 00:50:07,797  INFO    [ 70/162]  Sandvikens IF vs IK Oddevold  (UqM1VbPq)
+2026-09-10 00:50:09,261  INFO      Stats   : 38 rows stored
+2026-09-10 00:50:11,809  INFO      Incidents: 10 rows stored
+2026-09-10 00:50:13,568  INFO    [ 71/162]  SD Compostela vs CD Derio  (I9yOqGNi)
+2026-09-10 00:50:16,808  INFO      Stats   : 48 rows stored
+2026-09-10 00:50:19,414  INFO      Incidents: 10 rows stored
+2026-09-10 00:50:21,304  INFO    [ 72/162]  UD Santa Marta vs CF Vimenor  (K2BV50um)
+2026-09-10 00:50:22,789  INFO      Stats   : 24 rows stored
+2026-09-10 00:50:25,854  INFO      Incidents: 4 rows stored
+2026-09-10 00:50:27,777  INFO    [ 73/162]  CF Badalona vs Sestao River Club  (tAijVG8b)
+2026-09-10 00:50:30,312  INFO      Stats   : empty response
+2026-09-10 00:50:33,588  INFO      Incidents: empty response
+2026-09-10 00:50:35,257  INFO    [ 74/162]  Comillas CF vs CE L'Hospitalet  (A7AQEeOH)
+2026-09-10 00:50:41,895  INFO      Stats   : 38 rows stored
+2026-09-10 00:50:45,800  INFO      Incidents: 6 rows stored
+2026-09-10 00:50:47,677  INFO    [ 75/162]  Torrent CF vs Atletico Saguntino  (KKh6RY7N)
+2026-09-10 00:50:49,501  INFO      Stats   : 36 rows stored
+2026-09-10 00:51:05,077  INFO      Incidents: 3 rows stored
+2026-09-10 00:51:06,824  INFO    [ 76/162]  AD San Juan Pamplona vs Terrassa FC  (xtcJGHg5)
+2026-09-10 00:51:14,863  INFO      Stats   : 48 rows stored
+2026-09-10 00:51:23,791  INFO      Incidents: 1 rows stored
+2026-09-10 00:51:26,036  INFO    [ 77/162]  CF Motril vs RC Recreativo de Huelva  (n7fbTfwB)
+2026-09-10 00:51:29,385  INFO      Stats   : 28 rows stored
+2026-09-10 00:51:35,307  INFO      Incidents: 3 rows stored
+2026-09-10 00:51:37,015  INFO    [ 78/162]  CF Talavera de La Reina vs CDA Navalcarnero  (YPHo2IvC)
+2026-09-10 00:51:44,667  INFO      Stats   : 32 rows stored
+2026-09-10 00:51:49,208  INFO      Incidents: 2 rows stored
+2026-09-10 00:51:51,115  INFO    [ 79/162]  CP Cacereno SAD vs UD San Pedro  (4SbBIwPh)
+2026-09-10 00:51:59,441  INFO      Stats   : 24 rows stored
+2026-09-10 00:52:04,348  INFO      Incidents: 2 rows stored
+2026-09-10 00:52:06,083  INFO    [ 80/162]  Curico Unido vs Union Espanola  (n3wogOqe)
+2026-09-10 00:52:10,098  INFO      Stats   : 41 rows stored
+2026-09-10 00:52:14,440  INFO      Incidents: 16 rows stored
+2026-09-10 00:52:16,608  INFO    [ 81/162]  Deportes Temuco vs Santiago Wanderers  (vwzwepFr)
+2026-09-10 00:52:19,492  INFO      Stats   : 27 rows stored
+2026-09-10 00:52:21,533  INFO      Incidents: 16 rows stored
+2026-09-10 00:52:23,462  INFO    [ 82/162]  Deportes Recoleta vs San Marcos de Arica  (nkbCvPU1)
+2026-09-10 00:52:24,817  INFO      Stats   : 36 rows stored
+2026-09-10 00:52:27,270  INFO      Incidents: 12 rows stored
+2026-09-10 00:52:29,364  INFO    [ 83/162]  FCI Levadia Tallinn vs FC Kuressaare  (dd5ljADD)
+2026-09-10 00:52:31,757  INFO      Stats   : 26 rows stored
+2026-09-10 00:52:35,430  INFO      Incidents: 14 rows stored
+2026-09-10 00:52:37,468  INFO    [ 84/162]  Parnu JK Vaprus vs Harju JK Laagri  (zR60cRKt)
+2026-09-10 00:52:39,109  INFO      Stats   : 26 rows stored
+2026-09-10 00:52:41,443  INFO      Incidents: 16 rows stored
+2026-09-10 00:52:43,351  INFO    [ 85/162]  PFC Levski Sofia vs PFC CSKA Sofia  (ITgxJtTa)
+2026-09-10 00:52:46,055  INFO      Stats   : 29 rows stored
+2026-09-10 00:52:50,551  INFO      Incidents: 24 rows stored
+2026-09-10 00:52:52,278  INFO    [ 86/162]  PAOK Thessaloniki B vs Olympiacos Piraeus B  (4K0kbEM6)
+2026-09-10 00:52:54,685  INFO      Stats   : 36 rows stored
+2026-09-10 00:52:57,221  INFO      Incidents: 2 rows stored
+2026-09-10 00:52:59,552  INFO    [ 87/162]  HJK Helsinki vs FC Inter Turku  (SYLurdV1)
+2026-09-10 00:53:01,045  INFO      Stats   : 122 rows stored
+2026-09-10 00:53:03,298  INFO      Incidents: 15 rows stored
+2026-09-10 00:53:05,297  INFO    [ 88/162]  Club Atletico Barinas vs Atletico El Vigia  (YLNM9W9t)
+2026-09-10 00:53:08,134  INFO      Stats   : 45 rows stored
+2026-09-10 00:53:10,572  INFO      Incidents: 7 rows stored
+2026-09-10 00:53:12,550  INFO    [ 89/162]  Monagas SC vs Bolivar SC  (b1CX1cUh)
+2026-09-10 00:53:16,782  INFO      Stats   : 45 rows stored
+2026-09-10 00:53:22,179  INFO      Incidents: 6 rows stored
+2026-09-10 00:53:23,931  INFO    [ 90/162]  Urena SC vs Deportivo Rayo Zuliano  (QX7kxDk1)
+2026-09-10 00:53:25,560  INFO      Stats   : 47 rows stored
+2026-09-10 00:53:27,969  INFO      Incidents: 2 rows stored
+2026-09-10 00:53:29,975  INFO    [ 91/162]  Yaracuyanos FC vs Aragua FC  (Yw5cV4xH)
+2026-09-10 00:53:32,265  INFO      Stats   : 45 rows stored
+2026-09-10 00:53:34,676  INFO      Incidents: 7 rows stored
+2026-09-10 00:53:36,663  INFO    [ 92/162]  Barquisimeto SC vs Caracas FC  (QD1kXQ74)
+2026-09-10 00:53:37,863  INFO      Stats   : 45 rows stored
+2026-09-10 00:53:41,388  INFO      Incidents: 5 rows stored
+2026-09-10 00:53:43,388  INFO    [ 93/162]  FC Samgurali Tskaltubo vs FC Dila Gori  (CCgttsX7)
+2026-09-10 00:53:44,975  INFO      Stats   : 26 rows stored
+2026-09-10 00:53:47,536  INFO      Incidents: 17 rows stored
+2026-09-10 00:53:49,490  INFO    [ 94/162]  FC Spaeri vs FC Rustavi  (4njYs32e)
+2026-09-10 00:53:52,223  INFO      Stats   : 27 rows stored
+2026-09-10 00:53:54,697  INFO      Incidents: 17 rows stored
+2026-09-10 00:53:56,652  INFO    [ 95/162]  FC Dinamo Batumi vs FC Iberia 1999  (QZqz2OgR)
+2026-09-10 00:53:59,914  INFO      Stats   : 29 rows stored
+2026-09-10 00:54:02,456  INFO      Incidents: 16 rows stored
+2026-09-10 00:54:04,432  INFO    [ 96/162]  1.SK Prostejov vs SK Sigma Olomouc  (fuCX2pvf)
+2026-09-10 00:54:07,552  INFO      Stats   : 35 rows stored
+2026-09-10 00:54:11,031  INFO      Incidents: 32 rows stored
+2026-09-10 00:54:13,100  INFO    [ 97/162]  FK Viktoria Zizkov vs Sparta Prague  (tdAu1O86)
+2026-09-10 00:54:16,141  INFO      Stats   : 27 rows stored
+2026-09-10 00:54:20,890  INFO      Incidents: 18 rows stored
+2026-09-10 00:54:22,868  INFO    [ 98/162]  Sardarapat FC vs FC Pyunik Yerevan  (2yturTW7)
+2026-09-10 00:54:24,529  INFO      Stats   : 24 rows stored
+2026-09-10 00:54:26,846  INFO      Incidents: 16 rows stored
+2026-09-10 00:54:28,863  INFO    [ 99/162]  Nova Bana vs FC Vion Zlate Moravce - Vrable  (4riXyJj3)
+2026-09-10 00:54:30,406  INFO      Stats   : 28 rows stored
+2026-09-10 00:54:35,290  INFO      Incidents: 11 rows stored
+2026-09-10 00:54:37,392  INFO    [100/162]  FC Banik Prievidza vs OFK Banik Lehota Pod Vtacnikom  (hfpnEFbd)
+2026-09-10 00:54:40,911  INFO      Stats   : 24 rows stored
+2026-09-10 00:54:44,998  INFO      Incidents: 4 rows stored
+2026-09-10 00:54:47,106  INFO    [101/162]  FK Decic Tuzi vs OFK Petrovac  (bXz1zmIj)
+2026-09-10 00:54:49,540  INFO      Stats   : 39 rows stored
+2026-09-10 00:54:51,803  INFO      Incidents: 15 rows stored
+2026-09-10 00:54:53,600  INFO    [102/162]  NK Bedem Ivankovo vs GNK Dinamo Zagreb  (nLkmFC65)
+2026-09-10 00:54:56,147  INFO      Stats   : 24 rows stored
+2026-09-10 00:54:58,833  INFO      Incidents: 4 rows stored
+2026-09-10 00:55:00,953  INFO    [103/162]  NK Hrvatski Dragovoljac vs NK Slaven Belupo  (zJ31T2RF)
+2026-09-10 00:55:03,489  INFO      Stats   : 36 rows stored
+2026-09-10 00:55:12,240  INFO      Incidents: 5 rows stored
+2026-09-10 00:55:14,240  INFO    [104/162]  NK Segesta vs NK Osijek  (fogeDjyI)
+2026-09-10 00:55:15,735  INFO      Stats   : 24 rows stored
+2026-09-10 00:55:17,750  INFO      Incidents: 4 rows stored
+2026-09-10 00:55:19,753  INFO    [105/162]  NK Uskok vs HNK Gorica  (255gVOd3)
+2026-09-10 00:55:22,692  INFO      Stats   : 46 rows stored
+2026-09-10 00:55:24,801  INFO      Incidents: 4 rows stored
+2026-09-10 00:55:26,928  INFO    [106/162]  NK Zagora vs NK Varazdin  (hCTTE3CM)
+2026-09-10 00:55:28,904  INFO      Stats   : 36 rows stored
+2026-09-10 00:55:31,255  INFO      Incidents: 4 rows stored
+2026-09-10 00:55:33,139  INFO    [107/162]  Orijent 1919 Rijeka vs NK Mladost Zdralovi  (E7iuHYyg)
+2026-09-10 00:55:34,725  INFO      Stats   : 48 rows stored
+2026-09-10 00:55:37,521  INFO      Incidents: 20 rows stored
+2026-09-10 00:55:39,528  INFO    [108/162]  NK Koprivnica vs NK Rudes Zagreb  (6slXIf7t)
+2026-09-10 00:55:41,367  INFO      Stats   : 36 rows stored
+2026-09-10 00:55:43,647  INFO      Incidents: 5 rows stored
+2026-09-10 00:55:45,596  INFO    [109/162]  Hapoel Azor FC vs FC Tzeirey Tira  (pWHLKweU)
+2026-09-10 00:55:47,165  INFO      Stats   : 36 rows stored
+2026-09-10 00:55:49,971  INFO      Incidents: 2 rows stored
+2026-09-10 00:55:52,083  INFO    [110/162]  Hapoel Hadera FC vs Shimshon Tel Aviv  (KnZPGUgd)
+2026-09-10 00:55:53,558  INFO      Stats   : 36 rows stored
+2026-09-10 00:55:55,662  INFO      Incidents: 4 rows stored
+2026-09-10 00:55:57,575  INFO    [111/162]  Holon Yermiyahu FC vs Hapoel Marmorek FC  (ngRBvYo3)
+2026-09-10 00:55:58,754  INFO      Stats   : 38 rows stored
+2026-09-10 00:56:01,009  INFO      Incidents: 2 rows stored
+2026-09-10 00:56:02,786  INFO    [112/162]  Ironi Beit Shemesh vs MK KFAR Saba 1928  (COpIjUFs)
+2026-09-10 00:56:04,302  INFO      Stats   : 26 rows stored
+2026-09-10 00:56:06,448  INFO      Incidents: 6 rows stored
+2026-09-10 00:56:08,520  INFO    [113/162]  Hapoel Herzelia FC vs AS Nordia Jerusalem  (88ewwLAb)
+2026-09-10 00:56:10,493  INFO      Stats   : 38 rows stored
+2026-09-10 00:56:18,121  INFO      Incidents: 5 rows stored
+2026-09-10 00:56:20,119  INFO    [114/162]  Deportivo San Pedro vs Deportivo Mixco  (KQHOJerI)
+2026-09-10 00:56:24,019  INFO      Stats   : 13 rows stored
+2026-09-10 00:56:26,346  INFO      Incidents: 15 rows stored
+2026-09-10 00:56:28,429  INFO    [115/162]  FK Zeljeznicar Sarajevo vs FK Sarajevo  (hhy7Yvd4)
+2026-09-10 00:56:31,446  INFO      Stats   : 27 rows stored
+2026-09-10 00:56:34,037  INFO      Incidents: 17 rows stored
+2026-09-10 00:56:36,049  INFO    [116/162]  CA Platense vs Boca Juniors  (OOJt0Y1s)
+2026-09-10 00:56:37,753  INFO      Stats   : 24 rows stored
+2026-09-10 00:56:40,003  INFO      Incidents: 2 rows stored
+2026-09-10 00:56:41,832  INFO    [117/162]  San Martin de San Juan Reserve vs Defensa Y Justicia Reserve  (x6dgRA0t)
+2026-09-10 00:56:43,192  INFO      Stats   : 24 rows stored
+2026-09-10 00:56:45,046  INFO      Incidents: 3 rows stored
+2026-09-10 00:56:46,810  INFO    [118/162]  CA Talleres de Cordoba Reserve vs CA Barracas Central Reserve  (dAw4fUVI)
+2026-09-10 00:56:48,093  INFO      Stats   : 26 rows stored
+2026-09-10 00:56:49,977  INFO      Incidents: 4 rows stored
+2026-09-10 00:56:51,977  INFO    [119/162]  CA Central Cordoba SE Reserve vs Estudiantes de Rio Cuarto Reserve  (65v9oZnl)
+2026-09-10 00:56:53,309  INFO      Stats   : 24 rows stored
+2026-09-10 00:56:55,321  INFO      Incidents: 3 rows stored
+2026-09-10 00:56:57,719  INFO    [120/162]  Club Fernando de La Mora vs Deportivo Capiata  (xnQtplI8)
+2026-09-10 00:57:00,381  INFO      Stats   : 36 rows stored
+2026-09-10 00:57:02,549  INFO      Incidents: 1 rows stored
+2026-09-10 00:57:04,456  INFO    [121/162]  Encarnacion FC vs Tacuary Asuncion  (AaOlrSnL)
+2026-09-10 00:57:06,134  INFO      Stats   : 24 rows stored
+2026-09-10 00:57:08,460  INFO      Incidents: 2 rows stored
+2026-09-10 00:57:10,423  INFO    [122/162]  Deportivo Santani vs Independiente Campo Grande  (trFKx6Ar)
+2026-09-10 00:57:11,937  INFO      Stats   : 36 rows stored
+2026-09-10 00:57:14,213  INFO      Incidents: 3 rows stored
+2026-09-10 00:57:16,100  INFO    [123/162]  FK Novaci 2005 vs GFK Ohrid  (M9zxgcBd)
+2026-09-10 00:57:17,686  INFO      Stats   : 24 rows stored
+2026-09-10 00:57:20,024  INFO      Incidents: 1 rows stored
+2026-09-10 00:57:21,893  INFO    [124/162]  CD Inca vs Atletico Balboa  (ziwQE4GP)
+2026-09-10 00:57:23,439  INFO      Stats   : 24 rows stored
+2026-09-10 00:57:25,934  INFO      Incidents: 1 rows stored
+2026-09-10 00:57:27,913  INFO    [125/162]  KF Feronikeli vs FC Drita  (OloRPeG6)
+2026-09-10 00:57:29,982  INFO      Stats   : 36 rows stored
+2026-09-10 00:57:35,466  INFO      Incidents: 1 rows stored
+2026-09-10 00:57:37,251  INFO    [126/162]  SC Gjilani vs Ballkani  (d2qZNZpJ)
+2026-09-10 00:57:40,345  INFO      Stats   : 35 rows stored
+2026-09-10 00:57:43,471  INFO      Incidents: 1 rows stored
+2026-09-10 00:57:45,210  INFO    [127/162]  FK Kauno Zalgiris vs FK Suduva Marijampole  (hv2ILj2b)
+2026-09-10 00:57:47,330  INFO      Stats   : 38 rows stored
+2026-09-10 00:57:49,433  INFO      Incidents: 17 rows stored
+2026-09-10 00:57:51,502  INFO    [128/162]  UMF Njardvik vs Throttur Reykjavik  (f1NStacK)
+2026-09-10 00:57:52,940  INFO      Stats   : 26 rows stored
+2026-09-10 00:57:55,179  INFO      Incidents: 10 rows stored
+2026-09-10 00:57:57,075  INFO    [129/162]  HK Kopavogur vs Fylkir Reykjavik  (GjxZKHz1)
+2026-09-10 00:58:00,930  INFO      Stats   : 27 rows stored
+2026-09-10 00:58:03,037  INFO      Incidents: 16 rows stored
+2026-09-10 00:58:04,903  INFO    [130/162]  Passo Fundo vs CE Gramadense RS  (hSZQqAiK)
+2026-09-10 00:58:06,259  INFO      Stats   : 36 rows stored
+2026-09-10 00:58:13,364  INFO      Incidents: empty response
+2026-09-10 00:58:15,098  INFO    [131/162]  Entebbe UPPC FC vs Lugazi Municipal FC  (Ue5rSLek)
+2026-09-10 00:58:17,935  INFO      Stats   : 35 rows stored
+2026-09-10 00:58:21,439  INFO      Incidents: 1 rows stored
+2026-09-10 00:58:23,419  INFO    [132/162]  SC Villa vs Express FC  (YPJCXsYR)
+2026-09-10 00:58:25,337  INFO      Stats   : 36 rows stored
+2026-09-10 00:58:28,961  INFO      Incidents: 2 rows stored
+2026-09-10 00:58:30,802  INFO    [133/162]  Mamelodi Sundowns vs Siwelele FC  (SIeRpO76)
+2026-09-10 00:58:32,776  INFO      Stats   : 120 rows stored
+2026-09-10 00:58:34,816  INFO      Incidents: 15 rows stored
+2026-09-10 00:58:36,783  INFO    [134/162]  Penang FA vs Melaka FC  (fPeg4OZG)
+2026-09-10 00:58:38,658  INFO      Stats   : 24 rows stored
+2026-09-10 00:58:40,233  INFO      Incidents: 3 rows stored
+2026-09-10 00:58:41,960  INFO    [135/162]  Brunei DPMM FC vs Terengganu FC  (2ka1224T)
+2026-09-10 00:58:42,539  INFO      Stats   : 24 rows stored
+2026-09-10 00:58:44,210  INFO      Incidents: 5 rows stored
+2026-09-10 00:58:45,969  INFO    [136/162]  Kuala Lumpur City FC vs Perak FA  (2ku4Busp)
+2026-09-10 00:58:47,068  INFO      Stats   : 24 rows stored
+2026-09-10 00:58:48,364  INFO      Incidents: empty response
+2026-09-10 00:58:50,156  INFO    [137/162]  Selangor FC vs Sabah FC  (bgjQINlA)
+2026-09-10 00:58:50,781  INFO      Stats   : 24 rows stored
+2026-09-10 00:58:52,003  INFO      Incidents: 4 rows stored
+2026-09-10 00:58:53,739  INFO    [138/162]  FC Kairat Almaty vs FC Zhenis  (8fQ0H3s2)
+2026-09-10 00:58:54,780  INFO      Stats   : 39 rows stored
+2026-09-10 00:58:56,135  INFO      Incidents: 15 rows stored
+2026-09-10 00:58:58,185  INFO    [139/162]  AGMK FC vs Pakhtakor  (6TfFB9Xa)
+2026-09-10 00:58:58,897  INFO      Stats   : 27 rows stored
+2026-09-10 00:59:00,634  INFO      Incidents: 15 rows stored
+2026-09-10 00:59:02,573  INFO    [140/162]  FK Neftchi Fargona vs FK Termez Surkhon  (zRDkelmJ)
+2026-09-10 00:59:03,611  INFO      Stats   : 26 rows stored
+2026-09-10 00:59:05,064  INFO      Incidents: 15 rows stored
+2026-09-10 00:59:07,135  INFO    [141/162]  PFC Nasaf vs FC Bunyodkor  (hpgN9m2C)
+2026-09-10 00:59:07,862  INFO      Stats   : 27 rows stored
+2026-09-10 00:59:09,679  INFO      Incidents: 15 rows stored
+2026-09-10 00:59:11,773  INFO    [142/162]  FC Cabinda vs Primeiro de Agosto  (lxEjGILr)
+2026-09-10 00:59:13,036  INFO      Stats   : empty response
+2026-09-10 00:59:14,707  INFO      Incidents: empty response
+2026-09-10 00:59:16,461  INFO    [143/162]  AL Julan vs Zakho FC  (rcKf6QdB)
+2026-09-10 00:59:17,931  INFO      Stats   : 24 rows stored
+2026-09-10 00:59:20,153  INFO      Incidents: 2 rows stored
+2026-09-10 00:59:22,053  INFO    [144/162]  AL Talaba vs AL Karkh  (AqMn8nSb)
+2026-09-10 00:59:22,872  INFO      Stats   : 24 rows stored
+2026-09-10 00:59:24,893  INFO      Incidents: 5 rows stored
+2026-09-10 00:59:26,779  INFO    [145/162]  AL Minaa vs AL Naft Maysan  (0jpNiRsI)
+2026-09-10 00:59:28,011  INFO      Stats   : 24 rows stored
+2026-09-10 00:59:30,047  INFO      Incidents: 2 rows stored
+2026-09-10 00:59:31,787  INFO    [146/162]  Newroz SC vs AL Mosul SC  (p0w7e9rg)
+2026-09-10 00:59:33,776  INFO      Stats   : 24 rows stored
+2026-09-10 00:59:36,034  INFO      Incidents: 3 rows stored
+2026-09-10 00:59:37,947  INFO    [147/162]  AL Karma vs AL Naft  (jNN244RN)
+2026-09-10 00:59:39,363  INFO      Stats   : 24 rows stored
+2026-09-10 00:59:41,634  INFO      Incidents: 3 rows stored
+2026-09-10 00:59:43,372  INFO    [148/162]  Santa Clara vs SC Farense  (SEZgDwK7)
+2026-09-10 00:59:45,367  INFO      Stats   : 36 rows stored
+2026-09-10 00:59:47,636  INFO      Incidents: 1 rows stored
+2026-09-10 00:59:49,396  INFO    [149/162]  SL Benfica vs FC Vizela U23  (pzv72M5k)
+2026-09-10 00:59:51,012  INFO      Stats   : 36 rows stored
+2026-09-10 00:59:53,162  INFO      Incidents: 1 rows stored
+2026-09-10 00:59:55,132  INFO    [150/162]  FC Basel vs Grasshopper Zurich  (vy4xzU0f)
+2026-09-10 00:59:59,016  INFO      Stats   : empty response
+2026-09-10 01:00:01,899  INFO      Incidents: 2 rows stored
+2026-09-10 01:00:03,801  INFO    [151/162]  FC Zurich vs Young Boys Bern  (zLO4LUo1)
+2026-09-10 01:00:05,924  INFO      Stats   : empty response
+2026-09-10 01:00:08,418  INFO      Incidents: 2 rows stored
+2026-09-10 01:00:10,326  INFO    [152/162]  FC Luzern vs FC Rapperswil-Jona  (6N5UyjWs)
+2026-09-10 01:00:11,769  INFO      Stats   : empty response
+2026-09-10 01:00:13,304  INFO      Incidents: empty response
+2026-09-10 01:00:15,091  INFO    [153/162]  Hammarby IF vs Gamla Upsala SK  (OA4FZblo)
+2026-09-10 01:00:16,328  INFO      Stats   : empty response
+2026-09-10 01:00:18,352  INFO      Incidents: 5 rows stored
+2026-09-10 01:00:20,277  INFO    [154/162]  America de Cali Sa vs Orsomarso SC  (Cr96DNgT)
+2026-09-10 01:00:21,881  INFO      Stats   : 26 rows stored
+2026-09-10 01:00:23,964  INFO      Incidents: 14 rows stored
+2026-09-10 01:00:25,797  INFO    [155/162]  RB Do Norte AM vs Nacional Fast Clube AM  (htgHHIGr)
+2026-09-10 01:00:27,566  INFO      Stats   : empty response
+2026-09-10 01:00:29,722  INFO      Incidents: 1 rows stored
+2026-09-10 01:00:31,602  INFO    [156/162]  Oriente Petrolero vs Guabira Montero  (Oj2dIyB7)
+2026-09-10 01:00:33,060  INFO      Stats   : 122 rows stored
+2026-09-10 01:00:35,264  INFO      Incidents: 18 rows stored
+2026-09-10 01:00:37,434  INFO    [157/162]  Cdt Real Oruro vs CA Nacional Potosi  (Gpkrtu3E)
+2026-09-10 01:00:39,012  INFO      Stats   : 122 rows stored
+2026-09-10 01:00:41,414  INFO      Incidents: 16 rows stored
+2026-09-10 01:00:43,179  INFO    [158/162]  FC Universitario de Vinto vs The Strongest  (MqHFNWnm)
+2026-09-10 01:00:44,710  INFO      Stats   : 122 rows stored
+2026-09-10 01:00:46,874  INFO      Incidents: 9 rows stored
+2026-09-10 01:00:48,835  INFO    [159/162]  Racing Club Montevideo vs Central Espanol FC  (2ootXtce)
+2026-09-10 01:00:50,302  INFO      Stats   : 36 rows stored
+2026-09-10 01:00:52,772  INFO      Incidents: 6 rows stored
+2026-09-10 01:00:54,890  INFO    [160/162]  Goiania EC GO vs Goianesia EC GO  (jPfufsNk)
+2026-09-10 01:00:56,838  INFO      Stats   : 24 rows stored
+2026-09-10 01:00:59,153  INFO      Incidents: 5 rows stored
+2026-09-10 01:01:01,029  INFO    [161/162]  Trindade AC GO vs Rio Verde  (pQS7CkwH)
+2026-09-10 01:01:06,577  INFO      Stats   : 24 rows stored
+2026-09-10 01:01:08,792  INFO      Incidents: 2 rows stored
+2026-09-10 01:01:10,707  INFO    [162/162]  San Antonio FC vs Louisville City FC  (UkSuUcnQ)
+2026-09-10 01:01:12,487  INFO      Stats   : 120 rows stored
+2026-09-10 01:01:14,661  INFO      Incidents: 30 rows stored
+2026-09-10 01:01:17,079  INFO  
+=================================================================
+2026-09-10 01:01:17,080  INFO    PIPELINE COMPLETE
+2026-09-10 01:01:17,080  INFO    Date               : 2026-09-09
+2026-09-10 01:01:17,080  INFO    Matches linked     : 162
+2026-09-10 01:01:17,080  INFO    Stats fetched      : 162
+2026-09-10 01:01:17,081  INFO    flashscore_stats   : 8,056 rows
+2026-09-10 01:01:17,081  INFO    flashscore_incidents: 1,659 rows
+2026-09-10 01:01:17,081  INFO  =================================================================

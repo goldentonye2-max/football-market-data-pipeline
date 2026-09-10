@@ -1,0 +1,43 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-08
+  Generated : 2026-09-08 02:26:29
+  Legs      : 13
+  Sorted by : edge
+  Combined odds : 20.59
+======================================================================
+
+  BOOKING CODE:  G2XK2D
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    08 02  Club Leon vs Puebla FC              Over 2.5 Goals         1.25  +  6.7%  0.6410
+  2    08 14  Brazil vs Canada                    Over 1.5 Goals         1.28  +  6.2%  0.6116
+  3    08 19  Larne FC vs Bangor FC               Home Win               1.20  +  6.1%  0.7212
+  4    08 16  FC Lahti vs IFK Mariehamn           Over 1.5 Goals         1.23  +  5.9%  0.6116
+  5    08 19  Ebbsfleet United FC vs Hemel Hemps  Over 1.5 Goals         1.27  +  5.6%  0.6116
+  6    08 20  Lille vs Betis                      Over 1.5 Goals         1.26  +  4.9%  0.6116
+  7    08 19  Wrexham AFC vs Burnley              Over 1.5 Goals         1.26  +  4.9%  0.6116
+  8    08 19  Cardiff City vs Stoke City          HT Over 0.5            1.30  +  4.3%  0.6199
+  9    08 19  Chester FC vs Merthyr Town          HT Over 0.5            1.30  +  4.3%  0.6199
+  10   08 18  AL Anwar vs AL Tai                  Over 1.5 Goals         1.25  +  4.3%  0.6116
+  11   08 16  Al-Ettifaq FC vs Al-Faisaly FC      HT Over 0.5            1.29  +  3.7%  0.6199
+  12   08 22  New York City FC II vs Red Bull Ne  Over 2.5 Goals         1.29  +  3.7%  0.6410
+  13   08 17  Club Brugge vs Aston Villa          Over 1.5 Goals         1.23  +  3.0%  0.6116
+
+======================================================================
+  Tournament breakdown:
+      2x  UEFA Champions League
+      2x  Championship
+      1x  Liga MX, Women
+      1x  U20 FIFA World Cup, Women
+      1x  Premiership
+      1x  Veikkausliiga
+      1x  National League South
+      1x  National League North
+      1x  Division 1
+      1x  Saudi Pro League
+      1x  MLS Next Pro
+
+======================================================================

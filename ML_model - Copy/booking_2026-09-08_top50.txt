@@ -1,0 +1,69 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-09-08
+  Generated : 2026-09-08 02:29:59
+  Legs      : 29
+  Sorted by : edge
+  Combined odds : 77,650,354.12
+======================================================================
+
+  BOOKING CODE:  RKTV41
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    08 17  FC Kiffen vs Atlantis FC            Corners Over 6.5       5.20  + 59.7%  0.5615
+  2    08 19  Leyton Orient London vs Bradford C  Over 2.5 Goals         2.00  + 17.6%  0.6410
+  3    08 23  Fluminense FC RJ vs CA Platense     Over 1.5 Goals         1.50  + 17.6%  0.6116
+  4    08 19  Dorking Wanderers vs Chelmsford Ci  BTTS No                2.15  + 16.2%  0.6160
+  5    08 11  Incheon United FC vs Bucheon FC 19  BTTS Yes               1.99  + 16.1%  0.6112
+  6    08 18  Smouha SC vs Ceramica Cleopatra     Over 1.5 Goals         1.57  + 15.5%  0.6116
+  7    08 12  FC Porto vs Manchester City FC      BTTS No                2.80  + 14.5%  0.6160
+  8    08 20  Borussia Dortmund vs Villarreal     Over 2.5 Goals         1.49  + 14.1%  0.6410
+  9    08 17  England vs Tanzania                 BTTS Yes               2.70  + 13.7%  0.6112
+  10   08 19  Al-Ittihad Club vs Al-Fayha FC      Over 2.5 Goals         1.48  + 13.6%  0.6410
+  11   08 20  Lille vs Betis                      Over 2.5 Goals         1.83  + 12.9%  0.6410
+  12   08 16  Al-Hazm vs Al-Taawoun FC            Over 2.5 Goals         1.81  + 12.3%  0.6410
+  13   08 16  Tampereen Ilves vs FF Jaro          BTTS Yes               1.64  + 12.0%  0.6112
+  14   08 23  Independiente Santa Fe vs CR Vasco  Over 1.5 Goals         1.46  + 12.0%  0.6116
+  15   08 18  Zamalek SC vs Abo Qair Semads       Over 1.5 Goals         1.37  + 11.3%  0.6116
+  16   08 19  Macclesfield FC vs Scarborough Ath  Over 2.5 Goals         1.77  + 11.1%  0.6410
+  17   08 19  Salisbury FC vs Slough Town         Home Win               1.48  + 11.0%  0.7212
+  18   08 02  Atletico Nacional vs Deportivo Cal  Home Win               1.47  + 10.5%  0.7212
+  19   08 19  Worksop Town vs Bedford Town Footb  BTTS No                2.05  + 10.4%  0.6160
+  20   08 01  CS Emelec vs Manta FC               BTTS Yes               2.00  + 10.1%  0.6112
+  21   08 16  Nomme Kalju FC vs FC Nomme United   Home Win               1.45  +  9.6%  0.7212
+  22   08 19  Weston-super-Mare vs AFC Totton     Home Win               1.73  +  9.5%  0.7212
+  23   08 15  FK Ryazan vs Spartak Kostroma       Home Win               5.30  +  9.3%  0.7212
+  24   08 17  NEC Nijmegen vs Excelsior Rotterda  Over 2.5 Goals         1.38  +  9.2%  0.6410
+  25   09 00  Club Sando vs Delfines Del Este     Over 1.5 Goals         1.39  +  8.5%  0.6116
+  26   08 19  CA Claypole vs Central Ballester    Over 2.5 Goals         2.55  +  8.4%  0.6410
+  27   08 11  Ulsan HD FC vs FC Seoul             BTTS Yes               1.54  +  8.0%  0.6112
+  28   08 19  Cardiff City vs Stoke City          BTTS Yes               1.54  +  8.0%  0.6112
+  29   08 20  Porto vs Man City                   Over 2.5 Goals         1.68  +  8.0%  0.6410
+
+======================================================================
+  Tournament breakdown:
+      3x  National League South
+      3x  UEFA Champions League
+      2x  K-League 1
+      2x  Premier League
+      2x  Saudi Pro League
+      2x  National League North
+      1x  Kakkonen
+      1x  EFL Cup
+      1x  CONMEBOL Libertadores
+      1x  UEFA Youth League
+      1x  U20 FIFA World Cup, Women
+      1x  Veikkausliiga
+      1x  CONMEBOL Sudamericana
+      1x  Copa DIMAYOR
+      1x  LigaPro Primera A
+      1x  Premium Liiga
+      1x  Russian Cup
+      1x  Eredivisie
+      1x  CONCACAF Caribbean Cup
+      1x  Primera C
+      1x  Championship
+
+======================================================================
