@@ -1,0 +1,555 @@
+event_id,home_team,away_team,match,tournament,kickoff,target,pick,model_prob_%,implied_prob_%,edge_%,decimal_odds,model_auc,has_odds_match,hit_rate_%
+sr:match:73235776,Gangwon FC,Incheon United FC,Gangwon FC vs Incheon United FC,K-League 1,2026-09-27 11:00,target__away_clean_sheet,Away Clean Sheet,47.3,34.5,12.8,2.9,0.6508,True,23.0
+sr:match:74297864,China PR,New Zealand,China PR vs New Zealand,Int. Friendly Games,2026-09-27 12:35,target__away_clean_sheet,Away Clean Sheet,47.3,35.1,12.2,2.85,0.6508,True,23.0
+sr:match:72044688,De Graafschap,FC Den Bosch,De Graafschap vs FC Den Bosch,Eerste Divisie,2026-09-27 13:30,target__away_clean_sheet,Away Clean Sheet,21.8,16.7,5.1,6.0,0.6508,True,23.0
+sr:match:72837184,Belediye Derincespor,Elazigspor,Belediye Derincespor vs Elazigspor,2. Lig,2026-09-27 14:00,target__away_clean_sheet,Away Clean Sheet,47.3,42.6,4.7,2.35,0.6508,True,23.0
+sr:match:74078156,Tornion Pallo 47,SJK Akatemia/2,Tornion Pallo 47 vs SJK Akatemia/2,Kakkonen,2026-09-27 14:00,target__away_clean_sheet,Away Clean Sheet,21.8,17.9,3.9,5.6,0.6508,True,23.0
+sr:match:72281350,Nd Slovan,NK Brezice 1919,Nd Slovan vs NK Brezice 1919,2. Liga,2026-09-27 15:00,target__away_clean_sheet,Away Clean Sheet,27.8,23.3,4.5,4.3,0.6508,True,23.0
+sr:match:67915918,Hoenefoss BK,Tromsdalen UIL,Hoenefoss BK vs Tromsdalen UIL,2nd Division Group 2,2026-09-27 16:30,target__away_clean_sheet,Away Clean Sheet,21.8,16.4,5.4,6.1,0.6508,True,23.0
+sr:match:72837192,Adana Demirspor,Erbaaspor,Adana Demirspor vs Erbaaspor,2. Lig,2026-09-27 17:00,target__away_clean_sheet,Away Clean Sheet,47.3,38.5,8.8,2.6,0.6508,True,23.0
+sr:match:73273754,Metropolitano SC,Figueirense FC SC,Metropolitano SC vs Figueirense FC SC,Copa Santa Catarina,2026-09-27 19:00,target__away_clean_sheet,Away Clean Sheet,47.3,32.3,15.0,3.1,0.6508,True,23.0
+sr:match:74829640,Kawkab Athletic Club of Marrakech,Hassania Union Sport Agadir,Kawkab Athletic Club of Marrakech vs Hassania Union Sport Agadir,Botola Pro D1,2026-09-27 21:00,target__away_clean_sheet,Away Clean Sheet,47.3,38.5,8.8,2.6,0.6508,True,23.0
+sr:match:66299600,Real Salt Lake,New England Revolution,Real Salt Lake vs New England Revolution,MLS,2026-09-27 02:30,target__away_win,Away Win,42.4,32.2,10.3,3.11,0.7237,True,32.7
+sr:match:73220904,Sint Maarten,Belize,Sint Maarten vs Belize,CONCACAF Nations League,2026-09-27 03:00,target__away_win,Away Win,50.0,45.5,4.5,2.2,0.7237,True,32.7
+sr:match:67172982,Monterey Bay FC,Lexington SC,Monterey Bay FC vs Lexington SC,USL Championship,2026-09-27 03:00,target__away_win,Away Win,56.2,50.8,5.4,1.97,0.7237,True,32.7
+sr:match:72474974,CSD Xelaju MC,Comunicaciones FC ,CSD Xelaju MC vs Comunicaciones FC ,Liga Nacional,2026-09-27 03:10,target__away_win,Away Win,23.6,19.0,4.5,5.25,0.7237,True,32.7
+sr:match:66299602,Los Angeles Galaxy,Colorado Rapids,Los Angeles Galaxy vs Colorado Rapids,MLS,2026-09-27 03:30,target__away_win,Away Win,37.9,32.9,5.0,3.04,0.7237,True,32.7
+sr:match:72055198,Club Santos Laguna,CF Pachuca,Club Santos Laguna vs CF Pachuca,Liga MX,2026-09-27 04:05,target__away_win,Away Win,56.2,46.5,9.7,2.15,0.7237,True,32.7
+sr:match:72055200,Tigres UANL,Club Puebla,Tigres UANL vs Club Puebla,Liga MX,2026-09-27 04:10,target__away_win,Away Win,23.6,19.6,4.0,5.1,0.7237,True,32.7
+sr:match:72578236,FK Ufa,Torpedo Moscow,FK Ufa vs Torpedo Moscow,1. Liga,2026-09-27 10:30,target__away_win,Away Win,56.2,51.0,5.1,1.96,0.7237,True,32.7
+sr:match:68344862,Linero IF,Torns IF,Linero IF vs Torns IF,Division 2,2026-09-27 12:00,target__away_win,Away Win,30.6,26.3,4.3,3.8,0.7237,True,32.7
+sr:match:67916140,SK Traeff,Kvik Halden FK,SK Traeff vs Kvik Halden FK,2nd Division Group 1,2026-09-27 12:00,target__away_win,Away Win,42.4,35.1,7.4,2.85,0.7237,True,32.7
+sr:match:68321002,Bollstanas SK,Enskede IK,Bollstanas SK vs Enskede IK,Division 2,2026-09-27 13:00,target__away_win,Away Win,56.2,51.3,4.9,1.95,0.7237,True,32.7
+sr:match:67915908,Lorenskog IF,Skeid Fotball,Lorenskog IF vs Skeid Fotball,2nd Division Group 2,2026-09-27 13:00,target__away_win,Away Win,37.9,32.3,5.7,3.1,0.7237,True,32.7
+sr:match:72837188,Sebat Genclik Spor,Menemen Belediyespor,Sebat Genclik Spor vs Menemen Belediyespor,2. Lig,2026-09-27 13:00,target__away_win,Away Win,24.1,20.8,3.2,4.8,0.7237,True,32.7
+sr:match:73346030,Manchester United WFC,West Ham United FC Women,Manchester United WFC vs West Ham United FC Women,Super League Women,2026-09-27 13:00,target__away_win,Away Win,24.1,20.4,3.7,4.9,0.7237,True,32.7
+sr:match:72595452,HVV Hollandia Hoorn,USV Hercules,HVV Hollandia Hoorn vs USV Hercules,Derde Divisie,2026-09-27 13:00,target__away_win,Away Win,42.4,39.2,3.2,2.55,0.7237,True,32.7
+sr:match:72596124,Groene Ster,VV Gemert,Groene Ster vs VV Gemert,Derde Divisie,2026-09-27 13:30,target__away_win,Away Win,50.0,45.5,4.5,2.2,0.7237,True,32.7
+sr:match:72837184,Belediye Derincespor,Elazigspor,Belediye Derincespor vs Elazigspor,2. Lig,2026-09-27 14:00,target__away_win,Away Win,74.3,64.1,10.2,1.56,0.7237,True,32.7
+sr:match:73346510,Newcastle United WFC,Leicester City WFC,Newcastle United WFC vs Leicester City WFC,"Super League 2, Women",2026-09-27 14:00,target__away_win,Away Win,24.1,20.8,3.2,4.8,0.7237,True,32.7
+sr:match:67920956,Stroemsgodset 2,IF Floeya,Stroemsgodset 2 vs IF Floeya,"3. Division, Group 5",2026-09-27 14:00,target__away_win,Away Win,56.2,48.8,7.4,2.05,0.7237,True,32.7
+sr:match:72517904,SK Sturm Graz,FK Austria Wien,SK Sturm Graz vs FK Austria Wien,"Bundesliga, Women",2026-09-27 14:30,target__away_win,Away Win,74.3,62.1,12.2,1.61,0.7237,True,32.7
+sr:match:68823318,Criciuma EC SC,Avai FC SC,Criciuma EC SC vs Avai FC SC,Brasileiro Serie B,2026-09-27 15:00,target__away_win,Away Win,23.6,19.0,4.5,5.25,0.7237,True,32.7
+sr:match:74062542,KFC Merelbeke,KAS Eupen,KFC Merelbeke vs KAS Eupen,Beker van Belgie,2026-09-27 15:00,target__away_win,Away Win,74.3,70.9,3.4,1.41,0.7237,True,32.7
+sr:match:68311150,Gefle IF,Vasalunds IF,Gefle IF vs Vasalunds IF,Ettan,2026-09-27 15:00,target__away_win,Away Win,42.4,35.7,6.7,2.8,0.7237,True,32.7
+sr:match:68311162,IF Karlstad Fotbol,Karlbergs BK,IF Karlstad Fotbol vs Karlbergs BK,Ettan,2026-09-27 15:00,target__away_win,Away Win,23.6,20.4,3.2,4.9,0.7237,True,32.7
+sr:match:74973776,Central Espanol FC,Liverpool Montevideo,Central Espanol FC vs Liverpool Montevideo,Primera Division,2026-09-27 15:00,target__away_win,Away Win,56.2,51.5,4.6,1.94,0.7237,True,32.7
+sr:match:67915914,Levanger FK,Grorud IL,Levanger FK vs Grorud IL,2nd Division Group 2,2026-09-27 15:00,target__away_win,Away Win,30.6,27.0,3.6,3.7,0.7237,True,32.7
+sr:match:72466546,PFC Chernomorets Burgas,PFC Montana 1921,PFC Chernomorets Burgas vs PFC Montana 1921,Vtora Liga,2026-09-27 15:00,target__away_win,Away Win,29.5,23.8,5.7,4.2,0.7237,True,32.7
+sr:match:74610550,Throttur Reykjavik,Stjarnan,Throttur Reykjavik vs Stjarnan,"Besta deild, Women",2026-09-27 15:00,target__away_win,Away Win,42.4,37.7,4.7,2.65,0.7237,True,32.7
+sr:match:72679180,Rodina-2,FC Sibir Novosibirsk,Rodina-2 vs FC Sibir Novosibirsk,"2. Liga, Division A",2026-09-27 15:00,target__away_win,Away Win,23.6,20.4,3.2,4.9,0.7237,True,32.7
+sr:match:72415584,SK Zapy,FK Banik Most-Sous,SK Zapy vs FK Banik Most-Sous,CFL,2026-09-27 15:30,target__away_win,Away Win,29.5,24.4,5.1,4.1,0.7237,True,32.7
+sr:match:73293196,AC Carpi,FC Arzignano Valchiampo,AC Carpi vs FC Arzignano Valchiampo,"Serie C, Group A",2026-09-27 16:30,target__away_win,Away Win,42.4,37.7,4.7,2.65,0.7237,True,32.7
+sr:match:67915918,Hoenefoss BK,Tromsdalen UIL,Hoenefoss BK vs Tromsdalen UIL,2nd Division Group 2,2026-09-27 16:30,target__away_win,Away Win,29.5,25.0,4.5,4.0,0.7237,True,32.7
+sr:match:68931516,Serbia,Netherlands,Serbia vs Netherlands,UEFA Nations League,2026-09-27 17:00,target__away_win,Away Win,74.3,70.4,3.9,1.42,0.7237,True,32.7
+sr:match:72837192,Adana Demirspor,Erbaaspor,Adana Demirspor vs Erbaaspor,2. Lig,2026-09-27 17:00,target__away_win,Away Win,74.3,62.5,11.8,1.6,0.7237,True,32.7
+sr:match:74931104,Jordan,Syria,Jordan vs Syria,Int. Friendly Games,2026-09-27 18:00,target__away_win,Away Win,23.6,16.4,7.2,6.1,0.7237,True,32.7
+sr:match:73840446,Bahrain,United Arab Emirates,Bahrain vs United Arab Emirates,Gulf Cup,2026-09-27 19:00,target__away_win,Away Win,74.3,64.1,10.2,1.56,0.7237,True,32.7
+sr:match:68686130,Inter Toronto,Pacific FC,Inter Toronto vs Pacific FC,Canadian Premier League,2026-09-27 19:00,target__away_win,Away Win,42.4,32.3,10.2,3.1,0.7237,True,32.7
+sr:match:73184914,Quepos Cambute,Municipal Grecia,Quepos Cambute vs Municipal Grecia,Liga de Ascenso,2026-09-27 19:00,target__away_win,Away Win,24.1,20.4,3.7,4.9,0.7237,True,32.7
+sr:match:73273754,Metropolitano SC,Figueirense FC SC,Metropolitano SC vs Figueirense FC SC,Copa Santa Catarina,2026-09-27 19:00,target__away_win,Away Win,50.0,46.5,3.5,2.15,0.7237,True,32.7
+sr:match:72474982,CSD Coban Imperial,Aurora FC,CSD Coban Imperial vs Aurora FC,Liga Nacional,2026-09-27 20:00,target__away_win,Away Win,23.6,20.0,3.6,5.0,0.7237,True,32.7
+sr:match:67172294,New York Cosmos,Richmond Kickers,New York Cosmos vs Richmond Kickers,USL League One,2026-09-27 21:00,target__away_win,Away Win,29.5,21.3,8.2,4.7,0.7237,True,32.7
+sr:match:74297872,Bolivia,Paraguay,Bolivia vs Paraguay,Int. Friendly Games,2026-09-27 21:30,target__away_win,Away Win,74.3,68.5,5.8,1.46,0.7237,True,32.7
+sr:match:74695430,Cavalier FC,Arnett Gardens FC,Cavalier FC vs Arnett Gardens FC,Premier League,2026-09-27 21:30,target__away_win,Away Win,50.0,39.2,10.8,2.55,0.7237,True,32.7
+sr:match:74695428,Dunbeholden FC,Mount Pleasant FC,Dunbeholden FC vs Mount Pleasant FC,Premier League,2026-09-27 21:30,target__away_win,Away Win,74.3,64.9,9.4,1.54,0.7237,True,32.7
+sr:match:74695434,Racing United FC,Montego Bay United,Racing United FC vs Montego Bay United,Premier League,2026-09-27 23:05,target__away_win,Away Win,50.0,44.4,5.6,2.25,0.7237,True,32.7
+sr:match:74321608,CD Santa Cruz,CD O'Higgins,CD Santa Cruz vs CD O'Higgins,Copa Chile,2026-09-28 00:00,target__away_win,Away Win,56.2,50.8,5.4,1.97,0.7237,True,32.7
+sr:match:67172300,One Knoxville SC,Westchester SC,One Knoxville SC vs Westchester SC,USL League One,2026-09-28 00:00,target__away_win,Away Win,29.5,22.7,6.8,4.4,0.7237,True,32.7
+sr:match:73220852,Dominica,Puerto Rico,Dominica vs Puerto Rico,CONCACAF Nations League,2026-09-28 01:00,target__away_win,Away Win,50.0,46.5,3.5,2.15,0.7237,True,32.7
+sr:match:72055208,Club Necaxa,CF America,Club Necaxa vs CF America,Liga MX,2026-09-28 04:10,target__away_win,Away Win,56.2,51.3,4.9,1.95,0.7237,True,32.7
+sr:match:67172986,Oakland Roots SC,Phoenix Rising FC,Oakland Roots SC vs Phoenix Rising FC,USL Championship,2026-09-27 03:00,target__btts_no,BTTS No,50.2,45.5,4.7,2.2,0.616,True,46.5
+sr:match:73075294,AD Isidro Metapan,CD. Cacahuatique,AD Isidro Metapan vs CD. Cacahuatique,Primera Division,2026-09-27 03:00,target__btts_no,BTTS No,66.2,62.5,3.7,1.6,0.616,True,46.5
+sr:match:72415004,Dukla Prague B,Bohemians Prague 1905 B,Dukla Prague B vs Bohemians Prague 1905 B,CFL,2026-09-27 09:15,target__btts_no,BTTS No,44.4,39.2,5.2,2.55,0.616,True,46.5
+sr:match:72517902,FC Sudburgenland,SCR Altach,FC Sudburgenland vs SCR Altach,"Bundesliga, Women",2026-09-27 09:30,target__btts_no,BTTS No,59.2,51.3,7.9,1.95,0.616,True,46.5
+sr:match:72578236,FK Ufa,Torpedo Moscow,FK Ufa vs Torpedo Moscow,1. Liga,2026-09-27 10:30,target__btts_no,BTTS No,62.7,58.8,3.9,1.7,0.616,True,46.5
+sr:match:74557478,Cambodia,Myanmar,Cambodia vs Myanmar,FIFA ASEAN Cup,2026-09-27 11:00,target__btts_no,BTTS No,50.2,45.5,4.7,2.2,0.616,True,46.5
+sr:match:73294684,Barletta Calcio,Potenza Calcio,Barletta Calcio vs Potenza Calcio,"Serie C, Group C",2026-09-27 11:30,target__btts_no,BTTS No,54.5,48.8,5.8,2.05,0.616,True,46.5
+sr:match:73094988,Ternana,Fcf Como,Ternana vs Fcf Como,"Serie A, Women",2026-09-27 11:30,target__btts_no,BTTS No,59.2,52.6,6.6,1.9,0.616,True,46.5
+sr:match:67018524,FK Fyllingsdalen,Grei Kvinner Elite FK,FK Fyllingsdalen vs Grei Kvinner Elite FK,"1st Division, Women",2026-09-27 11:30,target__btts_no,BTTS No,44.4,39.2,5.2,2.55,0.616,True,46.5
+sr:match:68320386,IK Tord,Stenungsunds IF,IK Tord vs Stenungsunds IF,Division 2,2026-09-27 12:00,target__btts_no,BTTS No,50.2,41.7,8.5,2.4,0.616,True,46.5
+sr:match:68378076,Vastra Frolunda IF,Astorps FF,Vastra Frolunda IF vs Astorps FF,Division 2,2026-09-27 12:00,target__btts_no,BTTS No,44.4,38.5,5.9,2.6,0.616,True,46.5
+sr:match:73094980,Inter Milano,ACF Fiorentina,Inter Milano vs ACF Fiorentina,"Serie A, Women",2026-09-27 12:00,target__btts_no,BTTS No,59.2,51.0,8.2,1.96,0.616,True,46.5
+sr:match:67018532,Aasane,IK Start,Aasane vs IK Start,"1st Division, Women",2026-09-27 12:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72515978,KKS 1925 Kalisz,Zks Kluczevia Stargard,KKS 1925 Kalisz vs Zks Kluczevia Stargard,"III Liga, Group 2",2026-09-27 13:00,target__btts_no,BTTS No,50.2,45.5,4.7,2.2,0.616,True,46.5
+sr:match:73293946,Ravenna FC 1913,AS Gubbio,Ravenna FC 1913 vs AS Gubbio,"Serie C, Group B",2026-09-27 13:30,target__btts_no,BTTS No,66.2,61.3,4.8,1.63,0.616,True,46.5
+sr:match:72837802,Ankara Demirspor,Adana 1954 FK,Ankara Demirspor vs Adana 1954 FK,2. Lig,2026-09-27 13:30,target__btts_no,BTTS No,50.2,43.5,6.7,2.3,0.616,True,46.5
+sr:match:74515514,Stallion Laguna FC,Maharlika Taguig FC,Stallion Laguna FC vs Maharlika Taguig FC,Philippines Footb. League,2026-09-27 13:30,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72674308,Bremer SV 1906,SC Weiche Flensburg 08,Bremer SV 1906 vs SC Weiche Flensburg 08,Regionalliga North,2026-09-27 14:00,target__btts_no,BTTS No,44.4,37.7,6.7,2.65,0.616,True,46.5
+sr:match:73346036,Liverpool LFC,Everton FC Women,Liverpool LFC vs Everton FC Women,Super League Women,2026-09-27 14:00,target__btts_no,BTTS No,61.8,55.2,6.5,1.81,0.616,True,46.5
+sr:match:72679182,FC Sokol Saratov,FC Mashuk-KMV Pyatigorsk,FC Sokol Saratov vs FC Mashuk-KMV Pyatigorsk,"2. Liga, Division A",2026-09-27 14:00,target__btts_no,BTTS No,62.7,58.8,3.9,1.7,0.616,True,46.5
+sr:match:72679180,Rodina-2,FC Sibir Novosibirsk,Rodina-2 vs FC Sibir Novosibirsk,"2. Liga, Division A",2026-09-27 15:00,target__btts_no,BTTS No,61.8,51.3,10.5,1.95,0.616,True,46.5
+sr:match:72560294,SC Rust,SV Lackenbach,SC Rust vs SV Lackenbach,Burgenlandliga,2026-09-27 15:00,target__btts_no,BTTS No,44.4,40.8,3.6,2.45,0.616,True,46.5
+sr:match:72560288,SV Eberau,SK Pama,SV Eberau vs SK Pama,Burgenlandliga,2026-09-27 15:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:68931516,Serbia,Netherlands,Serbia vs Netherlands,UEFA Nations League,2026-09-27 17:00,target__btts_no,BTTS No,62.7,51.8,10.9,1.93,0.616,True,46.5
+sr:match:72837192,Adana Demirspor,Erbaaspor,Adana Demirspor vs Erbaaspor,2. Lig,2026-09-27 17:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72466548,PFC Ludogorets Razgrad II,SFC Etar Veliko Tarnovo,PFC Ludogorets Razgrad II vs SFC Etar Veliko Tarnovo,Vtora Liga,2026-09-27 17:00,target__btts_no,BTTS No,58.5,46.5,11.9,2.15,0.616,True,46.5
+sr:match:74798500,Sport Club Gaucho Passo Fundo RS,FC Santa Cruz RS,Sport Club Gaucho Passo Fundo RS vs FC Santa Cruz RS,"Gaucho, Serie A2",2026-09-27 19:00,target__btts_no,BTTS No,66.2,61.3,4.8,1.63,0.616,True,46.5
+sr:match:73273754,Metropolitano SC,Figueirense FC SC,Metropolitano SC vs Figueirense FC SC,Copa Santa Catarina,2026-09-27 19:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:67117992,CA Defensores de Belgrano,Ferro Carril Oeste,CA Defensores de Belgrano vs Ferro Carril Oeste,Primera Nacional,2026-09-27 19:30,target__btts_no,BTTS No,85.1,69.9,15.2,1.43,0.616,True,46.5
+sr:match:68931520,Germany,Greece,Germany vs Greece,UEFA Nations League,2026-09-27 19:45,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72636234,Envigado FC,Atletico FC Cali,Envigado FC vs Atletico FC Cali,Torneo DIMAYOR,2026-09-27 20:00,target__btts_no,BTTS No,66.2,62.9,3.3,1.59,0.616,True,46.5
+sr:match:67118704,CD Maipu,CA Temperley,CD Maipu vs CA Temperley,Primera Nacional,2026-09-27 20:30,target__btts_no,BTTS No,66.2,62.9,3.3,1.59,0.616,True,46.5
+sr:match:74829640,Kawkab Athletic Club of Marrakech,Hassania Union Sport Agadir,Kawkab Athletic Club of Marrakech vs Hassania Union Sport Agadir,Botola Pro D1,2026-09-27 21:00,target__btts_no,BTTS No,66.2,61.7,4.5,1.62,0.616,True,46.5
+sr:match:67117978,CA Racing de Cordoba,CD Godoy Cruz,CA Racing de Cordoba vs CD Godoy Cruz,Primera Nacional,2026-09-27 21:00,target__btts_no,BTTS No,66.2,62.9,3.3,1.59,0.616,True,46.5
+sr:match:74244356,Brusque FC SC,Ferroviaria SP,Brusque FC SC vs Ferroviaria SP,Brasileiro Serie C,2026-09-27 22:30,target__btts_no,BTTS No,59.2,54.9,4.3,1.82,0.616,True,46.5
+sr:match:73075298,Municipal Limeno,CD FAS Santa Ana,Municipal Limeno vs CD FAS Santa Ana,Primera Division,2026-09-28 00:00,target__btts_no,BTTS No,61.8,52.1,9.7,1.92,0.616,True,46.5
+sr:match:73220852,Dominica,Puerto Rico,Dominica vs Puerto Rico,CONCACAF Nations League,2026-09-28 01:00,target__btts_no,BTTS No,62.7,54.9,7.8,1.82,0.616,True,46.5
+sr:match:72474974,CSD Xelaju MC,Comunicaciones FC ,CSD Xelaju MC vs Comunicaciones FC ,Liga Nacional,2026-09-27 03:10,target__btts_yes,BTTS Yes,60.1,52.6,7.5,1.9,0.6112,True,53.5
+sr:match:66299606,Vancouver Whitecaps FC,DC United,Vancouver Whitecaps FC vs DC United,MLS,2026-09-27 03:30,target__btts_yes,BTTS Yes,66.3,55.9,10.5,1.79,0.6112,True,53.5
+sr:match:72055200,Tigres UANL,Club Puebla,Tigres UANL vs Club Puebla,Liga MX,2026-09-27 04:10,target__btts_yes,BTTS Yes,66.3,56.5,9.8,1.77,0.6112,True,53.5
+sr:match:67915904,Eidsvold TF,Trygg/Lade,Eidsvold TF vs Trygg/Lade,2nd Division Group 2,2026-09-27 13:00,target__btts_yes,BTTS Yes,60.1,54.6,5.5,1.83,0.6112,True,53.5
+sr:match:74172428,Niki Volou 1924 PAE,Nestos Chrysoupoli FC,Niki Volou 1924 PAE vs Nestos Chrysoupoli FC,Super League 2,2026-09-27 14:00,target__btts_yes,BTTS Yes,60.1,30.8,29.3,3.25,0.6112,True,53.5
+sr:match:74172422,Panionios Athens,APS Zakynthos,Panionios Athens vs APS Zakynthos,Super League 2,2026-09-27 14:00,target__btts_yes,BTTS Yes,49.0,37.7,11.2,2.65,0.6112,True,53.5
+sr:match:68320390,IFK Skovde FK,IF Karlstad Fotbollutveckling,IFK Skovde FK vs IF Karlstad Fotbollutveckling,Division 2,2026-09-27 15:00,target__btts_yes,BTTS Yes,66.3,63.3,3.1,1.58,0.6112,True,53.5
+sr:match:72466542,PFC CSKA SOFIA II,PFK Sportist Svoge,PFC CSKA SOFIA II vs PFK Sportist Svoge,Vtora Liga,2026-09-27 15:00,target__btts_yes,BTTS Yes,60.1,48.8,11.3,2.05,0.6112,True,53.5
+sr:match:74172420,Panserraikos FC,Olympiacos Piraeus B,Panserraikos FC vs Olympiacos Piraeus B,Super League 2,2026-09-27 16:15,target__btts_yes,BTTS Yes,49.0,44.4,4.5,2.25,0.6112,True,53.5
+sr:match:68932808,Gibraltar,Andorra,Gibraltar vs Andorra,UEFA Nations League,2026-09-27 17:00,target__btts_yes,BTTS Yes,49.0,38.5,10.5,2.6,0.6112,True,53.5
+sr:match:72477428,Burgos CF,Club Deportivo Eldense,Burgos CF vs Club Deportivo Eldense,LALIGA HYPERMOTION,2026-09-27 17:30,target__btts_yes,BTTS Yes,60.1,52.4,7.8,1.91,0.6112,True,53.5
+sr:match:72055204,Pumas UNAM,Atletico San Luis,Pumas UNAM vs Atletico San Luis,Liga MX,2026-09-27 19:00,target__btts_yes,BTTS Yes,66.3,61.7,4.6,1.62,0.6112,True,53.5
+sr:match:67125980,Canuelas FC,CA Fenix Pilar,Canuelas FC vs CA Fenix Pilar,Primera C,2026-09-27 19:00,target__btts_yes,BTTS Yes,66.3,36.4,30.0,2.75,0.6112,True,53.5
+sr:match:68686130,Inter Toronto,Pacific FC,Inter Toronto vs Pacific FC,Canadian Premier League,2026-09-27 19:00,target__btts_yes,BTTS Yes,73.0,69.0,4.0,1.45,0.6112,True,53.5
+sr:match:73204612,Puebla FC,CF Monterrey,Puebla FC vs CF Monterrey,"Liga MX, Women",2026-09-27 19:00,target__btts_yes,BTTS Yes,48.3,33.3,14.9,3.0,0.6112,True,53.5
+sr:match:72816232,APAFUT Caxias Do Sul RS,CE Lajeadense RS,APAFUT Caxias Do Sul RS vs CE Lajeadense RS,"Gaucho, Serie A2",2026-09-27 19:00,target__btts_yes,BTTS Yes,49.0,43.5,5.5,2.3,0.6112,True,53.5
+sr:match:73294694,Calcio Foggia,ASD Sorrento 1945,Calcio Foggia vs ASD Sorrento 1945,"Serie C, Group C",2026-09-27 19:30,target__btts_yes,BTTS Yes,60.1,52.4,7.8,1.91,0.6112,True,53.5
+sr:match:68931814,Norway,Portugal,Norway vs Portugal,UEFA Nations League,2026-09-27 19:45,target__btts_yes,BTTS Yes,73.0,69.0,4.0,1.45,0.6112,True,53.5
+sr:match:73220850,Guyana,Cayman Islands,Guyana vs Cayman Islands,CONCACAF Nations League,2026-09-27 20:00,target__btts_yes,BTTS Yes,50.8,33.9,16.9,2.95,0.6112,True,53.5
+sr:match:74321606,Universidad de Chile,CD Everton Vina del Mar,Universidad de Chile vs CD Everton Vina del Mar,Copa Chile,2026-09-27 21:30,target__btts_yes,BTTS Yes,60.1,56.2,3.9,1.78,0.6112,True,53.5
+sr:match:68823314,Fortaleza EC CE,Athletic Club Sjdr MG,Fortaleza EC CE vs Athletic Club Sjdr MG,Brasileiro Serie B,2026-09-27 22:30,target__btts_yes,BTTS Yes,61.1,46.5,14.6,2.15,0.6112,True,53.5
+sr:match:72055206,Club Leon,FC Juarez,Club Leon vs FC Juarez,Liga MX,2026-09-28 02:00,target__btts_yes,BTTS Yes,66.3,59.5,6.8,1.68,0.6112,True,53.5
+sr:match:72055208,Club Necaxa,CF America,Club Necaxa vs CF America,Liga MX,2026-09-28 04:10,target__btts_yes,BTTS Yes,66.3,62.1,4.2,1.61,0.6112,True,53.5
+sr:match:74872446,Birkenhead United AFC,Cashmere Technical,Birkenhead United AFC vs Cashmere Technical,National League,2026-09-27 03:00,target__draw,Draw,30.5,25.6,4.9,3.9,0.5993,True,22.8
+sr:match:73094986,Sassuolo Calcio,AS Roma W,Sassuolo Calcio vs AS Roma W,"Serie A, Women",2026-09-27 14:00,target__draw,Draw,24.4,20.4,4.0,4.9,0.5993,True,22.8
+sr:match:74062542,KFC Merelbeke,KAS Eupen,KFC Merelbeke vs KAS Eupen,Beker van Belgie,2026-09-27 15:00,target__draw,Draw,24.4,19.0,5.3,5.25,0.5993,True,22.8
+sr:match:72837196,Mus 1984 Musspor,68 Aksaray Belediyespor,Mus 1984 Musspor vs 68 Aksaray Belediyespor,2. Lig,2026-09-27 17:00,target__draw,Draw,30.5,25.6,4.9,3.9,0.5993,True,22.8
+sr:match:74695790,Deportes Concepcion,Curico Unido,Deportes Concepcion vs Curico Unido,Copa Chile,2026-09-27 19:00,target__draw,Draw,24.4,20.4,4.0,4.9,0.5993,True,22.8
+sr:match:74297872,Bolivia,Paraguay,Bolivia vs Paraguay,Int. Friendly Games,2026-09-27 21:30,target__draw,Draw,26.6,22.2,4.4,4.5,0.5993,True,22.8
+sr:match:72055206,Club Leon,FC Juarez,Club Leon vs FC Juarez,Liga MX,2026-09-28 02:00,target__draw,Draw,26.6,22.7,3.9,4.4,0.5993,True,22.8
+sr:match:67172986,Oakland Roots SC,Phoenix Rising FC,Oakland Roots SC vs Phoenix Rising FC,USL Championship,2026-09-27 03:00,target__home_clean_sheet,Home Clean Sheet,45.9,30.0,15.9,3.33,0.6485,True,30.0
+sr:match:73075294,AD Isidro Metapan,CD. Cacahuatique,AD Isidro Metapan vs CD. Cacahuatique,Primera Division,2026-09-27 03:00,target__home_clean_sheet,Home Clean Sheet,60.7,55.2,5.5,1.81,0.6485,True,30.0
+sr:match:74872446,Birkenhead United AFC,Cashmere Technical,Birkenhead United AFC vs Cashmere Technical,National League,2026-09-27 03:00,target__home_clean_sheet,Home Clean Sheet,30.0,24.4,5.6,4.1,0.6485,True,30.0
+sr:match:72676050,SK Slovan HAC,SV Schwechat,SK Slovan HAC vs SV Schwechat,Wiener Stadtliga,2026-09-27 09:30,target__home_clean_sheet,Home Clean Sheet,30.2,25.0,5.2,4.0,0.6485,True,30.0
+sr:match:68311156,Umea FC,FBK Karlstad,Umea FC vs FBK Karlstad,Ettan,2026-09-27 11:00,target__home_clean_sheet,Home Clean Sheet,30.9,26.7,4.2,3.75,0.6485,True,30.0
+sr:match:72491344,Athletic Bilbao,Atletico Madrid W,Athletic Bilbao vs Atletico Madrid W,Primera Division Women,2026-09-27 11:00,target__home_clean_sheet,Home Clean Sheet,30.9,26.7,4.2,3.75,0.6485,True,30.0
+sr:match:73094988,Ternana,Fcf Como,Ternana vs Fcf Como,"Serie A, Women",2026-09-27 11:30,target__home_clean_sheet,Home Clean Sheet,45.9,30.8,15.2,3.25,0.6485,True,30.0
+sr:match:67018524,FK Fyllingsdalen,Grei Kvinner Elite FK,FK Fyllingsdalen vs Grei Kvinner Elite FK,"1st Division, Women",2026-09-27 11:30,target__home_clean_sheet,Home Clean Sheet,30.2,26.7,3.5,3.75,0.6485,True,30.0
+sr:match:72404436,Lucksta IF,Taftea IK,Lucksta IF vs Taftea IK,Division 2,2026-09-27 12:00,target__home_clean_sheet,Home Clean Sheet,30.2,22.7,7.4,4.4,0.6485,True,30.0
+sr:match:68378076,Vastra Frolunda IF,Astorps FF,Vastra Frolunda IF vs Astorps FF,Division 2,2026-09-27 12:00,target__home_clean_sheet,Home Clean Sheet,30.9,26.3,4.6,3.8,0.6485,True,30.0
+sr:match:73094980,Inter Milano,ACF Fiorentina,Inter Milano vs ACF Fiorentina,"Serie A, Women",2026-09-27 12:00,target__home_clean_sheet,Home Clean Sheet,45.9,40.0,5.9,2.5,0.6485,True,30.0
+sr:match:72596122,Udi 19,FC Rijnvogels,Udi 19 vs FC Rijnvogels,Derde Divisie,2026-09-27 13:00,target__home_clean_sheet,Home Clean Sheet,30.9,22.2,8.6,4.5,0.6485,True,30.0
+sr:match:73293946,Ravenna FC 1913,AS Gubbio,Ravenna FC 1913 vs AS Gubbio,"Serie C, Group B",2026-09-27 13:30,target__home_clean_sheet,Home Clean Sheet,60.7,55.2,5.5,1.81,0.6485,True,30.0
+sr:match:72837794,12 Bingol Spor,Hekimoglu Trabzon,12 Bingol Spor vs Hekimoglu Trabzon,2. Lig,2026-09-27 13:30,target__home_clean_sheet,Home Clean Sheet,45.9,39.2,6.7,2.55,0.6485,True,30.0
+sr:match:72837790,Serik Belediyespor,Fethiyespor,Serik Belediyespor vs Fethiyespor,2. Lig,2026-09-27 13:30,target__home_clean_sheet,Home Clean Sheet,45.9,41.7,4.3,2.4,0.6485,True,30.0
+sr:match:74515514,Stallion Laguna FC,Maharlika Taguig FC,Stallion Laguna FC vs Maharlika Taguig FC,Philippines Footb. League,2026-09-27 13:30,target__home_clean_sheet,Home Clean Sheet,47.1,38.5,8.7,2.6,0.6485,True,30.0
+sr:match:72596124,Groene Ster,VV Gemert,Groene Ster vs VV Gemert,Derde Divisie,2026-09-27 13:30,target__home_clean_sheet,Home Clean Sheet,30.9,22.7,8.1,4.4,0.6485,True,30.0
+sr:match:74894936,Deportivo Capiata,12 de Junio de Villa Hayes,Deportivo Capiata vs 12 de Junio de Villa Hayes,Division Intermedia,2026-09-27 14:00,target__home_clean_sheet,Home Clean Sheet,30.9,27.8,3.1,3.6,0.6485,True,30.0
+sr:match:74894934,Resistencia SC,Deportivo Santani,Resistencia SC vs Deportivo Santani,Division Intermedia,2026-09-27 14:00,target__home_clean_sheet,Home Clean Sheet,30.9,27.8,3.1,3.6,0.6485,True,30.0
+sr:match:72889582,Beykoz Ishakli Spor Faaliyetleri AS,Tuzlaspor,Beykoz Ishakli Spor Faaliyetleri AS vs Tuzlaspor,3. Lig,2026-09-27 14:00,target__home_clean_sheet,Home Clean Sheet,47.1,34.5,12.6,2.9,0.6485,True,30.0
+sr:match:73346034,Birmingham City WFC,Crystal Palace,Birmingham City WFC vs Crystal Palace,Super League Women,2026-09-27 14:00,target__home_clean_sheet,Home Clean Sheet,45.9,40.0,5.9,2.5,0.6485,True,30.0
+sr:match:73346036,Liverpool LFC,Everton FC Women,Liverpool LFC vs Everton FC Women,Super League Women,2026-09-27 14:00,target__home_clean_sheet,Home Clean Sheet,47.1,42.6,4.6,2.35,0.6485,True,30.0
+sr:match:72656492,Pusta Polom,FK Novy Jicin,Pusta Polom vs FK Novy Jicin,Divize F,2026-09-27 14:00,target__home_clean_sheet,Home Clean Sheet,30.9,25.6,5.2,3.9,0.6485,True,30.0
+sr:match:73268476,SC Braga,Sporting Cp,SC Braga vs Sporting Cp,"Campeonato Nacional, Women",2026-09-27 14:45,target__home_clean_sheet,Home Clean Sheet,30.9,27.8,3.1,3.6,0.6485,True,30.0
+sr:match:68377974,IK Sleipner,FOC Farsta,IK Sleipner vs FOC Farsta,Division 2,2026-09-27 15:00,target__home_clean_sheet,Home Clean Sheet,30.9,25.6,5.2,3.9,0.6485,True,30.0
+sr:match:72466546,PFC Chernomorets Burgas,PFC Montana 1921,PFC Chernomorets Burgas vs PFC Montana 1921,Vtora Liga,2026-09-27 15:00,target__home_clean_sheet,Home Clean Sheet,47.1,40.8,6.3,2.45,0.6485,True,30.0
+sr:match:67920704,Stabaek Fotball 2,Flekkeroy IL,Stabaek Fotball 2 vs Flekkeroy IL,"3. Division, Group 4",2026-09-27 15:00,target__home_clean_sheet,Home Clean Sheet,30.0,21.3,8.7,4.7,0.6485,True,30.0
+sr:match:75001622,Spain,DPR Korea,Spain vs DPR Korea,"U20 FIFA World Cup, Women",2026-09-27 17:00,target__home_clean_sheet,Home Clean Sheet,45.9,33.9,12.0,2.95,0.6485,True,30.0
+sr:match:72890606,Bucaspor,Altay Izmir,Bucaspor vs Altay Izmir,3. Lig,2026-09-27 17:00,target__home_clean_sheet,Home Clean Sheet,44.8,37.7,7.1,2.65,0.6485,True,30.0
+sr:match:72466548,PFC Ludogorets Razgrad II,SFC Etar Veliko Tarnovo,PFC Ludogorets Razgrad II vs SFC Etar Veliko Tarnovo,Vtora Liga,2026-09-27 17:00,target__home_clean_sheet,Home Clean Sheet,36.1,32.3,3.9,3.1,0.6485,True,30.0
+sr:match:73068058,Antequera CF,Real Jaen CF,Antequera CF vs Real Jaen CF,Primera Federacion,2026-09-27 17:15,target__home_clean_sheet,Home Clean Sheet,45.9,41.7,4.3,2.4,0.6485,True,30.0
+sr:match:72477434,Eibar,Las Palmas,Eibar vs Las Palmas,LALIGA HYPERMOTION,2026-09-27 17:30,target__home_clean_sheet,Home Clean Sheet,45.9,39.2,6.7,2.55,0.6485,True,30.0
+sr:match:74931104,Jordan,Syria,Jordan vs Syria,Int. Friendly Games,2026-09-27 18:00,target__home_clean_sheet,Home Clean Sheet,60.7,52.9,7.8,1.89,0.6485,True,30.0
+sr:match:74695790,Deportes Concepcion,Curico Unido,Deportes Concepcion vs Curico Unido,Copa Chile,2026-09-27 19:00,target__home_clean_sheet,Home Clean Sheet,60.7,56.8,3.9,1.76,0.6485,True,30.0
+sr:match:74829638,Maghreb AS de Fes,Renaissance Zemamra,Maghreb AS de Fes vs Renaissance Zemamra,Botola Pro D1,2026-09-27 19:00,target__home_clean_sheet,Home Clean Sheet,60.7,51.0,9.7,1.96,0.6485,True,30.0
+sr:match:73293942,Delfino Pescara,Spezia Calcio,Delfino Pescara vs Spezia Calcio,"Serie C, Group B",2026-09-27 19:30,target__home_clean_sheet,Home Clean Sheet,30.9,26.7,4.2,3.75,0.6485,True,30.0
+sr:match:72636234,Envigado FC,Atletico FC Cali,Envigado FC vs Atletico FC Cali,Torneo DIMAYOR,2026-09-27 20:00,target__home_clean_sheet,Home Clean Sheet,60.7,55.9,4.8,1.79,0.6485,True,30.0
+sr:match:74569048,CA Ferrocarril Midland,CSD Tristan Suarez,CA Ferrocarril Midland vs CSD Tristan Suarez,Primera Nacional,2026-09-27 20:30,target__home_clean_sheet,Home Clean Sheet,60.7,51.3,9.4,1.95,0.6485,True,30.0
+sr:match:72335156,Jaguares de Cordoba,Alianza FC Valledupar,Jaguares de Cordoba vs Alianza FC Valledupar,Liga DIMAYOR,2026-09-27 22:00,target__home_clean_sheet,Home Clean Sheet,45.9,41.7,4.3,2.4,0.6485,True,30.0
+sr:match:73075298,Municipal Limeno,CD FAS Santa Ana,Municipal Limeno vs CD FAS Santa Ana,Primera Division,2026-09-28 00:00,target__home_clean_sheet,Home Clean Sheet,45.9,30.8,15.2,3.25,0.6485,True,30.0
+sr:match:73220748,Haiti,Costa Rica,Haiti vs Costa Rica,CONCACAF Nations League,2026-09-28 00:00,target__home_clean_sheet,Home Clean Sheet,45.9,31.2,14.7,3.2,0.6485,True,30.0
+sr:match:72661242,Tauro FC,San Francisco FC,Tauro FC vs San Francisco FC,Liga Panamena,2026-09-27 02:30,target__home_win,Home Win,47.3,40.0,7.3,2.5,0.7212,True,44.5
+sr:match:73075294,AD Isidro Metapan,CD. Cacahuatique,AD Isidro Metapan vs CD. Cacahuatique,Primera Division,2026-09-27 03:00,target__home_win,Home Win,78.5,69.9,8.6,1.43,0.7212,True,44.5
+sr:match:74557416,Hong Kong,Laos,Hong Kong vs Laos,FIFA ASEAN Cup,2026-09-27 08:00,target__home_win,Home Win,89.5,81.3,8.2,1.23,0.7212,True,44.5
+sr:match:72664970,Iwate Grulla Morioka,Maruyasu Okazaki,Iwate Grulla Morioka vs Maruyasu Okazaki,Japan Football League,2026-09-27 10:00,target__home_win,Home Win,47.3,41.7,5.6,2.4,0.7212,True,44.5
+sr:match:72491358,Valencia CF,CD Tenerife,Valencia CF vs CD Tenerife,Primera Division Women,2026-09-27 11:00,target__home_win,Home Win,28.1,23.8,4.3,4.2,0.7212,True,44.5
+sr:match:73268484,FC Porto,Rp FC,FC Porto vs Rp FC,"Campeonato Nacional, Women",2026-09-27 11:00,target__home_win,Home Win,67.3,60.2,7.1,1.66,0.7212,True,44.5
+sr:match:68320386,IK Tord,Stenungsunds IF,IK Tord vs Stenungsunds IF,Division 2,2026-09-27 12:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:68377992,Karlslunds IF HFK,BK Forward,Karlslunds IF HFK vs BK Forward,Division 2,2026-09-27 12:00,target__home_win,Home Win,32.1,27.8,4.3,3.6,0.7212,True,44.5
+sr:match:72466540,PFC Vihren Sandanski,OFC Nesebar,PFC Vihren Sandanski vs OFC Nesebar,Vtora Liga,2026-09-27 12:00,target__home_win,Home Win,78.5,69.9,8.6,1.43,0.7212,True,44.5
+sr:match:73094980,Inter Milano,ACF Fiorentina,Inter Milano vs ACF Fiorentina,"Serie A, Women",2026-09-27 12:00,target__home_win,Home Win,67.3,58.1,9.2,1.72,0.7212,True,44.5
+sr:match:67018532,Aasane,IK Start,Aasane vs IK Start,"1st Division, Women",2026-09-27 12:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:72679178,FC Kaluga,Dinamo Kirov,FC Kaluga vs Dinamo Kirov,"2. Liga, Division A",2026-09-27 12:00,target__home_win,Home Win,27.3,17.5,9.7,5.7,0.7212,True,44.5
+sr:match:72477448,Valladolid,Cordoba CF,Valladolid vs Cordoba CF,LALIGA HYPERMOTION,2026-09-27 13:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:73293212,Union Brescia,Dolomiti Bellunesi,Union Brescia vs Dolomiti Bellunesi,"Serie C, Group A",2026-09-27 13:30,target__home_win,Home Win,78.5,74.1,4.4,1.35,0.7212,True,44.5
+sr:match:73293938,AS Ostiamare,Forli FC,AS Ostiamare vs Forli FC,"Serie C, Group B",2026-09-27 13:30,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:73293946,Ravenna FC 1913,AS Gubbio,Ravenna FC 1913 vs AS Gubbio,"Serie C, Group B",2026-09-27 13:30,target__home_win,Home Win,78.9,73.0,6.0,1.37,0.7212,True,44.5
+sr:match:72837802,Ankara Demirspor,Adana 1954 FK,Ankara Demirspor vs Adana 1954 FK,2. Lig,2026-09-27 13:30,target__home_win,Home Win,54.7,51.5,3.1,1.94,0.7212,True,44.5
+sr:match:74894936,Deportivo Capiata,12 de Junio de Villa Hayes,Deportivo Capiata vs 12 de Junio de Villa Hayes,Division Intermedia,2026-09-27 14:00,target__home_win,Home Win,34.4,28.6,5.8,3.5,0.7212,True,44.5
+sr:match:74894934,Resistencia SC,Deportivo Santani,Resistencia SC vs Deportivo Santani,Division Intermedia,2026-09-27 14:00,target__home_win,Home Win,34.4,27.0,7.3,3.7,0.7212,True,44.5
+sr:match:74078156,Tornion Pallo 47,SJK Akatemia/2,Tornion Pallo 47 vs SJK Akatemia/2,Kakkonen,2026-09-27 14:00,target__home_win,Home Win,54.7,50.0,4.7,2.0,0.7212,True,44.5
+sr:match:73346510,Newcastle United WFC,Leicester City WFC,Newcastle United WFC vs Leicester City WFC,"Super League 2, Women",2026-09-27 14:00,target__home_win,Home Win,67.3,64.1,3.2,1.56,0.7212,True,44.5
+sr:match:73346508,Sheffield United LFC,Durham LFC,Sheffield United LFC vs Durham LFC,"Super League 2, Women",2026-09-27 14:00,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:72679182,FC Sokol Saratov,FC Mashuk-KMV Pyatigorsk,FC Sokol Saratov vs FC Mashuk-KMV Pyatigorsk,"2. Liga, Division A",2026-09-27 14:00,target__home_win,Home Win,34.4,28.6,5.8,3.5,0.7212,True,44.5
+sr:match:68311162,IF Karlstad Fotbol,Karlbergs BK,IF Karlstad Fotbol vs Karlbergs BK,Ettan,2026-09-27 15:00,target__home_win,Home Win,67.3,63.3,4.1,1.58,0.7212,True,44.5
+sr:match:74973776,Central Espanol FC,Liverpool Montevideo,Central Espanol FC vs Liverpool Montevideo,Primera Division,2026-09-27 15:00,target__home_win,Home Win,33.3,25.0,8.3,4.0,0.7212,True,44.5
+sr:match:72559088,CD Mirandes,Unionistas de Salamanca CF,CD Mirandes vs Unionistas de Salamanca CF,Primera Federacion,2026-09-27 15:00,target__home_win,Home Win,78.5,69.0,9.6,1.45,0.7212,True,44.5
+sr:match:72578228,FC Shinnik Yaroslavl,FC Ska-Khabarovsk,FC Shinnik Yaroslavl vs FC Ska-Khabarovsk,1. Liga,2026-09-27 15:00,target__home_win,Home Win,67.3,54.1,13.3,1.85,0.7212,True,44.5
+sr:match:68320390,IFK Skovde FK,IF Karlstad Fotbollutveckling,IFK Skovde FK vs IF Karlstad Fotbollutveckling,Division 2,2026-09-27 15:00,target__home_win,Home Win,78.5,71.9,6.6,1.39,0.7212,True,44.5
+sr:match:72281360,ND Beltinci,Krka Novo Mesto,ND Beltinci vs Krka Novo Mesto,2. Liga,2026-09-27 15:00,target__home_win,Home Win,78.5,69.0,9.6,1.45,0.7212,True,44.5
+sr:match:72281354,NK Jesenice,NK Vrhnika,NK Jesenice vs NK Vrhnika,2. Liga,2026-09-27 15:00,target__home_win,Home Win,47.3,41.7,5.6,2.4,0.7212,True,44.5
+sr:match:72560294,SC Rust,SV Lackenbach,SC Rust vs SV Lackenbach,Burgenlandliga,2026-09-27 15:00,target__home_win,Home Win,67.3,55.9,11.5,1.79,0.7212,True,44.5
+sr:match:73293952,Vis Pesaro 1898,Guidonia Montecelio 1937 FC,Vis Pesaro 1898 vs Guidonia Montecelio 1937 FC,"Serie C, Group B",2026-09-27 16:30,target__home_win,Home Win,32.1,28.6,3.5,3.5,0.7212,True,44.5
+sr:match:68932724,Austria,Kosovo,Austria vs Kosovo,UEFA Nations League,2026-09-27 17:00,target__home_win,Home Win,67.3,62.5,4.8,1.6,0.7212,True,44.5
+sr:match:68931812,Denmark,Wales,Denmark vs Wales,UEFA Nations League,2026-09-27 17:00,target__home_win,Home Win,78.5,66.7,11.9,1.5,0.7212,True,44.5
+sr:match:75001622,Spain,DPR Korea,Spain vs DPR Korea,"U20 FIFA World Cup, Women",2026-09-27 17:00,target__home_win,Home Win,34.4,31.2,3.1,3.2,0.7212,True,44.5
+sr:match:72517276,KSZO Ostrowiec Swietokrzyski,KS Hetman Zamosc,KSZO Ostrowiec Swietokrzyski vs KS Hetman Zamosc,"III Liga, Group 4",2026-09-27 17:00,target__home_win,Home Win,83.3,80.0,3.3,1.25,0.7212,True,44.5
+sr:match:72837792,Sakaryaspor,Belediye Kutahyaspor,Sakaryaspor vs Belediye Kutahyaspor,2. Lig,2026-09-27 17:00,target__home_win,Home Win,78.5,69.4,9.1,1.44,0.7212,True,44.5
+sr:match:72466544,FK Hebar Pazardzhik,PFC Dobrudzha Dobrich,FK Hebar Pazardzhik vs PFC Dobrudzha Dobrich,Vtora Liga,2026-09-27 17:00,target__home_win,Home Win,78.5,73.0,5.5,1.37,0.7212,True,44.5
+sr:match:73068072,CD Teruel,SD Huesca,CD Teruel vs SD Huesca,Primera Federacion,2026-09-27 18:00,target__home_win,Home Win,32.1,26.7,5.4,3.75,0.7212,True,44.5
+sr:match:74695790,Deportes Concepcion,Curico Unido,Deportes Concepcion vs Curico Unido,Copa Chile,2026-09-27 19:00,target__home_win,Home Win,78.5,74.6,3.9,1.34,0.7212,True,44.5
+sr:match:67119792,Villa Dalmine,CD UAI Urquiza,Villa Dalmine vs CD UAI Urquiza,Primera B,2026-09-27 19:00,target__home_win,Home Win,67.3,62.9,4.5,1.59,0.7212,True,44.5
+sr:match:74973778,CA Juventud de Las Piedras,CA Cerro,CA Juventud de Las Piedras vs CA Cerro,Primera Division,2026-09-27 19:00,target__home_win,Home Win,67.3,57.1,10.2,1.75,0.7212,True,44.5
+sr:match:74829638,Maghreb AS de Fes,Renaissance Zemamra,Maghreb AS de Fes vs Renaissance Zemamra,Botola Pro D1,2026-09-27 19:00,target__home_win,Home Win,67.3,53.5,13.9,1.87,0.7212,True,44.5
+sr:match:67125980,Canuelas FC,CA Fenix Pilar,Canuelas FC vs CA Fenix Pilar,Primera C,2026-09-27 19:00,target__home_win,Home Win,78.5,70.9,7.6,1.41,0.7212,True,44.5
+sr:match:74796780,Veranopolis RS,Passo Fundo,Veranopolis RS vs Passo Fundo,"Gaucho, Serie A2",2026-09-27 19:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:74417706,Sport Boys Association,Alianza Atletico,Sport Boys Association vs Alianza Atletico,Copa de la Liga,2026-09-27 19:00,target__home_win,Home Win,67.3,56.8,10.5,1.76,0.7212,True,44.5
+sr:match:67118692,CA Atlanta,Agropecuario Argentino,CA Atlanta vs Agropecuario Argentino,Primera Nacional,2026-09-27 19:30,target__home_win,Home Win,67.3,51.3,16.1,1.95,0.7212,True,44.5
+sr:match:67118702,Club Almagro,Nueva Chicago,Club Almagro vs Nueva Chicago,Primera Nacional,2026-09-27 19:30,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:72636234,Envigado FC,Atletico FC Cali,Envigado FC vs Atletico FC Cali,Torneo DIMAYOR,2026-09-27 20:00,target__home_win,Home Win,78.5,70.9,7.6,1.41,0.7212,True,44.5
+sr:match:67117986,Mitre Santiago del Estero,CA San Telmo,Mitre Santiago del Estero vs CA San Telmo,Primera Nacional,2026-09-27 20:00,target__home_win,Home Win,67.3,55.6,11.8,1.8,0.7212,True,44.5
+sr:match:73184916,AD Sarchi,Adr Jicaral,AD Sarchi vs Adr Jicaral,Liga de Ascenso,2026-09-27 20:00,target__home_win,Home Win,32.1,28.6,3.5,3.5,0.7212,True,44.5
+sr:match:74753358,Union Comercio,Pirata FC,Union Comercio vs Pirata FC,Liga 2,2026-09-27 21:15,target__home_win,Home Win,78.5,71.4,7.1,1.4,0.7212,True,44.5
+sr:match:67118690,Gimnasia Y Tiro de Salta,Atletico de Rafaela,Gimnasia Y Tiro de Salta vs Atletico de Rafaela,Primera Nacional,2026-09-27 22:00,target__home_win,Home Win,54.7,50.5,4.2,1.98,0.7212,True,44.5
+sr:match:74695434,Racing United FC,Montego Bay United,Racing United FC vs Montego Bay United,Premier League,2026-09-27 23:05,target__home_win,Home Win,34.4,31.2,3.1,3.2,0.7212,True,44.5
+sr:match:74321608,CD Santa Cruz,CD O'Higgins,CD Santa Cruz vs CD O'Higgins,Copa Chile,2026-09-28 00:00,target__home_win,Home Win,32.1,27.0,5.0,3.7,0.7212,True,44.5
+sr:match:73075298,Municipal Limeno,CD FAS Santa Ana,Municipal Limeno vs CD FAS Santa Ana,Primera Division,2026-09-28 00:00,target__home_win,Home Win,47.3,34.5,12.8,2.9,0.7212,True,44.5
+sr:match:72661246,Veraguas United FC,AF Sporting San Miguelito,Veraguas United FC vs AF Sporting San Miguelito,Liga Panamena,2026-09-28 00:15,target__home_win,Home Win,47.3,41.7,5.6,2.4,0.7212,True,44.5
+sr:match:73220750,Curacao,Nicaragua,Curacao vs Nicaragua,CONCACAF Nations League,2026-09-28 01:00,target__home_win,Home Win,83.3,72.5,10.9,1.38,0.7212,True,44.5
+sr:match:66299602,Los Angeles Galaxy,Colorado Rapids,Los Angeles Galaxy vs Colorado Rapids,MLS,2026-09-27 03:30,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:72415004,Dukla Prague B,Bohemians Prague 1905 B,Dukla Prague B vs Bohemians Prague 1905 B,CFL,2026-09-27 09:15,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:72415574,FK Jablonec B,FC Hradec Kralove B,FK Jablonec B vs FC Hradec Kralove B,CFL,2026-09-27 09:15,target__ht_away_win,HT Away Win,33.7,25.6,8.1,3.9,0.6617,True,26.6
+sr:match:72664970,Iwate Grulla Morioka,Maruyasu Okazaki,Iwate Grulla Morioka vs Maruyasu Okazaki,Japan Football League,2026-09-27 10:00,target__ht_away_win,HT Away Win,33.7,30.0,3.7,3.33,0.6617,True,26.6
+sr:match:72499062,Naestved BK,Middelfart BK,Naestved BK vs Middelfart BK,2nd Division,2026-09-27 12:00,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:73094980,Inter Milano,ACF Fiorentina,Inter Milano vs ACF Fiorentina,"Serie A, Women",2026-09-27 12:00,target__ht_away_win,HT Away Win,33.7,22.2,11.5,4.5,0.6617,True,26.6
+sr:match:72679178,FC Kaluga,Dinamo Kirov,FC Kaluga vs Dinamo Kirov,"2. Liga, Division A",2026-09-27 12:00,target__ht_away_win,HT Away Win,54.0,43.5,10.5,2.3,0.6617,True,26.6
+sr:match:72515978,KKS 1925 Kalisz,Zks Kluczevia Stargard,KKS 1925 Kalisz vs Zks Kluczevia Stargard,"III Liga, Group 2",2026-09-27 13:00,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:67915908,Lorenskog IF,Skeid Fotball,Lorenskog IF vs Skeid Fotball,2nd Division Group 2,2026-09-27 13:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:72044688,De Graafschap,FC Den Bosch,De Graafschap vs FC Den Bosch,Eerste Divisie,2026-09-27 13:30,target__ht_away_win,HT Away Win,39.9,30.8,9.1,3.25,0.6617,True,26.6
+sr:match:72889582,Beykoz Ishakli Spor Faaliyetleri AS,Tuzlaspor,Beykoz Ishakli Spor Faaliyetleri AS vs Tuzlaspor,3. Lig,2026-09-27 14:00,target__ht_away_win,HT Away Win,42.2,32.3,10.0,3.1,0.6617,True,26.6
+sr:match:67920956,Stroemsgodset 2,IF Floeya,Stroemsgodset 2 vs IF Floeya,"3. Division, Group 5",2026-09-27 14:00,target__ht_away_win,HT Away Win,55.2,40.8,14.4,2.45,0.6617,True,26.6
+sr:match:72679176,FC Dynamo Bryansk,Dynamo Vladivostok,FC Dynamo Bryansk vs Dynamo Vladivostok,"2. Liga, Division A",2026-09-27 14:00,target__ht_away_win,HT Away Win,33.7,23.3,10.5,4.3,0.6617,True,26.6
+sr:match:68311150,Gefle IF,Vasalunds IF,Gefle IF vs Vasalunds IF,Ettan,2026-09-27 15:00,target__ht_away_win,HT Away Win,33.7,30.3,3.4,3.3,0.6617,True,26.6
+sr:match:74973776,Central Espanol FC,Liverpool Montevideo,Central Espanol FC vs Liverpool Montevideo,Primera Division,2026-09-27 15:00,target__ht_away_win,HT Away Win,54.0,39.2,14.8,2.55,0.6617,True,26.6
+sr:match:74610550,Throttur Reykjavik,Stjarnan,Throttur Reykjavik vs Stjarnan,"Besta deild, Women",2026-09-27 15:00,target__ht_away_win,HT Away Win,42.4,32.3,10.2,3.1,0.6617,True,26.6
+sr:match:72679174,FC Volgar Astrakhan,FC Alania Vladikavkaz,FC Volgar Astrakhan vs FC Alania Vladikavkaz,"2. Liga, Division A",2026-09-27 15:00,target__ht_away_win,HT Away Win,33.7,25.0,8.7,4.0,0.6617,True,26.6
+sr:match:73293196,AC Carpi,FC Arzignano Valchiampo,AC Carpi vs FC Arzignano Valchiampo,"Serie C, Group A",2026-09-27 16:30,target__ht_away_win,HT Away Win,33.7,30.3,3.4,3.3,0.6617,True,26.6
+sr:match:68932808,Gibraltar,Andorra,Gibraltar vs Andorra,UEFA Nations League,2026-09-27 17:00,target__ht_away_win,HT Away Win,33.7,30.0,3.7,3.33,0.6617,True,26.6
+sr:match:72466548,PFC Ludogorets Razgrad II,SFC Etar Veliko Tarnovo,PFC Ludogorets Razgrad II vs SFC Etar Veliko Tarnovo,Vtora Liga,2026-09-27 17:00,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:73068058,Antequera CF,Real Jaen CF,Antequera CF vs Real Jaen CF,Primera Federacion,2026-09-27 17:15,target__ht_away_win,HT Away Win,33.7,25.0,8.7,4.0,0.6617,True,26.6
+sr:match:67125980,Canuelas FC,CA Fenix Pilar,Canuelas FC vs CA Fenix Pilar,Primera C,2026-09-27 19:00,target__ht_away_win,HT Away Win,21.7,11.2,10.4,8.9,0.6617,True,26.6
+sr:match:68686130,Inter Toronto,Pacific FC,Inter Toronto vs Pacific FC,Canadian Premier League,2026-09-27 19:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:74798500,Sport Club Gaucho Passo Fundo RS,FC Santa Cruz RS,Sport Club Gaucho Passo Fundo RS vs FC Santa Cruz RS,"Gaucho, Serie A2",2026-09-27 19:00,target__ht_away_win,HT Away Win,33.7,25.6,8.1,3.9,0.6617,True,26.6
+sr:match:73293194,US Albinoleffe,Alcione Milano,US Albinoleffe vs Alcione Milano,"Serie C, Group A",2026-09-27 19:30,target__ht_away_win,HT Away Win,33.7,24.4,9.3,4.1,0.6617,True,26.6
+sr:match:68931814,Norway,Portugal,Norway vs Portugal,UEFA Nations League,2026-09-27 19:45,target__ht_away_win,HT Away Win,42.4,32.3,10.2,3.1,0.6617,True,26.6
+sr:match:74270578,Dynamo Puerto FC,Bolivar SC,Dynamo Puerto FC vs Bolivar SC,Segunda Division,2026-09-27 21:00,target__ht_away_win,HT Away Win,33.7,30.0,3.7,3.33,0.6617,True,26.6
+sr:match:74297872,Bolivia,Paraguay,Bolivia vs Paraguay,Int. Friendly Games,2026-09-27 21:30,target__ht_away_win,HT Away Win,55.2,51.8,3.4,1.93,0.6617,True,26.6
+sr:match:74695428,Dunbeholden FC,Mount Pleasant FC,Dunbeholden FC vs Mount Pleasant FC,Premier League,2026-09-27 21:30,target__ht_away_win,HT Away Win,54.0,48.8,5.2,2.05,0.6617,True,26.6
+sr:match:74713764,Gimnasia y Esgrima de Jujuy,San Martin de Tucuman,Gimnasia y Esgrima de Jujuy vs San Martin de Tucuman,Primera Nacional,2026-09-28 01:00,target__ht_away_win,HT Away Win,33.7,25.0,8.7,4.0,0.6617,True,26.6
+sr:match:66299600,Real Salt Lake,New England Revolution,Real Salt Lake vs New England Revolution,MLS,2026-09-27 02:30,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:67172988,Orange County SC,Pittsburgh Riverhounds,Orange County SC vs Pittsburgh Riverhounds,USL Championship,2026-09-27 03:00,target__ht_draw,HT Draw,60.0,51.3,8.7,1.95,0.5904,True,39.0
+sr:match:72676050,SK Slovan HAC,SV Schwechat,SK Slovan HAC vs SV Schwechat,Wiener Stadtliga,2026-09-27 09:30,target__ht_draw,HT Draw,47.6,42.6,5.0,2.35,0.5904,True,39.0
+sr:match:73235776,Gangwon FC,Incheon United FC,Gangwon FC vs Incheon United FC,K-League 1,2026-09-27 11:00,target__ht_draw,HT Draw,60.0,51.0,9.0,1.96,0.5904,True,39.0
+sr:match:68311868,Eskilsminne IF,Ariana FC,Eskilsminne IF vs Ariana FC,Ettan,2026-09-27 12:00,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:68377992,Karlslunds IF HFK,BK Forward,Karlslunds IF HFK vs BK Forward,Division 2,2026-09-27 12:00,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:72595452,HVV Hollandia Hoorn,USV Hercules,HVV Hollandia Hoorn vs USV Hercules,Derde Divisie,2026-09-27 13:00,target__ht_draw,HT Draw,45.6,39.2,6.4,2.55,0.5904,True,39.0
+sr:match:72596122,Udi 19,FC Rijnvogels,Udi 19 vs FC Rijnvogels,Derde Divisie,2026-09-27 13:00,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:73293212,Union Brescia,Dolomiti Bellunesi,Union Brescia vs Dolomiti Bellunesi,"Serie C, Group A",2026-09-27 13:30,target__ht_draw,HT Draw,45.6,42.6,3.1,2.35,0.5904,True,39.0
+sr:match:72596124,Groene Ster,VV Gemert,Groene Ster vs VV Gemert,Derde Divisie,2026-09-27 13:30,target__ht_draw,HT Draw,47.6,40.0,7.6,2.5,0.5904,True,39.0
+sr:match:74172430,AE Larissa FC,PAOK Thessaloniki B,AE Larissa FC vs PAOK Thessaloniki B,Super League 2,2026-09-27 14:00,target__ht_draw,HT Draw,47.6,44.4,3.1,2.25,0.5904,True,39.0
+sr:match:74172418,Apollon Kalamarias,Anagennisi Karditsas 1904,Apollon Kalamarias vs Anagennisi Karditsas 1904,Super League 2,2026-09-27 14:00,target__ht_draw,HT Draw,60.0,53.5,6.5,1.87,0.5904,True,39.0
+sr:match:74894936,Deportivo Capiata,12 de Junio de Villa Hayes,Deportivo Capiata vs 12 de Junio de Villa Hayes,Division Intermedia,2026-09-27 14:00,target__ht_draw,HT Draw,60.0,47.6,12.4,2.1,0.5904,True,39.0
+sr:match:72517904,SK Sturm Graz,FK Austria Wien,SK Sturm Graz vs FK Austria Wien,"Bundesliga, Women",2026-09-27 14:30,target__ht_draw,HT Draw,45.6,42.6,3.1,2.35,0.5904,True,39.0
+sr:match:68823318,Criciuma EC SC,Avai FC SC,Criciuma EC SC vs Avai FC SC,Brasileiro Serie B,2026-09-27 15:00,target__ht_draw,HT Draw,50.0,44.4,5.6,2.25,0.5904,True,39.0
+sr:match:74931104,Jordan,Syria,Jordan vs Syria,Int. Friendly Games,2026-09-27 18:00,target__ht_draw,HT Draw,47.6,44.4,3.1,2.25,0.5904,True,39.0
+sr:match:73068072,CD Teruel,SD Huesca,CD Teruel vs SD Huesca,Primera Federacion,2026-09-27 18:00,target__ht_draw,HT Draw,60.0,52.6,7.4,1.9,0.5904,True,39.0
+sr:match:67119774,Argentino de Quilmes,Club Comunicaciones,Argentino de Quilmes vs Club Comunicaciones,Primera B,2026-09-27 19:00,target__ht_draw,HT Draw,60.0,55.6,4.4,1.8,0.5904,True,39.0
+sr:match:67119792,Villa Dalmine,CD UAI Urquiza,Villa Dalmine vs CD UAI Urquiza,Primera B,2026-09-27 19:00,target__ht_draw,HT Draw,60.0,48.8,11.2,2.05,0.5904,True,39.0
+sr:match:74497266,EC Guarani RS,Uniao Frederiquense de Futebol RS,EC Guarani RS vs Uniao Frederiquense de Futebol RS,"Gaucho, Serie A2",2026-09-27 19:00,target__ht_draw,HT Draw,60.0,50.8,9.2,1.97,0.5904,True,39.0
+sr:match:74796780,Veranopolis RS,Passo Fundo,Veranopolis RS vs Passo Fundo,"Gaucho, Serie A2",2026-09-27 19:00,target__ht_draw,HT Draw,60.0,54.3,5.7,1.84,0.5904,True,39.0
+sr:match:73204612,Puebla FC,CF Monterrey,Puebla FC vs CF Monterrey,"Liga MX, Women",2026-09-27 19:00,target__ht_draw,HT Draw,23.3,17.4,5.9,5.75,0.5904,True,39.0
+sr:match:74896682,CAS Defensores de Belgrano,CA Alvarado,CAS Defensores de Belgrano vs CA Alvarado,Torneo Federal A,2026-09-27 19:30,target__ht_draw,HT Draw,60.0,55.9,4.1,1.79,0.5904,True,39.0
+sr:match:74745286,Club Atletico Los Andes,Deportivo Moron,Club Atletico Los Andes vs Deportivo Moron,Primera Nacional,2026-09-27 19:30,target__ht_draw,HT Draw,71.4,56.8,14.6,1.76,0.5904,True,39.0
+sr:match:67118704,CD Maipu,CA Temperley,CD Maipu vs CA Temperley,Primera Nacional,2026-09-27 20:30,target__ht_draw,HT Draw,60.0,52.1,7.9,1.92,0.5904,True,39.0
+sr:match:74829640,Kawkab Athletic Club of Marrakech,Hassania Union Sport Agadir,Kawkab Athletic Club of Marrakech vs Hassania Union Sport Agadir,Botola Pro D1,2026-09-27 21:00,target__ht_draw,HT Draw,71.4,53.2,18.2,1.88,0.5904,True,39.0
+sr:match:67117978,CA Racing de Cordoba,CD Godoy Cruz,CA Racing de Cordoba vs CD Godoy Cruz,Primera Nacional,2026-09-27 21:00,target__ht_draw,HT Draw,60.0,53.8,6.2,1.86,0.5904,True,39.0
+sr:match:67118690,Gimnasia Y Tiro de Salta,Atletico de Rafaela,Gimnasia Y Tiro de Salta vs Atletico de Rafaela,Primera Nacional,2026-09-27 22:00,target__ht_draw,HT Draw,60.0,54.1,5.9,1.85,0.5904,True,39.0
+sr:match:68823314,Fortaleza EC CE,Athletic Club Sjdr MG,Fortaleza EC CE vs Athletic Club Sjdr MG,Brasileiro Serie B,2026-09-27 22:30,target__ht_draw,HT Draw,60.0,46.5,13.5,2.15,0.5904,True,39.0
+sr:match:74244356,Brusque FC SC,Ferroviaria SP,Brusque FC SC vs Ferroviaria SP,Brasileiro Serie C,2026-09-27 22:30,target__ht_draw,HT Draw,60.0,50.0,10.0,2.0,0.5904,True,39.0
+sr:match:72055208,Club Necaxa,CF America,Club Necaxa vs CF America,Liga MX,2026-09-28 04:10,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:72305220,Slovan Bratislava B,1. FC Tatran Presov,Slovan Bratislava B vs 1. FC Tatran Presov,2. Liga,2026-09-27 09:30,target__ht_home_win,HT Home Win,33.3,30.3,3.0,3.3,0.6512,True,34.4
+sr:match:72676050,SK Slovan HAC,SV Schwechat,SK Slovan HAC vs SV Schwechat,Wiener Stadtliga,2026-09-27 09:30,target__ht_home_win,HT Home Win,39.1,32.3,6.9,3.1,0.6512,True,34.4
+sr:match:72491358,Valencia CF,CD Tenerife,Valencia CF vs CD Tenerife,Primera Division Women,2026-09-27 11:00,target__ht_home_win,HT Home Win,24.6,20.4,4.2,4.9,0.6512,True,34.4
+sr:match:73094988,Ternana,Fcf Como,Ternana vs Fcf Como,"Serie A, Women",2026-09-27 11:30,target__ht_home_win,HT Home Win,33.3,28.6,4.8,3.5,0.6512,True,34.4
+sr:match:68344864,Solvesborgs GoIF,IFK Berga,Solvesborgs GoIF vs IFK Berga,Division 2,2026-09-27 12:00,target__ht_home_win,HT Home Win,39.1,33.9,5.2,2.95,0.6512,True,34.4
+sr:match:67920952,Fauske/Sprint,Tromsoe 2,Fauske/Sprint vs Tromsoe 2,"3. Division, Group 5",2026-09-27 12:30,target__ht_home_win,HT Home Win,40.5,34.5,6.0,2.9,0.6512,True,34.4
+sr:match:73293938,AS Ostiamare,Forli FC,AS Ostiamare vs Forli FC,"Serie C, Group B",2026-09-27 13:30,target__ht_home_win,HT Home Win,39.1,34.5,4.6,2.9,0.6512,True,34.4
+sr:match:73293946,Ravenna FC 1913,AS Gubbio,Ravenna FC 1913 vs AS Gubbio,"Serie C, Group B",2026-09-27 13:30,target__ht_home_win,HT Home Win,58.1,54.9,3.1,1.82,0.6512,True,34.4
+sr:match:72596124,Groene Ster,VV Gemert,Groene Ster vs VV Gemert,Derde Divisie,2026-09-27 13:30,target__ht_home_win,HT Home Win,39.1,33.3,5.8,3.0,0.6512,True,34.4
+sr:match:72837184,Belediye Derincespor,Elazigspor,Belediye Derincespor vs Elazigspor,2. Lig,2026-09-27 14:00,target__ht_home_win,HT Home Win,24.6,19.6,5.0,5.1,0.6512,True,34.4
+sr:match:73346512,Ipswich Town Lfc,Wolverhampton Wanderers Wfc,Ipswich Town Lfc vs Wolverhampton Wanderers Wfc,"Super League 2, Women",2026-09-27 14:00,target__ht_home_win,HT Home Win,39.1,35.1,4.0,2.85,0.6512,True,34.4
+sr:match:72281360,ND Beltinci,Krka Novo Mesto,ND Beltinci vs Krka Novo Mesto,2. Liga,2026-09-27 15:00,target__ht_home_win,HT Home Win,58.1,52.9,5.2,1.89,0.6512,True,34.4
+sr:match:73293952,Vis Pesaro 1898,Guidonia Montecelio 1937 FC,Vis Pesaro 1898 vs Guidonia Montecelio 1937 FC,"Serie C, Group B",2026-09-27 16:30,target__ht_home_win,HT Home Win,29.5,25.0,4.5,4.0,0.6512,True,34.4
+sr:match:72837192,Adana Demirspor,Erbaaspor,Adana Demirspor vs Erbaaspor,2. Lig,2026-09-27 17:00,target__ht_home_win,HT Home Win,24.6,21.3,3.3,4.7,0.6512,True,34.4
+sr:match:72837792,Sakaryaspor,Belediye Kutahyaspor,Sakaryaspor vs Belediye Kutahyaspor,2. Lig,2026-09-27 17:00,target__ht_home_win,HT Home Win,58.1,54.3,3.7,1.84,0.6512,True,34.4
+sr:match:72559094,Pontevedra CF,SD Ponferradina,Pontevedra CF vs SD Ponferradina,Primera Federacion,2026-09-27 17:15,target__ht_home_win,HT Home Win,40.5,37.0,3.5,2.7,0.6512,True,34.4
+sr:match:74931104,Jordan,Syria,Jordan vs Syria,Int. Friendly Games,2026-09-27 18:00,target__ht_home_win,HT Home Win,58.1,47.6,10.5,2.1,0.6512,True,34.4
+sr:match:74417706,Sport Boys Association,Alianza Atletico,Sport Boys Association vs Alianza Atletico,Copa de la Liga,2026-09-27 19:00,target__ht_home_win,HT Home Win,47.4,43.5,3.9,2.3,0.6512,True,34.4
+sr:match:73294686,S.S.D. Casarano Calcio,SS Monopoli,S.S.D. Casarano Calcio vs SS Monopoli,"Serie C, Group C",2026-09-27 19:30,target__ht_home_win,HT Home Win,39.1,35.7,3.4,2.8,0.6512,True,34.4
+sr:match:72636234,Envigado FC,Atletico FC Cali,Envigado FC vs Atletico FC Cali,Torneo DIMAYOR,2026-09-27 20:00,target__ht_home_win,HT Home Win,58.1,53.2,4.9,1.88,0.6512,True,34.4
+sr:match:74695424,Molynes,Tru-Juice FC,Molynes vs Tru-Juice FC,Premier League,2026-09-27 21:30,target__ht_home_win,HT Home Win,39.1,34.5,4.6,2.9,0.6512,True,34.4
+sr:match:72661244,Cocle FC,CD Plaza Amador Panama City,Cocle FC vs CD Plaza Amador Panama City,Liga Panamena,2026-09-27 22:00,target__ht_home_win,HT Home Win,25.3,19.0,6.2,5.25,0.6512,True,34.4
+sr:match:74695434,Racing United FC,Montego Bay United,Racing United FC vs Montego Bay United,Premier League,2026-09-27 23:05,target__ht_home_win,HT Home Win,33.3,27.0,6.3,3.7,0.6512,True,34.4
+sr:match:72055206,Club Leon,FC Juarez,Club Leon vs FC Juarez,Liga MX,2026-09-28 02:00,target__ht_home_win,HT Home Win,58.1,50.0,8.1,2.0,0.6512,True,34.4
+sr:match:66299600,Real Salt Lake,New England Revolution,Real Salt Lake vs New England Revolution,MLS,2026-09-27 02:30,target__ht_over_0_5_goals,HT Over 0.5,81.2,77.5,3.7,1.29,0.6199,True,72.8
+sr:match:66299602,Los Angeles Galaxy,Colorado Rapids,Los Angeles Galaxy vs Colorado Rapids,MLS,2026-09-27 03:30,target__ht_over_0_5_goals,HT Over 0.5,81.2,76.3,4.9,1.31,0.6199,True,72.8
+sr:match:72491358,Valencia CF,CD Tenerife,Valencia CF vs CD Tenerife,Primera Division Women,2026-09-27 11:00,target__ht_over_0_5_goals,HT Over 0.5,74.8,70.4,4.3,1.42,0.6199,True,72.8
+sr:match:72477448,Valladolid,Cordoba CF,Valladolid vs Cordoba CF,LALIGA HYPERMOTION,2026-09-27 13:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,73.5,3.9,1.36,0.6199,True,72.8
+sr:match:74172428,Niki Volou 1924 PAE,Nestos Chrysoupoli FC,Niki Volou 1924 PAE vs Nestos Chrysoupoli FC,Super League 2,2026-09-27 14:00,target__ht_over_0_5_goals,HT Over 0.5,79.4,71.4,8.0,1.4,0.6199,True,72.8
+sr:match:73293952,Vis Pesaro 1898,Guidonia Montecelio 1937 FC,Vis Pesaro 1898 vs Guidonia Montecelio 1937 FC,"Serie C, Group B",2026-09-27 16:30,target__ht_over_0_5_goals,HT Over 0.5,77.4,70.9,6.5,1.41,0.6199,True,72.8
+sr:match:74829636,Moghreb Athletic de Tetouan,Rs Berkane,Moghreb Athletic de Tetouan vs Rs Berkane,Botola Pro D1,2026-09-27 17:00,target__ht_over_0_5_goals,HT Over 0.5,78.0,74.6,3.3,1.34,0.6199,True,72.8
+sr:match:74695790,Deportes Concepcion,Curico Unido,Deportes Concepcion vs Curico Unido,Copa Chile,2026-09-27 19:00,target__ht_over_0_5_goals,HT Over 0.5,81.2,75.2,6.0,1.33,0.6199,True,72.8
+sr:match:73840446,Bahrain,United Arab Emirates,Bahrain vs United Arab Emirates,Gulf Cup,2026-09-27 19:00,target__ht_over_0_5_goals,HT Over 0.5,81.2,71.9,9.3,1.39,0.6199,True,72.8
+sr:match:67125980,Canuelas FC,CA Fenix Pilar,Canuelas FC vs CA Fenix Pilar,Primera C,2026-09-27 19:00,target__ht_over_0_5_goals,HT Over 0.5,74.8,68.0,6.7,1.47,0.6199,True,72.8
+sr:match:74321606,Universidad de Chile,CD Everton Vina del Mar,Universidad de Chile vs CD Everton Vina del Mar,Copa Chile,2026-09-27 21:30,target__ht_over_0_5_goals,HT Over 0.5,77.4,72.5,4.9,1.38,0.6199,True,72.8
+sr:match:74695428,Dunbeholden FC,Mount Pleasant FC,Dunbeholden FC vs Mount Pleasant FC,Premier League,2026-09-27 21:30,target__ht_over_0_5_goals,HT Over 0.5,79.4,74.1,5.4,1.35,0.6199,True,72.8
+sr:match:73075296,CD Platense Municipal Zacatecoluca,CD Fuerte San Francisco Morazan,CD Platense Municipal Zacatecoluca vs CD Fuerte San Francisco Morazan,Primera Division,2026-09-27 22:00,target__ht_over_0_5_goals,HT Over 0.5,74.8,71.4,3.3,1.4,0.6199,True,72.8
+sr:match:72636238,Barranquilla FC,Real Cundinamarca,Barranquilla FC vs Real Cundinamarca,Torneo DIMAYOR,2026-09-27 23:00,target__ht_over_0_5_goals,HT Over 0.5,78.0,71.4,6.5,1.4,0.6199,True,72.8
+sr:match:74695434,Racing United FC,Montego Bay United,Racing United FC vs Montego Bay United,Premier League,2026-09-27 23:05,target__ht_over_0_5_goals,HT Over 0.5,81.2,71.9,9.3,1.39,0.6199,True,72.8
+sr:match:74713764,Gimnasia y Esgrima de Jujuy,San Martin de Tucuman,Gimnasia y Esgrima de Jujuy vs San Martin de Tucuman,Primera Nacional,2026-09-28 01:00,target__ht_over_0_5_goals,HT Over 0.5,74.7,69.4,5.3,1.44,0.6199,True,72.8
+sr:match:72055206,Club Leon,FC Juarez,Club Leon vs FC Juarez,Liga MX,2026-09-28 02:00,target__ht_over_0_5_goals,HT Over 0.5,81.5,78.1,3.4,1.28,0.6199,True,72.8
+sr:match:66299600,Real Salt Lake,New England Revolution,Real Salt Lake vs New England Revolution,MLS,2026-09-27 02:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:73075294,AD Isidro Metapan,CD. Cacahuatique,AD Isidro Metapan vs CD. Cacahuatique,Primera Division,2026-09-27 03:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:66299604,San Jose Earthquakes,Portland Timbers,San Jose Earthquakes vs Portland Timbers,MLS,2026-09-27 03:30,target__ht_over_1_5_goals,HT Over 1.5,58.9,51.5,7.4,1.94,0.6269,True,38.8
+sr:match:66299606,Vancouver Whitecaps FC,DC United,Vancouver Whitecaps FC vs DC United,MLS,2026-09-27 03:30,target__ht_over_1_5_goals,HT Over 1.5,58.9,51.0,7.9,1.96,0.6269,True,38.8
+sr:match:74557416,Hong Kong,Laos,Hong Kong vs Laos,FIFA ASEAN Cup,2026-09-27 08:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,47.6,11.3,2.1,0.6269,True,38.8
+sr:match:73235776,Gangwon FC,Incheon United FC,Gangwon FC vs Incheon United FC,K-League 1,2026-09-27 11:00,target__ht_over_1_5_goals,HT Over 1.5,31.9,28.6,3.4,3.5,0.6269,True,38.8
+sr:match:74557478,Cambodia,Myanmar,Cambodia vs Myanmar,FIFA ASEAN Cup,2026-09-27 11:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,42.6,4.2,2.35,0.6269,True,38.8
+sr:match:68378000,IFK Haninge,Smedby AIS,IFK Haninge vs Smedby AIS,Division 2,2026-09-27 12:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,55.9,3.0,1.79,0.6269,True,38.8
+sr:match:70344968,Lindo FF,IF Eker Orebro,Lindo FF vs IF Eker Orebro,Division 2,2026-09-27 12:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,54.6,4.3,1.83,0.6269,True,38.8
+sr:match:72404436,Lucksta IF,Taftea IK,Lucksta IF vs Taftea IK,Division 2,2026-09-27 12:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,54.3,4.6,1.84,0.6269,True,38.8
+sr:match:72466540,PFC Vihren Sandanski,OFC Nesebar,PFC Vihren Sandanski vs OFC Nesebar,Vtora Liga,2026-09-27 12:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72044688,De Graafschap,FC Den Bosch,De Graafschap vs FC Den Bosch,Eerste Divisie,2026-09-27 13:30,target__ht_over_1_5_goals,HT Over 1.5,62.3,56.2,6.1,1.78,0.6269,True,38.8
+sr:match:68932070,Lithuania,Azerbaijan,Lithuania vs Azerbaijan,UEFA Nations League,2026-09-27 14:00,target__ht_over_1_5_goals,HT Over 1.5,32.6,26.7,6.0,3.75,0.6269,True,38.8
+sr:match:74172422,Panionios Athens,APS Zakynthos,Panionios Athens vs APS Zakynthos,Super League 2,2026-09-27 14:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.0,9.7,2.7,0.6269,True,38.8
+sr:match:72837184,Belediye Derincespor,Elazigspor,Belediye Derincespor vs Elazigspor,2. Lig,2026-09-27 14:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:74078156,Tornion Pallo 47,SJK Akatemia/2,Tornion Pallo 47 vs SJK Akatemia/2,Kakkonen,2026-09-27 14:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,55.2,3.7,1.81,0.6269,True,38.8
+sr:match:73346506,Southampton FC,Nottingham Forest Lfc,Southampton FC vs Nottingham Forest Lfc,"Super League 2, Women",2026-09-27 14:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,39.2,7.5,2.55,0.6269,True,38.8
+sr:match:72597740,SK Polanka Nad Odrou,FK Frydek-Mistek,SK Polanka Nad Odrou vs FK Frydek-Mistek,MSFL,2026-09-27 14:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.8,5.9,2.45,0.6269,True,38.8
+sr:match:72559088,CD Mirandes,Unionistas de Salamanca CF,CD Mirandes vs Unionistas de Salamanca CF,Primera Federacion,2026-09-27 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.8,5.9,2.45,0.6269,True,38.8
+sr:match:72281354,NK Jesenice,NK Vrhnika,NK Jesenice vs NK Vrhnika,2. Liga,2026-09-27 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.0,6.7,2.5,0.6269,True,38.8
+sr:match:67915914,Levanger FK,Grorud IL,Levanger FK vs Grorud IL,2nd Division Group 2,2026-09-27 15:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,47.6,11.3,2.1,0.6269,True,38.8
+sr:match:67920704,Stabaek Fotball 2,Flekkeroy IL,Stabaek Fotball 2 vs Flekkeroy IL,"3. Division, Group 4",2026-09-27 15:00,target__ht_over_1_5_goals,HT Over 1.5,62.3,57.5,4.8,1.74,0.6269,True,38.8
+sr:match:74172420,Panserraikos FC,Olympiacos Piraeus B,Panserraikos FC vs Olympiacos Piraeus B,Super League 2,2026-09-27 16:15,target__ht_over_1_5_goals,HT Over 1.5,46.7,42.6,4.2,2.35,0.6269,True,38.8
+sr:match:74321602,CD Antofagasta,Deportes Iquique,CD Antofagasta vs Deportes Iquique,Copa Chile,2026-09-27 16:30,target__ht_over_1_5_goals,HT Over 1.5,40.2,35.1,5.1,2.85,0.6269,True,38.8
+sr:match:73293952,Vis Pesaro 1898,Guidonia Montecelio 1937 FC,Vis Pesaro 1898 vs Guidonia Montecelio 1937 FC,"Serie C, Group B",2026-09-27 16:30,target__ht_over_1_5_goals,HT Over 1.5,38.4,35.1,3.3,2.85,0.6269,True,38.8
+sr:match:73840444,Yemen,Qatar,Yemen vs Qatar,Gulf Cup,2026-09-27 16:55,target__ht_over_1_5_goals,HT Over 1.5,58.9,46.5,12.4,2.15,0.6269,True,38.8
+sr:match:68932724,Austria,Kosovo,Austria vs Kosovo,UEFA Nations League,2026-09-27 17:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:68931516,Serbia,Netherlands,Serbia vs Netherlands,UEFA Nations League,2026-09-27 17:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,42.6,4.2,2.35,0.6269,True,38.8
+sr:match:74829636,Moghreb Athletic de Tetouan,Rs Berkane,Moghreb Athletic de Tetouan vs Rs Berkane,Botola Pro D1,2026-09-27 17:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,38.5,8.3,2.6,0.6269,True,38.8
+sr:match:72890606,Bucaspor,Altay Izmir,Bucaspor vs Altay Izmir,3. Lig,2026-09-27 17:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:73840446,Bahrain,United Arab Emirates,Bahrain vs United Arab Emirates,Gulf Cup,2026-09-27 19:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,35.7,11.0,2.8,0.6269,True,38.8
+sr:match:73204612,Puebla FC,CF Monterrey,Puebla FC vs CF Monterrey,"Liga MX, Women",2026-09-27 19:00,target__ht_over_1_5_goals,HT Over 1.5,80.0,72.5,7.5,1.38,0.6269,True,38.8
+sr:match:74417706,Sport Boys Association,Alianza Atletico,Sport Boys Association vs Alianza Atletico,Copa de la Liga,2026-09-27 19:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:67118692,CA Atlanta,Agropecuario Argentino,CA Atlanta vs Agropecuario Argentino,Primera Nacional,2026-09-27 19:30,target__ht_over_1_5_goals,HT Over 1.5,31.9,28.6,3.4,3.5,0.6269,True,38.8
+sr:match:68931520,Germany,Greece,Germany vs Greece,UEFA Nations League,2026-09-27 19:45,target__ht_over_1_5_goals,HT Over 1.5,58.9,46.5,12.4,2.15,0.6269,True,38.8
+sr:match:68932726,Israel,Ireland,Israel vs Ireland,UEFA Nations League,2026-09-27 19:45,target__ht_over_1_5_goals,HT Over 1.5,40.2,33.3,6.9,3.0,0.6269,True,38.8
+sr:match:73220750,Curacao,Nicaragua,Curacao vs Nicaragua,CONCACAF Nations League,2026-09-28 01:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:72474974,CSD Xelaju MC,Comunicaciones FC ,CSD Xelaju MC vs Comunicaciones FC ,Liga Nacional,2026-09-27 03:10,target__over_1_5_goals,Over 1.5 Goals,80.5,76.3,4.2,1.31,0.6116,True,77.7
+sr:match:72664964,Verspah Oita,Azul Claro Numazu,Verspah Oita vs Azul Claro Numazu,Japan Football League,2026-09-27 07:00,target__over_1_5_goals,Over 1.5 Goals,79.2,74.1,5.1,1.35,0.6116,True,77.7
+sr:match:72664968,Honda FC,YSCC Yokohama,Honda FC vs YSCC Yokohama,Japan Football League,2026-09-27 10:00,target__over_1_5_goals,Over 1.5 Goals,84.3,79.4,4.9,1.26,0.6116,True,77.7
+sr:match:72578236,FK Ufa,Torpedo Moscow,FK Ufa vs Torpedo Moscow,1. Liga,2026-09-27 10:30,target__over_1_5_goals,Over 1.5 Goals,79.2,70.4,8.7,1.42,0.6116,True,77.7
+sr:match:73235776,Gangwon FC,Incheon United FC,Gangwon FC vs Incheon United FC,K-League 1,2026-09-27 11:00,target__over_1_5_goals,Over 1.5 Goals,70.6,67.1,3.4,1.49,0.6116,True,77.7
+sr:match:72491358,Valencia CF,CD Tenerife,Valencia CF vs CD Tenerife,Primera Division Women,2026-09-27 11:00,target__over_1_5_goals,Over 1.5 Goals,81.1,74.1,7.0,1.35,0.6116,True,77.7
+sr:match:70006944,Shaanxi Union FC,Dalian Kun City,Shaanxi Union FC vs Dalian Kun City,China League 1,2026-09-27 12:00,target__over_1_5_goals,Over 1.5 Goals,84.3,80.6,3.7,1.24,0.6116,True,77.7
+sr:match:72679178,FC Kaluga,Dinamo Kirov,FC Kaluga vs Dinamo Kirov,"2. Liga, Division A",2026-09-27 12:00,target__over_1_5_goals,Over 1.5 Goals,84.3,65.4,18.9,1.53,0.6116,True,77.7
+sr:match:74297864,China PR,New Zealand,China PR vs New Zealand,Int. Friendly Games,2026-09-27 12:35,target__over_1_5_goals,Over 1.5 Goals,77.8,74.6,3.2,1.34,0.6116,True,77.7
+sr:match:68932070,Lithuania,Azerbaijan,Lithuania vs Azerbaijan,UEFA Nations League,2026-09-27 14:00,target__over_1_5_goals,Over 1.5 Goals,79.2,66.7,12.5,1.5,0.6116,True,77.7
+sr:match:74172418,Apollon Kalamarias,Anagennisi Karditsas 1904,Apollon Kalamarias vs Anagennisi Karditsas 1904,Super League 2,2026-09-27 14:00,target__over_1_5_goals,Over 1.5 Goals,70.6,66.7,3.9,1.5,0.6116,True,77.7
+sr:match:74172428,Niki Volou 1924 PAE,Nestos Chrysoupoli FC,Niki Volou 1924 PAE vs Nestos Chrysoupoli FC,Super League 2,2026-09-27 14:00,target__over_1_5_goals,Over 1.5 Goals,84.3,71.4,12.9,1.4,0.6116,True,77.7
+sr:match:74172422,Panionios Athens,APS Zakynthos,Panionios Athens vs APS Zakynthos,Super League 2,2026-09-27 14:00,target__over_1_5_goals,Over 1.5 Goals,81.1,75.8,5.3,1.32,0.6116,True,77.7
+sr:match:74894934,Resistencia SC,Deportivo Santani,Resistencia SC vs Deportivo Santani,Division Intermedia,2026-09-27 14:00,target__over_1_5_goals,Over 1.5 Goals,79.2,75.8,3.4,1.32,0.6116,True,77.7
+sr:match:73346036,Liverpool LFC,Everton FC Women,Liverpool LFC vs Everton FC Women,Super League Women,2026-09-27 14:00,target__over_1_5_goals,Over 1.5 Goals,80.5,76.9,3.6,1.3,0.6116,True,77.7
+sr:match:72597740,SK Polanka Nad Odrou,FK Frydek-Mistek,SK Polanka Nad Odrou vs FK Frydek-Mistek,MSFL,2026-09-27 14:30,target__over_1_5_goals,Over 1.5 Goals,84.3,80.6,3.7,1.24,0.6116,True,77.7
+sr:match:72466538,PFK Beroe Stara Zagora,FC Yantra Gabrovo,PFK Beroe Stara Zagora vs FC Yantra Gabrovo,Vtora Liga,2026-09-27 14:30,target__over_1_5_goals,Over 1.5 Goals,79.2,73.5,5.6,1.36,0.6116,True,77.7
+sr:match:74973776,Central Espanol FC,Liverpool Montevideo,Central Espanol FC vs Liverpool Montevideo,Primera Division,2026-09-27 15:00,target__over_1_5_goals,Over 1.5 Goals,80.5,72.5,8.0,1.38,0.6116,True,77.7
+sr:match:72578228,FC Shinnik Yaroslavl,FC Ska-Khabarovsk,FC Shinnik Yaroslavl vs FC Ska-Khabarovsk,1. Liga,2026-09-27 15:00,target__over_1_5_goals,Over 1.5 Goals,80.5,73.5,7.0,1.36,0.6116,True,77.7
+sr:match:72281360,ND Beltinci,Krka Novo Mesto,ND Beltinci vs Krka Novo Mesto,2. Liga,2026-09-27 15:00,target__over_1_5_goals,Over 1.5 Goals,87.2,84.0,3.1,1.19,0.6116,True,77.7
+sr:match:72491356,Sevilla FC,SD Eibar,Sevilla FC vs SD Eibar,Primera Division Women,2026-09-27 15:00,target__over_1_5_goals,Over 1.5 Goals,79.2,69.9,9.2,1.43,0.6116,True,77.7
+sr:match:72679174,FC Volgar Astrakhan,FC Alania Vladikavkaz,FC Volgar Astrakhan vs FC Alania Vladikavkaz,"2. Liga, Division A",2026-09-27 15:00,target__over_1_5_goals,Over 1.5 Goals,67.2,63.7,3.5,1.57,0.6116,True,77.7
+sr:match:74441344,Swedru All Blacks,FC Samartex,Swedru All Blacks vs FC Samartex,Premier League,2026-09-27 16:00,target__over_1_5_goals,Over 1.5 Goals,70.6,64.1,6.5,1.56,0.6116,True,77.7
+sr:match:74172420,Panserraikos FC,Olympiacos Piraeus B,Panserraikos FC vs Olympiacos Piraeus B,Super League 2,2026-09-27 16:15,target__over_1_5_goals,Over 1.5 Goals,84.3,81.3,3.0,1.23,0.6116,True,77.7
+sr:match:74321602,CD Antofagasta,Deportes Iquique,CD Antofagasta vs Deportes Iquique,Copa Chile,2026-09-27 16:30,target__over_1_5_goals,Over 1.5 Goals,80.5,74.6,5.9,1.34,0.6116,True,77.7
+sr:match:73294700,Scafatese Calcio 1922,Altamura Societa' Sportiva SRL,Scafatese Calcio 1922 vs Altamura Societa' Sportiva SRL,"Serie C, Group C",2026-09-27 16:30,target__over_1_5_goals,Over 1.5 Goals,79.2,71.9,7.2,1.39,0.6116,True,77.7
+sr:match:68932808,Gibraltar,Andorra,Gibraltar vs Andorra,UEFA Nations League,2026-09-27 17:00,target__over_1_5_goals,Over 1.5 Goals,79.2,58.1,21.0,1.72,0.6116,True,77.7
+sr:match:73068058,Antequera CF,Real Jaen CF,Antequera CF vs Real Jaen CF,Primera Federacion,2026-09-27 17:15,target__over_1_5_goals,Over 1.5 Goals,79.2,73.0,6.2,1.37,0.6116,True,77.7
+sr:match:72559084,Merida AD,UD Logrones,Merida AD vs UD Logrones,Primera Federacion,2026-09-27 17:15,target__over_1_5_goals,Over 1.5 Goals,79.2,75.2,4.0,1.33,0.6116,True,77.7
+sr:match:72559094,Pontevedra CF,SD Ponferradina,Pontevedra CF vs SD Ponferradina,Primera Federacion,2026-09-27 17:15,target__over_1_5_goals,Over 1.5 Goals,80.5,70.4,10.1,1.42,0.6116,True,77.7
+sr:match:72477428,Burgos CF,Club Deportivo Eldense,Burgos CF vs Club Deportivo Eldense,LALIGA HYPERMOTION,2026-09-27 17:30,target__over_1_5_goals,Over 1.5 Goals,79.2,73.5,5.6,1.36,0.6116,True,77.7
+sr:match:74695790,Deportes Concepcion,Curico Unido,Deportes Concepcion vs Curico Unido,Copa Chile,2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,86.9,78.7,8.2,1.27,0.6116,True,77.7
+sr:match:73840446,Bahrain,United Arab Emirates,Bahrain vs United Arab Emirates,Gulf Cup,2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,84.3,74.6,9.7,1.34,0.6116,True,77.7
+sr:match:67119774,Argentino de Quilmes,Club Comunicaciones,Argentino de Quilmes vs Club Comunicaciones,Primera B,2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,67.2,61.3,5.9,1.63,0.6116,True,77.7
+sr:match:67119792,Villa Dalmine,CD UAI Urquiza,Villa Dalmine vs CD UAI Urquiza,Primera B,2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,70.6,67.1,3.4,1.49,0.6116,True,77.7
+sr:match:74973778,CA Juventud de Las Piedras,CA Cerro,CA Juventud de Las Piedras vs CA Cerro,Primera Division,2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,79.2,71.4,7.7,1.4,0.6116,True,77.7
+sr:match:67125980,Canuelas FC,CA Fenix Pilar,Canuelas FC vs CA Fenix Pilar,Primera C,2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,84.3,67.6,16.7,1.48,0.6116,True,77.7
+sr:match:74375796,CE Aimore RS,CE Bento Goncalves RS,CE Aimore RS vs CE Bento Goncalves RS,"Gaucho, Serie A2",2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,70.6,66.7,3.9,1.5,0.6116,True,77.7
+sr:match:74796780,Veranopolis RS,Passo Fundo,Veranopolis RS vs Passo Fundo,"Gaucho, Serie A2",2026-09-27 19:00,target__over_1_5_goals,Over 1.5 Goals,70.6,63.3,7.3,1.58,0.6116,True,77.7
+sr:match:74896682,CAS Defensores de Belgrano,CA Alvarado,CAS Defensores de Belgrano vs CA Alvarado,Torneo Federal A,2026-09-27 19:30,target__over_1_5_goals,Over 1.5 Goals,67.2,60.6,6.6,1.65,0.6116,True,77.7
+sr:match:73293194,US Albinoleffe,Alcione Milano,US Albinoleffe vs Alcione Milano,"Serie C, Group A",2026-09-27 19:30,target__over_1_5_goals,Over 1.5 Goals,80.5,72.5,8.0,1.38,0.6116,True,77.7
+sr:match:67118692,CA Atlanta,Agropecuario Argentino,CA Atlanta vs Agropecuario Argentino,Primera Nacional,2026-09-27 19:30,target__over_1_5_goals,Over 1.5 Goals,70.6,64.9,5.6,1.54,0.6116,True,77.7
+sr:match:67117992,CA Defensores de Belgrano,Ferro Carril Oeste,CA Defensores de Belgrano vs Ferro Carril Oeste,Primera Nacional,2026-09-27 19:30,target__over_1_5_goals,Over 1.5 Goals,70.6,56.2,14.4,1.78,0.6116,True,77.7
+sr:match:67118702,Club Almagro,Nueva Chicago,Club Almagro vs Nueva Chicago,Primera Nacional,2026-09-27 19:30,target__over_1_5_goals,Over 1.5 Goals,70.6,60.6,9.9,1.65,0.6116,True,77.7
+sr:match:74745286,Club Atletico Los Andes,Deportivo Moron,Club Atletico Los Andes vs Deportivo Moron,Primera Nacional,2026-09-27 19:30,target__over_1_5_goals,Over 1.5 Goals,70.9,58.8,12.1,1.7,0.6116,True,77.7
+sr:match:73294686,S.S.D. Casarano Calcio,SS Monopoli,S.S.D. Casarano Calcio vs SS Monopoli,"Serie C, Group C",2026-09-27 19:30,target__over_1_5_goals,Over 1.5 Goals,84.3,77.5,6.8,1.29,0.6116,True,77.7
+sr:match:72477444,Real Oviedo,Sporting Gijon,Real Oviedo vs Sporting Gijon,LALIGA HYPERMOTION,2026-09-27 20:00,target__over_1_5_goals,Over 1.5 Goals,72.2,68.5,3.7,1.46,0.6116,True,77.7
+sr:match:68823322,CR Brasil AL,Cuiaba EC MT,CR Brasil AL vs Cuiaba EC MT,Brasileiro Serie B,2026-09-27 20:00,target__over_1_5_goals,Over 1.5 Goals,79.2,73.0,6.2,1.37,0.6116,True,77.7
+sr:match:74799980,CA Patronato Parana,San Martin de San Juan,CA Patronato Parana vs San Martin de San Juan,Primera Nacional,2026-09-27 20:00,target__over_1_5_goals,Over 1.5 Goals,67.2,61.7,5.5,1.62,0.6116,True,77.7
+sr:match:67117986,Mitre Santiago del Estero,CA San Telmo,Mitre Santiago del Estero vs CA San Telmo,Primera Nacional,2026-09-27 20:00,target__over_1_5_goals,Over 1.5 Goals,79.2,65.8,13.4,1.52,0.6116,True,77.7
+sr:match:72474982,CSD Coban Imperial,Aurora FC,CSD Coban Imperial vs Aurora FC,Liga Nacional,2026-09-27 20:00,target__over_1_5_goals,Over 1.5 Goals,80.5,76.9,3.6,1.3,0.6116,True,77.7
+sr:match:74569048,CA Ferrocarril Midland,CSD Tristan Suarez,CA Ferrocarril Midland vs CSD Tristan Suarez,Primera Nacional,2026-09-27 20:30,target__over_1_5_goals,Over 1.5 Goals,67.2,59.5,7.7,1.68,0.6116,True,77.7
+sr:match:74322896,Racing Club Avellaneda,Boca Juniors,Racing Club Avellaneda vs Boca Juniors,Copa Argentina,2026-09-27 21:00,target__over_1_5_goals,Over 1.5 Goals,79.2,69.0,10.2,1.45,0.6116,True,77.7
+sr:match:74321606,Universidad de Chile,CD Everton Vina del Mar,Universidad de Chile vs CD Everton Vina del Mar,Copa Chile,2026-09-27 21:30,target__over_1_5_goals,Over 1.5 Goals,80.5,76.9,3.6,1.3,0.6116,True,77.7
+sr:match:74695426,Tivoli Gardens,Chapelton Maroons FC,Tivoli Gardens vs Chapelton Maroons FC,Premier League,2026-09-27 21:30,target__over_1_5_goals,Over 1.5 Goals,79.2,74.6,4.5,1.34,0.6116,True,77.7
+sr:match:72335156,Jaguares de Cordoba,Alianza FC Valledupar,Jaguares de Cordoba vs Alianza FC Valledupar,Liga DIMAYOR,2026-09-27 22:00,target__over_1_5_goals,Over 1.5 Goals,77.8,71.4,6.3,1.4,0.6116,True,77.7
+sr:match:74973780,Defensor Sporting,Danubio FC,Defensor Sporting vs Danubio FC,Primera Division,2026-09-27 22:00,target__over_1_5_goals,Over 1.5 Goals,79.2,72.5,6.7,1.38,0.6116,True,77.7
+sr:match:67118690,Gimnasia Y Tiro de Salta,Atletico de Rafaela,Gimnasia Y Tiro de Salta vs Atletico de Rafaela,Primera Nacional,2026-09-27 22:00,target__over_1_5_goals,Over 1.5 Goals,70.6,62.5,8.1,1.6,0.6116,True,77.7
+sr:match:72661244,Cocle FC,CD Plaza Amador Panama City,Cocle FC vs CD Plaza Amador Panama City,Liga Panamena,2026-09-27 22:00,target__over_1_5_goals,Over 1.5 Goals,84.3,78.7,5.6,1.27,0.6116,True,77.7
+sr:match:72474978,Deportivo Mixco,Antigua GFC,Deportivo Mixco vs Antigua GFC,Liga Nacional,2026-09-27 22:00,target__over_1_5_goals,Over 1.5 Goals,80.5,74.6,5.9,1.34,0.6116,True,77.7
+sr:match:73075296,CD Platense Municipal Zacatecoluca,CD Fuerte San Francisco Morazan,CD Platense Municipal Zacatecoluca vs CD Fuerte San Francisco Morazan,Primera Division,2026-09-27 22:00,target__over_1_5_goals,Over 1.5 Goals,80.5,75.8,4.7,1.32,0.6116,True,77.7
+sr:match:74244356,Brusque FC SC,Ferroviaria SP,Brusque FC SC vs Ferroviaria SP,Brasileiro Serie C,2026-09-27 22:30,target__over_1_5_goals,Over 1.5 Goals,77.8,73.0,4.8,1.37,0.6116,True,77.7
+sr:match:72335158,Fortaleza FC,CD Tolima,Fortaleza FC vs CD Tolima,Liga DIMAYOR,2026-09-28 00:05,target__over_1_5_goals,Over 1.5 Goals,77.8,72.5,5.3,1.38,0.6116,True,77.7
+sr:match:73220750,Curacao,Nicaragua,Curacao vs Nicaragua,CONCACAF Nations League,2026-09-28 01:00,target__over_1_5_goals,Over 1.5 Goals,84.3,81.3,3.0,1.23,0.6116,True,77.7
+sr:match:74713764,Gimnasia y Esgrima de Jujuy,San Martin de Tucuman,Gimnasia y Esgrima de Jujuy vs San Martin de Tucuman,Primera Nacional,2026-09-28 01:00,target__over_1_5_goals,Over 1.5 Goals,79.2,73.0,6.2,1.37,0.6116,True,77.7
+sr:match:74695436,Waterhouse FC,Treasure Beach FC,Waterhouse FC vs Treasure Beach FC,Premier League,2026-09-28 02:00,target__over_1_5_goals,Over 1.5 Goals,84.3,80.0,4.3,1.25,0.6116,True,77.7
+sr:match:66299600,Real Salt Lake,New England Revolution,Real Salt Lake vs New England Revolution,MLS,2026-09-27 02:30,target__over_2_5_goals,Over 2.5 Goals,68.9,63.3,5.6,1.58,0.641,True,56.0
+sr:match:66299602,Los Angeles Galaxy,Colorado Rapids,Los Angeles Galaxy vs Colorado Rapids,MLS,2026-09-27 03:30,target__over_2_5_goals,Over 2.5 Goals,67.6,61.3,6.2,1.63,0.641,True,56.0
+sr:match:66299604,San Jose Earthquakes,Portland Timbers,San Jose Earthquakes vs Portland Timbers,MLS,2026-09-27 03:30,target__over_2_5_goals,Over 2.5 Goals,82.1,73.0,9.2,1.37,0.641,True,56.0
+sr:match:72578236,FK Ufa,Torpedo Moscow,FK Ufa vs Torpedo Moscow,1. Liga,2026-09-27 10:30,target__over_2_5_goals,Over 2.5 Goals,47.6,43.5,4.1,2.3,0.641,True,56.0
+sr:match:73235776,Gangwon FC,Incheon United FC,Gangwon FC vs Incheon United FC,K-League 1,2026-09-27 11:00,target__over_2_5_goals,Over 2.5 Goals,45.6,40.0,5.6,2.5,0.641,True,56.0
+sr:match:72044688,De Graafschap,FC Den Bosch,De Graafschap vs FC Den Bosch,Eerste Divisie,2026-09-27 13:30,target__over_2_5_goals,Over 2.5 Goals,81.2,78.1,3.1,1.28,0.641,True,56.0
+sr:match:67916142,FK Eik Toensberg 871,Bjarg,FK Eik Toensberg 871 vs Bjarg,2nd Division Group 1,2026-09-27 13:30,target__over_2_5_goals,Over 2.5 Goals,86.7,76.3,10.3,1.31,0.641,True,56.0
+sr:match:68932070,Lithuania,Azerbaijan,Lithuania vs Azerbaijan,UEFA Nations League,2026-09-27 14:00,target__over_2_5_goals,Over 2.5 Goals,47.6,39.2,8.4,2.55,0.641,True,56.0
+sr:match:74172428,Niki Volou 1924 PAE,Nestos Chrysoupoli FC,Niki Volou 1924 PAE vs Nestos Chrysoupoli FC,Super League 2,2026-09-27 14:00,target__over_2_5_goals,Over 2.5 Goals,52.5,45.5,7.1,2.2,0.641,True,56.0
+sr:match:74172422,Panionios Athens,APS Zakynthos,Panionios Athens vs APS Zakynthos,Super League 2,2026-09-27 14:00,target__over_2_5_goals,Over 2.5 Goals,56.7,50.3,6.5,1.99,0.641,True,56.0
+sr:match:74078156,Tornion Pallo 47,SJK Akatemia/2,Tornion Pallo 47 vs SJK Akatemia/2,Kakkonen,2026-09-27 14:00,target__over_2_5_goals,Over 2.5 Goals,81.2,76.3,4.8,1.31,0.641,True,56.0
+sr:match:72679176,FC Dynamo Bryansk,Dynamo Vladivostok,FC Dynamo Bryansk vs Dynamo Vladivostok,"2. Liga, Division A",2026-09-27 14:00,target__over_2_5_goals,Over 2.5 Goals,47.6,43.5,4.1,2.3,0.641,True,56.0
+sr:match:72466538,PFK Beroe Stara Zagora,FC Yantra Gabrovo,PFK Beroe Stara Zagora vs FC Yantra Gabrovo,Vtora Liga,2026-09-27 14:30,target__over_2_5_goals,Over 2.5 Goals,52.5,47.6,4.9,2.1,0.641,True,56.0
+sr:match:74610550,Throttur Reykjavik,Stjarnan,Throttur Reykjavik vs Stjarnan,"Besta deild, Women",2026-09-27 15:00,target__over_2_5_goals,Over 2.5 Goals,68.9,64.5,4.4,1.55,0.641,True,56.0
+sr:match:72491356,Sevilla FC,SD Eibar,Sevilla FC vs SD Eibar,Primera Division Women,2026-09-27 15:00,target__over_2_5_goals,Over 2.5 Goals,47.6,43.5,4.1,2.3,0.641,True,56.0
+sr:match:74441344,Swedru All Blacks,FC Samartex,Swedru All Blacks vs FC Samartex,Premier League,2026-09-27 16:00,target__over_2_5_goals,Over 2.5 Goals,45.6,37.0,8.6,2.7,0.641,True,56.0
+sr:match:74321602,CD Antofagasta,Deportes Iquique,CD Antofagasta vs Deportes Iquique,Copa Chile,2026-09-27 16:30,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:67915918,Hoenefoss BK,Tromsdalen UIL,Hoenefoss BK vs Tromsdalen UIL,2nd Division Group 2,2026-09-27 16:30,target__over_2_5_goals,Over 2.5 Goals,81.2,74.1,7.1,1.35,0.641,True,56.0
+sr:match:73293940,Perugia Calcio Spa,Reggiana 1919,Perugia Calcio Spa vs Reggiana 1919,"Serie C, Group B",2026-09-27 16:30,target__over_2_5_goals,Over 2.5 Goals,52.5,47.6,4.9,2.1,0.641,True,56.0
+sr:match:73293952,Vis Pesaro 1898,Guidonia Montecelio 1937 FC,Vis Pesaro 1898 vs Guidonia Montecelio 1937 FC,"Serie C, Group B",2026-09-27 16:30,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:68932808,Gibraltar,Andorra,Gibraltar vs Andorra,UEFA Nations League,2026-09-27 17:00,target__over_2_5_goals,Over 2.5 Goals,47.6,30.8,16.8,3.25,0.641,True,56.0
+sr:match:72837792,Sakaryaspor,Belediye Kutahyaspor,Sakaryaspor vs Belediye Kutahyaspor,2. Lig,2026-09-27 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:72890606,Bucaspor,Altay Izmir,Bucaspor vs Altay Izmir,3. Lig,2026-09-27 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,58.5,9.1,1.71,0.641,True,56.0
+sr:match:72466550,FC Fratria Varna,PFC Spartak Pleven,FC Fratria Varna vs PFC Spartak Pleven,Vtora Liga,2026-09-27 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,62.9,4.7,1.59,0.641,True,56.0
+sr:match:72491346,RC Deportivo De La Coruna,RCD Espanyol Barcelona,RC Deportivo De La Coruna vs RCD Espanyol Barcelona,Primera Division Women,2026-09-27 17:00,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:72559094,Pontevedra CF,SD Ponferradina,Pontevedra CF vs SD Ponferradina,Primera Federacion,2026-09-27 17:15,target__over_2_5_goals,Over 2.5 Goals,47.6,43.5,4.1,2.3,0.641,True,56.0
+sr:match:74931104,Jordan,Syria,Jordan vs Syria,Int. Friendly Games,2026-09-27 18:00,target__over_2_5_goals,Over 2.5 Goals,52.5,47.6,4.9,2.1,0.641,True,56.0
+sr:match:67119792,Villa Dalmine,CD UAI Urquiza,Villa Dalmine vs CD UAI Urquiza,Primera B,2026-09-27 19:00,target__over_2_5_goals,Over 2.5 Goals,47.6,40.0,7.6,2.5,0.641,True,56.0
+sr:match:74973778,CA Juventud de Las Piedras,CA Cerro,CA Juventud de Las Piedras vs CA Cerro,Primera Division,2026-09-27 19:00,target__over_2_5_goals,Over 2.5 Goals,50.0,45.5,4.5,2.2,0.641,True,56.0
+sr:match:74829638,Maghreb AS de Fes,Renaissance Zemamra,Maghreb AS de Fes vs Renaissance Zemamra,Botola Pro D1,2026-09-27 19:00,target__over_2_5_goals,Over 2.5 Goals,47.6,39.2,8.4,2.55,0.641,True,56.0
+sr:match:67123566,AD Berazategui,Sacachispas FC,AD Berazategui vs Sacachispas FC,Primera C,2026-09-27 19:00,target__over_2_5_goals,Over 2.5 Goals,45.9,37.7,8.1,2.65,0.641,True,56.0
+sr:match:67125980,Canuelas FC,CA Fenix Pilar,Canuelas FC vs CA Fenix Pilar,Primera C,2026-09-27 19:00,target__over_2_5_goals,Over 2.5 Goals,52.5,40.8,11.7,2.45,0.641,True,56.0
+sr:match:72816232,APAFUT Caxias Do Sul RS,CE Lajeadense RS,APAFUT Caxias Do Sul RS vs CE Lajeadense RS,"Gaucho, Serie A2",2026-09-27 19:00,target__over_2_5_goals,Over 2.5 Goals,52.5,44.4,8.1,2.25,0.641,True,56.0
+sr:match:73273754,Metropolitano SC,Figueirense FC SC,Metropolitano SC vs Figueirense FC SC,Copa Santa Catarina,2026-09-27 19:00,target__over_2_5_goals,Over 2.5 Goals,67.6,60.2,7.3,1.66,0.641,True,56.0
+sr:match:67118692,CA Atlanta,Agropecuario Argentino,CA Atlanta vs Agropecuario Argentino,Primera Nacional,2026-09-27 19:30,target__over_2_5_goals,Over 2.5 Goals,47.6,37.7,9.9,2.65,0.641,True,56.0
+sr:match:72477444,Real Oviedo,Sporting Gijon,Real Oviedo vs Sporting Gijon,LALIGA HYPERMOTION,2026-09-27 20:00,target__over_2_5_goals,Over 2.5 Goals,45.6,41.7,3.9,2.4,0.641,True,56.0
+sr:match:73220850,Guyana,Cayman Islands,Guyana vs Cayman Islands,CONCACAF Nations League,2026-09-27 20:00,target__over_2_5_goals,Over 2.5 Goals,82.1,73.5,8.6,1.36,0.641,True,56.0
+sr:match:72474982,CSD Coban Imperial,Aurora FC,CSD Coban Imperial vs Aurora FC,Liga Nacional,2026-09-27 20:00,target__over_2_5_goals,Over 2.5 Goals,56.7,51.8,4.9,1.93,0.641,True,56.0
+sr:match:67118704,CD Maipu,CA Temperley,CD Maipu vs CA Temperley,Primera Nacional,2026-09-27 20:30,target__over_2_5_goals,Over 2.5 Goals,45.6,39.2,6.4,2.55,0.641,True,56.0
+sr:match:74322896,Racing Club Avellaneda,Boca Juniors,Racing Club Avellaneda vs Boca Juniors,Copa Argentina,2026-09-27 21:00,target__over_2_5_goals,Over 2.5 Goals,47.6,42.6,5.1,2.35,0.641,True,56.0
+sr:match:72335156,Jaguares de Cordoba,Alianza FC Valledupar,Jaguares de Cordoba vs Alianza FC Valledupar,Liga DIMAYOR,2026-09-27 22:00,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:68823314,Fortaleza EC CE,Athletic Club Sjdr MG,Fortaleza EC CE vs Athletic Club Sjdr MG,Brasileiro Serie B,2026-09-27 22:30,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:66299608,Columbus Crew,Inter Miami CF,Columbus Crew vs Inter Miami CF,MLS,2026-09-28 00:00,target__over_2_5_goals,Over 2.5 Goals,81.2,72.5,8.7,1.38,0.641,True,56.0
+sr:match:67172300,One Knoxville SC,Westchester SC,One Knoxville SC vs Westchester SC,USL League One,2026-09-28 00:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:73220748,Haiti,Costa Rica,Haiti vs Costa Rica,CONCACAF Nations League,2026-09-28 00:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:73220852,Dominica,Puerto Rico,Dominica vs Puerto Rico,CONCACAF Nations League,2026-09-28 01:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:72661242,Tauro FC,San Francisco FC,Tauro FC vs San Francisco FC,Liga Panamena,2026-09-27 02:30,target__over_3_5_goals,Over 3.5 Goals,40.0,28.6,11.4,3.5,0.6631,True,35.0
+sr:match:73075294,AD Isidro Metapan,CD. Cacahuatique,AD Isidro Metapan vs CD. Cacahuatique,Primera Division,2026-09-27 03:00,target__over_3_5_goals,Over 3.5 Goals,40.1,31.2,8.9,3.2,0.6631,True,35.0
+sr:match:66299604,San Jose Earthquakes,Portland Timbers,San Jose Earthquakes vs Portland Timbers,MLS,2026-09-27 03:30,target__over_3_5_goals,Over 3.5 Goals,58.2,52.9,5.3,1.89,0.6631,True,35.0
+sr:match:72055200,Tigres UANL,Club Puebla,Tigres UANL vs Club Puebla,Liga MX,2026-09-27 04:10,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:72664968,Honda FC,YSCC Yokohama,Honda FC vs YSCC Yokohama,Japan Football League,2026-09-27 10:00,target__over_3_5_goals,Over 3.5 Goals,40.0,33.3,6.7,3.0,0.6631,True,35.0
+sr:match:72559102,Barakaldo CF,Real Aviles CF,Barakaldo CF vs Real Aviles CF,Primera Federacion,2026-09-27 11:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:72491344,Athletic Bilbao,Atletico Madrid W,Athletic Bilbao vs Atletico Madrid W,Primera Division Women,2026-09-27 11:00,target__over_3_5_goals,Over 3.5 Goals,40.1,36.4,3.8,2.75,0.6631,True,35.0
+sr:match:73268484,FC Porto,Rp FC,FC Porto vs Rp FC,"Campeonato Nacional, Women",2026-09-27 11:00,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:74557478,Cambodia,Myanmar,Cambodia vs Myanmar,FIFA ASEAN Cup,2026-09-27 11:00,target__over_3_5_goals,Over 3.5 Goals,42.5,39.2,3.3,2.55,0.6631,True,35.0
+sr:match:72499062,Naestved BK,Middelfart BK,Naestved BK vs Middelfart BK,2nd Division,2026-09-27 12:00,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:70006944,Shaanxi Union FC,Dalian Kun City,Shaanxi Union FC vs Dalian Kun City,China League 1,2026-09-27 12:00,target__over_3_5_goals,Over 3.5 Goals,40.0,35.7,4.3,2.8,0.6631,True,35.0
+sr:match:73094980,Inter Milano,ACF Fiorentina,Inter Milano vs ACF Fiorentina,"Serie A, Women",2026-09-27 12:00,target__over_3_5_goals,Over 3.5 Goals,40.1,36.4,3.8,2.75,0.6631,True,35.0
+sr:match:67920952,Fauske/Sprint,Tromsoe 2,Fauske/Sprint vs Tromsoe 2,"3. Division, Group 5",2026-09-27 12:30,target__over_3_5_goals,Over 3.5 Goals,83.3,70.4,12.9,1.42,0.6631,True,35.0
+sr:match:73293212,Union Brescia,Dolomiti Bellunesi,Union Brescia vs Dolomiti Bellunesi,"Serie C, Group A",2026-09-27 13:30,target__over_3_5_goals,Over 3.5 Goals,40.1,30.0,10.1,3.33,0.6631,True,35.0
+sr:match:73293938,AS Ostiamare,Forli FC,AS Ostiamare vs Forli FC,"Serie C, Group B",2026-09-27 13:30,target__over_3_5_goals,Over 3.5 Goals,41.3,34.5,6.8,2.9,0.6631,True,35.0
+sr:match:73293946,Ravenna FC 1913,AS Gubbio,Ravenna FC 1913 vs AS Gubbio,"Serie C, Group B",2026-09-27 13:30,target__over_3_5_goals,Over 3.5 Goals,40.0,33.3,6.7,3.0,0.6631,True,35.0
+sr:match:72837794,12 Bingol Spor,Hekimoglu Trabzon,12 Bingol Spor vs Hekimoglu Trabzon,2. Lig,2026-09-27 13:30,target__over_3_5_goals,Over 3.5 Goals,41.3,37.0,4.2,2.7,0.6631,True,35.0
+sr:match:72891220,Talasgucu Belediyespor,Kirikkale Buyuk Anadoluspor,Talasgucu Belediyespor vs Kirikkale Buyuk Anadoluspor,3. Lig,2026-09-27 13:30,target__over_3_5_goals,Over 3.5 Goals,42.5,35.1,7.4,2.85,0.6631,True,35.0
+sr:match:67920960,Kongsvinger IL Toppfotball 2,Harstad,Kongsvinger IL Toppfotball 2 vs Harstad,"3. Division, Group 5",2026-09-27 13:30,target__over_3_5_goals,Over 3.5 Goals,83.3,70.4,12.9,1.42,0.6631,True,35.0
+sr:match:68932070,Lithuania,Azerbaijan,Lithuania vs Azerbaijan,UEFA Nations League,2026-09-27 14:00,target__over_3_5_goals,Over 3.5 Goals,23.4,20.4,3.0,4.9,0.6631,True,35.0
+sr:match:74172430,AE Larissa FC,PAOK Thessaloniki B,AE Larissa FC vs PAOK Thessaloniki B,Super League 2,2026-09-27 14:00,target__over_3_5_goals,Over 3.5 Goals,40.0,31.2,8.8,3.2,0.6631,True,35.0
+sr:match:74172428,Niki Volou 1924 PAE,Nestos Chrysoupoli FC,Niki Volou 1924 PAE vs Nestos Chrysoupoli FC,Super League 2,2026-09-27 14:00,target__over_3_5_goals,Over 3.5 Goals,40.1,25.6,14.5,3.9,0.6631,True,35.0
+sr:match:74172422,Panionios Athens,APS Zakynthos,Panionios Athens vs APS Zakynthos,Super League 2,2026-09-27 14:00,target__over_3_5_goals,Over 3.5 Goals,41.3,29.4,11.9,3.4,0.6631,True,35.0
+sr:match:73346510,Newcastle United WFC,Leicester City WFC,Newcastle United WFC vs Leicester City WFC,"Super League 2, Women",2026-09-27 14:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:73346034,Birmingham City WFC,Crystal Palace,Birmingham City WFC vs Crystal Palace,Super League Women,2026-09-27 14:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:72597740,SK Polanka Nad Odrou,FK Frydek-Mistek,SK Polanka Nad Odrou vs FK Frydek-Mistek,MSFL,2026-09-27 14:30,target__over_3_5_goals,Over 3.5 Goals,41.3,35.1,6.2,2.85,0.6631,True,35.0
+sr:match:72837788,24Erzincanspor,Kirklarelispor,24Erzincanspor vs Kirklarelispor,2. Lig,2026-09-27 14:30,target__over_3_5_goals,Over 3.5 Goals,40.1,33.3,6.8,3.0,0.6631,True,35.0
+sr:match:68311160,Assyriska FF,Piteaa IF,Assyriska FF vs Piteaa IF,Ettan,2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,50.3,45.5,4.9,2.2,0.6631,True,35.0
+sr:match:72559088,CD Mirandes,Unionistas de Salamanca CF,CD Mirandes vs Unionistas de Salamanca CF,Primera Federacion,2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:74172426,Hellas Syrou,Pas Pyrgos,Hellas Syrou vs Pas Pyrgos,Super League 2,2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,29.4,10.7,3.4,0.6631,True,35.0
+sr:match:72281354,NK Jesenice,NK Vrhnika,NK Jesenice vs NK Vrhnika,2. Liga,2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:72466546,PFC Chernomorets Burgas,PFC Montana 1921,PFC Chernomorets Burgas vs PFC Montana 1921,Vtora Liga,2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,51.6,37.0,14.6,2.7,0.6631,True,35.0
+sr:match:72466542,PFC CSKA SOFIA II,PFK Sportist Svoge,PFC CSKA SOFIA II vs PFK Sportist Svoge,Vtora Liga,2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,42.5,37.7,4.8,2.65,0.6631,True,35.0
+sr:match:72679180,Rodina-2,FC Sibir Novosibirsk,Rodina-2 vs FC Sibir Novosibirsk,"2. Liga, Division A",2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:72560288,SV Eberau,SK Pama,SV Eberau vs SK Pama,Burgenlandliga,2026-09-27 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:74172420,Panserraikos FC,Olympiacos Piraeus B,Panserraikos FC vs Olympiacos Piraeus B,Super League 2,2026-09-27 16:15,target__over_3_5_goals,Over 3.5 Goals,50.3,36.4,14.0,2.75,0.6631,True,35.0
+sr:match:74321602,CD Antofagasta,Deportes Iquique,CD Antofagasta vs Deportes Iquique,Copa Chile,2026-09-27 16:30,target__over_3_5_goals,Over 3.5 Goals,40.0,27.8,12.2,3.6,0.6631,True,35.0
+sr:match:74829636,Moghreb Athletic de Tetouan,Rs Berkane,Moghreb Athletic de Tetouan vs Rs Berkane,Botola Pro D1,2026-09-27 17:00,target__over_3_5_goals,Over 3.5 Goals,42.5,31.2,11.3,3.2,0.6631,True,35.0
+sr:match:72890606,Bucaspor,Altay Izmir,Bucaspor vs Altay Izmir,3. Lig,2026-09-27 17:00,target__over_3_5_goals,Over 3.5 Goals,41.3,37.0,4.2,2.7,0.6631,True,35.0
+sr:match:72559094,Pontevedra CF,SD Ponferradina,Pontevedra CF vs SD Ponferradina,Primera Federacion,2026-09-27 17:15,target__over_3_5_goals,Over 3.5 Goals,40.0,24.4,15.6,4.1,0.6631,True,35.0
+sr:match:74695790,Deportes Concepcion,Curico Unido,Deportes Concepcion vs Curico Unido,Copa Chile,2026-09-27 19:00,target__over_3_5_goals,Over 3.5 Goals,40.0,32.3,7.7,3.1,0.6631,True,35.0
+sr:match:72055204,Pumas UNAM,Atletico San Luis,Pumas UNAM vs Atletico San Luis,Liga MX,2026-09-27 19:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:73840446,Bahrain,United Arab Emirates,Bahrain vs United Arab Emirates,Gulf Cup,2026-09-27 19:00,target__over_3_5_goals,Over 3.5 Goals,40.1,28.6,11.5,3.5,0.6631,True,35.0
+sr:match:74973778,CA Juventud de Las Piedras,CA Cerro,CA Juventud de Las Piedras vs CA Cerro,Primera Division,2026-09-27 19:00,target__over_3_5_goals,Over 3.5 Goals,40.0,25.0,15.0,4.0,0.6631,True,35.0
+sr:match:74753406,CSDC Alianza Universidad,Bentin Tacna Heroica,CSDC Alianza Universidad vs Bentin Tacna Heroica,Liga 2,2026-09-27 19:00,target__over_3_5_goals,Over 3.5 Goals,40.1,28.6,11.5,3.5,0.6631,True,35.0
+sr:match:73184914,Quepos Cambute,Municipal Grecia,Quepos Cambute vs Municipal Grecia,Liga de Ascenso,2026-09-27 19:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:74417706,Sport Boys Association,Alianza Atletico,Sport Boys Association vs Alianza Atletico,Copa de la Liga,2026-09-27 19:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:67118692,CA Atlanta,Agropecuario Argentino,CA Atlanta vs Agropecuario Argentino,Primera Nacional,2026-09-27 19:30,target__over_3_5_goals,Over 3.5 Goals,23.4,19.6,3.8,5.1,0.6631,True,35.0
+sr:match:73293942,Delfino Pescara,Spezia Calcio,Delfino Pescara vs Spezia Calcio,"Serie C, Group B",2026-09-27 19:30,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:73294686,S.S.D. Casarano Calcio,SS Monopoli,S.S.D. Casarano Calcio vs SS Monopoli,"Serie C, Group C",2026-09-27 19:30,target__over_3_5_goals,Over 3.5 Goals,40.1,31.2,8.9,3.2,0.6631,True,35.0
+sr:match:68931814,Norway,Portugal,Norway vs Portugal,UEFA Nations League,2026-09-27 19:45,target__over_3_5_goals,Over 3.5 Goals,50.3,46.5,3.8,2.15,0.6631,True,35.0
+sr:match:67117986,Mitre Santiago del Estero,CA San Telmo,Mitre Santiago del Estero vs CA San Telmo,Primera Nacional,2026-09-27 20:00,target__over_3_5_goals,Over 3.5 Goals,23.4,20.0,3.4,5.0,0.6631,True,35.0
+sr:match:73184916,AD Sarchi,Adr Jicaral,AD Sarchi vs Adr Jicaral,Liga de Ascenso,2026-09-27 20:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:73185414,Guadalupe FC,Pitbulls Santa Barbara FC,Guadalupe FC vs Pitbulls Santa Barbara FC,Liga de Ascenso,2026-09-27 20:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:74753358,Union Comercio,Pirata FC,Union Comercio vs Pirata FC,Liga 2,2026-09-27 21:15,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:74297872,Bolivia,Paraguay,Bolivia vs Paraguay,Int. Friendly Games,2026-09-27 21:30,target__over_3_5_goals,Over 3.5 Goals,40.0,35.7,4.3,2.8,0.6631,True,35.0
+sr:match:74321606,Universidad de Chile,CD Everton Vina del Mar,Universidad de Chile vs CD Everton Vina del Mar,Copa Chile,2026-09-27 21:30,target__over_3_5_goals,Over 3.5 Goals,40.1,30.3,9.8,3.3,0.6631,True,35.0
+sr:match:74695428,Dunbeholden FC,Mount Pleasant FC,Dunbeholden FC vs Mount Pleasant FC,Premier League,2026-09-27 21:30,target__over_3_5_goals,Over 3.5 Goals,41.3,31.2,10.0,3.2,0.6631,True,35.0
+sr:match:74695424,Molynes,Tru-Juice FC,Molynes vs Tru-Juice FC,Premier League,2026-09-27 21:30,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:72661244,Cocle FC,CD Plaza Amador Panama City,Cocle FC vs CD Plaza Amador Panama City,Liga Panamena,2026-09-27 22:00,target__over_3_5_goals,Over 3.5 Goals,41.3,32.3,9.0,3.1,0.6631,True,35.0
+sr:match:73075290,Alianza FC San Salvador,CD Inca,Alianza FC San Salvador vs CD Inca,Primera Division,2026-09-27 22:00,target__over_3_5_goals,Over 3.5 Goals,40.1,36.4,3.8,2.75,0.6631,True,35.0
+sr:match:73075296,CD Platense Municipal Zacatecoluca,CD Fuerte San Francisco Morazan,CD Platense Municipal Zacatecoluca vs CD Fuerte San Francisco Morazan,Primera Division,2026-09-27 22:00,target__over_3_5_goals,Over 3.5 Goals,40.0,29.4,10.6,3.4,0.6631,True,35.0
+sr:match:74695434,Racing United FC,Montego Bay United,Racing United FC vs Montego Bay United,Premier League,2026-09-27 23:05,target__over_3_5_goals,Over 3.5 Goals,40.1,30.0,10.1,3.33,0.6631,True,35.0
+sr:match:74321608,CD Santa Cruz,CD O'Higgins,CD Santa Cruz vs CD O'Higgins,Copa Chile,2026-09-28 00:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:73220748,Haiti,Costa Rica,Haiti vs Costa Rica,CONCACAF Nations League,2026-09-28 00:00,target__over_3_5_goals,Over 3.5 Goals,40.0,27.8,12.2,3.6,0.6631,True,35.0
+sr:match:73220750,Curacao,Nicaragua,Curacao vs Nicaragua,CONCACAF Nations League,2026-09-28 01:00,target__over_3_5_goals,Over 3.5 Goals,40.1,36.4,3.8,2.75,0.6631,True,35.0
+sr:match:73220752,Trinidad and Tobago,Dominican Republic,Trinidad and Tobago vs Dominican Republic,CONCACAF Nations League,2026-09-28 02:00,target__over_3_5_goals,Over 3.5 Goals,40.0,34.5,5.5,2.9,0.6631,True,35.0
+sr:match:74695436,Waterhouse FC,Treasure Beach FC,Waterhouse FC vs Treasure Beach FC,Premier League,2026-09-28 02:00,target__over_3_5_goals,Over 3.5 Goals,40.1,33.9,6.2,2.95,0.6631,True,35.0
+sr:match:72055200,Tigres UANL,Club Puebla,Tigres UANL vs Club Puebla,Liga MX,2026-09-27 04:10,target__over_4_5_goals,Over 4.5 Goals,31.1,20.0,11.1,5.0,0.6327,True,19.9
+sr:match:73294684,Barletta Calcio,Potenza Calcio,Barletta Calcio vs Potenza Calcio,"Serie C, Group C",2026-09-27 11:30,target__over_4_5_goals,Over 4.5 Goals,22.4,18.2,4.2,5.5,0.6327,True,19.9
+sr:match:68321002,Bollstanas SK,Enskede IK,Bollstanas SK vs Enskede IK,Division 2,2026-09-27 13:00,target__over_4_5_goals,Over 4.5 Goals,36.1,26.7,9.4,3.75,0.6327,True,19.9
+sr:match:73293938,AS Ostiamare,Forli FC,AS Ostiamare vs Forli FC,"Serie C, Group B",2026-09-27 13:30,target__over_4_5_goals,Over 4.5 Goals,22.4,19.0,3.3,5.25,0.6327,True,19.9
+sr:match:72596126,VV Una,Dongen,VV Una vs Dongen,Derde Divisie,2026-09-27 13:30,target__over_4_5_goals,Over 4.5 Goals,32.3,28.6,3.7,3.5,0.6327,True,19.9
+sr:match:73294686,S.S.D. Casarano Calcio,SS Monopoli,S.S.D. Casarano Calcio vs SS Monopoli,"Serie C, Group C",2026-09-27 19:30,target__over_4_5_goals,Over 4.5 Goals,22.4,16.9,5.4,5.9,0.6327,True,19.9
+sr:match:74695424,Molynes,Tru-Juice FC,Molynes vs Tru-Juice FC,Premier League,2026-09-27 21:30,target__over_4_5_goals,Over 4.5 Goals,22.4,19.0,3.3,5.25,0.6327,True,19.9
+sr:match:73184912,AD Cofutpa,Santa Cruz PFA,AD Cofutpa vs Santa Cruz PFA,Liga de Ascenso,2026-09-27 22:00,target__over_4_5_goals,Over 4.5 Goals,22.4,18.2,4.2,5.5,0.6327,True,19.9
+sr:match:72044688,De Graafschap,FC Den Bosch,De Graafschap vs FC Den Bosch,Eerste Divisie,2026-09-27 13:30,target__over_6_5_corners,Corners Over 6.5,83.8,14.1,69.7,7.1,0.5615,True,80.5
+sr:match:73204612,Puebla FC,CF Monterrey,Puebla FC vs CF Monterrey,"Liga MX, Women",2026-09-27 19:00,target__over_6_5_corners,Corners Over 6.5,76.4,29.4,47.0,3.4,0.5615,True,80.5

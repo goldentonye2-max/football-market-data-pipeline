@@ -1,0 +1,137 @@
+event_id,home_team,away_team,match,tournament,kickoff,target,pick,model_prob_%,implied_prob_%,edge_%,decimal_odds,model_auc,has_odds_match,hit_rate_%
+sr:match:74990652,Independiente Santa Fe,Asociacion Deportivo Cali,Independiente Santa Fe vs Asociacion Deportivo Cali,Liga Femenina,2026-09-24 01:00,target__away_clean_sheet,Away Clean Sheet,47.3,42.6,4.7,2.35,0.6508,True,23.0
+sr:match:74455610,Alianza FC San Salvador,CD Fuerte San Francisco Morazan,Alianza FC San Salvador vs CD Fuerte San Francisco Morazan,Primera Division,2026-09-24 02:00,target__away_win,Away Win,23.6,19.6,4.0,5.1,0.7237,True,32.7
+sr:match:74769822,Palestine,New Zealand,Palestine vs New Zealand,Int. Friendly Games,2026-09-24 10:30,target__away_win,Away Win,56.2,52.6,3.5,1.9,0.7237,True,32.7
+sr:match:72284090,Hapoel Rishon Lezion FC,Maccabi Achi Nazareth FC,Hapoel Rishon Lezion FC vs Maccabi Achi Nazareth FC,National League,2026-09-24 17:00,target__away_win,Away Win,29.5,23.3,6.3,4.3,0.7237,True,32.7
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__away_win,Away Win,82.5,75.2,7.3,1.33,0.7237,True,32.7
+sr:match:72523946,SM Caen,FC Rouen,SM Caen vs FC Rouen,Ligue 3,2026-09-24 19:45,target__away_win,Away Win,42.4,38.5,4.0,2.6,0.7237,True,32.7
+sr:match:74321592,CD O'Higgins,CD Santa Cruz,CD O'Higgins vs CD Santa Cruz,Copa Chile,2026-09-24 22:00,target__away_win,Away Win,24.1,19.6,4.5,5.1,0.7237,True,32.7
+sr:match:72014390,Goianesia EC GO,Rio Verde,Goianesia EC GO vs Rio Verde,"Goiano, 2. Divisao",2026-09-24 01:00,target__btts_no,BTTS No,62.7,58.1,4.6,1.72,0.616,True,46.5
+sr:match:72335142,America de Cali,Aguilas Doradas Rionegro,America de Cali vs Aguilas Doradas Rionegro,Liga DIMAYOR,2026-09-24 01:30,target__btts_no,BTTS No,62.7,58.8,3.9,1.7,0.616,True,46.5
+sr:match:68378068,IK Kongahalla,Lindome GIF,IK Kongahalla vs Lindome GIF,Division 2,2026-09-24 19:15,target__btts_no,BTTS No,44.9,37.7,7.2,2.65,0.616,True,46.5
+sr:match:68931810,Portugal,Wales,Portugal vs Wales,UEFA Nations League,2026-09-24 19:45,target__btts_no,BTTS No,66.2,60.6,5.6,1.65,0.616,True,46.5
+sr:match:73220846,Puerto Rico,Guyana,Puerto Rico vs Guyana,CONCACAF Nations League,2026-09-24 20:00,target__btts_no,BTTS No,62.7,53.2,9.5,1.88,0.616,True,46.5
+sr:match:74598536,CA Tembetary Ypane,Sportivo Iteno,CA Tembetary Ypane vs Sportivo Iteno,Copa Paraguay,2026-09-24 20:00,target__btts_no,BTTS No,62.7,57.8,4.9,1.73,0.616,True,46.5
+sr:match:74769822,Palestine,New Zealand,Palestine vs New Zealand,Int. Friendly Games,2026-09-24 10:30,target__btts_yes,BTTS Yes,60.1,53.5,6.6,1.87,0.6112,True,53.5
+sr:match:68932806,Andorra,Malta,Andorra vs Malta,UEFA Nations League,2026-09-24 17:00,target__btts_yes,BTTS Yes,44.5,40.0,4.5,2.5,0.6112,True,53.5
+sr:match:74372512,Congo DR,Equatorial Guinea,Congo DR vs Equatorial Guinea,Africa Cup of Nations Qualification,2026-09-24 17:00,target__btts_yes,BTTS Yes,50.8,37.0,13.7,2.7,0.6112,True,53.5
+sr:match:74372580,Libya,Botswana,Libya vs Botswana,Africa Cup of Nations Qualification,2026-09-24 17:00,target__btts_yes,BTTS Yes,49.1,42.6,6.5,2.35,0.6112,True,53.5
+sr:match:74372520,Mauritania,Central African Republic,Mauritania vs Central African Republic,Africa Cup of Nations Qualification,2026-09-24 17:00,target__btts_yes,BTTS Yes,50.8,43.5,7.3,2.3,0.6112,True,53.5
+sr:match:111111114287432,Holon Yermiyahu FC,MK KFAR Saba 1928,Holon Yermiyahu FC vs MK KFAR Saba 1928,Liga Alef,2026-09-24 17:30,target__btts_yes,BTTS Yes,60.1,55.6,4.6,1.8,0.6112,True,53.5
+sr:match:58209255,Belgium,Belarus,Belgium vs Belarus,"U21 UEFA European Championship, Qualification",2026-09-24 19:00,target__btts_yes,BTTS Yes,50.8,40.8,9.9,2.45,0.6112,True,53.5
+sr:match:68932722,Kosovo,Ireland,Kosovo vs Ireland,UEFA Nations League,2026-09-24 19:45,target__btts_yes,BTTS Yes,60.1,50.3,9.9,1.99,0.6112,True,53.5
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__btts_yes,BTTS Yes,60.1,33.9,26.2,2.95,0.6112,True,53.5
+sr:match:68931508,Netherlands,Germany,Netherlands vs Germany,UEFA Nations League,2026-09-24 19:45,target__btts_yes,BTTS Yes,73.0,69.4,3.5,1.44,0.6112,True,53.5
+sr:match:68931762,Norway,Denmark,Norway vs Denmark,UEFA Nations League,2026-09-24 19:45,target__btts_yes,BTTS Yes,66.3,62.5,3.8,1.6,0.6112,True,53.5
+sr:match:68931512,Serbia,Greece,Serbia vs Greece,UEFA Nations League,2026-09-24 19:45,target__btts_yes,BTTS Yes,65.0,52.6,12.4,1.9,0.6112,True,53.5
+sr:match:74372488,Ivory Coast,Ghana,Ivory Coast vs Ghana,Africa Cup of Nations Qualification,2026-09-24 20:00,target__btts_yes,BTTS Yes,50.8,45.5,5.3,2.2,0.6112,True,53.5
+sr:match:74372514,Sierra Leone,Zimbabwe,Sierra Leone vs Zimbabwe,Africa Cup of Nations Qualification,2026-09-24 20:00,target__btts_yes,BTTS Yes,50.0,46.5,3.5,2.15,0.6112,True,53.5
+sr:match:74372582,Tunisia,Uganda,Tunisia vs Uganda,Africa Cup of Nations Qualification,2026-09-24 20:00,target__btts_yes,BTTS Yes,49.1,43.5,5.6,2.3,0.6112,True,53.5
+sr:match:74372512,Congo DR,Equatorial Guinea,Congo DR vs Equatorial Guinea,Africa Cup of Nations Qualification,2026-09-24 17:00,target__draw,Draw,30.5,19.2,11.3,5.2,0.5993,True,22.8
+sr:match:68931762,Norway,Denmark,Norway vs Denmark,UEFA Nations League,2026-09-24 19:45,target__draw,Draw,30.5,23.8,6.7,4.21,0.5993,True,22.8
+sr:match:74372488,Ivory Coast,Ghana,Ivory Coast vs Ghana,Africa Cup of Nations Qualification,2026-09-24 20:00,target__draw,Draw,30.5,26.3,4.2,3.8,0.5993,True,22.8
+sr:match:72014390,Goianesia EC GO,Rio Verde,Goianesia EC GO vs Rio Verde,"Goiano, 2. Divisao",2026-09-24 01:00,target__home_clean_sheet,Home Clean Sheet,45.9,37.7,8.2,2.65,0.6485,True,30.0
+sr:match:74557414,Laos,Brunei Darussalam,Laos vs Brunei Darussalam,FIFA ASEAN Cup,2026-09-24 10:00,target__home_clean_sheet,Home Clean Sheet,30.2,27.0,3.1,3.7,0.6485,True,30.0
+sr:match:73840440,Qatar,Bahrain,Qatar vs Bahrain,Gulf Cup,2026-09-24 19:00,target__home_clean_sheet,Home Clean Sheet,45.9,41.7,4.3,2.4,0.6485,True,30.0
+sr:match:68378068,IK Kongahalla,Lindome GIF,IK Kongahalla vs Lindome GIF,Division 2,2026-09-24 19:15,target__home_clean_sheet,Home Clean Sheet,30.9,23.8,7.1,4.2,0.6485,True,30.0
+sr:match:68932720,Austria,Israel,Austria vs Israel,UEFA Nations League,2026-09-24 19:45,target__home_clean_sheet,Home Clean Sheet,45.9,42.6,3.4,2.35,0.6485,True,30.0
+sr:match:74598536,CA Tembetary Ypane,Sportivo Iteno,CA Tembetary Ypane vs Sportivo Iteno,Copa Paraguay,2026-09-24 20:00,target__home_clean_sheet,Home Clean Sheet,60.7,53.2,7.5,1.88,0.6485,True,30.0
+sr:match:72335142,America de Cali,Aguilas Doradas Rionegro,America de Cali vs Aguilas Doradas Rionegro,Liga DIMAYOR,2026-09-24 01:30,target__home_win,Home Win,78.5,69.9,8.6,1.43,0.7212,True,44.5
+sr:match:72474892,CSD Xelaju MC,Antigua GFC,CSD Xelaju MC vs Antigua GFC,Liga Nacional,2026-09-24 03:00,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:73685372,Korea Republic,Ecuador,Korea Republic vs Ecuador,Int. Friendly Games,2026-09-24 12:00,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:68932806,Andorra,Malta,Andorra vs Malta,UEFA Nations League,2026-09-24 17:00,target__home_win,Home Win,32.1,26.4,5.7,3.79,0.7212,True,44.5
+sr:match:72284088,Hapoel Acre FC,Hapoel Afula FC,Hapoel Acre FC vs Hapoel Afula FC,National League,2026-09-24 17:00,target__home_win,Home Win,32.1,27.0,5.0,3.7,0.7212,True,44.5
+sr:match:72284090,Hapoel Rishon Lezion FC,Maccabi Achi Nazareth FC,Hapoel Rishon Lezion FC vs Maccabi Achi Nazareth FC,National League,2026-09-24 17:00,target__home_win,Home Win,67.3,59.9,7.5,1.67,0.7212,True,44.5
+sr:match:58209255,Belgium,Belarus,Belgium vs Belarus,"U21 UEFA European Championship, Qualification",2026-09-24 19:00,target__home_win,Home Win,89.5,86.2,3.3,1.16,0.7212,True,44.5
+sr:match:74372530,Cameroon,Comoros,Cameroon vs Comoros,Africa Cup of Nations Qualification,2026-09-24 20:00,target__home_win,Home Win,78.5,72.5,6.1,1.38,0.7212,True,44.5
+sr:match:74372582,Tunisia,Uganda,Tunisia vs Uganda,Africa Cup of Nations Qualification,2026-09-24 20:00,target__home_win,Home Win,78.5,69.0,9.6,1.45,0.7212,True,44.5
+sr:match:74598536,CA Tembetary Ypane,Sportivo Iteno,CA Tembetary Ypane vs Sportivo Iteno,Copa Paraguay,2026-09-24 20:00,target__home_win,Home Win,83.3,78.1,5.2,1.28,0.7212,True,44.5
+sr:match:74171414,Union Sportif Amal Tiznit,Ittihad Tanger,Union Sportif Amal Tiznit vs Ittihad Tanger,Botola Pro D1,2026-09-24 21:00,target__home_win,Home Win,34.4,31.2,3.1,3.2,0.7212,True,44.5
+sr:match:74598538,Recoleta FC,Guairena FC,Recoleta FC vs Guairena FC,Copa Paraguay,2026-09-24 22:30,target__home_win,Home Win,78.5,70.9,7.6,1.41,0.7212,True,44.5
+sr:match:72284092,Ironi Modiin,FC Ashdod,Ironi Modiin vs FC Ashdod,National League,2026-09-24 17:00,target__ht_away_win,HT Away Win,54.0,45.5,8.5,2.2,0.6617,True,26.6
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__ht_away_win,HT Away Win,60.0,55.6,4.4,1.8,0.6617,True,26.6
+sr:match:68931508,Netherlands,Germany,Netherlands vs Germany,UEFA Nations League,2026-09-24 19:45,target__ht_away_win,HT Away Win,55.2,31.2,23.9,3.2,0.6617,True,26.6
+sr:match:68931512,Serbia,Greece,Serbia vs Greece,UEFA Nations League,2026-09-24 19:45,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:72523946,SM Caen,FC Rouen,SM Caen vs FC Rouen,Ligue 3,2026-09-24 19:45,target__ht_away_win,HT Away Win,42.4,31.2,11.2,3.2,0.6617,True,26.6
+sr:match:73220846,Puerto Rico,Guyana,Puerto Rico vs Guyana,CONCACAF Nations League,2026-09-24 20:00,target__ht_away_win,HT Away Win,42.4,32.3,10.2,3.1,0.6617,True,26.6
+sr:match:74990652,Independiente Santa Fe,Asociacion Deportivo Cali,Independiente Santa Fe vs Asociacion Deportivo Cali,Liga Femenina,2026-09-24 01:00,target__ht_draw,HT Draw,60.0,54.6,5.4,1.83,0.5904,True,39.0
+sr:match:72335142,America de Cali,Aguilas Doradas Rionegro,America de Cali vs Aguilas Doradas Rionegro,Liga DIMAYOR,2026-09-24 01:30,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:74372512,Congo DR,Equatorial Guinea,Congo DR vs Equatorial Guinea,Africa Cup of Nations Qualification,2026-09-24 17:00,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:74372580,Libya,Botswana,Libya vs Botswana,Africa Cup of Nations Qualification,2026-09-24 17:00,target__ht_draw,HT Draw,60.0,47.6,12.4,2.1,0.5904,True,39.0
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__ht_draw,HT Draw,45.6,41.7,4.0,2.4,0.5904,True,39.0
+sr:match:68931762,Norway,Denmark,Norway vs Denmark,UEFA Nations League,2026-09-24 19:45,target__ht_draw,HT Draw,47.6,39.2,8.4,2.55,0.5904,True,39.0
+sr:match:74372530,Cameroon,Comoros,Cameroon vs Comoros,Africa Cup of Nations Qualification,2026-09-24 20:00,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:74372488,Ivory Coast,Ghana,Ivory Coast vs Ghana,Africa Cup of Nations Qualification,2026-09-24 20:00,target__ht_draw,HT Draw,60.0,46.5,13.5,2.15,0.5904,True,39.0
+sr:match:74372582,Tunisia,Uganda,Tunisia vs Uganda,Africa Cup of Nations Qualification,2026-09-24 20:00,target__ht_draw,HT Draw,47.6,43.5,4.1,2.3,0.5904,True,39.0
+sr:match:74171414,Union Sportif Amal Tiznit,Ittihad Tanger,Union Sportif Amal Tiznit vs Ittihad Tanger,Botola Pro D1,2026-09-24 21:00,target__ht_draw,HT Draw,60.0,54.6,5.4,1.83,0.5904,True,39.0
+sr:match:72474892,CSD Xelaju MC,Antigua GFC,CSD Xelaju MC vs Antigua GFC,Liga Nacional,2026-09-24 03:00,target__ht_home_win,HT Home Win,39.1,35.7,3.4,2.8,0.6512,True,34.4
+sr:match:74286174,FC Elva,JK Tallinna Kalev,FC Elva vs JK Tallinna Kalev,Cup,2026-09-24 15:00,target__ht_home_win,HT Home Win,33.3,28.6,4.8,3.5,0.6512,True,34.4
+sr:match:68932806,Andorra,Malta,Andorra vs Malta,UEFA Nations League,2026-09-24 17:00,target__ht_over_0_5_goals,HT Over 0.5,64.5,57.8,6.7,1.73,0.6199,True,72.8
+sr:match:72284092,Ironi Modiin,FC Ashdod,Ironi Modiin vs FC Ashdod,National League,2026-09-24 17:00,target__ht_over_0_5_goals,HT Over 0.5,79.4,75.2,4.2,1.33,0.6199,True,72.8
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__ht_over_0_5_goals,HT Over 0.5,81.2,69.4,11.8,1.44,0.6199,True,72.8
+sr:match:72523946,SM Caen,FC Rouen,SM Caen vs FC Rouen,Ligue 3,2026-09-24 19:45,target__ht_over_0_5_goals,HT Over 0.5,77.4,74.1,3.3,1.35,0.6199,True,72.8
+sr:match:70588882,Seattle Sounders,Real Salt Lake,Seattle Sounders vs Real Salt Lake,MLS,2026-09-24 02:30,target__ht_over_1_5_goals,HT Over 1.5,58.9,45.5,13.4,2.2,0.6269,True,38.8
+sr:match:68932722,Kosovo,Ireland,Kosovo vs Ireland,UEFA Nations League,2026-09-24 19:45,target__ht_over_1_5_goals,HT Over 1.5,38.4,29.4,9.0,3.4,0.6269,True,38.8
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,32.3,14.5,3.1,0.6269,True,38.8
+sr:match:68931762,Norway,Denmark,Norway vs Denmark,UEFA Nations League,2026-09-24 19:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:68931810,Portugal,Wales,Portugal vs Wales,UEFA Nations League,2026-09-24 19:45,target__ht_over_1_5_goals,HT Over 1.5,58.9,45.5,13.4,2.2,0.6269,True,38.8
+sr:match:68931512,Serbia,Greece,Serbia vs Greece,UEFA Nations League,2026-09-24 19:45,target__ht_over_1_5_goals,HT Over 1.5,38.4,31.2,7.2,3.2,0.6269,True,38.8
+sr:match:74455610,Alianza FC San Salvador,CD Fuerte San Francisco Morazan,Alianza FC San Salvador vs CD Fuerte San Francisco Morazan,Primera Division,2026-09-24 02:00,target__over_1_5_goals,Over 1.5 Goals,84.3,78.7,5.6,1.27,0.6116,True,77.7
+sr:match:74769822,Palestine,New Zealand,Palestine vs New Zealand,Int. Friendly Games,2026-09-24 10:30,target__over_1_5_goals,Over 1.5 Goals,79.2,74.6,4.5,1.34,0.6116,True,77.7
+sr:match:74372528,Namibia,Congo,Namibia vs Congo,Africa Cup of Nations Qualification,2026-09-24 14:00,target__over_1_5_goals,Over 1.5 Goals,70.9,67.1,3.8,1.49,0.6116,True,77.7
+sr:match:68932806,Andorra,Malta,Andorra vs Malta,UEFA Nations League,2026-09-24 17:00,target__over_1_5_goals,Over 1.5 Goals,84.3,59.5,24.8,1.68,0.6116,True,77.7
+sr:match:74372512,Congo DR,Equatorial Guinea,Congo DR vs Equatorial Guinea,Africa Cup of Nations Qualification,2026-09-24 17:00,target__over_1_5_goals,Over 1.5 Goals,79.2,74.1,5.1,1.35,0.6116,True,77.7
+sr:match:74372580,Libya,Botswana,Libya vs Botswana,Africa Cup of Nations Qualification,2026-09-24 17:00,target__over_1_5_goals,Over 1.5 Goals,79.2,67.6,11.6,1.48,0.6116,True,77.7
+sr:match:72284092,Ironi Modiin,FC Ashdod,Ironi Modiin vs FC Ashdod,National League,2026-09-24 17:00,target__over_1_5_goals,Over 1.5 Goals,84.3,80.0,4.3,1.25,0.6116,True,77.7
+sr:match:111111114287432,Holon Yermiyahu FC,MK KFAR Saba 1928,Holon Yermiyahu FC vs MK KFAR Saba 1928,Liga Alef,2026-09-24 17:30,target__over_1_5_goals,Over 1.5 Goals,79.2,74.6,4.5,1.34,0.6116,True,77.7
+sr:match:73840440,Qatar,Bahrain,Qatar vs Bahrain,Gulf Cup,2026-09-24 19:00,target__over_1_5_goals,Over 1.5 Goals,77.8,73.5,4.2,1.36,0.6116,True,77.7
+sr:match:68932722,Kosovo,Ireland,Kosovo vs Ireland,UEFA Nations League,2026-09-24 19:45,target__over_1_5_goals,Over 1.5 Goals,84.3,70.4,13.9,1.42,0.6116,True,77.7
+sr:match:68931512,Serbia,Greece,Serbia vs Greece,UEFA Nations League,2026-09-24 19:45,target__over_1_5_goals,Over 1.5 Goals,84.3,73.0,11.3,1.37,0.6116,True,77.7
+sr:match:72523946,SM Caen,FC Rouen,SM Caen vs FC Rouen,Ligue 3,2026-09-24 19:45,target__over_1_5_goals,Over 1.5 Goals,86.2,79.4,6.8,1.26,0.6116,True,77.7
+sr:match:74372530,Cameroon,Comoros,Cameroon vs Comoros,Africa Cup of Nations Qualification,2026-09-24 20:00,target__over_1_5_goals,Over 1.5 Goals,80.5,74.6,5.9,1.34,0.6116,True,77.7
+sr:match:74372488,Ivory Coast,Ghana,Ivory Coast vs Ghana,Africa Cup of Nations Qualification,2026-09-24 20:00,target__over_1_5_goals,Over 1.5 Goals,79.2,70.9,8.2,1.41,0.6116,True,77.7
+sr:match:74372514,Sierra Leone,Zimbabwe,Sierra Leone vs Zimbabwe,Africa Cup of Nations Qualification,2026-09-24 20:00,target__over_1_5_goals,Over 1.5 Goals,70.9,64.9,6.0,1.54,0.6116,True,77.7
+sr:match:74372582,Tunisia,Uganda,Tunisia vs Uganda,Africa Cup of Nations Qualification,2026-09-24 20:00,target__over_1_5_goals,Over 1.5 Goals,79.2,73.5,5.6,1.36,0.6116,True,77.7
+sr:match:73220846,Puerto Rico,Guyana,Puerto Rico vs Guyana,CONCACAF Nations League,2026-09-24 20:00,target__over_1_5_goals,Over 1.5 Goals,79.2,74.1,5.1,1.35,0.6116,True,77.7
+sr:match:74171414,Union Sportif Amal Tiznit,Ittihad Tanger,Union Sportif Amal Tiznit vs Ittihad Tanger,Botola Pro D1,2026-09-24 21:00,target__over_1_5_goals,Over 1.5 Goals,67.2,61.7,5.5,1.62,0.6116,True,77.7
+sr:match:70588882,Seattle Sounders,Real Salt Lake,Seattle Sounders vs Real Salt Lake,MLS,2026-09-24 02:30,target__over_2_5_goals,Over 2.5 Goals,68.9,64.9,4.0,1.54,0.641,True,56.0
+sr:match:74769822,Palestine,New Zealand,Palestine vs New Zealand,Int. Friendly Games,2026-09-24 10:30,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:74401578,Maccabi Kiryat Ata-Bialik,Hapoel Bnei Jat United,Maccabi Kiryat Ata-Bialik vs Hapoel Bnei Jat United,Liga Alef,2026-09-24 12:45,target__over_2_5_goals,Over 2.5 Goals,68.9,65.4,3.6,1.53,0.641,True,56.0
+sr:match:74372528,Namibia,Congo,Namibia vs Congo,Africa Cup of Nations Qualification,2026-09-24 14:00,target__over_2_5_goals,Over 2.5 Goals,46.7,40.0,6.7,2.5,0.641,True,56.0
+sr:match:74023098,Uzbekistan,IR Iran,Uzbekistan vs IR Iran,Int. Friendly Games,2026-09-24 15:00,target__over_2_5_goals,Over 2.5 Goals,45.6,41.7,3.9,2.4,0.641,True,56.0
+sr:match:68932806,Andorra,Malta,Andorra vs Malta,UEFA Nations League,2026-09-24 17:00,target__over_2_5_goals,Over 2.5 Goals,47.6,32.3,15.4,3.1,0.641,True,56.0
+sr:match:74372512,Congo DR,Equatorial Guinea,Congo DR vs Equatorial Guinea,Africa Cup of Nations Qualification,2026-09-24 17:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:74372580,Libya,Botswana,Libya vs Botswana,Africa Cup of Nations Qualification,2026-09-24 17:00,target__over_2_5_goals,Over 2.5 Goals,45.6,40.8,4.8,2.45,0.641,True,56.0
+sr:match:74372520,Mauritania,Central African Republic,Mauritania vs Central African Republic,Africa Cup of Nations Qualification,2026-09-24 17:00,target__over_2_5_goals,Over 2.5 Goals,47.6,40.8,6.8,2.45,0.641,True,56.0
+sr:match:111111114287432,Holon Yermiyahu FC,MK KFAR Saba 1928,Holon Yermiyahu FC vs MK KFAR Saba 1928,Liga Alef,2026-09-24 17:30,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:58209255,Belgium,Belarus,Belgium vs Belarus,"U21 UEFA European Championship, Qualification",2026-09-24 19:00,target__over_2_5_goals,Over 2.5 Goals,67.6,62.5,5.1,1.6,0.641,True,56.0
+sr:match:68932722,Kosovo,Ireland,Kosovo vs Ireland,UEFA Nations League,2026-09-24 19:45,target__over_2_5_goals,Over 2.5 Goals,52.5,43.5,9.0,2.3,0.641,True,56.0
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__over_2_5_goals,Over 2.5 Goals,68.9,46.5,22.4,2.15,0.641,True,56.0
+sr:match:68931508,Netherlands,Germany,Netherlands vs Germany,UEFA Nations League,2026-09-24 19:45,target__over_2_5_goals,Over 2.5 Goals,71.9,67.6,4.3,1.48,0.641,True,56.0
+sr:match:68931762,Norway,Denmark,Norway vs Denmark,UEFA Nations League,2026-09-24 19:45,target__over_2_5_goals,Over 2.5 Goals,67.6,64.1,3.5,1.56,0.641,True,56.0
+sr:match:68931512,Serbia,Greece,Serbia vs Greece,UEFA Nations League,2026-09-24 19:45,target__over_2_5_goals,Over 2.5 Goals,52.5,46.5,6.0,2.15,0.641,True,56.0
+sr:match:74372488,Ivory Coast,Ghana,Ivory Coast vs Ghana,Africa Cup of Nations Qualification,2026-09-24 20:00,target__over_2_5_goals,Over 2.5 Goals,52.5,45.5,7.1,2.2,0.641,True,56.0
+sr:match:74372582,Tunisia,Uganda,Tunisia vs Uganda,Africa Cup of Nations Qualification,2026-09-24 20:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:74455610,Alianza FC San Salvador,CD Fuerte San Francisco Morazan,Alianza FC San Salvador vs CD Fuerte San Francisco Morazan,Primera Division,2026-09-24 02:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:74981308,CD Gimnastico Tegucigalpa,CD Real Tegus,CD Gimnastico Tegucigalpa vs CD Real Tegus,Liga de Ascenso,2026-09-24 03:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:74769822,Palestine,New Zealand,Palestine vs New Zealand,Int. Friendly Games,2026-09-24 10:30,target__over_3_5_goals,Over 3.5 Goals,40.1,28.6,11.5,3.5,0.6631,True,35.0
+sr:match:74401578,Maccabi Kiryat Ata-Bialik,Hapoel Bnei Jat United,Maccabi Kiryat Ata-Bialik vs Hapoel Bnei Jat United,Liga Alef,2026-09-24 12:45,target__over_3_5_goals,Over 3.5 Goals,50.3,43.5,6.8,2.3,0.6631,True,35.0
+sr:match:111111114287737,Maccabi Nujeidat Ahmad,Hapoel Ironi Arraba,Maccabi Nujeidat Ahmad vs Hapoel Ironi Arraba,Liga Alef,2026-09-24 14:30,target__over_3_5_goals,Over 3.5 Goals,40.1,33.3,6.8,3.0,0.6631,True,35.0
+sr:match:68932806,Andorra,Malta,Andorra vs Malta,UEFA Nations League,2026-09-24 17:00,target__over_3_5_goals,Over 3.5 Goals,20.0,15.6,4.4,6.4,0.6631,True,35.0
+sr:match:74372512,Congo DR,Equatorial Guinea,Congo DR vs Equatorial Guinea,Africa Cup of Nations Qualification,2026-09-24 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,27.8,12.3,3.6,0.6631,True,35.0
+sr:match:72284092,Ironi Modiin,FC Ashdod,Ironi Modiin vs FC Ashdod,National League,2026-09-24 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,33.9,6.2,2.95,0.6631,True,35.0
+sr:match:72284094,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,Maccabi Herzliya vs MS Football Hapoel Kiryat Yam,National League,2026-09-24 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:111111114287435,FC Jerusalem,Maccabi Y.,FC Jerusalem vs Maccabi Y.,Liga Alef,2026-09-24 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:111111114287432,Holon Yermiyahu FC,MK KFAR Saba 1928,Holon Yermiyahu FC vs MK KFAR Saba 1928,Liga Alef,2026-09-24 17:30,target__over_3_5_goals,Over 3.5 Goals,40.0,27.8,12.2,3.6,0.6631,True,35.0
+sr:match:111111114287433,Hapoel Hadera FC,Maccabi Ironi Ashdod FC,Hapoel Hadera FC vs Maccabi Ironi Ashdod FC,Liga Alef,2026-09-24 18:15,target__over_3_5_goals,Over 3.5 Goals,40.0,33.3,6.7,3.0,0.6631,True,35.0
+sr:match:68932068,Liechtenstein,Lithuania,Liechtenstein vs Lithuania,UEFA Nations League,2026-09-24 19:45,target__over_3_5_goals,Over 3.5 Goals,42.5,25.6,16.9,3.9,0.6631,True,35.0
+sr:match:68931508,Netherlands,Germany,Netherlands vs Germany,UEFA Nations League,2026-09-24 19:45,target__over_3_5_goals,Over 3.5 Goals,54.5,46.5,7.9,2.15,0.6631,True,35.0
+sr:match:72523946,SM Caen,FC Rouen,SM Caen vs FC Rouen,Ligue 3,2026-09-24 19:45,target__over_3_5_goals,Over 3.5 Goals,40.1,33.3,6.8,3.0,0.6631,True,35.0
+sr:match:74372582,Tunisia,Uganda,Tunisia vs Uganda,Africa Cup of Nations Qualification,2026-09-24 20:00,target__over_3_5_goals,Over 3.5 Goals,40.1,27.0,13.1,3.7,0.6631,True,35.0
+sr:match:74321592,CD O'Higgins,CD Santa Cruz,CD O'Higgins vs CD Santa Cruz,Copa Chile,2026-09-24 22:00,target__over_3_5_goals,Over 3.5 Goals,41.3,37.0,4.2,2.7,0.6631,True,35.0
+sr:match:74321594,CD Everton Vina del Mar,Universidad de Chile,CD Everton Vina del Mar vs Universidad de Chile,Copa Chile,2026-09-25 00:30,target__over_3_5_goals,Over 3.5 Goals,40.0,28.6,11.4,3.5,0.6631,True,35.0
+sr:match:74401578,Maccabi Kiryat Ata-Bialik,Hapoel Bnei Jat United,Maccabi Kiryat Ata-Bialik vs Hapoel Bnei Jat United,Liga Alef,2026-09-24 12:45,target__over_4_5_goals,Over 4.5 Goals,31.1,25.6,5.4,3.9,0.6327,True,19.9
+sr:match:111111114287737,Maccabi Nujeidat Ahmad,Hapoel Ironi Arraba,Maccabi Nujeidat Ahmad vs Hapoel Ironi Arraba,Liga Alef,2026-09-24 14:30,target__over_4_5_goals,Over 4.5 Goals,31.1,18.2,12.9,5.5,0.6327,True,19.9
+sr:match:72284094,Maccabi Herzliya,MS Football Hapoel Kiryat Yam,Maccabi Herzliya vs MS Football Hapoel Kiryat Yam,National League,2026-09-24 17:00,target__over_4_5_goals,Over 4.5 Goals,25.0,19.2,5.8,5.2,0.6327,True,19.9
+sr:match:111111114287432,Holon Yermiyahu FC,MK KFAR Saba 1928,Holon Yermiyahu FC vs MK KFAR Saba 1928,Liga Alef,2026-09-24 17:30,target__over_4_5_goals,Over 4.5 Goals,22.4,14.8,7.6,6.75,0.6327,True,19.9
+sr:match:68931512,Serbia,Greece,Serbia vs Greece,UEFA Nations League,2026-09-24 19:45,target__over_4_5_goals,Over 4.5 Goals,22.4,13.2,9.2,7.6,0.6327,True,19.9

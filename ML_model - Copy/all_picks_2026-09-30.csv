@@ -1,0 +1,138 @@
+event_id,home_team,away_team,match,tournament,kickoff,target,pick,model_prob_%,implied_prob_%,edge_%,decimal_odds,model_auc,has_odds_match,hit_rate_%
+sr:match:67172998,Miami FC,Sporting Jax,Miami FC vs Sporting Jax,USL Championship,2026-10-01 00:00,target__away_clean_sheet,Away Clean Sheet,21.8,15.9,5.9,6.3,0.6508,True,23.0
+sr:match:74371812,FK Austria Wien,Inter Milano,FK Austria Wien vs Inter Milano,UEFA Champions League Women,2026-10-01 17:45,target__away_clean_sheet,Away Clean Sheet,47.3,42.6,4.7,2.35,0.6508,True,23.0
+sr:match:68931862,Denmark,Portugal,Denmark vs Portugal,UEFA Nations League,2026-10-01 19:45,target__away_clean_sheet,Away Clean Sheet,38.5,31.2,7.2,3.2,0.6508,True,23.0
+sr:match:67172998,Miami FC,Sporting Jax,Miami FC vs Sporting Jax,USL Championship,2026-10-01 00:00,target__away_win,Away Win,24.1,19.6,4.5,5.1,0.7237,True,32.7
+sr:match:74606362,Sharjah FC,Al Dhafra SSC,Sharjah FC vs Al Dhafra SSC,Pro League Cup,2026-10-01 14:15,target__away_win,Away Win,23.6,19.6,4.0,5.1,0.7237,True,32.7
+sr:match:72284106,FC Ashdod,Maccabi Herzliya,FC Ashdod vs Maccabi Herzliya,National League,2026-10-01 17:00,target__away_win,Away Win,29.5,18.5,11.0,5.4,0.7237,True,32.7
+sr:match:72284114,Maccabi Bney Reine,Hapoel Kfar Shalem FC,Maccabi Bney Reine vs Hapoel Kfar Shalem FC,National League,2026-10-01 17:00,target__away_win,Away Win,42.4,32.3,10.2,3.1,0.7237,True,32.7
+sr:match:68931862,Denmark,Portugal,Denmark vs Portugal,UEFA Nations League,2026-10-01 19:45,target__away_win,Away Win,56.2,46.9,9.2,2.13,0.7237,True,32.7
+sr:match:68931530,Greece,Netherlands,Greece vs Netherlands,UEFA Nations League,2026-10-01 19:45,target__away_win,Away Win,50.0,45.7,4.3,2.19,0.7237,True,32.7
+sr:match:68932042,Wales,Norway,Wales vs Norway,UEFA Nations League,2026-10-01 19:45,target__away_win,Away Win,74.3,67.6,6.8,1.48,0.7237,True,32.7
+sr:match:75176944,Jahn Regensburg,WSG Tirol,Jahn Regensburg vs WSG Tirol,Club Friendly Games,2026-10-01 13:00,target__btts_no,BTTS No,44.4,40.8,3.6,2.45,0.616,True,46.5
+sr:match:74606364,Baniyas Club,Al Wahda FC (UAE),Baniyas Club vs Al Wahda FC (UAE),Pro League Cup,2026-10-01 16:45,target__btts_no,BTTS No,59.2,46.5,12.7,2.15,0.616,True,46.5
+sr:match:72284102,Bnei Yehuda Tel Aviv FC,Maccabi Ironi Kiryat Gat,Bnei Yehuda Tel Aviv FC vs Maccabi Ironi Kiryat Gat,National League,2026-10-01 17:00,target__btts_no,BTTS No,59.2,54.6,4.6,1.83,0.616,True,46.5
+sr:match:68932042,Wales,Norway,Wales vs Norway,UEFA Nations League,2026-10-01 19:45,target__btts_no,BTTS No,62.7,47.6,15.1,2.1,0.616,True,46.5
+sr:match:74598542,Cerro Porteno,Rubio Nu,Cerro Porteno vs Rubio Nu,Copa Paraguay,2026-09-30 23:30,target__btts_yes,BTTS Yes,60.1,51.3,8.8,1.95,0.6112,True,53.5
+sr:match:73665018,Chattanooga Red Wolves SC,Spokane Velocity FC,Chattanooga Red Wolves SC vs Spokane Velocity FC,USL League One,2026-10-01 00:00,target__btts_yes,BTTS Yes,66.3,60.6,5.7,1.65,0.6112,True,53.5
+sr:match:74996504,Argentina,Bolivia,Argentina vs Bolivia,Int. Friendly Games,2026-10-01 01:00,target__btts_yes,BTTS Yes,50.8,43.5,7.3,2.3,0.6112,True,53.5
+sr:match:75028436,Croatia,Italy,Croatia vs Italy,U19 Friendly Games,2026-10-01 14:30,target__btts_yes,BTTS Yes,66.3,63.3,3.1,1.58,0.6112,True,53.5
+sr:match:74931204,Uzbekistan,Syria,Uzbekistan vs Syria,Int. Friendly Games,2026-10-01 15:00,target__btts_yes,BTTS Yes,50.8,40.8,9.9,2.45,0.6112,True,53.5
+sr:match:58209037,Greece,Latvia,Greece vs Latvia,"U21 UEFA European Championship, Qualification",2026-10-01 16:00,target__btts_yes,BTTS Yes,60.1,40.0,20.1,2.5,0.6112,True,53.5
+sr:match:74372502,Guinea,Kenya,Guinea vs Kenya,Africa Cup of Nations Qualification,2026-10-01 17:00,target__btts_yes,BTTS Yes,44.5,36.4,8.2,2.75,0.6112,True,53.5
+sr:match:68931862,Denmark,Portugal,Denmark vs Portugal,UEFA Nations League,2026-10-01 19:45,target__btts_yes,BTTS Yes,66.3,62.1,4.2,1.61,0.6112,True,53.5
+sr:match:68932730,Ireland,Austria,Ireland vs Austria,UEFA Nations League,2026-10-01 19:45,target__btts_yes,BTTS Yes,60.1,50.8,9.4,1.97,0.6112,True,53.5
+sr:match:68932810,Malta,Gibraltar,Malta vs Gibraltar,UEFA Nations League,2026-10-01 19:45,target__btts_yes,BTTS Yes,50.8,35.7,15.0,2.8,0.6112,True,53.5
+sr:match:73220982,"Virgin Islands, British",Montserrat,"Virgin Islands, British vs Montserrat",CONCACAF Nations League,2026-10-01 20:00,target__btts_yes,BTTS Yes,50.8,45.5,5.3,2.2,0.6112,True,53.5
+sr:match:68686132,Atletico Ottawa,Cavalry FC,Atletico Ottawa vs Cavalry FC,Canadian Premier League,2026-10-01 00:00,target__draw,Draw,26.6,23.5,3.1,4.25,0.5993,True,22.8
+sr:match:74764066,Japan,Ecuador,Japan vs Ecuador,Int. Friendly Games,2026-10-01 11:10,target__draw,Draw,30.5,27.0,3.5,3.7,0.5993,True,22.8
+sr:match:74705392,Al-Shamal,Muaither SC,Al-Shamal vs Muaither SC,QSL Cup,2026-10-01 18:15,target__draw,Draw,26.6,22.2,4.4,4.5,0.5993,True,22.8
+sr:match:74063662,CF Correcaminos Uat II,Heroes de Zaci FC,CF Correcaminos Uat II vs Heroes de Zaci FC,Liga Premier Serie A,2026-10-01 00:00,target__home_clean_sheet,Home Clean Sheet,45.9,40.8,5.1,2.45,0.6485,True,30.0
+sr:match:75176944,Jahn Regensburg,WSG Tirol,Jahn Regensburg vs WSG Tirol,Club Friendly Games,2026-10-01 13:00,target__home_clean_sheet,Home Clean Sheet,30.9,25.0,5.9,4.0,0.6485,True,30.0
+sr:match:74780516,USA,Brazil,USA vs Brazil,U20 Friendly Games,2026-10-01 17:00,target__home_clean_sheet,Home Clean Sheet,30.0,21.7,8.3,4.6,0.6485,True,30.0
+sr:match:75094078,Deportes Concepcion,CD O'Higgins,Deportes Concepcion vs CD O'Higgins,Copa Chile,2026-10-01 00:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:73665018,Chattanooga Red Wolves SC,Spokane Velocity FC,Chattanooga Red Wolves SC vs Spokane Velocity FC,USL League One,2026-10-01 00:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:75066650,New York Red Bulls,Saint Louis City SC,New York Red Bulls vs Saint Louis City SC,MLS,2026-10-01 00:30,target__home_win,Home Win,32.1,26.2,5.8,3.81,0.7212,True,44.5
+sr:match:73550408,Oriente Petrolero,The Strongest,Oriente Petrolero vs The Strongest,Copa Bolivia,2026-10-01 01:30,target__home_win,Home Win,67.3,55.9,11.5,1.79,0.7212,True,44.5
+sr:match:72334978,Atletico Nacional,CD Junior FC,Atletico Nacional vs CD Junior FC,Liga DIMAYOR,2026-10-01 02:00,target__home_win,Home Win,78.5,69.4,9.1,1.44,0.7212,True,44.5
+sr:match:67173002,Sacramento Republic FC,Las Vegas Lights,Sacramento Republic FC vs Las Vegas Lights,USL Championship,2026-10-01 03:00,target__home_win,Home Win,67.3,63.7,3.7,1.57,0.7212,True,44.5
+sr:match:75176944,Jahn Regensburg,WSG Tirol,Jahn Regensburg vs WSG Tirol,Club Friendly Games,2026-10-01 13:00,target__home_win,Home Win,47.3,41.7,5.6,2.4,0.7212,True,44.5
+sr:match:74557130,Malaysia,Singapore,Malaysia vs Singapore,FIFA ASEAN Cup,2026-10-01 13:30,target__home_win,Home Win,78.5,70.9,7.6,1.41,0.7212,True,44.5
+sr:match:74931204,Uzbekistan,Syria,Uzbekistan vs Syria,Int. Friendly Games,2026-10-01 15:00,target__home_win,Home Win,78.5,74.1,4.4,1.35,0.7212,True,44.5
+sr:match:74967992,Stuttgart,Greuther Furth,Stuttgart vs Greuther Furth,Club Friendly Games,2026-10-01 16:30,target__home_win,Home Win,78.5,75.2,3.3,1.33,0.7212,True,44.5
+sr:match:72284102,Bnei Yehuda Tel Aviv FC,Maccabi Ironi Kiryat Gat,Bnei Yehuda Tel Aviv FC vs Maccabi Ironi Kiryat Gat,National League,2026-10-01 17:00,target__home_win,Home Win,78.5,75.2,3.3,1.33,0.7212,True,44.5
+sr:match:74705392,Al-Shamal,Muaither SC,Al-Shamal vs Muaither SC,QSL Cup,2026-10-01 18:15,target__home_win,Home Win,78.5,70.4,8.1,1.42,0.7212,True,44.5
+sr:match:68932728,Israel,Kosovo,Israel vs Kosovo,UEFA Nations League,2026-10-01 19:45,target__home_win,Home Win,34.4,30.5,3.9,3.28,0.7212,True,44.5
+sr:match:74371814,Paris Saint-Germain W,Oud-Heverlee Leuven W,Paris Saint-Germain W vs Oud-Heverlee Leuven W,UEFA Champions League Women,2026-10-01 20:00,target__home_win,Home Win,89.5,85.5,4.0,1.17,0.7212,True,44.5
+sr:match:73747014,Envigado FC,Orsomarso SC,Envigado FC vs Orsomarso SC,Torneo DIMAYOR,2026-10-01 21:30,target__home_win,Home Win,67.3,59.2,8.2,1.69,0.7212,True,44.5
+sr:match:74982268,Alianza Lima,CD Palestino,Alianza Lima vs CD Palestino,Club Friendly Games,2026-10-01 02:00,target__ht_away_win,HT Away Win,33.7,26.3,7.4,3.8,0.6617,True,26.6
+sr:match:72284106,FC Ashdod,Maccabi Herzliya,FC Ashdod vs Maccabi Herzliya,National League,2026-10-01 17:00,target__ht_away_win,HT Away Win,21.7,18.5,3.1,5.4,0.6617,True,26.6
+sr:match:68931862,Denmark,Portugal,Denmark vs Portugal,UEFA Nations League,2026-10-01 19:45,target__ht_away_win,HT Away Win,42.4,37.7,4.7,2.65,0.6617,True,26.6
+sr:match:68932730,Ireland,Austria,Ireland vs Austria,UEFA Nations League,2026-10-01 19:45,target__ht_away_win,HT Away Win,42.4,34.5,7.9,2.9,0.6617,True,26.6
+sr:match:68932728,Israel,Kosovo,Israel vs Kosovo,UEFA Nations League,2026-10-01 19:45,target__ht_away_win,HT Away Win,42.4,34.5,7.9,2.9,0.6617,True,26.6
+sr:match:74297752,Panama,New Zealand,Panama vs New Zealand,Int. Friendly Games,2026-10-01 07:10,target__ht_draw,HT Draw,60.0,48.8,11.2,2.05,0.5904,True,39.0
+sr:match:75176944,Jahn Regensburg,WSG Tirol,Jahn Regensburg vs WSG Tirol,Club Friendly Games,2026-10-01 13:00,target__ht_draw,HT Draw,45.6,42.6,3.1,2.35,0.5904,True,39.0
+sr:match:74606364,Baniyas Club,Al Wahda FC (UAE),Baniyas Club vs Al Wahda FC (UAE),Pro League Cup,2026-10-01 16:45,target__ht_draw,HT Draw,45.6,42.6,3.1,2.35,0.5904,True,39.0
+sr:match:68932042,Wales,Norway,Wales vs Norway,UEFA Nations League,2026-10-01 19:45,target__ht_draw,HT Draw,47.6,37.0,10.5,2.7,0.5904,True,39.0
+sr:match:74374488,Union San Felipe,San Luis de Quillota,Union San Felipe vs San Luis de Quillota,Primera B,2026-09-30 22:00,target__ht_home_win,HT Home Win,24.6,20.0,4.6,5.0,0.6512,True,34.4
+sr:match:74557130,Malaysia,Singapore,Malaysia vs Singapore,FIFA ASEAN Cup,2026-10-01 13:30,target__ht_home_win,HT Home Win,58.1,54.3,3.7,1.84,0.6512,True,34.4
+sr:match:74931204,Uzbekistan,Syria,Uzbekistan vs Syria,Int. Friendly Games,2026-10-01 15:00,target__ht_home_win,HT Home Win,58.1,54.6,3.4,1.83,0.6512,True,34.4
+sr:match:74371812,FK Austria Wien,Inter Milano,FK Austria Wien vs Inter Milano,UEFA Champions League Women,2026-10-01 17:45,target__ht_home_win,HT Home Win,24.6,21.1,3.5,4.75,0.6512,True,34.4
+sr:match:74705392,Al-Shamal,Muaither SC,Al-Shamal vs Muaither SC,QSL Cup,2026-10-01 18:15,target__ht_home_win,HT Home Win,58.1,54.1,4.0,1.85,0.6512,True,34.4
+sr:match:68931862,Denmark,Portugal,Denmark vs Portugal,UEFA Nations League,2026-10-01 19:45,target__ht_home_win,HT Home Win,29.5,25.6,3.8,3.9,0.6512,True,34.4
+sr:match:74374488,Union San Felipe,San Luis de Quillota,Union San Felipe vs San Luis de Quillota,Primera B,2026-09-30 22:00,target__ht_over_0_5_goals,HT Over 0.5,81.2,71.9,9.3,1.39,0.6199,True,72.8
+sr:match:67172994,Brooklyn FC,Detroit City FC,Brooklyn FC vs Detroit City FC,USL Championship,2026-10-01 00:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,70.9,6.5,1.41,0.6199,True,72.8
+sr:match:74853668,Montevideo City Torque,CA Penarol Montevideo,Montevideo City Torque vs CA Penarol Montevideo,Primera Division,2026-10-01 00:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,70.9,6.5,1.41,0.6199,True,72.8
+sr:match:74931204,Uzbekistan,Syria,Uzbekistan vs Syria,Int. Friendly Games,2026-10-01 15:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,72.5,4.9,1.38,0.6199,True,72.8
+sr:match:68932072,Azerbaijan,Liechtenstein,Azerbaijan vs Liechtenstein,UEFA Nations League,2026-10-01 17:00,target__ht_over_0_5_goals,HT Over 0.5,81.2,78.1,3.1,1.28,0.6199,True,72.8
+sr:match:74372502,Guinea,Kenya,Guinea vs Kenya,Africa Cup of Nations Qualification,2026-10-01 17:00,target__ht_over_0_5_goals,HT Over 0.5,64.5,60.6,3.9,1.65,0.6199,True,72.8
+sr:match:68931862,Denmark,Portugal,Denmark vs Portugal,UEFA Nations League,2026-10-01 19:45,target__ht_over_0_5_goals,HT Over 0.5,79.4,74.6,4.8,1.34,0.6199,True,72.8
+sr:match:68932728,Israel,Kosovo,Israel vs Kosovo,UEFA Nations League,2026-10-01 19:45,target__ht_over_0_5_goals,HT Over 0.5,77.4,69.9,7.5,1.43,0.6199,True,72.8
+sr:match:68932810,Malta,Gibraltar,Malta vs Gibraltar,UEFA Nations League,2026-10-01 19:45,target__ht_over_0_5_goals,HT Over 0.5,78.0,70.9,7.0,1.41,0.6199,True,72.8
+sr:match:74374488,Union San Felipe,San Luis de Quillota,Union San Felipe vs San Luis de Quillota,Primera B,2026-09-30 22:00,target__ht_over_1_5_goals,HT Over 1.5,40.2,35.7,4.5,2.8,0.6269,True,38.8
+sr:match:67172996,FC Tulsa,New Mexico United,FC Tulsa vs New Mexico United,USL Championship,2026-10-01 01:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.8,5.9,2.45,0.6269,True,38.8
+sr:match:74557130,Malaysia,Singapore,Malaysia vs Singapore,FIFA ASEAN Cup,2026-10-01 13:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72284100,Hapoel Ra`anana FC,FC Kafr Qasim,Hapoel Ra`anana FC vs FC Kafr Qasim,National League,2026-10-01 17:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,39.2,7.5,2.55,0.6269,True,38.8
+sr:match:68931524,Germany,Serbia,Germany vs Serbia,UEFA Nations League,2026-10-01 19:45,target__ht_over_1_5_goals,HT Over 1.5,62.3,50.0,12.3,2.0,0.6269,True,38.8
+sr:match:73221078,"Virgin Islands, U.S.",Saint-Martin,"Virgin Islands, U.S. vs Saint-Martin",CONCACAF Nations League,2026-10-01 21:00,target__ht_over_1_5_goals,HT Over 1.5,62.3,50.0,12.3,2.0,0.6269,True,38.8
+sr:match:74374488,Union San Felipe,San Luis de Quillota,Union San Felipe vs San Luis de Quillota,Primera B,2026-09-30 22:00,target__over_1_5_goals,Over 1.5 Goals,81.1,75.2,5.9,1.33,0.6116,True,77.7
+sr:match:73075304,CD Aguila San Miguel,Inter Santa Tecla,CD Aguila San Miguel vs Inter Santa Tecla,Primera Division,2026-09-30 22:30,target__over_1_5_goals,Over 1.5 Goals,78.0,74.1,3.9,1.35,0.6116,True,77.7
+sr:match:67172994,Brooklyn FC,Detroit City FC,Brooklyn FC vs Detroit City FC,USL Championship,2026-10-01 00:00,target__over_1_5_goals,Over 1.5 Goals,81.1,74.6,6.5,1.34,0.6116,True,77.7
+sr:match:74853668,Montevideo City Torque,CA Penarol Montevideo,Montevideo City Torque vs CA Penarol Montevideo,Primera Division,2026-10-01 00:00,target__over_1_5_goals,Over 1.5 Goals,80.5,75.2,5.3,1.33,0.6116,True,77.7
+sr:match:74063662,CF Correcaminos Uat II,Heroes de Zaci FC,CF Correcaminos Uat II vs Heroes de Zaci FC,Liga Premier Serie A,2026-10-01 00:00,target__over_1_5_goals,Over 1.5 Goals,80.5,74.1,6.4,1.35,0.6116,True,77.7
+sr:match:74764066,Japan,Ecuador,Japan vs Ecuador,Int. Friendly Games,2026-10-01 11:10,target__over_1_5_goals,Over 1.5 Goals,79.2,72.5,6.7,1.38,0.6116,True,77.7
+sr:match:75107658,Mombasa United FC,Kariobangi Sharks,Mombasa United FC vs Kariobangi Sharks,Premier League,2026-10-01 12:00,target__over_1_5_goals,Over 1.5 Goals,70.6,64.9,5.6,1.54,0.6116,True,77.7
+sr:match:74931204,Uzbekistan,Syria,Uzbekistan vs Syria,Int. Friendly Games,2026-10-01 15:00,target__over_1_5_goals,Over 1.5 Goals,81.1,75.2,5.9,1.33,0.6116,True,77.7
+sr:match:74372502,Guinea,Kenya,Guinea vs Kenya,Africa Cup of Nations Qualification,2026-10-01 17:00,target__over_1_5_goals,Over 1.5 Goals,80.5,60.6,19.9,1.65,0.6116,True,77.7
+sr:match:58208963,North Macedonia,Montenegro,North Macedonia vs Montenegro,"U21 UEFA European Championship, Qualification",2026-10-01 17:00,target__over_1_5_goals,Over 1.5 Goals,80.5,75.2,5.3,1.33,0.6116,True,77.7
+sr:match:72284100,Hapoel Ra`anana FC,FC Kafr Qasim,Hapoel Ra`anana FC vs FC Kafr Qasim,National League,2026-10-01 17:00,target__over_1_5_goals,Over 1.5 Goals,84.3,79.4,4.9,1.26,0.6116,True,77.7
+sr:match:68932730,Ireland,Austria,Ireland vs Austria,UEFA Nations League,2026-10-01 19:45,target__over_1_5_goals,Over 1.5 Goals,80.5,71.9,8.5,1.39,0.6116,True,77.7
+sr:match:68932728,Israel,Kosovo,Israel vs Kosovo,UEFA Nations League,2026-10-01 19:45,target__over_1_5_goals,Over 1.5 Goals,80.5,76.9,3.6,1.3,0.6116,True,77.7
+sr:match:68932810,Malta,Gibraltar,Malta vs Gibraltar,UEFA Nations League,2026-10-01 19:45,target__over_1_5_goals,Over 1.5 Goals,84.3,74.6,9.7,1.34,0.6116,True,77.7
+sr:match:74598542,Cerro Porteno,Rubio Nu,Cerro Porteno vs Rubio Nu,Copa Paraguay,2026-09-30 23:30,target__over_2_5_goals,Over 2.5 Goals,52.5,47.6,4.9,2.1,0.641,True,56.0
+sr:match:67172994,Brooklyn FC,Detroit City FC,Brooklyn FC vs Detroit City FC,USL Championship,2026-10-01 00:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:74996504,Argentina,Bolivia,Argentina vs Bolivia,Int. Friendly Games,2026-10-01 01:00,target__over_2_5_goals,Over 2.5 Goals,86.7,78.7,7.9,1.27,0.641,True,56.0
+sr:match:75028434,France,Turkiye,France vs Turkiye,U19 Friendly Games,2026-10-01 11:45,target__over_2_5_goals,Over 2.5 Goals,81.2,75.2,6.0,1.33,0.641,True,56.0
+sr:match:68932072,Azerbaijan,Liechtenstein,Azerbaijan vs Liechtenstein,UEFA Nations League,2026-10-01 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,62.1,5.5,1.61,0.641,True,56.0
+sr:match:74371810,HB KOEGE W,Servette Geneva W,HB KOEGE W vs Servette Geneva W,UEFA Champions League Women,2026-10-01 17:45,target__over_2_5_goals,Over 2.5 Goals,67.6,64.1,3.5,1.56,0.641,True,56.0
+sr:match:68932810,Malta,Gibraltar,Malta vs Gibraltar,UEFA Nations League,2026-10-01 19:45,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:58209039,Northern Ireland,Georgia,Northern Ireland vs Georgia,"U21 UEFA European Championship, Qualification",2026-10-01 19:45,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:74374488,Union San Felipe,San Luis de Quillota,Union San Felipe vs San Luis de Quillota,Primera B,2026-09-30 22:00,target__over_3_5_goals,Over 3.5 Goals,40.1,28.6,11.5,3.5,0.6631,True,35.0
+sr:match:73665018,Chattanooga Red Wolves SC,Spokane Velocity FC,Chattanooga Red Wolves SC vs Spokane Velocity FC,USL League One,2026-10-01 00:00,target__over_3_5_goals,Over 3.5 Goals,40.0,33.3,6.7,3.0,0.6631,True,35.0
+sr:match:74996504,Argentina,Bolivia,Argentina vs Bolivia,Int. Friendly Games,2026-10-01 01:00,target__over_3_5_goals,Over 3.5 Goals,70.6,58.8,11.8,1.7,0.6631,True,35.0
+sr:match:67172996,FC Tulsa,New Mexico United,FC Tulsa vs New Mexico United,USL Championship,2026-10-01 01:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:73075306,Alianza FC San Salvador,CD Platense Municipal Zacatecoluca,Alianza FC San Salvador vs CD Platense Municipal Zacatecoluca,Primera Division,2026-10-01 01:00,target__over_3_5_goals,Over 3.5 Goals,41.3,33.9,7.4,2.95,0.6631,True,35.0
+sr:match:67173002,Sacramento Republic FC,Las Vegas Lights,Sacramento Republic FC vs Las Vegas Lights,USL Championship,2026-10-01 03:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:74978068,Slovakia,Switzerland,Slovakia vs Switzerland,U19 Friendly Games,2026-10-01 10:30,target__over_3_5_goals,Over 3.5 Goals,41.3,36.4,4.9,2.75,0.6631,True,35.0
+sr:match:75028434,France,Turkiye,France vs Turkiye,U19 Friendly Games,2026-10-01 11:45,target__over_3_5_goals,Over 3.5 Goals,58.2,54.3,3.8,1.84,0.6631,True,35.0
+sr:match:74606360,Dubai United FC,Hatta SC,Dubai United FC vs Hatta SC,Pro League Cup,2026-10-01 14:15,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:74401584,Hapoel Bnei Jat United,Maccabi Nujeidat Ahmad,Hapoel Bnei Jat United vs Maccabi Nujeidat Ahmad,Liga Alef,2026-10-01 14:30,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:75028436,Croatia,Italy,Croatia vs Italy,U19 Friendly Games,2026-10-01 14:30,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:74931204,Uzbekistan,Syria,Uzbekistan vs Syria,Int. Friendly Games,2026-10-01 15:00,target__over_3_5_goals,Over 3.5 Goals,41.3,28.6,12.7,3.5,0.6631,True,35.0
+sr:match:58209037,Greece,Latvia,Greece vs Latvia,"U21 UEFA European Championship, Qualification",2026-10-01 16:00,target__over_3_5_goals,Over 3.5 Goals,54.5,51.3,3.2,1.95,0.6631,True,35.0
+sr:match:58208963,North Macedonia,Montenegro,North Macedonia vs Montenegro,"U21 UEFA European Championship, Qualification",2026-10-01 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,28.6,11.5,3.5,0.6631,True,35.0
+sr:match:72284102,Bnei Yehuda Tel Aviv FC,Maccabi Ironi Kiryat Gat,Bnei Yehuda Tel Aviv FC vs Maccabi Ironi Kiryat Gat,National League,2026-10-01 17:00,target__over_3_5_goals,Over 3.5 Goals,50.3,42.6,7.8,2.35,0.6631,True,35.0
+sr:match:72284100,Hapoel Ra`anana FC,FC Kafr Qasim,Hapoel Ra`anana FC vs FC Kafr Qasim,National League,2026-10-01 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,33.9,6.2,2.95,0.6631,True,35.0
+sr:match:72284108,Maccabi Achi Nazareth FC,Ironi Modiin,Maccabi Achi Nazareth FC vs Ironi Modiin,National League,2026-10-01 17:00,target__over_3_5_goals,Over 3.5 Goals,41.3,35.1,6.2,2.85,0.6631,True,35.0
+sr:match:72284112,Maccabi Kabilio Jaffa,Hapoel Acre FC,Maccabi Kabilio Jaffa vs Hapoel Acre FC,National League,2026-10-01 17:00,target__over_3_5_goals,Over 3.5 Goals,41.3,37.7,3.5,2.65,0.6631,True,35.0
+sr:match:74402004,Maccabi Ironi Sderot,Hapoel Azor FC,Maccabi Ironi Sderot vs Hapoel Azor FC,Liga Alef,2026-10-01 17:00,target__over_3_5_goals,Over 3.5 Goals,40.0,28.6,11.4,3.5,0.6631,True,35.0
+sr:match:74780516,USA,Brazil,USA vs Brazil,U20 Friendly Games,2026-10-01 17:00,target__over_3_5_goals,Over 3.5 Goals,50.3,43.5,6.8,2.3,0.6631,True,35.0
+sr:match:74401594,Hapoel Tirat Hacarmel,Maccabi Um El Fahem,Hapoel Tirat Hacarmel vs Maccabi Um El Fahem,Liga Alef,2026-10-01 17:30,target__over_3_5_goals,Over 3.5 Goals,40.0,33.3,6.7,3.0,0.6631,True,35.0
+sr:match:74401592,Hapoel Umm AL Fahm,Hapoel Karmiel FC,Hapoel Umm AL Fahm vs Hapoel Karmiel FC,Liga Alef,2026-10-01 17:30,target__over_3_5_goals,Over 3.5 Goals,41.3,34.5,6.8,2.9,0.6631,True,35.0
+sr:match:74371812,FK Austria Wien,Inter Milano,FK Austria Wien vs Inter Milano,UEFA Champions League Women,2026-10-01 17:45,target__over_3_5_goals,Over 3.5 Goals,40.0,33.9,6.1,2.95,0.6631,True,35.0
+sr:match:74371810,HB KOEGE W,Servette Geneva W,HB KOEGE W vs Servette Geneva W,UEFA Champions League Women,2026-10-01 17:45,target__over_3_5_goals,Over 3.5 Goals,47.6,41.7,6.0,2.4,0.6631,True,35.0
+sr:match:68932730,Ireland,Austria,Ireland vs Austria,UEFA Nations League,2026-10-01 19:45,target__over_3_5_goals,Over 3.5 Goals,40.0,25.0,15.0,4.0,0.6631,True,35.0
+sr:match:68932810,Malta,Gibraltar,Malta vs Gibraltar,UEFA Nations League,2026-10-01 19:45,target__over_3_5_goals,Over 3.5 Goals,40.1,27.8,12.3,3.6,0.6631,True,35.0
+sr:match:74371814,Paris Saint-Germain W,Oud-Heverlee Leuven W,Paris Saint-Germain W vs Oud-Heverlee Leuven W,UEFA Champions League Women,2026-10-01 20:00,target__over_3_5_goals,Over 3.5 Goals,54.5,50.0,4.5,2.0,0.6631,True,35.0
+sr:match:74533068,Sporting Cristal,Asociacion Deportiva Tarma,Sporting Cristal vs Asociacion Deportiva Tarma,Copa de la Liga,2026-10-01 21:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:74374488,Union San Felipe,San Luis de Quillota,Union San Felipe vs San Luis de Quillota,Primera B,2026-09-30 22:00,target__over_4_5_goals,Over 4.5 Goals,22.4,15.4,7.0,6.5,0.6327,True,19.9
+sr:match:72334978,Atletico Nacional,CD Junior FC,Atletico Nacional vs CD Junior FC,Liga DIMAYOR,2026-10-01 02:00,target__over_4_5_goals,Over 4.5 Goals,25.0,21.7,3.3,4.6,0.6327,True,19.9
+sr:match:74401584,Hapoel Bnei Jat United,Maccabi Nujeidat Ahmad,Hapoel Bnei Jat United vs Maccabi Nujeidat Ahmad,Liga Alef,2026-10-01 14:30,target__over_4_5_goals,Over 4.5 Goals,31.1,17.2,13.8,5.8,0.6327,True,19.9
+sr:match:72284100,Hapoel Ra`anana FC,FC Kafr Qasim,Hapoel Ra`anana FC vs FC Kafr Qasim,National League,2026-10-01 17:00,target__over_4_5_goals,Over 4.5 Goals,31.1,18.5,12.5,5.4,0.6327,True,19.9
+sr:match:72284108,Maccabi Achi Nazareth FC,Ironi Modiin,Maccabi Achi Nazareth FC vs Ironi Modiin,National League,2026-10-01 17:00,target__over_4_5_goals,Over 4.5 Goals,25.0,19.6,5.4,5.1,0.6327,True,19.9
+sr:match:74402004,Maccabi Ironi Sderot,Hapoel Azor FC,Maccabi Ironi Sderot vs Hapoel Azor FC,Liga Alef,2026-10-01 17:00,target__over_4_5_goals,Over 4.5 Goals,22.4,15.2,7.2,6.6,0.6327,True,19.9
+sr:match:74780516,USA,Brazil,USA vs Brazil,U20 Friendly Games,2026-10-01 17:00,target__over_4_5_goals,Over 4.5 Goals,31.1,25.6,5.4,3.9,0.6327,True,19.9
+sr:match:74401594,Hapoel Tirat Hacarmel,Maccabi Um El Fahem,Hapoel Tirat Hacarmel vs Maccabi Um El Fahem,Liga Alef,2026-10-01 17:30,target__over_4_5_goals,Over 4.5 Goals,22.4,17.9,4.5,5.6,0.6327,True,19.9
+sr:match:74401592,Hapoel Umm AL Fahm,Hapoel Karmiel FC,Hapoel Umm AL Fahm vs Hapoel Karmiel FC,Liga Alef,2026-10-01 17:30,target__over_4_5_goals,Over 4.5 Goals,22.4,19.0,3.3,5.25,0.6327,True,19.9
+sr:match:74371816,Manchester City WFC,Real Madrid W,Manchester City WFC vs Real Madrid W,UEFA Champions League Women,2026-10-01 20:00,target__over_4_5_goals,Over 4.5 Goals,31.1,26.7,4.4,3.75,0.6327,True,19.9
+sr:match:74996504,Argentina,Bolivia,Argentina vs Bolivia,Int. Friendly Games,2026-10-01 01:00,target__over_6_5_corners,Corners Over 6.5,83.8,14.1,69.7,7.1,0.5615,True,80.5
