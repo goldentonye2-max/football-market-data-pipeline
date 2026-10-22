@@ -1,0 +1,56 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-18
+  Generated : 2026-10-18 02:18:45
+  Legs      : 20
+  Sorted by : edge
+  Combined odds : 50,351,936.40
+======================================================================
+
+  BOOKING CODE:  LUQ5S4
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    18 16  Vaalerenga IF vs SK Brann           HT Away Win            3.00  + 26.7%  0.6617
+  2    18 13  FK Skopje vs Shkendija Tetovo       HT Over 1.5            2.40  + 20.6%  0.6269
+  3    18 19  Nacao SC vs Blumenau EC SC          Away Win               1.73  + 16.5%  0.7237
+  4    18 13  Pattani FC vs Buriram United        HT Over 1.5            2.10  + 14.6%  0.6269
+  5    18 11  KF Bashkimi Kumanovo 1947 vs FK Si  HT Over 1.5            2.25  + 14.5%  0.6269
+  6    18 15  FK Kapaz vs Zira FK                 HT Away Win            2.45  + 14.3%  0.6617
+  7    18 08  Machida Zelvia vs Avispa Fukuoka    HT Over 1.5            3.00  + 13.4%  0.6269
+  8    18 14  Charlton Athletic vs Manchester Un  HT Over 1.5            2.20  + 13.4%  0.6269
+  9    18 11  Udinese vs Lecce                    HT Over 1.5            3.00  + 13.4%  0.6269
+  10   18 14  PAE PS Kalamata vs OFI Crete        Away Win               2.70  + 13.0%  0.7237
+  11   18 15  Paide Linnameeskond vs JK Narva Tr  HT Over 1.5            2.15  + 12.4%  0.6269
+  12   18 14  Bayer Leverkusen vs Freiburg        HT Over 1.5            2.15  + 12.4%  0.6269
+  13   18 00  New England Revolution vs Chicago   HT Over 1.5            2.15  + 12.4%  0.6269
+  14   18 21  Alianza Atletico vs Universitario   HT Over 1.5            2.90  + 12.3%  0.6269
+  15   18 16  Lorient vs Monaco                   HT Over 1.5            2.85  + 11.7%  0.6269
+  16   18 00  Atlanta United FC vs Inter Miami C  HT Away Win            2.30  + 11.7%  0.6617
+  17   18 12  Vasalunds IF vs AFC Eskilstuna      HT Over 1.5            2.10  + 11.3%  0.6269
+  18   18 16  Hoedd IL vs Raufoss IL              HT Over 1.5            2.10  + 11.3%  0.6269
+  19   18 14  Albion FC vs Montevideo City Torqu  HT Over 1.5            2.80  + 11.0%  0.6269
+  20   18 16  Nottingham Forest vs Arsenal        HT Over 1.5            2.80  + 11.0%  0.6269
+
+======================================================================
+  Tournament breakdown:
+      2x  1. MFL
+      2x  Premier League
+      2x  MLS
+      1x  Eliteserien
+      1x  Copa Santa Catarina
+      1x  Thai League 1
+      1x  J1 League
+      1x  Super League Women
+      1x  Serie A
+      1x  Super League
+      1x  Premium Liiga
+      1x  Bundesliga
+      1x  Liga 1
+      1x  Ligue 1
+      1x  Ettan
+      1x  1st Division
+      1x  Primera Division
+
+======================================================================

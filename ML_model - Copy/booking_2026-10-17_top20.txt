@@ -1,0 +1,55 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-17
+  Generated : 2026-10-17 03:44:08
+  Legs      : 20
+  Sorted by : edge
+  Combined odds : 6,085,812.08
+======================================================================
+
+  BOOKING CODE:  M5Q1NW
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    17 15  Wrexham AFC vs Preston North End    HT Over 1.5            2.70  + 21.9%  0.6269
+  2    17 20  Paris Saint-Germain W vs Olympique  HT Over 1.5            2.65  + 21.2%  0.6269
+  3    17 15  Swansea City vs West Ham            HT Away Win            2.85  + 18.9%  0.6617
+  4    17 14  Schalke vs Mainz                    HT Away Win            2.80  + 18.3%  0.6617
+  5    17 11  Legia Warszawa II vs GKS Tychy      Away Win               1.77  + 17.8%  0.7237
+  6    17 19  Sligo Rovers FC vs Dundalk FC       Away Win               1.76  + 17.5%  0.7237
+  7    17 13  Espanyol vs Atletico Madrid         Away Win               1.75  + 17.2%  0.7237
+  8    17 18  KAA Gent vs Standard Liege          Away Win               1.74  + 16.9%  0.7237
+  9    17 06  Tokyo Verdy vs FC Tokyo             Away Win               1.71  + 15.9%  0.7237
+  10   17 17  Fenerbahce Istanbul vs Alanyaspor   HT Over 1.5            2.25  + 14.5%  0.6269
+  11   17 12  FK BSK Banja Luka vs FK Zeljeznica  HT Over 1.5            2.95  + 12.8%  0.6269
+  12   17 13  FC Ingolstadt 04 vs Rot-Weiss Esse  HT Over 1.5            2.15  + 12.4%  0.6269
+  13   17 15  Villarreal vs Elche CF              HT Over 1.5            2.15  + 12.4%  0.6269
+  14   17 16  PFK Beroe Stara Zagora vs Ludogore  HT Over 1.5            2.15  + 12.4%  0.6269
+  15   17 15  SC Vianense vs Leixoes SC           HT Away Win            2.10  + 12.2%  0.6617
+  16   17 15  Plymouth Argyle vs Huddersfield     Away Win               2.60  + 11.5%  0.7237
+  17   17 15  Man City vs Ipswich Town            HT Over 1.5            1.97  + 11.5%  0.6269
+  18   17 06  Sanfrecce Hiroshima vs Kyoto Sanga  HT Over 1.5            2.10  + 11.3%  0.6269
+  19   17 16  KSK Heist vs Royal Antwerp FC       HT Over 1.5            2.10  + 11.3%  0.6269
+  20   17 14  Genclerbirligi SK vs Galatasaray I  HT Over 1.5            2.10  + 11.3%  0.6269
+
+======================================================================
+  Tournament breakdown:
+      2x  Championship
+      2x  LaLiga
+      2x  J1 League
+      2x  Super Lig
+      1x  Premiere Ligue, Women
+      1x  Bundesliga
+      1x  II Liga
+      1x  Premier Division
+      1x  Super League, Women
+      1x  Premijer Liga
+      1x  3. Liga
+      1x  Bulgarian Cup
+      1x  Taca de Portugal
+      1x  League One
+      1x  Premier League
+      1x  Beker van Belgie
+
+======================================================================

@@ -1,0 +1,31 @@
+======================================================================
+  OVERFIT ACCUMULATOR — 2026-10-18
+  Generated : 2026-10-18 02:10:38
+  Legs      : 5
+  Sorted by : edge
+  Combined odds : 17.34
+  Filter    : HT Over 1.5 edge 8-12% | Away Win & HT Away Win edge 12%+
+              odds 1.51-1.70 and 1.91-2.00
+======================================================================
+
+  BOOKING CODE:  H5W4M1
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    18 16  Nottingham Forest vs Arsenal        Away Win               1.65  + 13.7%  0.7237
+  2    18 10  FK Teplice B vs SK Zapy             Away Win               1.64  + 13.4%  0.7237
+  3    18 14  Khor Fakkan Club vs Al Wahda FC (U  Away Win               1.61  + 12.2%  0.7237
+  4    18 18  SV Meppen 1912 vs TSV Havelse       HT Over 1.5            2.00  +  8.9%  0.6269
+  5    18 19  NEC Nijmegen vs Fortuna Sittard     HT Over 1.5            1.99  +  8.7%  0.6269
+
+======================================================================
+  Tournament breakdown:
+      1x  Premier League
+      1x  CFL
+      1x  Arabian Gulf League
+      1x  3. Liga
+      1x  Eredivisie
+
+======================================================================

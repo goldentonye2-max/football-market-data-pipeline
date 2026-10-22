@@ -1,0 +1,1052 @@
+======================================================================
+  HT OVER 1.5 GOALS — DEEP DIVE
+  Shows actual HT score for every pick, grouped by edge tier
+  Generated : 2026-10-17 04:33
+  Period    : 2026-08-30 to 2026-10-16
+  Total settled picks: 908
+======================================================================
+
+======================================================================
+  OVERALL HT SCORE DISTRIBUTION
+======================================================================
+  Under 1.5 HT (0 or 1 goal)  : 534  (58.8%)
+  Over 1.5 HT  (2+ goals)      : 374  (41.2%)
+
+  HT Score      Count      %
+  ------------ ------ ------
+  0.0-0.0         230  25.3%
+  1.0-0.0         168  18.5%
+  0.0-1.0         136  15.0%
+  1.0-1.0         105  11.6%
+  2.0-0.0          68   7.5%
+  0.0-2.0          40   4.4%
+  2.0-1.0          38   4.2%
+  1.0-2.0          37   4.1%
+  3.0-0.0          29   3.2%
+  0.0-3.0          16   1.8%
+  3.0-1.0           9   1.0%
+  1.0-3.0           7   0.8%
+  4.0-0.0           5   0.6%
+  4.0-1.0           4   0.4%
+  2.0-2.0           4   0.4%
+  5.0-0.0           3   0.3%
+  3.0-4.0           2   0.2%
+  2.0-3.0           2   0.2%
+  5.0-2.0           1   0.1%
+  2.0-4.0           1   0.1%
+
+======================================================================
+  EDGE TIER: <8%  (586 picks)
+======================================================================
+  Win rate : 38.7%   ROI : -13.7%
+  Under 1.5 HT : 359 (61.3%)  ← these are LOSSES
+  Over 1.5 HT  : 227  (38.7%)  ← these are WINS
+
+  HT Score      Count      %  Outcome
+  ------------ ------ ------  -------
+  0.0-0.0         148  25.3%  UNDER (LOST)
+  1.0-0.0         114  19.5%  UNDER (LOST)
+  0.0-1.0          97  16.6%  UNDER (LOST)
+  1.0-1.0          73  12.5%  UNDER (LOST)
+  2.0-0.0          38   6.5%  UNDER (LOST)
+  2.0-1.0          28   4.8%  UNDER (LOST)
+  0.0-2.0          22   3.8%  UNDER (LOST)
+  1.0-2.0          18   3.1%  UNDER (LOST)
+  3.0-0.0          16   2.7%  UNDER (LOST)
+  0.0-3.0           9   1.5%  UNDER (LOST)
+  3.0-1.0           6   1.0%  UNDER (LOST)
+  1.0-3.0           4   0.7%  UNDER (LOST)
+  4.0-1.0           3   0.5%  UNDER (LOST)
+  5.0-0.0           3   0.5%  UNDER (LOST)
+  5.0-2.0           1   0.2%  UNDER (LOST)
+
+  KEY QUESTION: When edge is <8%, HT Under 1.5 happens 61.3% of the time.
+
+  ALL PICKS IN THIS TIER (586 picks):
+  Date         Match                              Edge   Odds    HT Result  
+  ------------ -------------------------------- ------ ------ ----- --------
+  2026-08-30   Eyupspor vs Alanyaspor             8.0%   3.10 1.0-1.0 WON     
+  2026-08-30   Levanger FK vs Lorenskog IF        7.6%   1.95 2.0-0.0 WON     
+  2026-08-30   FC Famalicao vs Gil Vicente Bar    7.6%   3.25 0.0-0.0 LOST    
+  2026-08-30   Freiburg vs Werder Bremen          7.5%   2.55 2.0-0.0 WON     
+  2026-08-30   Augsburg vs Schalke                7.5%   2.55 1.0-0.0 LOST    
+  2026-08-30   Istanbul BB vs Kasimpasa Istanb    7.5%   2.55 1.0-0.0 LOST    
+  2026-08-30   Brattvaag vs IL Sandviken          7.4%   1.94 2.0-2.0 WON     
+  2026-08-30   FK Bospor Bohumin vs Pusta Polo    7.3%   1.82 2.0-1.0 WON     
+  2026-08-30   Sunderland AFC vs Fulham           6.9%   3.00 0.0-0.0 LOST    
+  2026-08-30   Chelsea vs Brighton                6.7%   2.50 3.0-1.0 WON     
+  2026-08-30   FK Zemun vs Crvena Zvezda          6.7%   1.80 0.0-0.0 LOST    
+  2026-08-30   Bodoe/Glimt vs Rosenborg BK        6.5%   1.91 1.0-1.0 WON     
+  2026-08-30   Sportivo Las Parejas vs CA Sarm    6.3%   2.95 2.0-0.0 WON     
+  2026-08-30   Feyenoord vs ADO Den Haag          6.1%   1.78 0.0-1.0 LOST    
+  2026-08-30   NSI Runavik vs AB Argir            6.0%   1.89 0.0-1.0 LOST    
+  2026-08-30   PFC Montana 1921 vs Gorna Oryah    5.9%   2.45 1.0-0.0 LOST    
+  2026-08-30   US Pergolettese Crema vs Union     5.7%   2.90 0.0-0.0 LOST    
+  2026-08-30   Lake Macquarie City FC vs Broad    5.4%   1.76 1.0-0.0 LOST    
+  2026-08-30   Ogre United vs FC RFS              5.4%   1.76 0.0-1.0 LOST    
+  2026-08-30   FK Mandalskameratene vs Varhaug    5.1%   1.75 0.0-0.0 LOST    
+  2026-08-30   OKS Swit Szczecin vs GKS Tychy     5.1%   2.40 1.0-1.0 WON     
+  2026-08-30   12 de Junio de Villa Hayes vs C    5.1%   2.40 0.0-0.0 LOST    
+  2026-08-30   FA Siauliai vs FK Suduva Marija    5.1%   2.40 0.0-1.0 LOST    
+  2026-08-30   Ranheim vs Odds BK                 5.1%   1.75 2.0-4.0 WON     
+  2026-08-30   CS Cartagines vs CS Herediano      5.1%   3.00 1.0-0.0 LOST    
+  2026-08-30   Skedsmo vs Tromsoe 2               5.1%   1.75 1.0-0.0 LOST    
+  2026-08-30   Deportivo Llacuabamba vs Union     5.1%   3.00 0.0-1.0 LOST    
+  2026-08-30   CA 9 de Julio Rafaela vs CAS De    5.1%   2.85 1.0-0.0 LOST    
+  2026-08-30   Columbus Crew vs New England Re    5.1%   2.40 1.0-2.0 WON     
+  2026-08-30   Grei Kvinner Elite FK vs Klepp     4.9%   1.85 2.0-0.0 WON     
+  2026-08-30   Deportivo Moron vs CA San Migue    4.9%   3.70 0.0-0.0 LOST    
+  2026-08-30   Skanstes SK vs FK Tukums 2000/T    4.6%   1.84 5.0-2.0 WON     
+  2026-08-30   Umea FC vs Vasalunds IF            4.5%   2.20 2.0-1.0 WON     
+  2026-08-30   Szentlorinc SE vs FC Ajka          4.5%   2.95 0.0-1.0 LOST    
+  2026-08-30   NK Brinje Grosuplje vs NK Celje    4.5%   2.20 1.0-1.0 WON     
+  2026-08-30   SWQ Thunder FC vs Pine Hills       4.3%   1.83 1.0-1.0 WON     
+  2026-08-30   FC St. Gallen 1879 vs FC Thun      4.3%   1.83 0.0-1.0 LOST    
+  2026-08-30   Hvidovre IF vs FC Fredericia       4.2%   2.35 0.0-1.0 LOST    
+  2026-08-30   Kisvarda FC vs WKW ETO FC Gyor     4.2%   2.35 1.0-1.0 WON     
+  2026-08-30   Man Utd vs Ipswich Town            4.2%   2.35 1.0-1.0 WON     
+  2026-08-30   Washington Spirit vs Bay FC        4.2%   2.35 1.0-0.0 LOST    
+  2026-08-30   Casa Pia Lisbon vs Moreirense F    4.2%   3.60 0.0-1.0 LOST    
+  2026-08-30   AE Kifisia FC vs AEK Athens        4.2%   2.35 0.0-0.0 LOST    
+  2026-08-30   Widzew Lodz vs KKS Lech Poznan     4.2%   2.35 1.0-2.0 WON     
+  2026-08-30   Nafta 1903 Lendava vs NK Maribo    4.2%   2.35 1.0-2.0 WON     
+  2026-08-30   IFK Haninge vs Lindo FF            4.1%   1.72 3.0-1.0 WON     
+  2026-08-30   RC Deportivo De La Coruna vs Va    4.1%   3.50 2.0-1.0 WON     
+  2026-08-30   Kochi United SC vs Roasso Kumam    3.9%   2.90 0.0-2.0 WON     
+  2026-08-30   Jeju SK FC vs Daejeon Citizen F    3.9%   2.90 1.0-0.0 LOST    
+  2026-08-30   FK Arsenal Dzerzhinsk vs FC Tor    3.9%   2.75 1.0-0.0 LOST    
+  2026-08-30   Melbourne Victory vs Port Melbo    3.8%   1.71 1.0-0.0 LOST    
+  2026-08-30   FK Rubin Kazan vs FC Dynamo-Mak    3.4%   3.50 0.0-0.0 LOST    
+  2026-08-30   FK Buducnost vs FK Bokelj Kotor    3.4%   3.50 0.0-0.0 LOST    
+  2026-08-30   Lazio vs Genoa                     3.4%   3.50 1.0-0.0 LOST    
+  2026-08-30   Maitland FC vs Edgeworth FC        3.3%   2.30 1.0-0.0 LOST    
+  2026-08-30   Miedz Legnica vs Warta Poznan      3.3%   2.30 1.0-1.0 WON     
+  2026-08-30   1. FC Magdeburg vs Holstein Kie    3.3%   2.30 0.0-0.0 LOST    
+  2026-08-30   Lyngby BK vs Odense Boldklub       3.3%   2.30 0.0-0.0 LOST    
+  2026-08-30   Mansfield Town vs Luton            3.3%   2.30 3.0-0.0 WON     
+  2026-08-30   Real Madrid vs Malaga CF           3.3%   1.80 3.0-0.0 WON     
+  2026-08-30   Tromsoe IL vs Sarpsborg 08         3.3%   2.30 0.0-0.0 LOST    
+  2026-08-30   Drobak-Frogn vs Fram IF            3.3%   1.80 2.0-1.0 WON     
+  2026-08-30   Karcag SE vs Fehervar FC Szekes    3.3%   2.85 0.0-0.0 LOST    
+  2026-08-30   NK Osijek vs NK Slaven Belupo      3.3%   2.30 2.0-0.0 WON     
+  2026-08-30   Monaco vs Marseille                3.3%   2.30 1.0-0.0 LOST    
+  2026-08-30   Botev Plovdiv vs PFC Levski Sof    3.2%   2.70 0.0-0.0 LOST    
+  2026-08-30   San Martin de Tucuman vs CA Gue    3.2%   3.40 0.0-1.0 LOST    
+  2026-08-30   Lucksta IF vs IFK Luleaa           3.0%   1.79 0.0-1.0 LOST    
+  2026-08-30   Viking FK vs Aalesunds FK          3.0%   1.79 0.0-1.0 LOST    
+  2026-08-31   Barcelona vs Rayo Vallecano        7.6%   1.83 2.0-1.0 WON     
+  2026-08-31   Cambrian United vs Pen-y-Bont F    7.5%   2.55 1.0-1.0 WON     
+  2026-08-31   Jong AZ Alkmaar vs Jong FC Utre    7.1%   1.93 1.0-1.0 WON     
+  2026-08-31   Woking FC vs Southend United       6.7%   2.50 0.0-1.0 LOST    
+  2026-08-31   Farnham Town vs Torquay United     5.9%   2.45 0.0-0.0 LOST    
+  2026-08-31   AL Tai vs AL Jandal                5.9%   2.45 1.0-0.0 LOST    
+  2026-08-31   Sardarapat FC vs FC Syunik         5.1%   2.40 0.0-0.0 LOST    
+  2026-08-31   Maidenhead United FC vs AFC Tot    5.1%   2.40 1.0-1.0 WON     
+  2026-08-31   GFK Tikvesh 1930 vs FK Vardar S    5.1%   2.40 1.0-1.0 WON     
+  2026-08-31   Atalanta vs Bologna                5.1%   2.85 0.0-0.0 LOST    
+  2026-08-31   Breidablik vs Stjarnan Gardabae    5.0%   1.77 0.0-2.0 WON     
+  2026-08-31   Weston-super-Mare vs Chelmsford    4.5%   2.80 0.0-0.0 LOST    
+  2026-08-31   FC Dunav Ruse vs FC Lokomotiv 1    4.5%   2.80 1.0-0.0 LOST    
+  2026-08-31   Tampereen Ilves vs HJK Helsinki    4.5%   2.20 0.0-0.0 LOST    
+  2026-08-31   Flint Town United vs Connah`s Q    4.2%   2.35 0.0-1.0 LOST    
+  2026-08-31   Afan Lido vs Ynyshir Albions       3.3%   2.30 0.0-0.0 LOST    
+  2026-08-31   Carlisle United vs Scunthorpe U    3.3%   2.30 3.0-1.0 WON     
+  2026-08-31   Caernarfon Town FC vs The New S    3.3%   2.30 1.0-2.0 WON     
+  2026-08-31   Macclesfield FC vs Hebburn Town    3.3%   2.30 1.0-0.0 LOST    
+  2026-08-31   Southport FC vs Hereford FC        3.3%   2.30 0.0-0.0 LOST    
+  2026-08-31   Spennymoor Town FC vs Hednesfor    3.3%   2.30 1.0-1.0 WON     
+  2026-08-31   Araz Nakhchivan PFK vs Sabah Ma    3.3%   2.30 0.0-0.0 LOST    
+  2026-08-31   Szeged-Csanad Grosics Akademia     3.3%   2.85 1.0-1.0 WON     
+  2026-08-31   Jong PSV Eindhoven vs Jong Ajax    3.0%   1.79 0.0-1.0 LOST    
+  2026-09-01   Bristol City U21 vs Sheffield U    7.4%   1.94 0.0-1.0 LOST    
+  2026-09-01   Cardiff City U21 vs Sheffield W    6.8%   1.92 0.0-0.0 LOST    
+  2026-09-01   Zks Kluczevia Stargard vs Pogon    6.7%   2.50 1.0-0.0 LOST    
+  2026-09-01   Defence Force FC vs Club Sando     6.7%   2.50 0.0-1.0 LOST    
+  2026-09-01   CA Tigre vs CA Barracas Central    6.3%   3.90 0.0-0.0 LOST    
+  2026-09-01   Portsmouth FC vs Derby County      6.3%   2.95 0.0-1.0 LOST    
+  2026-09-01   Huddersfield Town (R) vs Queens    6.1%   1.78 2.0-1.0 WON     
+  2026-09-01   Fleetwood Town U21 vs Millwall     6.0%   1.89 1.0-0.0 LOST    
+  2026-09-01   Academia Puerto Cabello vs Acad    5.9%   2.45 2.0-0.0 WON     
+  2026-09-01   Nordstrand vs SF Grei              5.8%   1.77 1.0-2.0 WON     
+  2026-09-01   ADO 20 Heemskerk vs Excelsior M    5.1%   2.40 1.0-0.0 LOST    
+  2026-09-01   Lillestrom SK Kvinner vs Bodoe/    4.5%   1.73 0.0-0.0 LOST    
+  2026-09-01   SC Genemuiden vs FC Lisse          4.2%   2.35 0.0-0.0 LOST    
+  2026-09-01   SSC Bari vs AZ Picerno             4.2%   2.35 1.0-1.0 WON     
+  2026-09-01   Rubio Nu vs Sportivo San Lorenz    3.9%   2.90 1.0-1.0 WON     
+  2026-09-01   FK Akron Tolyatti vs Lokomotiv     3.3%   2.30 0.0-0.0 LOST    
+  2026-09-01   Harkemase Boys vs Excelsior ´31    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-01   ZSV Sportlust 46 vs Blauw Geel     3.3%   2.30 1.0-1.0 WON     
+  2026-09-02   Dongen vs JOS Watergraafsmeer      7.9%   1.84 0.0-0.0 LOST    
+  2026-09-02   Groene Ster vs VV Heerjansdam      7.6%   1.95 1.0-1.0 WON     
+  2026-09-02   Gainare Tottori vs RB Omiya Ard    7.5%   2.55 2.0-0.0 WON     
+  2026-09-02   MFK Vitkovice vs SK Unicov         7.5%   2.55 2.0-1.0 WON     
+  2026-09-02   PFC Slavia Sofia vs PFC Levski     7.5%   2.55 0.0-0.0 LOST    
+  2026-09-02   SK Artis B vs MFK Havirov          7.4%   1.94 1.0-0.0 LOST    
+  2026-09-02   HJS vs Tampereen Ilves 2           6.8%   1.92 1.0-2.0 WON     
+  2026-09-02   CWKS Resovia vs MKS Arka Gdynia    5.9%   2.45 0.0-1.0 LOST    
+  2026-09-02   Coquimbo Unido vs Universidad d    5.9%   2.45 0.0-0.0 LOST    
+  2026-09-02   BK Olympic vs IFK Goteborg         5.7%   1.88 0.0-3.0 WON     
+  2026-09-02   USV Hercules vs EVV Echt           5.4%   1.87 1.0-0.0 LOST    
+  2026-09-02   Thespa Gunma vs Albirex Niigata    5.1%   2.40 1.0-1.0 WON     
+  2026-09-02   Tokyo Verdy vs Vissel Kobe         4.9%   3.70 0.0-1.0 LOST    
+  2026-09-02   Jakobstads Bollklubb vs Huima/U    4.6%   1.84 0.0-0.0 LOST    
+  2026-09-02   Giravanz Kitakyushu vs Iwaki FC    4.5%   2.95 0.0-0.0 LOST    
+  2026-09-02   Real Frontera FC vs Zamora FC B    4.5%   2.55 0.0-1.0 LOST    
+  2026-09-02   MKS Znicz Pruszkow vs KS Cracov    4.2%   2.35 0.0-0.0 LOST    
+  2026-09-02   AGF Aarhus vs FC Midtjylland       4.2%   2.35 0.0-1.0 LOST    
+  2026-09-02   Paris Saint-Germain W vs Eintra    3.3%   2.30 1.0-0.0 LOST    
+  2026-09-02   Charleston Battery vs Hartford     3.3%   2.30 1.0-0.0 LOST    
+  2026-09-02   Club Olimpia vs Club Guarani As    3.2%   2.70 0.0-1.0 LOST    
+  2026-09-03   PFC CSKA SOFIA II vs PFC Sparta    6.7%   2.50 2.0-1.0 WON     
+  2026-09-03   Al-Fayha FC vs Al-Kholood          6.2%   3.10 1.0-1.0 WON     
+  2026-09-03   Cagliari vs Verona                 5.1%   3.00 0.0-1.0 LOST    
+  2026-09-03   Al Baqaa vs Doqarah FC             4.2%   2.35 1.0-0.0 LOST    
+  2026-09-03   Independiente Santa Fe vs Millo    4.1%   3.50 1.0-1.0 WON     
+  2026-09-03   Barcelona SC vs CSD Independien    3.9%   2.75 0.0-1.0 LOST    
+  2026-09-03   Charleston Battery vs Hartford     3.3%   2.30 1.0-0.0 LOST    
+  2026-09-03   Viimsi JK vs FC Tallinn            3.3%   1.80 1.0-0.0 LOST    
+  2026-09-04   FC Aarau vs FC Rapperswil-Jona     7.9%   1.96 0.0-1.0 LOST    
+  2026-09-04   Grankulla IFK vs Esbo Bollklubb    7.6%   1.83 0.0-0.0 LOST    
+  2026-09-04   Ilirija Ljubljana vs Primorje A    7.5%   2.55 0.0-0.0 LOST    
+  2026-09-04   Deportivo Pereira FC SA vs Inde    6.7%   2.50 0.0-0.0 LOST    
+  2026-09-04   Abha Club vs Al-Ettifaq FC         6.7%   2.50 0.0-0.0 LOST    
+  2026-09-04   Nurmijarven Jalkapalloseura vs     6.3%   1.90 1.0-0.0 LOST    
+  2026-09-04   PPJ Helsinki vs FC Kiffen          6.3%   1.90 2.0-1.0 WON     
+  2026-09-04   Finn Harps FC vs Athlone Town A    5.9%   2.45 0.0-0.0 LOST    
+  2026-09-04   Inter Miami CF II vs Orlando Ci    5.7%   1.88 1.0-3.0 WON     
+  2026-09-04   Sheffield Wednesday U21 vs Wiga    5.4%   1.87 2.0-0.0 WON     
+  2026-09-04   SK Dynamo Ceske Budejovice vs D    5.4%   1.87 1.0-1.0 WON     
+  2026-09-04   FC Polissya Zhytomyr vs FK Kudr    5.1%   2.40 2.0-1.0 WON     
+  2026-09-04   JS Kabylie vs MB Rouissat          5.1%   3.00 1.0-0.0 LOST    
+  2026-09-04   Raagsveds IF vs IFK Haninge        5.0%   1.78 0.0-1.0 LOST    
+  2026-09-04   Cdt Real Oruro vs San Antonio B    4.6%   1.84 1.0-0.0 LOST    
+  2026-09-04   NK Dekani vs Tabor Sezana          4.2%   2.35 0.0-0.0 LOST    
+  2026-09-04   Arminia Bielefeld vs FC St. Pau    4.2%   2.35 1.0-1.0 WON     
+  2026-09-04   Porto vs Moreirense FC             4.2%   2.35 1.0-1.0 WON     
+  2026-09-04   Heracles Almelo vs De Graafscha    3.7%   1.81 2.0-0.0 WON     
+  2026-09-04   FC Vlasim vs FK Fotbal Trinec      3.5%   2.15 2.0-1.0 WON     
+  2026-09-04   Ferro Carril Oeste vs Mitre San    3.4%   3.50 0.0-0.0 LOST    
+  2026-09-04   KS Warta Sieradz vs ZKS Olimpia    3.3%   2.30 2.0-1.0 WON     
+  2026-09-04   Lommel SK vs Club Brugge           3.3%   1.80 0.0-1.0 LOST    
+  2026-09-05   Sandnes Ulf vs Ranheim             7.9%   1.84 1.0-0.0 LOST    
+  2026-09-05   Al Sadd SC vs Al Gharafa SC        7.9%   1.84 2.0-0.0 WON     
+  2026-09-05   FC Fredericia vs Esbjerg FB        7.6%   1.95 0.0-0.0 LOST    
+  2026-09-05   FC Irtysh Omsk vs Dinamo Stavro    7.5%   2.55 0.0-0.0 LOST    
+  2026-09-05   Portsmouth FC vs Cardiff City      7.5%   2.55 1.0-0.0 LOST    
+  2026-09-05   Queens Park Rangers vs Middlesb    7.5%   2.55 0.0-1.0 LOST    
+  2026-09-05   Bangor FC vs Ballymena United      7.5%   2.55 0.0-2.0 WON     
+  2026-09-05   Estrela Amadora vs FC Famalicao    7.2%   3.20 0.0-1.0 LOST    
+  2026-09-05   RSC Anderlecht vs KRC Genk         6.9%   1.81 1.0-0.0 LOST    
+  2026-09-05   PFK Krylia Sovetov Samara vs FK    6.7%   2.50 0.0-2.0 WON     
+  2026-09-05   Club NXT vs KAS Eupen              6.7%   2.50 0.0-0.0 LOST    
+  2026-09-05   Al-Faisaly FC vs Al-Hazm           6.7%   2.50 0.0-0.0 LOST    
+  2026-09-05   Lyon La Duchere vs Nimes           6.7%   2.50 0.0-1.0 LOST    
+  2026-09-05   Vastra Frolunda IF vs Onsala BK    6.5%   1.91 1.0-1.0 WON     
+  2026-09-05   Canberra Croatia FC vs Queanbey    6.4%   1.79 0.0-0.0 LOST    
+  2026-09-05   Sturt Lions Reserve vs North Ea    6.3%   1.90 0.0-2.0 WON     
+  2026-09-05   FC Fastav Zlin vs FK Mlada Bole    6.3%   1.90 2.0-0.0 WON     
+  2026-09-05   Le Havre vs Brest                  6.2%   3.10 0.0-1.0 LOST    
+  2026-09-05   Brazil vs Tanzania                 6.0%   1.89 1.0-1.0 WON     
+  2026-09-05   FK Atmosfera vs FK Tauras Taura    5.9%   2.45 0.0-1.0 LOST    
+  2026-09-05   West Ham vs Derby County           5.9%   2.45 1.0-0.0 LOST    
+  2026-09-05   Spalding United vs Southport FC    5.9%   2.45 1.0-0.0 LOST    
+  2026-09-05   JDFS Alberts vs FK Smiltene/Bjs    5.8%   1.77 2.0-0.0 WON     
+  2026-09-05   SSV Jeddeloh II vs Hamburger SV    5.7%   1.88 1.0-2.0 WON     
+  2026-09-05   Inter vs Napoli                    5.7%   2.90 0.0-0.0 LOST    
+  2026-09-05   Swansea City vs Wrexham AFC        5.7%   2.90 0.0-0.0 LOST    
+  2026-09-05   Pumas Unam vs Club America         5.4%   1.76 1.0-1.0 WON     
+  2026-09-05   Varhaug vs Brodd                   5.4%   1.76 1.0-0.0 LOST    
+  2026-09-05   Tai Po FC vs Hong Kong Rangers     5.1%   1.86 1.0-1.0 WON     
+  2026-09-05   Lens vs Lorient                    5.1%   2.40 0.0-0.0 LOST    
+  2026-09-05   Club Deportivo Eldense vs Mallo    5.1%   2.85 0.0-0.0 LOST    
+  2026-09-05   Monaro Panthers FC vs Tigers FC    4.9%   1.85 1.0-0.0 LOST    
+  2026-09-05   Lechia Tomaszow Mazowiecki vs K    4.9%   1.85 0.0-1.0 LOST    
+  2026-09-05   FAC Wien Amateure vs Simmeringe    4.8%   1.74 1.0-0.0 LOST    
+  2026-09-05   Newtown AFC vs Denbigh Town        4.6%   1.84 0.0-0.0 LOST    
+  2026-09-05   Avispa Fukuoka vs Mito Hollyhoc    4.5%   2.95 0.0-0.0 LOST    
+  2026-09-05   Young Boys Bern vs FC Luzern       4.5%   1.73 1.0-0.0 LOST    
+  2026-09-05   Omonia Aradippou vs Krasava ENY    4.5%   2.95 1.0-0.0 LOST    
+  2026-09-05   Roma vs Atalanta                   4.5%   2.80 0.0-0.0 LOST    
+  2026-09-05   Inter Miami CF vs Atlanta Unite    4.5%   1.73 2.0-1.0 WON     
+  2026-09-05   Dukla Prague vs FC Zbrojovka Br    4.3%   1.83 0.0-1.0 LOST    
+  2026-09-05   Odds BK vs Stroemsgodset IF        4.3%   1.83 0.0-1.0 LOST    
+  2026-09-05   Keflavik IF vs Valur Reykjavik     4.3%   1.83 0.0-1.0 LOST    
+  2026-09-05   AFC Hornchurch vs Forest Green     4.2%   2.35 0.0-1.0 LOST    
+  2026-09-05   FC Slovan Galanta vs OFK Dynamo    4.2%   2.35 0.0-0.0 LOST    
+  2026-09-05   FK Minija 2017 vs FK Transinves    4.1%   1.72 1.0-0.0 LOST    
+  2026-09-05   Helges IF vs Taby FK               4.0%   1.82 0.0-0.0 LOST    
+  2026-09-05   SC Sagamihara vs AC Nagano Parc    3.9%   2.75 0.0-1.0 LOST    
+  2026-09-05   Wuxi Wugou vs Yanbian Longding     3.9%   2.90 0.0-0.0 LOST    
+  2026-09-05   Club Necaxa vs Atletico San Lui    3.7%   1.81 0.0-1.0 LOST    
+  2026-09-05   KF Laci vs KF Teuta                3.4%   3.50 0.0-2.0 WON     
+  2026-09-05   Modbury Jets SC vs Adelaide Oly    3.3%   2.30 2.0-0.0 WON     
+  2026-09-05   Floreat Athena FC Reserves vs K    3.3%   2.30 1.0-0.0 LOST    
+  2026-09-05   CS Concordia Chiajna vs CS Afum    3.3%   2.30 0.0-1.0 LOST    
+  2026-09-05   Holstein Kiel vs 1 FC Nuremberg    3.3%   2.30 1.0-1.0 WON     
+  2026-09-05   Newcastle vs Bournemouth           3.3%   2.30 1.0-2.0 WON     
+  2026-09-05   SV Meppen 1912 vs 1. FC Saarbru    3.3%   2.30 1.0-3.0 WON     
+  2026-09-05   FK Kaspii Aktau vs FC Kairat Al    3.3%   2.30 0.0-2.0 WON     
+  2026-09-05   Borussia M´gladbach vs SV 07 El    3.3%   2.30 2.0-1.0 WON     
+  2026-09-05   SK Artis Brno vs Viktoria Plzen    3.3%   2.30 0.0-3.0 WON     
+  2026-09-05   Valladolid vs FC Andorra           3.3%   2.85 1.0-0.0 LOST    
+  2026-09-05   Cusco FC vs Ucv Moquegua           3.3%   2.30 1.0-0.0 LOST    
+  2026-09-05   IBV Vestmannaeyjar vs Fram         3.0%   1.79 2.0-1.0 WON     
+  2026-09-06   Adelaide Comets FC Reserves vs     7.6%   1.83 0.0-1.0 LOST    
+  2026-09-06   Santa Clara Azores vs Rio Ave F    7.6%   3.25 1.0-0.0 LOST    
+  2026-09-06   FC Tokyo vs Kyoto Sanga FC         7.5%   2.55 0.0-0.0 LOST    
+  2026-09-06   Durham LFC vs Southampton FC       7.5%   2.55 0.0-0.0 LOST    
+  2026-09-06   FC Lokomotiv 1929 Sofia vs Ludo    7.5%   2.55 1.0-1.0 WON     
+  2026-09-06   HSC Hannover vs SC Weiche Flens    7.1%   1.93 0.0-1.0 LOST    
+  2026-09-06   Grorud IL vs Rana FK               6.8%   1.92 4.0-1.0 WON     
+  2026-09-06   Csm Satu Mare vs Stinta Poli Ti    6.7%   2.50 1.0-0.0 LOST    
+  2026-09-06   MFK Ruzomberok vs Spartak Trnav    6.7%   2.50 1.0-0.0 LOST    
+  2026-09-06   Clube do Remo PA vs CR Flamengo    6.7%   2.50 0.0-0.0 LOST    
+  2026-09-06   US Grosseto vs SEF Torres Sassa    6.3%   2.95 1.0-0.0 LOST    
+  2026-09-06   Stjarnan Gardabae vs IBV Vestma    6.3%   1.90 0.0-1.0 LOST    
+  2026-09-06   Crvena Zvezda vs FK Partizan Be    6.3%   1.79 2.0-1.0 WON     
+  2026-09-06   Vikingur Reykjavik vs Fram Reyk    6.1%   1.78 1.0-1.0 WON     
+  2026-09-06   Feyenoord Rotterdam vs PSV Eind    5.9%   2.45 0.0-2.0 WON     
+  2026-09-06   Arsenal vs Chelsea                 5.9%   2.45 1.0-1.0 WON     
+  2026-09-06   FH Hafnarfjordur vs Thor/KA        5.8%   1.77 1.0-1.0 WON     
+  2026-09-06   Alaves vs Osasuna                  5.6%   3.70 2.0-0.0 WON     
+  2026-09-06   CA Guemes vs Gimnasia Y Tiro de    5.6%   3.80 0.0-2.0 WON     
+  2026-09-06   FK Viktoria Zizkov vs FK Pribra    5.1%   2.40 0.0-1.0 LOST    
+  2026-09-06   Kawasaki Frontale vs Shimizu S-    5.1%   2.40 1.0-0.0 LOST    
+  2026-09-06   Arnavutkoy Belediyesi Genclik V    5.1%   2.40 1.0-3.0 WON     
+  2026-09-06   CSD Coban Imperial vs CD Guasta    5.1%   2.85 0.0-0.0 LOST    
+  2026-09-06   Suzhou Dongwu vs Nanjing City      4.5%   2.95 1.0-0.0 LOST    
+  2026-09-06   Lamphun Warriors FC vs Uthai Th    4.5%   2.95 0.0-3.0 WON     
+  2026-09-06   KA Akureyri vs Breidablik          4.3%   1.83 1.0-1.0 WON     
+  2026-09-06   FK Auda Riga vs FK Grobina         4.2%   2.35 0.0-0.0 LOST    
+  2026-09-06   CSD Liniers vs CSCD Laferrere      4.2%   3.60 0.0-0.0 LOST    
+  2026-09-06   Qviding FIF vs Jonsereds IF        4.0%   1.82 0.0-0.0 LOST    
+  2026-09-06   FC Epitsentr Kamianets-Podilsky    3.9%   2.90 0.0-0.0 LOST    
+  2026-09-06   Muglaspor vs Van Spor FK           3.9%   2.90 1.0-1.0 WON     
+  2026-09-06   Eintracht Frankfurt vs Augsburg    3.5%   2.15 1.0-0.0 LOST    
+  2026-09-06   Skara FC vs Vanersborgs IF         3.4%   1.70 3.0-0.0 WON     
+  2026-09-06   Monterey Bay FC vs Phoenix Risi    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-06   Skovde AIK vs Trelleborgs FF       3.3%   2.30 1.0-0.0 LOST    
+  2026-09-06   Hestrafors IF vs Lindome GIF       3.3%   1.80 1.0-0.0 LOST    
+  2026-09-06   Nam Dinh FC vs Hoang Anh Gia La    3.3%   2.30 3.0-0.0 WON     
+  2026-09-06   Tottenham Hotspur FC vs West Ha    3.3%   2.30 2.0-0.0 WON     
+  2026-09-06   Tianjin Jinmen Tiger vs Zhejian    3.3%   2.30 1.0-1.0 WON     
+  2026-09-06   FC Banik Ostrava B vs SK Hanack    3.3%   2.30 1.0-1.0 WON     
+  2026-09-06   Turan Tovuz vs Sumgayit FK         3.3%   2.85 1.0-1.0 WON     
+  2026-09-06   Al Dhafra SSC vs Al Wahda FC (U    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-06   KV Waasland-Beveren vs Oud-Heve    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-06   Nagoya Grampus vs Machida Zelvi    3.2%   2.70 0.0-1.0 LOST    
+  2026-09-06   Parma Calcio vs Monza              3.2%   3.40 0.0-1.0 LOST    
+  2026-09-06   Deportivo Camioneros vs Argenti    3.2%   3.40 0.0-0.0 LOST    
+  2026-09-06   Deportivo Madryn vs Club Ciudad    3.2%   3.40 1.0-1.0 WON     
+  2026-09-06   Trygg/Lade vs Hoenefoss BK         3.0%   1.79 0.0-2.0 WON     
+  2026-09-08   NEC Nijmegen vs Excelsior Rotte    7.6%   1.95 1.0-1.0 WON     
+  2026-09-08   Poland vs Mexico                   7.5%   2.55 1.0-1.0 WON     
+  2026-09-08   Exeter City vs Tottenham Hotspu    7.4%   1.94 1.0-0.0 LOST    
+  2026-09-08   Leyton Orient London vs Bradfor    6.3%   2.95 1.0-1.0 WON     
+  2026-09-08   Inter Playa Del Carmen vs Pione    5.9%   2.45 0.0-3.0 WON     
+  2026-09-08   PEPO Lappeenranta vs HIFK          5.4%   1.87 0.0-0.0 LOST    
+  2026-09-08   Incheon United FC vs Bucheon FC    5.1%   3.00 1.0-1.0 WON     
+  2026-09-08   HPS vs PPJ Helsinki                4.3%   1.83 0.0-1.0 LOST    
+  2026-09-08   Crystal Palace vs Middlesbrough    4.2%   2.35 1.0-0.0 LOST    
+  2026-09-08   Cardiff City vs Stoke City         4.2%   2.35 0.0-1.0 LOST    
+  2026-09-08   CS Emelec vs Manta FC              3.3%   2.85 0.0-0.0 LOST    
+  2026-09-09   Dinamo Kirov vs FC Kamaz Nabere    6.7%   2.50 0.0-0.0 LOST    
+  2026-09-09   Gangwon FC vs Jeonbuk FC           6.2%   3.10 0.0-1.0 LOST    
+  2026-09-09   Al Mokawloon Al Arab vs AL Ahly    5.7%   2.90 1.0-0.0 LOST    
+  2026-09-09   Dinamo Stavropol vs FC Nizhny N    4.8%   1.74 0.0-1.0 LOST    
+  2026-09-09   Charlton Athletic vs Queens Par    4.5%   2.80 0.0-0.0 LOST    
+  2026-09-09   Fukushima United FC vs Vegalta     4.2%   2.35 1.0-0.0 LOST    
+  2026-09-09   1.SK Prostejov vs SK Sigma Olom    4.2%   2.35 1.0-1.0 WON     
+  2026-09-09   FC Twente Enschede vs SC Telsta    4.0%   1.82 0.0-0.0 LOST    
+  2026-09-09   Derby County vs West Bromwich A    3.3%   2.85 0.0-1.0 LOST    
+  2026-09-09   Liverpool vs Atletico Madrid       3.3%   2.30 1.0-1.0 WON     
+  2026-09-10   Toronto FC vs Nashville SC         7.5%   2.55 0.0-1.0 LOST    
+  2026-09-10   New York City FC vs New England    5.9%   2.45 0.0-1.0 LOST    
+  2026-09-10   Slavia Prague vs RC Lens           5.7%   1.88 1.0-0.0 LOST    
+  2026-09-10   PSV Eindhoven vs FC Shakhtar Do    5.4%   1.87 1.0-0.0 LOST    
+  2026-09-10   Vancouver Whitecaps FC vs Los A    5.1%   1.86 1.0-0.0 LOST    
+  2026-09-10   FC Gagra vs FC Torpedo Kutaisi     5.1%   2.40 0.0-1.0 LOST    
+  2026-09-10   Dubai United FC vs Shabab Al Ah    3.7%   1.81 0.0-0.0 LOST    
+  2026-09-10   Como 1907 vs RB Leipzig            3.3%   2.30 2.0-0.0 WON     
+  2026-09-11   Polonia Sroda Wielkopolska vs S    7.0%   1.81 1.0-1.0 WON     
+  2026-09-11   Melbourne Victory vs Eltham Red    6.8%   1.92 1.0-0.0 LOST    
+  2026-09-11   NAC Breda vs Jong FC Utrecht       6.3%   1.90 2.0-1.0 WON     
+  2026-09-11   Vanersborgs IF vs Grebbestads I    6.0%   1.89 1.0-2.0 WON     
+  2026-09-11   Jeugd KAA Gent B vs FCV Dender     5.9%   2.45 0.0-0.0 LOST    
+  2026-09-11   FC Emmen vs De Graafschap          5.7%   1.88 1.0-1.0 WON     
+  2026-09-11   Heracles Almelo vs Jong AZ Alkm    5.4%   1.76 1.0-2.0 WON     
+  2026-09-11   FK Fotbal Trinec vs MFK Karvina    5.1%   2.40 0.0-2.0 WON     
+  2026-09-11   KaPa Kapylan Pallo vs PK-35 Hel    5.1%   2.40 1.0-3.0 WON     
+  2026-09-11   Trefelin BGC vs Pen-y-Bont FC      5.1%   2.40 0.0-0.0 LOST    
+  2026-09-11   PVF Cong An Nhan Dan FC vs Long    4.2%   2.35 0.0-0.0 LOST    
+  2026-09-11   Kerry FC vs Bray Wanderers AFC     4.2%   2.35 0.0-1.0 LOST    
+  2026-09-11   West Ham vs Wrexham AFC            4.2%   2.35 2.0-0.0 WON     
+  2026-09-11   KTS-K Luzino vs Grom Nowy Staw     4.0%   1.82 2.0-0.0 WON     
+  2026-09-11   FC Jazz vs KPV Kokkola             3.8%   1.71 2.0-0.0 WON     
+  2026-09-11   FC Zbrojovka Brno vs FC Banik O    3.7%   1.81 1.0-0.0 LOST    
+  2026-09-11   Copenhagen vs AC Horsens           3.5%   2.15 1.0-0.0 LOST    
+  2026-09-11   Tornion Pallo 47 vs JS Hercules    3.4%   1.70 0.0-1.0 LOST    
+  2026-09-11   FK Arsimi 1973 vs Shkendija Tet    3.3%   2.30 1.0-2.0 WON     
+  2026-09-11   Darmstadt vs Arminia Bielefeld     3.3%   2.30 1.0-0.0 LOST    
+  2026-09-11   Werder Bremen vs Hamburger SV      3.3%   2.30 0.0-0.0 LOST    
+  2026-09-11   K Beerschot VA vs Koninklijke L    3.3%   2.30 2.0-0.0 WON     
+  2026-09-11   Rennes vs Marseille                3.3%   2.30 0.0-0.0 LOST    
+  2026-09-11   Dodoma FC vs Namungo FC            3.2%   3.40 1.0-0.0 LOST    
+  2026-09-11   Sportivo Ameliano vs Sportivo S    3.2%   2.70 0.0-0.0 LOST    
+  2026-09-13   FK Bospor Bohumin vs MFK Kravar    7.6%   1.83 2.0-1.0 WON     
+  2026-09-13   Libertad Loja vs CSD Independie    7.5%   2.55 1.0-2.0 WON     
+  2026-09-13   Orlando City B vs Toronto FC II    7.4%   1.94 2.0-0.0 WON     
+  2026-09-13   Atletico San Luis vs Club Santo    7.1%   1.93 2.0-1.0 WON     
+  2026-09-13   San Jose Earthquakes vs Houston    6.7%   2.50 1.0-0.0 LOST    
+  2026-09-13   FC Viktoria Plzen B vs FK Pribr    6.7%   1.80 2.0-1.0 WON     
+  2026-09-13   Fredrikstad FK vs Sarpsborg 08     6.7%   2.50 1.0-1.0 WON     
+  2026-09-13   Queens Park Rangers U21 vs Flee    6.4%   1.79 3.0-0.0 WON     
+  2026-09-13   Stroemsgodset IF vs Sandnes Ulf    6.4%   1.79 3.0-1.0 WON     
+  2026-09-13   Chattanooga FC vs Atlanta Unite    6.4%   1.79 1.0-0.0 LOST    
+  2026-09-13   Rana FK vs Lorenskog IF            6.3%   1.90 0.0-0.0 LOST    
+  2026-09-13   TPV Tampere vs KuPS Akatemia       6.1%   1.78 2.0-0.0 WON     
+  2026-09-13   Real Salt Lake vs New York City    5.9%   2.45 0.0-1.0 LOST    
+  2026-09-13   Sheffield United vs Wolves         5.9%   2.45 0.0-0.0 LOST    
+  2026-09-13   Lille vs Troyes                    5.9%   2.45 1.0-0.0 LOST    
+  2026-09-13   FK Teplice vs Slavia Prague        5.9%   2.45 0.0-1.0 LOST    
+  2026-09-13   Ranheim vs Aasane Fotball          5.8%   1.77 0.0-2.0 WON     
+  2026-09-13   Sheffield Wednesday U21 vs Char    5.7%   1.88 1.0-1.0 WON     
+  2026-09-13   CSB Atenas vs Juventud Antonian    5.6%   3.70 0.0-1.0 LOST    
+  2026-09-13   Selangor FC vs Kuala Lumpur Cit    5.4%   1.87 1.0-0.0 LOST    
+  2026-09-13   Kjelsaas vs Stjordals-Blink        5.4%   1.87 3.0-0.0 WON     
+  2026-09-13   52 Orduspor FK vs Hekimoglu Tra    5.1%   2.40 0.0-0.0 LOST    
+  2026-09-13   Sporting Kansas City II vs Los     5.1%   1.86 0.0-3.0 WON     
+  2026-09-13   Golik North District vs Hong Ko    4.6%   1.84 2.0-0.0 WON     
+  2026-09-13   FC Volendam vs FC Den Bosch        4.6%   1.84 0.0-0.0 LOST    
+  2026-09-13   Skiljebo SK vs Korsnas IF FK       4.5%   1.73 1.0-0.0 LOST    
+  2026-09-13   Egersunds IK vs Kongsvinger IL     4.3%   1.83 1.0-0.0 LOST    
+  2026-09-13   Excelsior Rotterdam vs FC Utrec    4.2%   2.35 0.0-1.0 LOST    
+  2026-09-13   Manchester United WFC vs Chelse    4.2%   2.35 0.0-2.0 WON     
+  2026-09-13   ADO 20 Heemskerk vs VV Scherpen    4.2%   2.35 0.0-0.0 LOST    
+  2026-09-13   Always Ready vs Guabira Montero    4.0%   1.82 5.0-0.0 WON     
+  2026-09-13   US Mondorf-Les-Bains vs FC Una     3.9%   2.75 0.0-1.0 LOST    
+  2026-09-13   Mezoors Kse vs Puskas Akademia     3.8%   1.71 0.0-4.0 WON     
+  2026-09-13   Paide Linnameeskond vs Harju JK    3.5%   2.15 0.0-1.0 LOST    
+  2026-09-13   Alianza Lima vs Universitario d    3.4%   3.50 0.0-1.0 LOST    
+  2026-09-13   Torpedo Miass vs FC Irtysh Omsk    3.3%   2.30 3.0-1.0 WON     
+  2026-09-13   FC Amkar Perm vs FC Tyumen         3.3%   2.30 1.0-2.0 WON     
+  2026-09-13   VfB Stuttgart II vs SC Preussen    3.3%   2.30 1.0-1.0 WON     
+  2026-09-13   SK Traeff vs Notodden FK           3.3%   2.30 1.0-0.0 LOST    
+  2026-09-13   FK Sileks Kratovo vs FC Bregaln    3.3%   2.30 1.0-0.0 LOST    
+  2026-09-13   Stjarnan Gardabae vs IBV Vestma    3.3%   1.80 2.0-0.0 WON     
+  2026-09-13   Neom SC vs Al-Fateh SC             3.3%   2.30 1.0-1.0 WON     
+  2026-09-13   TSG Hoffenheim II vs Fortuna Co    3.3%   2.30 2.0-1.0 WON     
+  2026-09-13   POFC Botev Vratsa vs PFC Levski    3.2%   2.70 0.0-0.0 LOST    
+  2026-09-13   US Folgore Caratese vs Alcione     3.2%   3.40 0.0-1.0 LOST    
+  2026-09-13   Al-Riyadh SC vs Al-Kholood         3.2%   2.70 0.0-0.0 LOST    
+  2026-09-13   CA Estudiantes vs CA Acassuso      3.2%   3.40 0.0-0.0 LOST    
+  2026-09-13   Valur Reykjavik vs Thor Akureyr    3.0%   1.79 1.0-1.0 WON     
+  2026-09-14   Torino vs Roma                     7.5%   2.55 0.0-1.0 LOST    
+  2026-09-14   America de Cali vs AD Pasto        7.5%   2.55 0.0-0.0 LOST    
+  2026-09-14   Krasava ENY Ypsonas FC vs Aris     7.4%   2.35 0.0-0.0 LOST    
+  2026-09-14   Deportivo Toluca FC vs Club Tij    7.1%   1.93 3.0-0.0 WON     
+  2026-09-14   Gaziantep FK vs Fenerbahce Ista    5.9%   2.45 0.0-0.0 LOST    
+  2026-09-14   Braga vs Estoril Praia             5.9%   2.45 0.0-0.0 LOST    
+  2026-09-14   Geylang International FC vs Tan    5.7%   1.88 1.0-0.0 LOST    
+  2026-09-14   Kayserispor vs Istanbulspor AS     5.1%   2.40 3.0-0.0 WON     
+  2026-09-14   Deportes Union La Calera vs Dep    5.1%   2.40 1.0-0.0 LOST    
+  2026-09-14   CF Pachuca vs Club Leon            4.6%   1.84 0.0-0.0 LOST    
+  2026-09-14   Spartak Kostroma vs FC Neftekhi    4.5%   2.80 1.0-0.0 LOST    
+  2026-09-14   Como 1907 vs Parma Calcio          4.2%   2.35 1.0-0.0 LOST    
+  2026-09-14   Al-Shamal vs Al-Ittihad Club       3.3%   2.30 0.0-0.0 LOST    
+  2026-09-15   America de Cali vs AD Pasto        7.5%   2.55 0.0-0.0 LOST    
+  2026-09-15   Deportivo Toluca FC vs Club Tij    7.1%   1.93 3.0-0.0 WON     
+  2026-09-15   Arkadag FK vs Al-Muharraq SC       6.2%   3.10 0.0-0.0 LOST    
+  2026-09-15   Hallescher FC vs FC Carl Zeiss     5.9%   2.45 0.0-0.0 LOST    
+  2026-09-15   Portadown FC vs Linfield FC        5.9%   2.45 0.0-1.0 LOST    
+  2026-09-15   Deportes Union La Calera vs Dep    5.1%   2.40 1.0-0.0 LOST    
+  2026-09-15   Coventry City U21 vs Barnsley U    5.1%   1.86 4.0-1.0 WON     
+  2026-09-15   Crotone vs Inter Milano U23        5.1%   3.00 0.0-0.0 LOST    
+  2026-09-15   Billericay Town vs Braintree To    5.1%   2.40 2.0-0.0 WON     
+  2026-09-15   CF Pachuca vs Club Leon            4.6%   1.84 0.0-0.0 LOST    
+  2026-09-15   Peterborough United U21 vs Bris    4.3%   1.83 1.0-2.0 WON     
+  2026-09-15   Gillingham FC Reserve vs Birmin    4.3%   1.83 0.0-1.0 LOST    
+  2026-09-15   Fram Reykjavik vs Breidablik       4.1%   1.72 0.0-2.0 WON     
+  2026-09-15   Qatar vs Republic of Korea         3.3%   2.30 0.0-3.0 WON     
+  2026-09-15   FC Vlasim vs FC Slovan Liberec     3.3%   1.80 0.0-2.0 WON     
+  2026-09-15   FC Wurzburger Kickers vs Aleman    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-15   Trefelin BGC vs Cambrian United    3.3%   2.30 0.0-1.0 LOST    
+  2026-09-15   Barletta Calcio vs Salernitana     3.2%   2.70 0.0-0.0 LOST    
+  2026-09-17   Maccabi Achi Nazareth FC vs Hap    6.7%   2.50 1.0-0.0 LOST    
+  2026-09-17   Man City vs Norwich                6.4%   1.79 2.0-0.0 WON     
+  2026-09-17   Machida Zelvia vs PKR Svay Rien    5.7%   1.88 1.0-0.0 LOST    
+  2026-09-17   FC Dynamo-Makhachkala vs CSKA M    5.7%   2.90 1.0-1.0 WON     
+  2026-09-17   Phnom Penh Crown FC vs Kuching     4.5%   2.80 0.0-0.0 LOST    
+  2026-09-17   Maccabi Kabilio Jaffa vs Maccab    4.2%   2.35 0.0-0.0 LOST    
+  2026-09-17   Besiktas Istanbul vs Marseille     4.2%   2.35 1.0-1.0 WON     
+  2026-09-17   Lillestroem SK vs SCU Torreense    4.2%   2.35 0.0-1.0 LOST    
+  2026-09-17   England vs Nigeria                 3.3%   2.30 0.0-1.0 LOST    
+  2026-09-17   Eskilsminne IF vs Tvaakers IF      3.3%   2.30 4.0-1.0 WON     
+  2026-09-17   FK Zeleznicar Pancevo vs Crvena    3.3%   2.30 1.0-1.0 WON     
+  2026-09-17   Celtic vs Ferencvarosi Budapest    3.3%   2.30 1.0-2.0 WON     
+  2026-09-18   Neuchatel Xamax vs FC Rapperswi    7.6%   1.95 0.0-2.0 WON     
+  2026-09-18   Rio Ave FC vs SL Benfica Lisbon    7.5%   2.55 0.0-1.0 LOST    
+  2026-09-18   Grankulla IFK vs Musan Salama      7.3%   1.82 1.0-0.0 LOST    
+  2026-09-18   FC Den Bosch vs Helmond Sport      7.1%   1.93 2.0-1.0 WON     
+  2026-09-18   FC Volga Ulyanovsk vs Spartak K    6.9%   3.00 0.0-1.0 LOST    
+  2026-09-18   Zawisza Bydgoszcz vs Gornik Lec    6.7%   2.50 0.0-0.0 LOST    
+  2026-09-18   Jong AZ Alkmaar vs FC Volendam     6.5%   1.91 2.0-0.0 WON     
+  2026-09-18   Be1 Nfa vs FK Transinvest B        5.7%   1.88 1.0-1.0 WON     
+  2026-09-18   IF Gnistan vs HJK Helsinki         5.6%   2.25 1.0-1.0 WON     
+  2026-09-18   Zhejiang FC vs Wuhan Three Town    5.4%   1.87 2.0-0.0 WON     
+  2026-09-18   Nantong Zhiyun vs Guangxi Hengc    5.1%   2.85 0.0-0.0 LOST    
+  2026-09-18   FK Sileks Kratovo vs GFK Tikves    5.1%   2.40 0.0-0.0 LOST    
+  2026-09-18   RC Strasbourg vs Paris FC W        5.1%   2.40 0.0-1.0 LOST    
+  2026-09-18   Qarabag vs Safa                    4.9%   1.85 0.0-0.0 LOST    
+  2026-09-18   FH Hafnarfjordur vs Stjarnan       4.9%   1.85 0.0-0.0 LOST    
+  2026-09-18   Cardiff City U21 vs Peterboroug    4.9%   1.85 1.0-0.0 LOST    
+  2026-09-18   Moravia vs LD Alajuelense          4.6%   1.84 0.0-1.0 LOST    
+  2026-09-18   FC Lahti vs FF Jaro                4.2%   2.35 1.0-0.0 LOST    
+  2026-09-18   KPV Kokkola vs KuPS Akatemia       4.1%   1.72 1.0-1.0 WON     
+  2026-09-18   FC Kyzylzhar SK vs Kaisar Kyzyl    3.9%   2.90 1.0-0.0 LOST    
+  2026-09-18   IBV Vestmannaeyjar vs Throttur     3.5%   2.15 3.0-1.0 WON     
+  2026-09-18   Pwd SC vs Abahani Limited Dhaka    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-18   AL Arabi vs AL Jazeera Club Amm    3.3%   2.85 0.0-0.0 LOST    
+  2026-09-18   FC Hertha Wels vs First Vienna     3.3%   2.30 0.0-0.0 LOST    
+  2026-09-18   Falkenbergs FF vs Ostersunds FK    3.2%   2.70 0.0-0.0 LOST    
+  2026-09-20   Houston Dynamo 2 vs Sporting Ka    7.6%   1.83 1.0-1.0 WON     
+  2026-09-20   Minnesota United FC 2 vs Los An    6.3%   1.90 2.0-1.0 WON     
+  2026-09-20   Okinawa SV vs Tiamo Hirakata       5.9%   2.45 0.0-1.0 LOST    
+  2026-09-20   CD Luis Angel Firpo Usulutan vs    5.1%   2.40 1.0-1.0 WON     
+  2026-09-20   CA Bucaramanga vs Internacional    4.5%   2.80 1.0-0.0 LOST    
+  2026-09-20   Bangladesh vs Myanmar              3.3%   2.30 0.0-0.0 LOST    
+  2026-09-20   FC Arlanda vs Hammarby Talang F    3.3%   2.30 3.0-0.0 WON     
+  2026-09-20   FC Amkar Perm vs Dinamo Moscow     3.1%   1.69 3.0-0.0 WON     
+  2026-09-21   Okinawa SV vs Tiamo Hirakata       5.9%   2.45 0.0-1.0 LOST    
+  2026-09-21   CD Luis Angel Firpo Usulutan vs    5.1%   2.40 1.0-1.0 WON     
+  2026-09-21   Bangladesh vs Myanmar              3.3%   2.30 0.0-0.0 LOST    
+  2026-09-21   FC Arlanda vs Hammarby Talang F    3.3%   2.30 3.0-0.0 WON     
+  2026-09-21   FC Amkar Perm vs Dinamo Moscow     3.1%   1.69 3.0-0.0 WON     
+  2026-09-24   Serbia vs Greece                   7.2%   3.20 1.0-0.0 LOST    
+  2026-09-24   Norway vs Denmark                  3.3%   2.30 2.0-1.0 WON     
+  2026-09-27   Vancouver Whitecaps FC vs DC Un    7.9%   1.96 2.0-1.0 WON     
+  2026-09-27   Southampton FC vs Nottingham Fo    7.5%   2.55 0.0-0.0 LOST    
+  2026-09-27   Puebla FC vs CF Monterrey          7.5%   1.38 0.0-0.0 LOST    
+  2026-09-27   San Jose Earthquakes vs Portlan    7.4%   1.94 3.0-0.0 WON     
+  2026-09-27   Israel vs Ireland                  6.9%   3.00 0.0-3.0 WON     
+  2026-09-27   NK Jesenice vs NK Vrhnika          6.7%   2.50 1.0-0.0 LOST    
+  2026-09-27   De Graafschap vs FC Den Bosch      6.1%   1.78 1.0-0.0 LOST    
+  2026-09-27   Lithuania vs Azerbaijan            6.0%   3.75 1.0-1.0 WON     
+  2026-09-27   SK Polanka Nad Odrou vs FK Fryd    5.9%   2.45 0.0-0.0 LOST    
+  2026-09-27   CD Mirandes vs Unionistas de Sa    5.9%   2.45 1.0-0.0 LOST    
+  2026-09-27   CD Antofagasta vs Deportes Iqui    5.1%   2.85 1.0-1.0 WON     
+  2026-09-27   Bucaspor vs Altay Izmir            5.1%   2.40 0.0-1.0 LOST    
+  2026-09-27   Curacao vs Nicaragua               5.1%   2.40 5.0-0.0 WON     
+  2026-09-27   Stabaek Fotball 2 vs Flekkeroy     4.8%   1.74 0.0-1.0 LOST    
+  2026-09-27   Lucksta IF vs Taftea IK            4.6%   1.84 0.0-0.0 LOST    
+  2026-09-27   Lindo FF vs IF Eker Orebro         4.3%   1.83 0.0-1.0 LOST    
+  2026-09-27   Cambodia vs Myanmar                4.2%   2.35 0.0-0.0 LOST    
+  2026-09-27   Panserraikos FC vs Olympiacos P    4.2%   2.35 1.0-1.0 WON     
+  2026-09-27   Serbia vs Netherlands              4.2%   2.35 0.0-1.0 LOST    
+  2026-09-27   Tornion Pallo 47 vs SJK Akatemi    3.7%   1.81 0.0-0.0 LOST    
+  2026-09-27   Gangwon FC vs Incheon United FC    3.4%   3.50 0.0-0.0 LOST    
+  2026-09-27   CA Atlanta vs Agropecuario Arge    3.4%   3.50 1.0-0.0 LOST    
+  2026-09-27   Real Salt Lake vs New England R    3.3%   2.30 1.0-0.0 LOST    
+  2026-09-27   PFC Vihren Sandanski vs OFC Nes    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-27   Belediye Derincespor vs Elazigs    3.3%   2.30 0.0-0.0 LOST    
+  2026-09-27   Vis Pesaro 1898 vs Guidonia Mon    3.3%   2.85 2.0-1.0 WON     
+  2026-09-27   IFK Haninge vs Smedby AIS          3.0%   1.79 1.0-0.0 LOST    
+  2026-09-28   Georgia vs Ukraine                 8.0%   3.10 0.0-0.0 LOST    
+  2026-09-28   Northern Ireland vs Hungary        5.6%   3.70 0.0-0.0 LOST    
+  2026-09-28   Curacao vs Nicaragua               5.1%   2.40 5.0-0.0 WON     
+  2026-09-28   Central African Republic vs Bur    4.5%   2.95 0.0-0.0 LOST    
+  2026-09-28   Internacional de Palmira vs Ita    4.5%   2.80 1.0-0.0 LOST    
+  2026-09-28   Maccabi Bney Reine vs Hapoel Ra    4.2%   2.35 1.0-2.0 WON     
+  2026-09-30   Union San Felipe vs San Luis de    4.5%   2.80 0.0-0.0 LOST    
+  2026-10-04   Mjoendalen IF vs SK Traeff         7.4%   1.94 1.0-0.0 LOST    
+  2026-10-04   Azerbaijan vs Lithuania            6.3%   3.90 1.0-0.0 LOST    
+  2026-10-04   HSC Hannover vs FSV Schoningen     5.7%   1.88 0.0-0.0 LOST    
+  2026-10-04   CD Plaza Amador Panama City vs     5.1%   2.40 0.0-1.0 LOST    
+  2026-10-04   Manila Digger FC vs Dynamic Her    5.1%   1.86 2.0-0.0 WON     
+  2026-10-04   Malta vs Andorra                   4.9%   3.60 0.0-0.0 LOST    
+  2026-10-04   CA Guemes vs CA Colegiales         4.9%   3.60 0.0-0.0 LOST    
+  2026-10-04   CD Godoy Cruz vs Club Atletico     4.9%   3.70 0.0-0.0 LOST    
+  2026-10-04   Club Comunicaciones vs CSD Flan    4.2%   3.60 1.0-0.0 LOST    
+  2026-10-04   IFK Trelleborg vs Rappe GOIF       4.0%   1.82 1.0-0.0 LOST    
+  2026-10-04   FK Varnsdorf vs FC Slovan Liber    4.0%   1.82 1.0-1.0 WON     
+  2026-10-04   SC Farense vs GD Chaves            3.9%   2.75 2.0-0.0 WON     
+  2026-10-04   Kosovo vs Austria                  3.9%   2.75 0.0-0.0 LOST    
+  2026-10-04   Madla vs Brodd                     3.8%   1.71 0.0-1.0 LOST    
+  2026-10-04   Fort Wayne FC vs Forward Madiso    3.3%   2.30 0.0-0.0 LOST    
+  2026-10-04   IF Karlstad Fotbollutveckling v    3.3%   2.30 0.0-3.0 WON     
+  2026-10-04   Treasure Beach FC vs Humble Lio    3.3%   2.30 1.0-0.0 LOST    
+  2026-10-04   CA Huracan vs CA Aldosivi          3.2%   3.40 1.0-0.0 LOST    
+  2026-10-04   Audace Cerignola vs Altamura So    3.2%   2.70 0.0-0.0 LOST    
+  2026-10-04   Real Zaragoza vs CD Teruel         3.2%   2.70 1.0-1.0 WON     
+  2026-10-10   PFC Dobrudzha Dobrich vs PFC Ch    7.5%   2.55 0.0-1.0 LOST    
+  2026-10-10   RB Leipzig vs Eintracht Frankfu    7.3%   1.82 4.0-0.0 WON     
+  2026-10-10   Real Madrid vs Villarreal          7.3%   1.82 0.0-0.0 LOST    
+  2026-10-10   Paksi FC vs MTK Budapest           7.0%   1.81 1.0-0.0 LOST    
+  2026-10-10   Inter vs Parma Calcio              6.8%   1.92 3.0-0.0 WON     
+  2026-10-10   FC Universitario de Vinto vs Cd    6.8%   1.92 0.0-2.0 WON     
+  2026-10-10   Aston Villa vs Brentford           6.7%   2.50 1.0-1.0 WON     
+  2026-10-10   Syrianska FC vs FOC Farsta         6.5%   1.91 1.0-0.0 LOST    
+  2026-10-10   Lugano vs FC Luzern                6.5%   1.91 1.0-0.0 LOST    
+  2026-10-10   Barcelona vs Getafe                6.4%   1.79 2.0-0.0 WON     
+  2026-10-10   AFC Fylde vs Scunthorpe United     6.0%   1.89 1.0-0.0 LOST    
+  2026-10-10   Cheltenham Town vs Salford City    5.9%   2.45 0.0-0.0 LOST    
+  2026-10-10   Woking FC vs Harrogate Town        5.9%   2.45 0.0-1.0 LOST    
+  2026-10-10   Worksop Town vs Morecambe FC       5.9%   2.45 2.0-0.0 WON     
+  2026-10-10   Caykur Rizespor vs Fenerbahce I    5.9%   2.45 0.0-1.0 LOST    
+  2026-10-10   Hapoel Petah Tikva FC vs Maccab    5.9%   2.45 0.0-0.0 LOST    
+  2026-10-10   Ferencvarosi Budapest vs Debrec    5.7%   1.88 0.0-0.0 LOST    
+  2026-10-10   IK Franke vs Helges IF             5.4%   1.76 0.0-1.0 LOST    
+  2026-10-10   Blackburn Rovers vs Cardiff Cit    5.1%   2.40 2.0-0.0 WON     
+  2026-10-10   Middlesbrough FC vs Wolves         5.1%   2.40 0.0-0.0 LOST    
+  2026-10-10   Wycombe Wanderers vs Luton         5.1%   2.40 0.0-2.0 WON     
+  2026-10-10   Torquay United vs Slough Town      5.1%   1.75 0.0-0.0 LOST    
+  2026-10-10   Lille vs Le Havre                  5.1%   2.40 1.0-0.0 LOST    
+  2026-10-10   Flint Town United vs Colwyn Bay    5.1%   2.40 0.0-1.0 LOST    
+  2026-10-10   Asociacion Deportiva Tarma vs F    5.1%   2.40 0.0-0.0 LOST    
+  2026-10-10   De Treffers Groesbeek vs BVV Ba    4.9%   1.85 3.0-0.0 WON     
+  2026-10-10   IFK Haninge vs FC Nacka Iliria     4.8%   1.74 3.0-4.0 WON     
+  2026-10-10   PSG vs Le Mans FC                  4.5%   1.73 1.0-0.0 LOST    
+  2026-10-10   FC Liefering vs SK Sturm Graz I    4.3%   1.83 2.0-1.0 WON     
+  2026-10-10   Valur Reykjavik vs FH Hafnarfjo    4.3%   1.83 0.0-3.0 WON     
+  2026-10-10   Esperance Sportive de Tunis vs     4.2%   2.35 2.0-0.0 WON     
+  2026-10-10   Limavady United FC vs Ballymena    4.2%   2.35 1.0-2.0 WON     
+  2026-10-10   Dacia Buiucani vs Sheriff Tiras    4.2%   2.35 0.0-2.0 WON     
+  2026-10-10   Villa Dalmine vs CSD Liniers       3.4%   3.50 1.0-1.0 WON     
+  2026-10-10   Wealdstone FC vs Yeovil Town       3.3%   2.30 0.0-1.0 LOST    
+  2026-10-10   Monaco vs Toulouse                 3.3%   2.30 2.0-0.0 WON     
+  2026-10-10   CD Genesis PN vs CD Olimpia Teg    3.3%   2.85 0.0-1.0 LOST    
+  2026-10-10   Inter San Carlos vs Perez Zeled    3.3%   2.30 0.0-1.0 LOST    
+  2026-10-10   Bolton Wanderers vs Stoke City     3.2%   2.70 0.0-1.0 LOST    
+  2026-10-10   Alaves vs Atletico Madrid          3.2%   2.70 1.0-1.0 WON     
+  2026-10-15   Celta vs Juventus                  8.0%   3.10 1.0-0.0 LOST    
+  2026-10-15   Bournemouth vs Sturm Graz          7.1%   1.93 1.0-0.0 LOST    
+  2026-10-15   Atletico Nacional vs Independie    6.7%   2.50 2.0-0.0 WON     
+  2026-10-15   Kataka FC vs Vipers SC             6.7%   2.50 0.0-1.0 LOST    
+  2026-10-15   Kuopion Palloseura vs Trabzonsp    6.7%   2.50 0.0-2.0 WON     
+  2026-10-15   Lugano vs Crvena Zvezda            6.7%   2.50 1.0-1.0 WON     
+  2026-10-15   Riga FC vs FC Kairat Almaty        6.3%   2.95 1.0-1.0 WON     
+  2026-10-15   PFC CSKA Sofia vs Monaco           5.9%   2.45 0.0-2.0 WON     
+  2026-10-15   Ferencvarosi Budapest vs Viktor    5.9%   2.45 0.0-0.0 LOST    
+  2026-10-15   San Diego FC vs Houston Dynamo     5.1%   2.40 2.0-3.0 WON     
+  2026-10-15   Mjallby AIF vs Inter Club de Es    5.1%   2.40 0.0-0.0 LOST    
+  2026-10-15   AL Arabi vs Shabab AL Ordun        3.3%   2.85 0.0-0.0 LOST    
+  2026-10-15   Envigado FC vs CD Real Santande    3.3%   2.85 1.0-1.0 WON     
+  2026-10-16   Sporting Club Delhi vs Mohun Ba    6.7%   2.50 1.0-0.0 LOST    
+  2026-10-16   Atlanta United 2 vs CT United F    6.5%   1.91 0.0-1.0 LOST    
+  2026-10-16   Cardiff Metropolitan University    6.4%   1.79 2.0-0.0 WON     
+  2026-10-16   KF Oriku vs Flamurtari Vlore       5.9%   2.45 0.0-2.0 WON     
+  2026-10-16   Al Qadsiah vs Abha Club            5.1%   1.86 1.0-0.0 LOST    
+  2026-10-16   FK Sloga Doboj vs NK Siroki Bri    5.1%   3.00 0.0-0.0 LOST    
+  2026-10-16   AA Ponte Preta SP vs AC Goianie    5.1%   2.40 1.0-0.0 LOST    
+  2026-10-16   FK Kukesi vs Besa Kavaje           4.6%   2.55 1.0-0.0 LOST    
+  2026-10-16   Edelweiss Linz vs ASK St. Valen    4.6%   1.84 1.0-1.0 WON     
+  2026-10-16   VVV Venlo vs Jong AZ Alkmaar       4.6%   1.84 1.0-2.0 WON     
+  2026-10-16   Maccabi Kabilio Jaffa vs Ironi     4.2%   2.35 0.0-1.0 LOST    
+  2026-10-16   FC Bunyodkor vs PFC Sogdiana       4.2%   2.35 0.0-1.0 LOST    
+  2026-10-16   Naestved BK vs B93 Copenhagen      4.2%   2.35 2.0-0.0 WON     
+  2026-10-16   Al Baqaa vs AL Salt                3.9%   2.90 0.0-0.0 LOST    
+  2026-10-16   SPG Wallern/ASV St. Marienkirch    3.7%   1.81 0.0-1.0 LOST    
+  2026-10-16   Breidablik vs Vikingur Reykjavi    3.7%   1.81 1.0-0.0 LOST    
+  2026-10-16   Al Dhafra SSC vs Dubai United F    3.3%   2.30 2.0-1.0 WON     
+  2026-10-16   1.SK Prostejov vs FK Usti nad L    3.3%   2.30 1.0-0.0 LOST    
+  2026-10-16   SFC Opava vs FC Vysocina Jihlav    3.3%   2.30 1.0-0.0 LOST    
+  2026-10-16   Aarhus Fremad vs Esbjerg FB        3.3%   2.30 0.0-0.0 LOST    
+
+======================================================================
+  EDGE TIER: 8–12%  (220 picks)
+======================================================================
+  Win rate : 49.1%   ROI : +14.2%
+  Under 1.5 HT : 112 (50.9%)  ← these are LOSSES
+  Over 1.5 HT  : 108  (49.1%)  ← these are WINS
+
+  HT Score      Count      %  Outcome
+  ------------ ------ ------  -------
+  0.0-0.0          52  23.6%  UNDER (LOST)
+  1.0-0.0          31  14.1%  UNDER (LOST)
+  0.0-1.0          29  13.2%  UNDER (LOST)
+  1.0-1.0          27  12.3%  UNDER (LOST)
+  2.0-0.0          23  10.5%  UNDER (LOST)
+  1.0-2.0          14   6.4%  UNDER (LOST)
+  3.0-0.0          10   4.5%  UNDER (LOST)
+  0.0-2.0          10   4.5%  UNDER (LOST)
+  2.0-1.0           7   3.2%  UNDER (LOST)
+  0.0-3.0           5   2.3%  UNDER (LOST)
+  3.0-1.0           3   1.4%  UNDER (LOST)
+  4.0-0.0           3   1.4%  UNDER (LOST)
+  2.0-2.0           2   0.9%  UNDER (LOST)
+  1.0-3.0           1   0.5%  UNDER (LOST)
+  4.0-1.0           1   0.5%  UNDER (LOST)
+
+  KEY QUESTION: When edge is 8–12%, HT Under 1.5 happens 50.9% of the time.
+
+  ALL PICKS IN THIS TIER (220 picks):
+  Date         Match                              Edge   Odds    HT Result  
+  ------------ -------------------------------- ------ ------ ----- --------
+  2026-08-30   FC Ska-Khabarovsk vs Torpedo Mo   11.7%   2.85 0.0-0.0 LOST    
+  2026-08-30   Minnesota United FC vs Orlando    11.3%   2.10 0.0-1.0 LOST    
+  2026-08-30   Lions FC vs Peninsula Power FC    11.3%   2.10 2.0-1.0 WON     
+  2026-08-30   Tai Po FC vs Eastern SC           11.3%   2.10 1.0-1.0 WON     
+  2026-08-30   Frigg Oslo FK vs Bryne FK         11.3%   2.10 0.0-0.0 LOST    
+  2026-08-30   Karmiotissa FC vs Pafos FC        11.3%   2.10 0.0-1.0 LOST    
+  2026-08-30   Rodina Moscow vs FC Baltika Kal   11.0%   2.80 0.0-1.0 LOST    
+  2026-08-30   Hapoel Rishon Lezion FC vs FC K   11.0%   2.80 2.0-0.0 WON     
+  2026-08-30   FK Radnik Bijeljina vs FK Borac   11.0%   2.80 1.0-0.0 LOST    
+  2026-08-30   Gandzasar Kapan FC vs FC BKMA Y   10.4%   2.75 0.0-0.0 LOST    
+  2026-08-30   FK Pardubice B vs FK Caslav       10.1%   2.05 3.0-0.0 WON     
+  2026-08-30   Eidsvold TF vs Grorud IL          10.1%   2.05 0.0-0.0 LOST    
+  2026-08-30   TSV Havelse vs SV Waldhof Mannh   10.1%   2.05 1.0-2.0 WON     
+  2026-08-30   FK Jerv vs Pors Grenland          10.1%   2.05 0.0-0.0 LOST    
+  2026-08-30   SC Cambuur vs FC Twente Ensched   10.1%   2.05 0.0-2.0 WON     
+  2026-08-30   Alianza FC San Salvador vs Atle    9.7%   2.70 0.0-0.0 LOST    
+  2026-08-30   Asteras Tripolis vs Olympiacos     9.7%   2.70 0.0-1.0 LOST    
+  2026-08-30   Heidelberg United FC vs Bentlei    9.1%   1.88 1.0-0.0 LOST    
+  2026-08-30   Cagliari vs Inter                  9.0%   2.65 0.0-1.0 LOST    
+  2026-08-30   Denver Summit FC vs Chicago Red    8.9%   2.00 2.0-0.0 WON     
+  2026-08-30   IK Junkeren vs Stjordals-Blink     8.9%   2.00 1.0-2.0 WON     
+  2026-08-30   Jonsereds IF vs BK Astrio          8.8%   1.87 2.0-1.0 WON     
+  2026-08-30   FH Hafnarfjordur vs Keflavik IF    8.7%   1.99 1.0-1.0 WON     
+  2026-08-30   Perez Zeledon vs Liga Deportiva    8.3%   2.60 0.0-1.0 LOST    
+  2026-08-30   Gwangju FC vs FC Seoul             8.3%   2.60 1.0-3.0 WON     
+  2026-08-30   Skive IK vs Naestved BK            8.3%   2.60 0.0-1.0 LOST    
+  2026-08-30   Atromitos Athinon vs PAOK          8.3%   2.60 1.0-1.0 WON     
+  2026-08-30   Angby IF vs Korsnas IF FK          8.1%   1.97 0.0-1.0 LOST    
+  2026-08-31   Benfica vs Estoril Praia          11.0%   1.95 1.0-0.0 LOST    
+  2026-08-31   Braga vs Vitoria SC Guimaraes     11.0%   2.80 0.0-0.0 LOST    
+  2026-08-31   Forest Green Rovers vs Altrinch   10.1%   2.05 0.0-0.0 LOST    
+  2026-08-31   Buxton FC vs Merthyr Town         10.1%   2.05 1.0-1.0 WON     
+  2026-08-31   Chorley FC vs Brackley Town FC     9.0%   2.65 0.0-1.0 LOST    
+  2026-08-31   FC Gagra vs FC Iberia 1999         9.0%   2.65 1.0-0.0 LOST    
+  2026-08-31   APO Levadiakos FC vs Panathinai    9.0%   2.65 0.0-1.0 LOST    
+  2026-08-31   Aston Villa vs Arsenal             9.0%   2.65 0.0-0.0 LOST    
+  2026-08-31   HNK Gorica vs HNK Rijeka           9.0%   2.65 0.0-0.0 LOST    
+  2026-08-31   Osasuna vs Getafe                  8.7%   4.30 1.0-0.0 LOST    
+  2026-09-01   Achilles Veen vs SV Poortugaal    11.3%   2.10 3.0-1.0 WON     
+  2026-09-01   Kruger United vs Orlando Pirate   11.0%   2.80 0.0-1.0 LOST    
+  2026-09-01   Sheffield United vs Bolton Wand   10.4%   2.75 1.0-1.0 WON     
+  2026-09-01   Lanzhou Longyuan Athletic vs Be   10.1%   2.05 0.0-1.0 LOST    
+  2026-09-01   Parma Calcio vs US Cremonese       9.0%   3.20 0.0-2.0 WON     
+  2026-09-01   FC Stade Nyonnais vs FC Wintert    8.9%   2.00 1.0-2.0 WON     
+  2026-09-02   Udinese vs Venezia FC             11.7%   2.85 1.0-1.0 WON     
+  2026-09-02   Salzburg vs SK Rapid              11.3%   2.10 3.0-0.0 WON     
+  2026-09-02   Hzvv Hoogeveen vs SV Zwaluwen W   10.5%   1.93 1.0-0.0 LOST    
+  2026-09-02   JEF United Chiba vs Fagiano Oka   10.4%   2.75 1.0-1.0 WON     
+  2026-09-02   Yokohama F Marinos vs Kyoto San   10.4%   2.75 0.0-0.0 LOST    
+  2026-09-02   FC Zbrojovka Brno B vs FC Vseti   10.1%   2.05 4.0-0.0 WON     
+  2026-09-02   FC Luzern vs FC Vaduz              9.1%   1.88 0.0-0.0 LOST    
+  2026-09-02   AKS Beskid Andrychow vs Slask I    8.7%   1.99 1.0-1.0 WON     
+  2026-09-02   FC Ryukyu vs Yokohama FC           8.3%   2.60 1.0-2.0 WON     
+  2026-09-02   Nara Club vs Sagan Tosu            8.3%   2.60 1.0-1.0 WON     
+  2026-09-02   Dbk Fortuna Hjoerring vs Znk Ha    8.1%   1.97 0.0-0.0 LOST    
+  2026-09-02   Celtic vs Aberdeen                 8.1%   1.97 3.0-0.0 WON     
+  2026-09-03   Copenhagen vs Nordsjaelland       11.3%   2.10 2.0-0.0 WON     
+  2026-09-03   Deportivo Rayo Zuliano vs Carab    8.3%   2.60 2.0-1.0 WON     
+  2026-09-04   MFK Karvina vs SK Kladno          11.3%   2.10 0.0-0.0 LOST    
+  2026-09-04   Atletico Choloma vs Olancho FC    11.3%   2.10 0.0-0.0 LOST    
+  2026-09-04   Hannover 96 vs Karlsruher SC      10.1%   2.05 2.0-1.0 WON     
+  2026-09-04   Llanelli Town vs Treowen Stars    10.1%   2.05 0.0-1.0 LOST    
+  2026-09-04   Assyriska FF vs IFK Stocksund      9.4%   1.89 2.0-0.0 WON     
+  2026-09-04   Metropolitanos FC vs Trujillano    9.0%   2.65 1.0-0.0 LOST    
+  2026-09-04   FC Emmen vs FC Volendam            8.9%   2.00 1.0-0.0 LOST    
+  2026-09-04   Fredrikstad FK vs Bodoe/Glimt      8.7%   1.99 0.0-1.0 LOST    
+  2026-09-04   Coventry City U21 vs West Bromw    8.7%   1.99 0.0-2.0 WON     
+  2026-09-04   West Ham U21 vs Brighton & Hove    8.7%   1.99 0.0-1.0 LOST    
+  2026-09-04   Stuttgart vs Cologne               8.4%   1.98 1.0-0.0 LOST    
+  2026-09-04   Arema FC vs Adhyaksa Farmel FC     8.3%   2.60 3.0-0.0 WON     
+  2026-09-04   Bangu AC RJ vs CR Flamengo RJ      8.3%   2.60 0.0-1.0 LOST    
+  2026-09-04   Baltijos Futbolo Akademija vs F    8.3%   2.60 2.0-0.0 WON     
+  2026-09-05   Kozarmisleny SE vs Mezokovesd Z   11.7%   2.85 1.0-0.0 LOST    
+  2026-09-05   Athletic Bilbao vs Atletico Mad   11.0%   2.80 0.0-0.0 LOST    
+  2026-09-05   FC Juarez vs CF Pachuca           10.4%   2.75 0.0-0.0 LOST    
+  2026-09-05   West Bromwich Albion vs Watford   10.4%   2.75 1.0-0.0 LOST    
+  2026-09-05   Club Atletico La Paz vs CD Mine   10.1%   2.05 1.0-0.0 LOST    
+  2026-09-05   Torslanda IK vs IF Boljan Falke   10.1%   2.05 0.0-3.0 WON     
+  2026-09-05   Shanghai Port FC vs Beijing Guo   10.1%   2.05 0.0-0.0 LOST    
+  2026-09-05   Stjordals-Blink vs Eidsvold TF    10.1%   2.05 0.0-3.0 WON     
+  2026-09-05   Mexico vs Benin                   10.1%   2.05 1.0-0.0 LOST    
+  2026-09-05   Burnley vs Bristol City            9.7%   2.70 0.0-0.0 LOST    
+  2026-09-05   Royal Charleroi SC vs Union Gil    9.7%   2.70 2.0-2.0 WON     
+  2026-09-05   Boavista RJ vs Marica FC RJ        9.7%   2.70 0.0-0.0 LOST    
+  2026-09-05   Universidad de Chile vs Coquimb    9.7%   2.70 0.0-0.0 LOST    
+  2026-09-05   Baerum SK vs Nordstrand            9.6%   1.52 0.0-0.0 LOST    
+  2026-09-05   Man City vs Coventry City          9.4%   1.89 1.0-0.0 LOST    
+  2026-09-05   Brentford vs Sunderland AFC        9.0%   2.65 0.0-0.0 LOST    
+  2026-09-05   Sheffield United vs Norwich        9.0%   2.65 1.0-2.0 WON     
+  2026-09-05   Horsham FC vs Dagenham and Redb    9.0%   2.65 1.0-1.0 WON     
+  2026-09-05   Osterlen FF vs IFK Karlshamn       8.9%   2.00 2.0-0.0 WON     
+  2026-09-05   Chelsea FC W vs Aston Villa WFC    8.4%   1.98 1.0-0.0 LOST    
+  2026-09-05   Buckley Town vs Penrhyncoch        8.4%   1.98 2.0-0.0 WON     
+  2026-09-05   CA Tembetary Ypane vs Encarnaci    8.3%   2.60 0.0-2.0 WON     
+  2026-09-05   Karpaty Lviv vs Shakhtar D         8.3%   2.60 1.0-1.0 WON     
+  2026-09-05   Columbus Crew vs Colorado Rapid    8.3%   2.60 1.0-0.0 LOST    
+  2026-09-05   Orlando City SC vs San Diego FC    8.1%   1.97 1.0-0.0 LOST    
+  2026-09-06   KF Tirana vs FK Vora              11.7%   2.85 2.0-0.0 WON     
+  2026-09-06   SC Telstar vs SC Cambuur          11.3%   2.10 0.0-0.0 LOST    
+  2026-09-06   Troyes vs Strasbourg              11.0%   2.80 1.0-2.0 WON     
+  2026-09-06   Lamontville Golden Arrows vs Ma   11.0%   2.80 0.0-1.0 LOST    
+  2026-09-06   Aqvital FC Csakvar vs Szeged-Cs   11.0%   2.80 1.0-2.0 WON     
+  2026-09-06   SC Internacional RS vs Santos F   11.0%   2.80 0.0-3.0 WON     
+  2026-09-06   FC Sion vs FC Thun                10.1%   2.05 1.0-1.0 WON     
+  2026-09-06   Trabzonspor vs Genclerbirligi S   10.0%   2.50 3.0-0.0 WON     
+  2026-09-06   Panionios Athens vs Asteras Tri    9.7%   2.70 2.0-0.0 WON     
+  2026-09-06   Kashiwa Reysol vs Yokohama F Ma    9.0%   2.65 0.0-1.0 LOST    
+  2026-09-06   Inkilap Fsk vs Zonguldak Komurs    9.0%   2.65 1.0-2.0 WON     
+  2026-09-06   San Jose Earthquakes II vs Taco    8.9%   2.00 0.0-0.0 LOST    
+  2026-09-06   FK Kosice vs MFk Dukla Banska B    8.9%   2.00 3.0-0.0 WON     
+  2026-09-06   Belconnen United vs Canberra Ol    8.4%   1.98 3.0-1.0 WON     
+  2026-09-06   Staffenstorp United vs FK Karls    8.4%   1.98 0.0-2.0 WON     
+  2026-09-06   Ecuador vs Ghana                   8.3%   2.60 2.0-0.0 WON     
+  2026-09-08   Hull City U21 vs Brentford U21    11.5%   1.97 1.0-1.0 WON     
+  2026-09-08   Watford vs Preston North End      11.0%   2.80 0.0-1.0 LOST    
+  2026-09-08   Wrexham AFC vs Burnley             8.3%   2.60 0.0-1.0 LOST    
+  2026-09-09   Napoli vs Arsenal                 11.7%   2.85 0.0-0.0 LOST    
+  2026-09-10   Estrela Amadora vs Braga          11.0%   2.80 1.0-1.0 WON     
+  2026-09-10   Al Jazira (UAE) vs Al-Nasr Duba   10.1%   2.05 1.0-0.0 LOST    
+  2026-09-10   FK Radnik Surdulica vs Crvena Z   10.1%   2.05 0.0-0.0 LOST    
+  2026-09-10   Los Angeles FC vs New York Red     9.9%   1.91 1.0-0.0 LOST    
+  2026-09-10   Blooming Santa Cruz vs GV Club     8.7%   1.99 4.0-1.0 WON     
+  2026-09-10   Philadelphia Union vs FC Cincin    8.5%   1.86 2.0-0.0 WON     
+  2026-09-10   Slavia Prague vs Lens              8.3%   2.60 0.0-0.0 LOST    
+  2026-09-11   MC Oran vs CR Temouchent          11.6%   3.50 0.0-0.0 LOST    
+  2026-09-11   Al Gharafa SC vs Lusail SC        11.3%   2.10 0.0-0.0 LOST    
+  2026-09-11   Lokomotiv Tashkent vs PFK Mash    11.3%   2.10 0.0-0.0 LOST    
+  2026-09-11   FC KTP Kotka vs JaPS              11.3%   2.10 1.0-0.0 LOST    
+  2026-09-11   RC Deportivo De La Coruna vs Re   11.3%   2.10 0.0-2.0 WON     
+  2026-09-11   Al-Najma Manama vs East Riffa     10.4%   2.75 1.0-2.0 WON     
+  2026-09-11   Al Rayyan SC vs Al Ahli Doha SC   10.1%   2.05 2.0-0.0 WON     
+  2026-09-11   FC Rapperswil-Jona vs Yverdon-S   10.1%   2.05 0.0-0.0 LOST    
+  2026-09-11   VVV Venlo vs TOP Oss              10.1%   2.05 2.0-1.0 WON     
+  2026-09-11   Cork City FC vs Cobh Ramblers     10.1%   2.05 1.0-0.0 LOST    
+  2026-09-11   Airbus UK Broughton vs The New     9.6%   1.90 0.0-2.0 WON     
+  2026-09-11   Cambrian United vs Holywell Tow    8.4%   1.98 1.0-0.0 LOST    
+  2026-09-13   Gwangju FC vs FC Anyang           11.7%   2.85 1.0-1.0 WON     
+  2026-09-13   Viking FK vs Kristiansund BK      10.7%   1.94 5.0-1.0 WON     
+  2026-09-13   Botev Plovdiv vs PFC Lokomotiv    10.4%   2.75 2.0-0.0 WON     
+  2026-09-13   Tromsdalen UIL vs Trygg/Lade      10.2%   1.92 2.0-0.0 WON     
+  2026-09-13   Shatin vs Kowloon City            10.1%   2.05 1.0-1.0 WON     
+  2026-09-13   SK Artis B vs FC Zlin B           10.1%   2.05 2.0-0.0 WON     
+  2026-09-13   07 Vestur Sorvagur vs KI Klaksv   10.1%   2.05 0.0-1.0 LOST    
+  2026-09-13   HNK Hajduk Split vs NK Slaven B   10.1%   2.05 1.0-0.0 LOST    
+  2026-09-13   Vancouver Whitecaps FC vs Austi   10.1%   2.05 0.0-1.0 LOST    
+  2026-09-13   Araz Nakhchivan PFK vs Turan To    9.7%   2.70 1.0-0.0 LOST    
+  2026-09-13   Persita Tangerang vs Malut Unit    9.0%   2.65 1.0-2.0 WON     
+  2026-09-13   Asteras Tripolis vs AEK Athens     9.0%   2.65 1.0-1.0 WON     
+  2026-09-13   Amed Sportif Faaliyetler vs Ist    9.0%   2.65 1.0-0.0 LOST    
+  2026-09-13   FC Twente Enschede W vs Feyenoo    8.9%   2.00 2.0-0.0 WON     
+  2026-09-13   FC Luzern vs Basel                 8.9%   2.00 1.0-2.0 WON     
+  2026-09-13   SC Heerenveen vs SC Telstar        8.7%   1.99 0.0-0.0 LOST    
+  2026-09-13   Sogndal Fotball vs Stroemmen IF    8.7%   1.99 0.0-0.0 LOST    
+  2026-09-13   FK Jerv vs Brattvaag               8.4%   1.98 1.0-0.0 LOST    
+  2026-09-13   RB Leipzig vs Hamburger SV         8.4%   1.98 2.0-0.0 WON     
+  2026-09-13   FC Famalicao vs Sporting           8.3%   2.60 0.0-0.0 LOST    
+  2026-09-14   JK Tabasalu vs Tallinna JK Legi   11.0%   1.61 0.0-1.0 LOST    
+  2026-09-14   Al Qadsiah vs Al Wasl FC          10.1%   2.05 0.0-0.0 LOST    
+  2026-09-14   Jong FC Utrecht vs Jong Ajax Am    8.7%   1.99 3.0-0.0 WON     
+  2026-09-14   Moreirense FC vs Maritimo Madei    8.4%   3.33 2.0-0.0 WON     
+  2026-09-14   Gzira United FC vs Zabbar Saint    8.3%   2.60 0.0-0.0 LOST    
+  2026-09-15   Bristol City vs Lincoln City      10.4%   2.75 0.0-0.0 LOST    
+  2026-09-15   Southend United vs Tamworth FC    10.1%   2.05 0.0-0.0 LOST    
+  2026-09-15   Stenhousemuir FC vs Partick Thi    8.3%   2.60 0.0-0.0 LOST    
+  2026-09-17   Internacional de Bogota. vs Atl    9.0%   2.65 1.0-1.0 WON     
+  2026-09-17   FC Orenburg vs FK Krasnodar        8.3%   2.60 0.0-0.0 LOST    
+  2026-09-17   FK Atyrau vs FC Ordabasy           8.3%   2.60 0.0-1.0 LOST    
+  2026-09-18   RKC Waalwijk vs MVV Maastricht    11.3%   2.10 3.0-0.0 WON     
+  2026-09-18   Cork City FC vs University Coll   11.3%   2.10 4.0-0.0 WON     
+  2026-09-18   Blau-Weiss Linz vs FC Admira Wa   10.1%   2.05 1.0-0.0 LOST    
+  2026-09-18   USV Gnas vs SV Wildon              8.9%   2.00 1.0-1.0 WON     
+  2026-09-18   FC Groningen vs PEC Zwolle         8.9%   2.00 2.0-0.0 WON     
+  2026-09-18   Karbalaa vs Erbil SC               8.3%   2.60 0.0-2.0 WON     
+  2026-09-18   US Creteil-Lusitanos vs Chantil    8.3%   2.60 1.0-1.0 WON     
+  2026-09-18   Colwyn Bay vs Barry Town United    8.3%   2.60 1.0-2.0 WON     
+  2026-09-20   Uzbekistan vs Hong Kong           11.3%   2.10 1.0-0.0 LOST    
+  2026-09-20   PFC Dobrudzha Dobrich vs PFC CS    9.0%   2.65 0.0-2.0 WON     
+  2026-09-21   Uzbekistan vs Hong Kong           11.3%   2.10 1.0-0.0 LOST    
+  2026-09-21   PFC Dobrudzha Dobrich vs PFC CS    9.0%   2.65 0.0-2.0 WON     
+  2026-09-24   Kosovo vs Ireland                  9.0%   3.40 0.0-0.0 LOST    
+  2026-09-27   Hong Kong vs Laos                 11.3%   2.10 2.0-0.0 WON     
+  2026-09-27   Levanger FK vs Grorud IL          11.3%   2.10 0.0-1.0 LOST    
+  2026-09-27   Bahrain vs United Arab Emirates   11.0%   2.80 0.0-1.0 LOST    
+  2026-09-27   Panionios Athens vs APS Zakynth    9.7%   2.70 0.0-0.0 LOST    
+  2026-09-27   AD Isidro Metapan vs CD. Cacahu    9.0%   2.65 1.0-0.0 LOST    
+  2026-09-27   Austria vs Kosovo                  9.0%   2.65 2.0-0.0 WON     
+  2026-09-27   Sport Boys Association vs Alian    9.0%   2.65 2.0-3.0 WON     
+  2026-09-27   Moghreb Athletic de Tetouan vs     8.3%   2.60 0.0-0.0 LOST    
+  2026-09-28   Latvia vs Cyprus                  10.8%   3.40 0.0-0.0 LOST    
+  2026-10-04   FC Supra Du Quebec vs Pacific F   10.1%   2.05 1.0-0.0 LOST    
+  2026-10-04   Baerum SK vs Ready Fotball        10.0%   1.60 1.0-1.0 WON     
+  2026-10-04   PEC Zwolle vs SC Heerenveen        8.9%   2.00 0.0-1.0 LOST    
+  2026-10-04   Oud-Heverlee Leuven W vs Raal L    8.2%   1.85 0.0-0.0 LOST    
+  2026-10-04   Bangor FC vs Coleraine FC          8.1%   1.97 1.0-2.0 WON     
+  2026-10-04   Netherlands vs Serbia              8.1%   1.97 1.0-1.0 WON     
+  2026-10-10   ND Beltinci vs NK Bilje           11.3%   2.10 2.0-1.0 WON     
+  2026-10-10   Leicester vs Peterborough Unite   11.2%   1.96 0.0-3.0 WON     
+  2026-10-10   Casa Pia Lisbon vs Santa Clara    10.2%   3.33 0.0-0.0 LOST    
+  2026-10-10   Boston United FC vs Southend Un   10.1%   2.05 1.0-1.0 WON     
+  2026-10-10   Fehervar FC Szekesfehervar vs S    9.7%   2.70 2.0-0.0 WON     
+  2026-10-10   Watford vs Burnley                 9.0%   2.65 0.0-3.0 WON     
+  2026-10-10   Tiszakecskei LC vs FC Ajka         9.0%   2.65 3.0-1.0 WON     
+  2026-10-10   Maritimo Madeira vs Porto          9.0%   2.65 1.0-1.0 WON     
+  2026-10-10   Worthing FC vs Solihull Moors F    8.9%   2.00 3.0-0.0 WON     
+  2026-10-10   Al Ahli Doha SC vs Al-Sailiya S    8.9%   2.00 3.0-0.0 WON     
+  2026-10-10   Go Ahead Eagles vs Sparta Rotte    8.7%   1.99 0.0-1.0 LOST    
+  2026-10-10   Brest vs Angers                    8.3%   2.60 4.0-0.0 WON     
+  2026-10-10   Ajax vs NEC Nijmegen               8.2%   1.85 1.0-1.0 WON     
+  2026-10-10   FC Zurich vs FC Thun               8.1%   1.97 2.0-1.0 WON     
+  2026-10-15   Hoffenheim vs Besiktas Istanbul   11.3%   2.10 0.0-0.0 LOST    
+  2026-10-15   NK Celje vs AC Omonia Nicosia     11.0%   2.80 0.0-1.0 LOST    
+  2026-10-15   Al-Faisaly FC vs Al-Kholood       10.4%   2.75 2.0-2.0 WON     
+  2026-10-15   FC Twente Enschede vs FC Thun      9.4%   1.89 0.0-0.0 LOST    
+  2026-10-15   KF Egnatia Rrogozhine vs FC Mid    8.3%   2.60 1.0-1.0 WON     
+  2026-10-16   RC Deportivo de A Coruna vs Lev   11.7%   2.85 0.0-0.0 LOST    
+  2026-10-16   Doqarah FC vs AL Jazeera Club A   11.0%   2.80 1.0-2.0 WON     
+  2026-10-16   Pwd SC vs Mohammedan SC Dhaka     10.1%   2.05 0.0-0.0 LOST    
+  2026-10-16   Burnley vs Wolves                  9.7%   2.70 1.0-1.0 WON     
+  2026-10-16   CN Marcilio Dias SC vs Figueire    9.0%   2.65 2.0-0.0 WON     
+  2026-10-16   Tanjong Pagar United FC vs Houg    8.7%   1.99 0.0-0.0 LOST    
+
+======================================================================
+  EDGE TIER: 12%+  (102 picks)
+======================================================================
+  Win rate : 38.2%   ROI : -12.5%
+  Under 1.5 HT : 63 (61.8%)  ← these are LOSSES
+  Over 1.5 HT  : 39  (38.2%)  ← these are WINS
+
+  HT Score      Count      %  Outcome
+  ------------ ------ ------  -------
+  0.0-0.0          30  29.4%  UNDER (LOST)
+  1.0-0.0          23  22.5%  UNDER (LOST)
+  0.0-1.0          10   9.8%  UNDER (LOST)
+  0.0-2.0           8   7.8%  UNDER (LOST)
+  2.0-0.0           7   6.9%  UNDER (LOST)
+  1.0-1.0           5   4.9%  UNDER (LOST)
+  1.0-2.0           5   4.9%  UNDER (LOST)
+  3.0-0.0           3   2.9%  UNDER (LOST)
+  2.0-1.0           3   2.9%  UNDER (LOST)
+  1.0-3.0           2   2.0%  UNDER (LOST)
+  0.0-3.0           2   2.0%  UNDER (LOST)
+  4.0-0.0           1   1.0%  UNDER (LOST)
+  3.0-4.0           1   1.0%  UNDER (LOST)
+  2.0-2.0           1   1.0%  UNDER (LOST)
+  0.0-5.0           1   1.0%  UNDER (LOST)
+
+  KEY QUESTION: When edge is 12%+, HT Under 1.5 happens 61.8% of the time.
+  *** SIGNAL FOUND: Over 1.5 LOSES 61.8% when edge is 12%+
+      This means UNDER 1.5 HT may be the real play when edge is 12%+
+
+  ALL PICKS IN THIS TIER (102 picks):
+  Date         Match                              Edge   Odds    HT Result  
+  ------------ -------------------------------- ------ ------ ----- --------
+  2026-08-30   Rennes vs Le Mans FC              15.4%   2.30 2.0-1.0 WON     
+  2026-08-30   Heming vs Valerenga IF 2          14.6%   1.53 2.0-0.0 WON     
+  2026-08-30   JK Tallinna Kalev vs Viljandi J   14.6%   1.53 2.0-0.0 WON     
+  2026-08-30   Celta vs Athletic Bilbao          14.5%   3.10 0.0-2.0 WON     
+  2026-08-30   San Diego FC vs Los Angeles Gal   13.5%   2.05 1.0-0.0 LOST    
+  2026-08-30   Argentinos Juniors vs CA Aldosi   13.4%   3.00 0.0-1.0 LOST    
+  2026-08-30   Stabaek Fotball 2 vs Staal Joer   12.9%   1.49 0.0-0.0 LOST    
+  2026-08-30   Paris FC vs Nice                  12.8%   2.95 1.0-0.0 LOST    
+  2026-08-30   Alianza FC Valledupar vs Atleti   12.3%   2.90 1.0-3.0 WON     
+  2026-08-31   Spjelkavik IL vs Molde FK 2       14.6%   1.53 2.0-1.0 WON     
+  2026-08-31   US Lecce vs Roma                  12.3%   2.90 0.0-3.0 WON     
+  2026-09-02   FK Gintra Siauliai vs SK Sturm    14.5%   2.25 3.0-4.0 WON     
+  2026-09-02   CD Cuenca vs Guayaquil City FC    13.4%   3.00 0.0-0.0 LOST    
+  2026-09-02   Mito Hollyhock vs Kashima Antle   12.8%   2.95 2.0-0.0 WON     
+  2026-09-02   Shimizu S-Pulse vs FC Tokyo       12.8%   2.95 0.0-0.0 LOST    
+  2026-09-02   West Bromwich Albion vs Charlto   12.8%   2.95 0.0-0.0 LOST    
+  2026-09-03   Velez Sarsfield vs Boca Juniors   15.5%   3.20 0.0-0.0 LOST    
+  2026-09-03   Atlantis FC vs PEPO Lappeenrant   15.1%   1.54 0.0-0.0 LOST    
+  2026-09-03   WKW ETO FC Gyor vs Ferencvarosi   13.4%   2.20 0.0-1.0 LOST    
+  2026-09-03   Basel vs FC Sion                  12.4%   2.15 1.0-0.0 LOST    
+  2026-09-04   Viborg FF vs Lyngby BK            14.5%   2.25 0.0-1.0 LOST    
+  2026-09-04   Shabab AL Ordun vs Ramtha SC      12.8%   2.95 0.0-0.0 LOST    
+  2026-09-04   FC Tekstilshchik Ivanovo vs Tor   12.8%   2.95 0.0-2.0 WON     
+  2026-09-04   RKC Waalwijk vs NAC Breda         12.4%   2.15 1.0-0.0 LOST    
+  2026-09-05   New Lambton FC vs Broadmeadow M   17.5%   1.60 1.0-2.0 WON     
+  2026-09-05   Frigg Oslo FK vs Ready Fotball    17.5%   1.60 1.0-2.0 WON     
+  2026-09-05   SK Brann vs Lillestroem SK        16.8%   2.20 0.0-2.0 WON     
+  2026-09-05   Volos NPS vs Olympiacos           16.4%   2.35 0.0-1.0 LOST    
+  2026-09-05   Stoke City vs Charlton Athletic   13.4%   3.00 4.0-0.0 WON     
+  2026-09-05   Millwall FC vs Bolton Wanderers   13.4%   3.00 1.0-0.0 LOST    
+  2026-09-05   Erzurumspor FK vs Konyaspor       13.4%   3.00 1.0-0.0 LOST    
+  2026-09-05   Alverca Futebol vs Braga          13.4%   3.00 1.0-0.0 LOST    
+  2026-09-05   Fiorentina vs Torino              12.8%   2.95 0.0-0.0 LOST    
+  2026-09-05   FK Macva Sabac vs FK Radnicki 1   12.8%   2.95 0.0-0.0 LOST    
+  2026-09-05   Rosenborg BK vs HamKam            12.4%   2.15 1.0-0.0 LOST    
+  2026-09-05   Valerenga IF 2 vs Konnerud        12.4%   1.48 0.0-0.0 LOST    
+  2026-09-06   Espanyol vs Sevilla               18.2%   3.50 0.0-0.0 LOST    
+  2026-09-06   FCI Levadia Tallinn vs FC Phoen   17.9%   1.61 2.0-1.0 WON     
+  2026-09-06   Kasimpasa Istanbul vs Amed Spor   14.5%   3.10 1.0-0.0 LOST    
+  2026-09-06   Basel vs Lugano                   14.5%   2.25 0.0-0.0 LOST    
+  2026-09-06   Juventus vs AC Milan              14.5%   3.10 0.0-0.0 LOST    
+  2026-09-06   Gil Vicente Barcelos vs Academi   14.5%   3.10 0.0-1.0 LOST    
+  2026-09-06   Parnu JK Vaprus II vs JK Tallin   13.8%   1.51 2.0-0.0 WON     
+  2026-09-06   Cerezo Osaka vs Tokyo Verdy       13.4%   3.00 0.0-0.0 LOST    
+  2026-09-06   Vissel Kobe vs V-Varen Nagasaki   13.4%   3.00 2.0-0.0 WON     
+  2026-09-06   Birmingham City vs Wolves         13.4%   3.00 2.0-2.0 WON     
+  2026-09-06   Sukhothai FC vs Buriram United    13.4%   2.20 0.0-3.0 WON     
+  2026-09-06   FC Real Sireti vs FC Zimbru Chi   13.4%   2.20 0.0-1.0 LOST    
+  2026-09-06   Bologna vs Sassuolo               13.4%   3.00 0.0-1.0 LOST    
+  2026-09-06   Hertha vs 1. FC Magdeburg         12.4%   2.15 1.0-1.0 WON     
+  2026-09-08   Sunderland AFC vs Hull City       23.8%   2.85 0.0-0.0 LOST    
+  2026-09-08   FC Kiffen vs Atlantis FC          17.1%   1.59 1.0-0.0 LOST    
+  2026-09-08   Al Qadsiah vs Al Ahli Saudi FC    13.4%   2.20 3.0-0.0 WON     
+  2026-09-09   Gwangju FC vs Jeju SK FC          12.8%   2.95 0.0-0.0 LOST    
+  2026-09-09   Dinamo St Petersburg vs FK Soch   12.4%   2.15 1.0-0.0 LOST    
+  2026-09-10   San Diego FC vs San Jose Earthq   12.3%   2.00 1.0-3.0 WON     
+  2026-09-11   Stenhousemuir FC vs Heart of Mi   18.8%   2.30 0.0-2.0 WON     
+  2026-09-11   Sevilla vs Valencia               17.3%   3.40 0.0-0.0 LOST    
+  2026-09-11   Besiktas Istanbul vs Erzurumspo   12.4%   2.15 2.0-0.0 WON     
+  2026-09-13   FC Dnepr Mogilev vs Maxline Vit   17.2%   2.40 1.0-1.0 WON     
+  2026-09-13   Tokyo Verdy vs JEF United Chiba   16.0%   3.25 0.0-0.0 LOST    
+  2026-09-13   Celta vs Malaga CF                14.5%   3.10 1.0-0.0 LOST    
+  2026-09-13   Genclerbirligi SK vs Kasimpasa    14.5%   3.10 1.0-0.0 LOST    
+  2026-09-13   Napoli vs Bologna                 14.5%   3.10 0.0-0.0 LOST    
+  2026-09-13   Aston Villa WFC vs Manchester C   13.5%   2.05 1.0-2.0 WON     
+  2026-09-13   Benfica vs Gil Vicente Barcelos   12.4%   2.15 1.0-1.0 WON     
+  2026-09-14   Viking FK 2 vs Varhaug            17.5%   1.60 2.0-0.0 WON     
+  2026-09-14   Rio Ave FC vs Estrela Amadora     13.4%   3.00 1.0-1.0 WON     
+  2026-09-15   Ipswich Town vs Arsenal           17.2%   2.40 0.0-2.0 WON     
+  2026-09-15   Middlesbrough FC vs Millwall FC   16.4%   2.35 0.0-2.0 WON     
+  2026-09-15   Holywell Town vs Colwyn Bay       14.6%   2.10 0.0-5.0 WON     
+  2026-09-17   Crystal Palace vs KKS Lech Pozn   16.4%   2.35 3.0-0.0 WON     
+  2026-09-17   Al Sharqiya Enppi vs Pyramids F   15.5%   3.20 0.0-0.0 LOST    
+  2026-09-17   Betis vs Getafe                   14.5%   3.10 1.0-0.0 LOST    
+  2026-09-17   FC Jarfalla vs Karlbergs BK       12.4%   2.15 1.0-0.0 LOST    
+  2026-09-18   Kapfenberger SV vs SKU Amstette   14.5%   2.25 1.0-2.0 WON     
+  2026-09-18   Philippines vs Vietnam            12.4%   2.15 0.0-0.0 LOST    
+  2026-09-18   AC Oulu vs FC Inter Turku         12.3%   2.90 0.0-1.0 LOST    
+  2026-09-18   Kasimpasa Istanbul vs Konyaspor   12.3%   2.90 0.0-0.0 LOST    
+  2026-09-24   Liechtenstein vs Lithuania        14.5%   3.10 0.0-0.0 LOST    
+  2026-09-24   Seattle Sounders vs Real Salt L   13.4%   2.20 0.0-0.0 LOST    
+  2026-09-24   Portugal vs Wales                 13.4%   2.20 1.0-0.0 LOST    
+  2026-09-27   Yemen vs Qatar                    12.4%   2.15 0.0-0.0 LOST    
+  2026-09-27   Germany vs Greece                 12.4%   2.15 0.0-0.0 LOST    
+  2026-09-28   Armenia vs Montenegro             16.4%   3.30 1.0-2.0 WON     
+  2026-10-04   FC Fleury vs Paris Saint-Germai   18.1%   2.45 0.0-2.0 WON     
+  2026-10-04   Ireland vs Israel                 14.5%   3.10 1.0-0.0 LOST    
+  2026-10-04   ADO Den Haag vs PSV Eindhoven     13.5%   2.05 0.0-2.0 WON     
+  2026-10-10   Crusaders FC vs Larne FC          16.8%   2.20 0.0-1.0 LOST    
+  2026-10-10   Hoffenheim vs Hamburger SV        13.5%   2.05 1.0-1.0 WON     
+  2026-10-10   Feyenoord vs Alkmaar              13.5%   2.05 1.0-0.0 LOST    
+  2026-10-10   Sheffield United vs Lincoln Cit   12.8%   2.95 1.0-0.0 LOST    
+  2026-10-10   NK Celje vs Aluminij Kidricevo    12.4%   2.15 1.0-0.0 LOST    
+  2026-10-10   AEK Athens vs OFI Crete           12.4%   2.15 1.0-0.0 LOST    
+  2026-10-10   Portland Hearts of Pine vs AC B   12.4%   2.15 0.0-0.0 LOST    
+  2026-10-10   Deportivo Pereira FC SA vs Depo   12.3%   2.90 0.0-0.0 LOST    
+  2026-10-15   CS Universitatea Craiova vs Get   16.7%   3.33 0.0-0.0 LOST    
+  2026-10-15   Atalanta vs Pafos FC              14.5%   2.25 3.0-0.0 WON     
+  2026-10-15   Copenhagen vs Braga               14.5%   3.10 0.0-0.0 LOST    
+  2026-10-15   Panathinaikos vs FK Borac Banja   13.4%   2.20 1.0-0.0 LOST    
+  2026-10-16   SC Heerenveen vs Excelsior Rott   13.5%   2.05 1.0-0.0 LOST    
+  2026-10-16   FC Eindhoven vs Vitesse Arnhem    13.4%   2.20 0.0-1.0 LOST    
+
+======================================================================
+  SUMMARY — UNDER vs OVER RATE BY EDGE TIER
+======================================================================
+  Edge tier   Picks   Under%    Over%    Win%      ROI  Implication
+  ---------- ------ -------- -------- ------- --------  -----------
+  <8%           586    61.3%    38.7%   38.7%   -13.7%  Play UNDER 1.5 HT
+  8–12%         220    50.9%    49.1%   49.1%   +14.2%  No clear signal
+  12%+          102    61.8%    38.2%   38.2%   -12.5%  Play UNDER 1.5 HT
+
+======================================================================
+  END — 2026-10-17 04:33
+======================================================================

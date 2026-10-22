@@ -1,0 +1,27 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-18
+  Generated : 2026-10-18 02:17:43
+  Legs      : 4
+  Sorted by : edge
+  Combined odds : 34.33
+======================================================================
+
+  BOOKING CODE:  XJT9UH
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    18 16  Vaalerenga IF vs SK Brann           HT Away Win            3.00  + 26.7%  0.6617
+  2    18 19  Nacao SC vs Blumenau EC SC          Away Win               1.73  + 16.5%  0.7237
+  3    18 15  FK Kapaz vs Zira FK                 HT Away Win            2.45  + 14.3%  0.6617
+  4    18 14  PAE PS Kalamata vs OFI Crete        Away Win               2.70  + 13.0%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      1x  Eliteserien
+      1x  Copa Santa Catarina
+      1x  Premier League
+      1x  Super League
+
+======================================================================

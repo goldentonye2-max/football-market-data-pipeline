@@ -1,0 +1,51 @@
+======================================================================
+  OVERFIT ACCUMULATOR — 2026-10-17
+  Generated : 2026-10-17 05:35:18
+  Legs      : 16
+  Sorted by : edge
+  Combined odds : 18,549.38
+  Filter    : HT Over 1.5 edge 8-12% | Away Win & HT Away Win edge 12%+
+              odds 1.51-1.70 and 1.91-2.00
+======================================================================
+
+  BOOKING CODE:  VV8ZFW
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    17 18  Atletico Ottawa vs Forge FC Hamilt  Away Win               1.70  + 15.5%  0.7237
+  2    17 14  Skellefteaa FF vs Kubikenborgs IF   Away Win               1.68  + 14.8%  0.7237
+  3    17 11  FC Gute vs Sunnersta AIF            Away Win               1.67  + 14.5%  0.7237
+  4    17 13  FK Kudrivka vs FSC Bukovyna Cherni  Away Win               1.67  + 14.5%  0.7237
+  5    17 16  Sanat Naft Abadan FC vs Aluminium   Away Win               1.62  + 12.6%  0.7237
+  6    17 14  Rosenborg BK Kvinner vs SK Brann    Away Win               1.61  + 12.2%  0.7237
+  7    17 15  Man City vs Ipswich Town            HT Over 1.5            1.97  + 11.5%  0.6269
+  8    17 19  Philadelphia Union vs Charlotte FC  HT Over 1.5            1.92  + 10.2%  0.6269
+  9    17 12  Wolfsburg vs Heidenheim             HT Over 1.5            1.92  + 10.2%  0.6269
+  10   17 15  Folkestone Invicta vs AFC Totton    HT Over 1.5            2.00  +  8.9%  0.6269
+  11   17 14  Jong Almere City FC vs De Treffers  HT Over 1.5            2.00  +  8.9%  0.6269
+  12   17 14  FC KTP Kotka vs HJK Klubi 04        HT Over 1.5            2.00  +  8.9%  0.6269
+  13   17 12  Middlesbrough FC vs Cardiff City    HT Over 1.5            1.99  +  8.7%  0.6269
+  14   17 13  Selangor FC vs Penang FA            HT Over 1.5            1.99  +  8.7%  0.6269
+  15   17 13  1. FC Bocholt vs VfL Sportfreunde   HT Over 1.5            1.97  +  8.1%  0.6269
+  16   17 14  Arendal FK vs FK Eik Toensberg 871  HT Over 1.5            1.97  +  8.1%  0.6269
+
+======================================================================
+  Tournament breakdown:
+      2x  Division 2
+      2x  Premier League
+      1x  Canadian Premier League
+      1x  Pro League
+      1x  Toppserien, Women
+      1x  MLS
+      1x  2. Bundesliga
+      1x  National League South
+      1x  Tweede Divisie
+      1x  Ykkosliiga
+      1x  Championship
+      1x  Super League
+      1x  Regionalliga West
+      1x  2nd Division Group 1
+
+======================================================================

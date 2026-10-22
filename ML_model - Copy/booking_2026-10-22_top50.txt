@@ -1,0 +1,71 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-22
+  Generated : 2026-10-22 05:06:56
+  Legs      : 41
+  Sorted by : edge
+  Combined odds : 15,035,615.92
+======================================================================
+
+  BOOKING CODE:  NS7ZUR
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    22 13  Wolaita Dicha SC vs Bahir Dar Kene  Over 1.5 Goals         1.70  + 20.3%  0.6116
+  2    22 15  FC Kairat Almaty vs Panathinaikos   Away Win               1.69  + 15.2%  0.7237
+  3    22 17  Inter Club de Escaldes vs CS Unive  Away Win               1.63  + 13.0%  0.7237
+  4    22 17  Sitra Club vs Al Riffa              Away Win               1.59  + 11.4%  0.7237
+  5    22 20  Braga vs Gent                       Over 1.5 Goals         1.37  + 11.3%  0.6116
+  6    22 14  FK Mornar Bar vs OFK Mladost DG     Home Win               1.48  + 11.0%  0.7212
+  7    22 20  NK Celje vs Salzburg                Away Win               1.57  + 10.6%  0.7237
+  8    22 17  FK Buducnost vs FK Arsenal Tivat    Home Win               1.46  + 10.0%  0.7212
+  9    22 13  Hawassa Kenema SC vs Ethiopia Nigd  Over 1.5 Goals         1.64  +  9.9%  0.6116
+  10   22 20  Besiktas Istanbul vs Crystal Palac  BTTS Yes               1.48  +  9.6%  0.6112
+  11   22 20  Viktoria Plzen vs PFC Levski Sofia  Over 2.5 Goals         1.70  +  8.7%  0.6410
+  12   22 20  Lillestroem SK vs Real Sociedad     Away Win               1.52  +  8.5%  0.7237
+  13   22 01  SE Palmeiras SP vs Fluminense FC R  Over 1.5 Goals         1.44  +  8.3%  0.6116
+  14   22 17  OFI Crete vs Bayer Leverkusen       Over 2.5 Goals         1.36  +  7.6%  0.6410
+  15   22 13  Saint George SC vs Adama City FC    Over 1.5 Goals         1.58  +  7.6%  0.6116
+  16   22 02  Deportivo Toluca FC vs Club Tijuan  Over 2.5 Goals         1.35  +  7.1%  0.6410
+  17   22 09  PSM Makassar vs Persebaya Surabaya  HT Over 0.5            1.38  +  7.0%  0.6199
+  18   22 17  Getafe vs Lugano                    Over 1.5 Goals         1.36  +  7.0%  0.6116
+  19   22 17  Pafos FC vs Riga FC                 Home Win               1.63  +  6.0%  0.7212
+  20   22 17  Union Gilloise vs Hapoel Be`er She  Home Win               1.37  +  5.5%  0.7212
+  21   22 17  Ferencvarosi Budapest vs SCU Torre  Over 2.5 Goals         1.61  +  5.5%  0.6410
+  22   22 20  Bournemouth vs AC Milan             BTTS Yes               1.64  +  5.4%  0.6112
+  23   22 13  Madura United vs Persib Bandung     HT Over 0.5            1.35  +  5.4%  0.6199
+  24   22 20  FC Midtjylland vs St. Truidense VV  BTTS Yes               1.64  +  5.4%  0.6112
+  25   22 04  Club Santos Laguna vs Pumas UNAM    Over 2.5 Goals         1.60  +  5.1%  0.6410
+  26   22 20  FC Thun vs HNK Hajduk Split         Over 2.5 Goals         1.60  +  5.1%  0.6410
+  27   22 14  FC Bunyodkor vs PFK Mash AL Mubare  Home Win               1.36  +  5.0%  0.7212
+  28   22 20  Monaco vs Freiburg                  BTTS Yes               1.63  +  5.0%  0.6112
+  29   22 20  Jagiellonia Bialystok vs RSC Ander  HT Over 0.5            1.37  +  5.0%  0.6199
+  30   22 17  Juventus vs Rennes                  HT Over 0.5            1.31  +  4.9%  0.6199
+  31   22 20  Celtic vs Celta                     HT Over 0.5            1.38  +  4.9%  0.6199
+  32   22 17  Tallinna FC Flora vs FC Nomme Unit  Over 3.5 Goals         1.51  +  4.4%  0.6631
+  33   22 20  Ajax vs Atalanta                    HT Over 0.5            1.30  +  4.3%  0.6199
+  34   22 17  Al-Najma Manama vs Aali             Over 1.5 Goals         1.36  +  4.2%  0.6116
+  35   21 23  Universidad de Chile vs CD Antofag  Over 2.5 Goals         1.57  +  3.9%  0.6410
+  36   22 15  Al-Fateh SC vs Al-Shabab FC (SA)    Over 2.5 Goals         1.57  +  3.9%  0.6410
+  37   22 17  FC Iberia 1999 vs Mjallby AIF       HT Over 0.5            1.41  +  3.8%  0.6199
+  38   22 17  Crvena Zvezda vs Copenhagen         BTTS Yes               1.59  +  3.5%  0.6112
+  39   22 04  CF Pachuca vs CF Cruz Azul          Over 2.5 Goals         1.56  +  3.5%  0.6410
+  40   22 02  Club Puebla vs CF Monterrey         HT Over 0.5            1.35  +  3.3%  0.6199
+  41   22 14  SC Villa vs Mbarara FC              Over 2.5 Goals         1.55  +  3.1%  0.6410
+
+======================================================================
+  Tournament breakdown:
+     11x  UEFA Conference League
+     11x  UEFA Europa League
+      6x  Premier League
+      4x  Liga MX
+      2x  1. CFL
+      2x  Super League
+      1x  CONMEBOL Libertadores
+      1x  Superliga
+      1x  Esiliiga
+      1x  Copa Chile
+      1x  Saudi Pro League
+
+======================================================================

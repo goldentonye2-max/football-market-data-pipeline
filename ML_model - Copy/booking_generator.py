@@ -196,7 +196,7 @@ def lookup_selection(conn, event_id, market_id, specifier, outcome_desc):
     return row
 
 
-def load_and_filter_picks(csv_path, top_n, sort_col, min_edge=None,
+def load_and_filter_picks(csv_path, top_n, sort_col, min_edge=None, max_edge=None,
                            min_auc=None, min_odds=None, max_odds=None,
                            markets=None, min_hit_rate=None):
     if not os.path.exists(csv_path):
@@ -215,6 +215,10 @@ def load_and_filter_picks(csv_path, top_n, sort_col, min_edge=None,
     if min_edge is not None:
         df = df[df["edge_%"] >= min_edge]
         print(f"  → {len(df)} after edge ≥ {min_edge}%")
+
+    if max_edge is not None:
+        df = df[df["edge_%"] <= max_edge]
+        print(f"  → {len(df)} after edge ≤ {max_edge}%")
 
     if min_auc is not None:
         df = df[df["model_auc"] >= min_auc]
@@ -489,6 +493,8 @@ def main():
                         help="Preview slip without calling the API")
     parser.add_argument("--min-edge",  type=float, default=None,
                         help="Minimum edge %% e.g. --min-edge 12")
+    parser.add_argument("--max-edge",  type=float, default=None,
+                        help="Maximum edge %% e.g. --max-edge 12")
     parser.add_argument("--min-auc",   type=float, default=None,
                         help="Minimum model AUC e.g. --min-auc 0.65")
     parser.add_argument("--min-odds",  type=float, default=None,
@@ -519,6 +525,7 @@ def main():
     picks_df = load_and_filter_picks(
     args.picks_csv, top_n, sort_col,
     min_edge  = args.min_edge,
+    max_edge  = args.max_edge,
     min_auc   = args.min_auc,
     min_odds  = args.min_odds,
     max_odds  = args.max_odds,

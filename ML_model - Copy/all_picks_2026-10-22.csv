@@ -1,0 +1,210 @@
+event_id,home_team,away_team,match,tournament,kickoff,target,pick,model_prob_%,implied_prob_%,edge_%,decimal_odds,model_auc,has_odds_match,hit_rate_%
+sr:match:75641090,Independiente Santa Fe,Jaguares de Cordoba,Independiente Santa Fe vs Jaguares de Cordoba,Liga DIMAYOR,2026-10-22 02:20,target__away_clean_sheet,Away Clean Sheet,21.8,13.9,7.9,7.2,0.6508,True,23.0
+sr:match:74172994,KKS Lech Poznan,Sunderland AFC,KKS Lech Poznan vs Sunderland AFC,UEFA Europa League,2026-10-22 17:45,target__away_clean_sheet,Away Clean Sheet,47.3,40.0,7.3,2.5,0.6508,True,23.0
+sr:match:74173232,FK Kauno Zalgiris,SK Brann,FK Kauno Zalgiris vs SK Brann,UEFA Conference League,2026-10-22 17:45,target__away_clean_sheet,Away Clean Sheet,47.3,37.7,9.5,2.65,0.6508,True,23.0
+sr:match:74401642,MS Tira,Hapoel Tirat Hacarmel,MS Tira vs Hapoel Tirat Hacarmel,Liga Alef,2026-10-22 18:00,target__away_clean_sheet,Away Clean Sheet,21.8,16.4,5.4,6.1,0.6508,True,23.0
+sr:match:73215802,Al Ahli Saudi FC,Al-Khaleej Club,Al Ahli Saudi FC vs Al-Khaleej Club,Saudi Pro League,2026-10-22 19:00,target__away_clean_sheet,Away Clean Sheet,21.8,13.5,8.3,7.4,0.6508,True,23.0
+sr:match:75478292,Oriente Petrolero,CA Nacional Potosi,Oriente Petrolero vs CA Nacional Potosi,Copa Bolivia,2026-10-22 01:30,target__away_win,Away Win,29.5,25.0,4.5,4.0,0.7237,True,32.7
+sr:match:72055254,Atlas FC,CF America,Atlas FC vs CF America,Liga MX,2026-10-22 02:00,target__away_win,Away Win,56.2,48.8,7.4,2.05,0.7237,True,32.7
+sr:match:72055258,CF Pachuca,CF Cruz Azul,CF Pachuca vs CF Cruz Azul,Liga MX,2026-10-22 04:10,target__away_win,Away Win,50.0,44.4,5.6,2.25,0.7237,True,32.7
+sr:match:74173212,FC Kairat Almaty,Panathinaikos,FC Kairat Almaty vs Panathinaikos,UEFA Conference League,2026-10-22 15:30,target__away_win,Away Win,74.3,59.2,15.2,1.69,0.7237,True,32.7
+sr:match:73215804,Al-Fateh SC,Al-Shabab FC (SA),Al-Fateh SC vs Al-Shabab FC (SA),Saudi Pro League,2026-10-22 15:45,target__away_win,Away Win,50.0,46.5,3.5,2.15,0.7237,True,32.7
+sr:match:75113128,Sitra Club,Al Riffa,Sitra Club vs Al Riffa,Premier League,2026-10-22 17:00,target__away_win,Away Win,74.3,62.9,11.4,1.59,0.7237,True,32.7
+sr:match:74172990,GNK Dinamo Zagreb,NEC Nijmegen,GNK Dinamo Zagreb vs NEC Nijmegen,UEFA Europa League,2026-10-22 17:45,target__away_win,Away Win,29.5,19.2,10.3,5.2,0.7237,True,32.7
+sr:match:74172992,Juventus,Rennes,Juventus vs Rennes,UEFA Europa League,2026-10-22 17:45,target__away_win,Away Win,23.6,16.4,7.2,6.11,0.7237,True,32.7
+sr:match:74172994,KKS Lech Poznan,Sunderland AFC,KKS Lech Poznan vs Sunderland AFC,UEFA Europa League,2026-10-22 17:45,target__away_win,Away Win,74.3,56.2,18.2,1.78,0.7237,True,32.7
+sr:match:74173232,FK Kauno Zalgiris,SK Brann,FK Kauno Zalgiris vs SK Brann,UEFA Conference League,2026-10-22 17:45,target__away_win,Away Win,74.3,56.8,17.5,1.76,0.7237,True,32.7
+sr:match:74173240,Inter Club de Escaldes,CS Universitatea Craiova,Inter Club de Escaldes vs CS Universitatea Craiova,UEFA Conference League,2026-10-22 17:45,target__away_win,Away Win,74.3,61.3,13.0,1.63,0.7237,True,32.7
+sr:match:74173242,Pafos FC,Riga FC,Pafos FC vs Riga FC,UEFA Conference League,2026-10-22 17:45,target__away_win,Away Win,23.6,17.8,5.8,5.63,0.7237,True,32.7
+sr:match:74173006,Celtic,Celta,Celtic vs Celta,UEFA Europa League,2026-10-22 20:00,target__away_win,Away Win,42.4,38.5,4.0,2.6,0.7237,True,32.7
+sr:match:74173012,Lillestroem SK,Real Sociedad,Lillestroem SK vs Real Sociedad,UEFA Europa League,2026-10-22 20:00,target__away_win,Away Win,74.3,65.8,8.5,1.52,0.7237,True,32.7
+sr:match:74173014,NK Celje,Salzburg,NK Celje vs Salzburg,UEFA Europa League,2026-10-22 20:00,target__away_win,Away Win,74.3,63.7,10.6,1.57,0.7237,True,32.7
+sr:match:74173262,FC Midtjylland,St. Truidense VV,FC Midtjylland vs St. Truidense VV,UEFA Conference League,2026-10-22 20:00,target__away_win,Away Win,24.1,20.2,3.9,4.96,0.7237,True,32.7
+sr:match:74173266,FC Thun,HNK Hajduk Split,FC Thun vs HNK Hajduk Split,UEFA Conference League,2026-10-22 20:00,target__away_win,Away Win,50.0,40.7,9.3,2.46,0.7237,True,32.7
+sr:match:74827356,Lions FC,Preston Lions FC,Lions FC vs Preston Lions FC,Australian Championship,2026-10-22 09:30,target__btts_no,BTTS No,58.5,47.6,10.8,2.1,0.616,True,46.5
+sr:match:74672798,Gia Dinh,PVF Cong An Nhan Dan FC,Gia Dinh vs PVF Cong An Nhan Dan FC,V-League 2,2026-10-22 12:00,target__btts_no,BTTS No,58.5,50.0,8.5,2.0,0.616,True,46.5
+sr:match:74173212,FC Kairat Almaty,Panathinaikos,FC Kairat Almaty vs Panathinaikos,UEFA Conference League,2026-10-22 15:30,target__btts_no,BTTS No,61.8,51.5,10.2,1.94,0.616,True,46.5
+sr:match:74172986,FC Ararat-Armenia,Alkmaar,FC Ararat-Armenia vs Alkmaar,UEFA Europa League,2026-10-22 17:45,target__btts_no,BTTS No,59.2,46.5,12.7,2.15,0.616,True,46.5
+sr:match:74172988,Ferencvarosi Budapest,SCU Torreense,Ferencvarosi Budapest vs SCU Torreense,UEFA Europa League,2026-10-22 17:45,target__btts_no,BTTS No,66.2,55.2,10.9,1.81,0.616,True,46.5
+sr:match:74172992,Juventus,Rennes,Juventus vs Rennes,UEFA Europa League,2026-10-22 17:45,target__btts_no,BTTS No,58.5,48.8,9.7,2.05,0.616,True,46.5
+sr:match:74172996,OFI Crete,Bayer Leverkusen,OFI Crete vs Bayer Leverkusen,UEFA Europa League,2026-10-22 17:45,target__btts_no,BTTS No,62.7,50.5,12.2,1.98,0.616,True,46.5
+sr:match:74173228,FK Jablonec,Brighton,FK Jablonec vs Brighton,UEFA Conference League,2026-10-22 17:45,target__btts_no,BTTS No,66.2,54.6,11.6,1.83,0.616,True,46.5
+sr:match:74173232,FK Kauno Zalgiris,SK Brann,FK Kauno Zalgiris vs SK Brann,UEFA Conference League,2026-10-22 17:45,target__btts_no,BTTS No,50.2,45.5,4.7,2.2,0.616,True,46.5
+sr:match:74173246,Trabzonspor,Heart of Midlothian FC,Trabzonspor vs Heart of Midlothian FC,UEFA Conference League,2026-10-22 17:45,target__btts_no,BTTS No,59.2,48.8,10.4,2.05,0.616,True,46.5
+sr:match:73374542,Al Gharafa SC,Al Ahli Doha SC,Al Gharafa SC vs Al Ahli Doha SC,Stars League,2026-10-22 17:45,target__btts_no,BTTS No,44.4,38.5,5.9,2.6,0.616,True,46.5
+sr:match:72498290,Hibernians FC Paola,Gzira United FC,Hibernians FC Paola vs Gzira United FC,Premier League,2026-10-22 19:30,target__btts_no,BTTS No,58.5,54.3,4.1,1.84,0.616,True,46.5
+sr:match:74173018,AC Omonia Nicosia,Benfica,AC Omonia Nicosia vs Benfica,UEFA Europa League,2026-10-22 20:00,target__btts_no,BTTS No,66.2,51.8,14.4,1.93,0.616,True,46.5
+sr:match:74173006,Celtic,Celta,Celtic vs Celta,UEFA Europa League,2026-10-22 20:00,target__btts_no,BTTS No,50.2,44.4,5.7,2.25,0.616,True,46.5
+sr:match:74173014,NK Celje,Salzburg,NK Celje vs Salzburg,UEFA Europa League,2026-10-22 20:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:74173272,Lincoln Red Imps,FC Twente Enschede,Lincoln Red Imps vs FC Twente Enschede,UEFA Conference League,2026-10-22 20:00,target__btts_no,BTTS No,66.2,54.9,11.3,1.82,0.616,True,46.5
+sr:match:72055256,Deportivo Toluca FC,Club Tijuana de Caliente,Deportivo Toluca FC vs Club Tijuana de Caliente,Liga MX,2026-10-22 02:00,target__btts_yes,BTTS Yes,66.3,58.5,7.9,1.71,0.6112,True,53.5
+sr:match:73577180,Madura United,Persib Bandung,Madura United vs Persib Bandung,Super League,2026-10-22 13:00,target__btts_yes,BTTS Yes,61.1,56.8,4.3,1.76,0.6112,True,53.5
+sr:match:75798538,Saint George SC,Adama City FC,Saint George SC vs Adama City FC,Premier League,2026-10-22 13:00,target__btts_yes,BTTS Yes,50.8,45.5,5.3,2.2,0.6112,True,53.5
+sr:match:73961674,SC Villa,Mbarara FC,SC Villa vs Mbarara FC,Premier League,2026-10-22 14:00,target__btts_yes,BTTS Yes,50.8,41.7,9.1,2.4,0.6112,True,53.5
+sr:match:74726252,Tractor Tabriz,Sanat Naft Abadan FC,Tractor Tabriz vs Sanat Naft Abadan FC,Pro League,2026-10-22 14:30,target__btts_yes,BTTS Yes,50.8,38.5,12.3,2.6,0.6112,True,53.5
+sr:match:68380608,FC Bunyodkor,PFK Mash AL Mubarek,FC Bunyodkor vs PFK Mash AL Mubarek,Superliga,2026-10-22 14:30,target__btts_yes,BTTS Yes,60.1,54.9,5.2,1.82,0.6112,True,53.5
+sr:match:74173224,Crvena Zvezda,Copenhagen,Crvena Zvezda vs Copenhagen,UEFA Conference League,2026-10-22 17:45,target__btts_yes,BTTS Yes,66.3,62.9,3.5,1.59,0.6112,True,53.5
+sr:match:74173236,Getafe,Lugano,Getafe vs Lugano,UEFA Conference League,2026-10-22 17:45,target__btts_yes,BTTS Yes,60.1,50.8,9.4,1.97,0.6112,True,53.5
+sr:match:74173220,Nordsjaelland,PFC CSKA Sofia,Nordsjaelland vs PFC CSKA Sofia,UEFA Conference League,2026-10-22 17:45,target__btts_yes,BTTS Yes,60.1,56.5,3.6,1.77,0.6112,True,53.5
+sr:match:74173242,Pafos FC,Riga FC,Pafos FC vs Riga FC,UEFA Conference League,2026-10-22 17:45,target__btts_yes,BTTS Yes,61.1,55.2,5.9,1.81,0.6112,True,53.5
+sr:match:74173004,Besiktas Istanbul,Crystal Palace,Besiktas Istanbul vs Crystal Palace,UEFA Europa League,2026-10-22 20:00,target__btts_yes,BTTS Yes,77.2,67.6,9.6,1.48,0.6112,True,53.5
+sr:match:74173002,Bournemouth,AC Milan,Bournemouth vs AC Milan,UEFA Europa League,2026-10-22 20:00,target__btts_yes,BTTS Yes,66.3,61.0,5.4,1.64,0.6112,True,53.5
+sr:match:74173008,Viktoria Plzen,PFC Levski Sofia,Viktoria Plzen vs PFC Levski Sofia,UEFA Europa League,2026-10-22 20:00,target__btts_yes,BTTS Yes,65.0,59.2,5.8,1.69,0.6112,True,53.5
+sr:match:74173274,Braga,Gent,Braga vs Gent,UEFA Conference League,2026-10-22 20:00,target__btts_yes,BTTS Yes,66.3,50.0,16.3,2.0,0.6112,True,53.5
+sr:match:74173262,FC Midtjylland,St. Truidense VV,FC Midtjylland vs St. Truidense VV,UEFA Conference League,2026-10-22 20:00,target__btts_yes,BTTS Yes,66.3,61.0,5.4,1.64,0.6112,True,53.5
+sr:match:74173266,FC Thun,HNK Hajduk Split,FC Thun vs HNK Hajduk Split,UEFA Conference League,2026-10-22 20:00,target__btts_yes,BTTS Yes,70.5,65.8,4.7,1.52,0.6112,True,53.5
+sr:match:74173258,Monaco,Freiburg,Monaco vs Freiburg,UEFA Conference League,2026-10-22 20:00,target__btts_yes,BTTS Yes,66.3,61.3,5.0,1.63,0.6112,True,53.5
+sr:match:74172998,Union Gilloise,Hapoel Be`er Sheva FC,Union Gilloise vs Hapoel Be`er Sheva FC,UEFA Europa League,2026-10-22 17:45,target__draw,Draw,24.4,17.1,7.2,5.84,0.5993,True,22.8
+sr:match:74173220,Nordsjaelland,PFC CSKA Sofia,Nordsjaelland vs PFC CSKA Sofia,UEFA Conference League,2026-10-22 17:45,target__draw,Draw,24.4,19.0,5.4,5.27,0.5993,True,22.8
+sr:match:74173242,Pafos FC,Riga FC,Pafos FC vs Riga FC,UEFA Conference League,2026-10-22 17:45,target__draw,Draw,26.9,22.8,4.1,4.38,0.5993,True,22.8
+sr:match:73215802,Al Ahli Saudi FC,Al-Khaleej Club,Al Ahli Saudi FC vs Al-Khaleej Club,Saudi Pro League,2026-10-22 19:00,target__draw,Draw,24.4,17.5,6.8,5.7,0.5993,True,22.8
+sr:match:74173002,Bournemouth,AC Milan,Bournemouth vs AC Milan,UEFA Europa League,2026-10-22 20:00,target__draw,Draw,30.5,26.4,4.1,3.79,0.5993,True,22.8
+sr:match:74173266,FC Thun,HNK Hajduk Split,FC Thun vs HNK Hajduk Split,UEFA Conference League,2026-10-22 20:00,target__draw,Draw,30.5,26.8,3.7,3.73,0.5993,True,22.8
+sr:match:74846724,CD Luis Angel Firpo Usulutan,Deportivo Saprissa San Jose,CD Luis Angel Firpo Usulutan vs Deportivo Saprissa San Jose,CONCACAF Central American Cup,2026-10-22 01:30,target__home_clean_sheet,Home Clean Sheet,30.2,25.0,5.2,4.0,0.6485,True,30.0
+sr:match:74203204,Zakho FC,Erbil SC,Zakho FC vs Erbil SC,Stars League,2026-10-22 15:00,target__home_clean_sheet,Home Clean Sheet,36.1,32.3,3.9,3.1,0.6485,True,30.0
+sr:match:75028988,Sardarapat FC,FC Urartu Yerevan,Sardarapat FC vs FC Urartu Yerevan,Premier League,2026-10-22 16:00,target__home_clean_sheet,Home Clean Sheet,30.9,22.7,8.1,4.4,0.6485,True,30.0
+sr:match:75232876,Tallinna FC Flora,FC Nomme United,Tallinna FC Flora vs FC Nomme United,Esiliiga,2026-10-22 17:00,target__home_clean_sheet,Home Clean Sheet,30.2,23.3,6.9,4.3,0.6485,True,30.0
+sr:match:74172992,Juventus,Rennes,Juventus vs Rennes,UEFA Europa League,2026-10-22 17:45,target__home_clean_sheet,Home Clean Sheet,47.1,42.6,4.6,2.35,0.6485,True,30.0
+sr:match:74173242,Pafos FC,Riga FC,Pafos FC vs Riga FC,UEFA Conference League,2026-10-22 17:45,target__home_clean_sheet,Home Clean Sheet,45.9,42.6,3.4,2.35,0.6485,True,30.0
+sr:match:74173006,Celtic,Celta,Celtic vs Celta,UEFA Europa League,2026-10-22 20:00,target__home_clean_sheet,Home Clean Sheet,30.2,27.0,3.1,3.7,0.6485,True,30.0
+sr:match:74173012,Lillestroem SK,Real Sociedad,Lillestroem SK vs Real Sociedad,UEFA Europa League,2026-10-22 20:00,target__home_clean_sheet,Home Clean Sheet,30.0,16.0,14.0,6.25,0.6485,True,30.0
+sr:match:75125544,Universidad de Chile,CD Antofagasta,Universidad de Chile vs CD Antofagasta,Copa Chile,2026-10-21 23:00,target__home_win,Home Win,78.5,75.2,3.3,1.33,0.7212,True,44.5
+sr:match:75641090,Independiente Santa Fe,Jaguares de Cordoba,Independiente Santa Fe vs Jaguares de Cordoba,Liga DIMAYOR,2026-10-22 02:20,target__home_win,Home Win,89.5,80.0,9.5,1.25,0.7212,True,44.5
+sr:match:73577176,PSM Makassar,Persebaya Surabaya,PSM Makassar vs Persebaya Surabaya,Super League,2026-10-22 09:30,target__home_win,Home Win,33.3,30.3,3.0,3.3,0.7212,True,44.5
+sr:match:72304320,FK Mornar Bar,OFK Mladost DG,FK Mornar Bar vs OFK Mladost DG,1. CFL,2026-10-22 14:00,target__home_win,Home Win,78.5,67.6,11.0,1.48,0.7212,True,44.5
+sr:match:68380608,FC Bunyodkor,PFK Mash AL Mubarek,FC Bunyodkor vs PFK Mash AL Mubarek,Superliga,2026-10-22 14:30,target__home_win,Home Win,78.5,73.5,5.0,1.36,0.7212,True,44.5
+sr:match:72304328,FK Buducnost,FK Arsenal Tivat,FK Buducnost vs FK Arsenal Tivat,1. CFL,2026-10-22 17:00,target__home_win,Home Win,78.5,68.5,10.0,1.46,0.7212,True,44.5
+sr:match:74172988,Ferencvarosi Budapest,SCU Torreense,Ferencvarosi Budapest vs SCU Torreense,UEFA Europa League,2026-10-22 17:45,target__home_win,Home Win,78.5,74.1,4.4,1.35,0.7212,True,44.5
+sr:match:74172992,Juventus,Rennes,Juventus vs Rennes,UEFA Europa League,2026-10-22 17:45,target__home_win,Home Win,67.3,64.1,3.2,1.56,0.7212,True,44.5
+sr:match:74172998,Union Gilloise,Hapoel Be`er Sheva FC,Union Gilloise vs Hapoel Be`er Sheva FC,UEFA Europa League,2026-10-22 17:45,target__home_win,Home Win,78.5,73.0,5.5,1.37,0.7212,True,44.5
+sr:match:74173242,Pafos FC,Riga FC,Pafos FC vs Riga FC,UEFA Conference League,2026-10-22 17:45,target__home_win,Home Win,67.3,61.3,6.0,1.63,0.7212,True,44.5
+sr:match:73374542,Al Gharafa SC,Al Ahli Doha SC,Al Gharafa SC vs Al Ahli Doha SC,Stars League,2026-10-22 17:45,target__home_win,Home Win,54.7,51.0,3.7,1.96,0.7212,True,44.5
+sr:match:73577180,Madura United,Persib Bandung,Madura United vs Persib Bandung,Super League,2026-10-22 13:00,target__ht_away_win,HT Away Win,55.2,44.4,10.7,2.25,0.6617,True,26.6
+sr:match:75798536,Hawassa Kenema SC,Ethiopia Nigd Bank,Hawassa Kenema SC vs Ethiopia Nigd Bank,Premier League,2026-10-22 13:00,target__ht_away_win,HT Away Win,33.7,27.8,6.0,3.6,0.6617,True,26.6
+sr:match:73961674,SC Villa,Mbarara FC,SC Villa vs Mbarara FC,Premier League,2026-10-22 14:00,target__ht_away_win,HT Away Win,22.6,8.0,14.6,12.5,0.6617,True,26.6
+sr:match:73215806,Al-Hazm,Al-Fayha FC,Al-Hazm vs Al-Fayha FC,Saudi Pro League,2026-10-22 14:40,target__ht_away_win,HT Away Win,33.7,27.0,6.7,3.7,0.6617,True,26.6
+sr:match:75113128,Sitra Club,Al Riffa,Sitra Club vs Al Riffa,Premier League,2026-10-22 17:00,target__ht_away_win,HT Away Win,55.2,48.8,6.4,2.05,0.6617,True,26.6
+sr:match:74172994,KKS Lech Poznan,Sunderland AFC,KKS Lech Poznan vs Sunderland AFC,UEFA Europa League,2026-10-22 17:45,target__ht_away_win,HT Away Win,54.0,43.5,10.5,2.3,0.6617,True,26.6
+sr:match:74173242,Pafos FC,Riga FC,Pafos FC vs Riga FC,UEFA Conference League,2026-10-22 17:45,target__ht_away_win,HT Away Win,21.8,17.9,3.9,5.6,0.6617,True,26.6
+sr:match:74173004,Besiktas Istanbul,Crystal Palace,Besiktas Istanbul vs Crystal Palace,UEFA Europa League,2026-10-22 20:00,target__ht_away_win,HT Away Win,42.4,28.6,13.9,3.5,0.6617,True,26.6
+sr:match:74173020,Hoffenheim,Lyon,Hoffenheim vs Lyon,UEFA Europa League,2026-10-22 20:00,target__ht_away_win,HT Away Win,33.7,27.0,6.7,3.7,0.6617,True,26.6
+sr:match:74173250,Ajax,Atalanta,Ajax vs Atalanta,UEFA Conference League,2026-10-22 20:00,target__ht_away_win,HT Away Win,33.7,27.8,6.0,3.6,0.6617,True,26.6
+sr:match:74173266,FC Thun,HNK Hajduk Split,FC Thun vs HNK Hajduk Split,UEFA Conference League,2026-10-22 20:00,target__ht_away_win,HT Away Win,54.0,34.5,19.5,2.9,0.6617,True,26.6
+sr:match:74173258,Monaco,Freiburg,Monaco vs Freiburg,UEFA Conference League,2026-10-22 20:00,target__ht_away_win,HT Away Win,42.4,27.0,15.4,3.7,0.6617,True,26.6
+sr:match:75478292,Oriente Petrolero,CA Nacional Potosi,Oriente Petrolero vs CA Nacional Potosi,Copa Bolivia,2026-10-22 01:30,target__ht_draw,HT Draw,47.6,42.6,5.0,2.35,0.5904,True,39.0
+sr:match:72055254,Atlas FC,CF America,Atlas FC vs CF America,Liga MX,2026-10-22 02:00,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:75641090,Independiente Santa Fe,Jaguares de Cordoba,Independiente Santa Fe vs Jaguares de Cordoba,Liga DIMAYOR,2026-10-22 02:20,target__ht_draw,HT Draw,37.7,34.5,3.2,2.9,0.5904,True,39.0
+sr:match:74672798,Gia Dinh,PVF Cong An Nhan Dan FC,Gia Dinh vs PVF Cong An Nhan Dan FC,V-League 2,2026-10-22 12:00,target__ht_draw,HT Draw,45.6,41.7,4.0,2.4,0.5904,True,39.0
+sr:match:74173212,FC Kairat Almaty,Panathinaikos,FC Kairat Almaty vs Panathinaikos,UEFA Conference League,2026-10-22 15:30,target__ht_draw,HT Draw,47.6,42.6,5.0,2.35,0.5904,True,39.0
+sr:match:73374536,Al Shahaniya,Al Sadd SC,Al Shahaniya vs Al Sadd SC,Stars League,2026-10-22 15:30,target__ht_draw,HT Draw,37.7,31.2,6.5,3.2,0.5904,True,39.0
+sr:match:73215804,Al-Fateh SC,Al-Shabab FC (SA),Al-Fateh SC vs Al-Shabab FC (SA),Saudi Pro League,2026-10-22 15:45,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:75178834,Al Hussein Irbid,Doqarah FC,Al Hussein Irbid vs Doqarah FC,Jordan League,2026-10-22 16:00,target__ht_draw,HT Draw,39.4,34.5,4.9,2.9,0.5904,True,39.0
+sr:match:74203208,Al-Gharraf SC,AL Naft,Al-Gharraf SC vs AL Naft,Stars League,2026-10-22 17:00,target__ht_draw,HT Draw,60.0,53.2,6.8,1.88,0.5904,True,39.0
+sr:match:74172986,FC Ararat-Armenia,Alkmaar,FC Ararat-Armenia vs Alkmaar,UEFA Europa League,2026-10-22 17:45,target__ht_draw,HT Draw,47.6,37.7,9.8,2.65,0.5904,True,39.0
+sr:match:74173228,FK Jablonec,Brighton,FK Jablonec vs Brighton,UEFA Conference League,2026-10-22 17:45,target__ht_draw,HT Draw,37.7,33.9,3.8,2.95,0.5904,True,39.0
+sr:match:74173232,FK Kauno Zalgiris,SK Brann,FK Kauno Zalgiris vs SK Brann,UEFA Conference League,2026-10-22 17:45,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:74173236,Getafe,Lugano,Getafe vs Lugano,UEFA Conference League,2026-10-22 17:45,target__ht_draw,HT Draw,60.0,46.5,13.5,2.15,0.5904,True,39.0
+sr:match:74173018,AC Omonia Nicosia,Benfica,AC Omonia Nicosia vs Benfica,UEFA Europa League,2026-10-22 20:00,target__ht_draw,HT Draw,39.4,36.4,3.0,2.75,0.5904,True,39.0
+sr:match:74173012,Lillestroem SK,Real Sociedad,Lillestroem SK vs Real Sociedad,UEFA Europa League,2026-10-22 20:00,target__ht_draw,HT Draw,47.6,38.5,9.1,2.6,0.5904,True,39.0
+sr:match:74173014,NK Celje,Salzburg,NK Celje vs Salzburg,UEFA Europa League,2026-10-22 20:00,target__ht_draw,HT Draw,47.6,38.5,9.1,2.6,0.5904,True,39.0
+sr:match:74173008,Viktoria Plzen,PFC Levski Sofia,Viktoria Plzen vs PFC Levski Sofia,UEFA Europa League,2026-10-22 20:00,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:74173262,FC Midtjylland,St. Truidense VV,FC Midtjylland vs St. Truidense VV,UEFA Conference League,2026-10-22 20:00,target__ht_draw,HT Draw,47.6,39.2,8.4,2.55,0.5904,True,39.0
+sr:match:74173266,FC Thun,HNK Hajduk Split,FC Thun vs HNK Hajduk Split,UEFA Conference League,2026-10-22 20:00,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:74173270,FK Borac Banja Luka,Kuopion Palloseura,FK Borac Banja Luka vs Kuopion Palloseura,UEFA Conference League,2026-10-22 20:00,target__ht_draw,HT Draw,47.6,44.4,3.1,2.25,0.5904,True,39.0
+sr:match:74173272,Lincoln Red Imps,FC Twente Enschede,Lincoln Red Imps vs FC Twente Enschede,UEFA Conference League,2026-10-22 20:00,target__ht_draw,HT Draw,37.7,32.3,5.5,3.1,0.5904,True,39.0
+sr:match:72055252,Club Puebla,CF Monterrey,Club Puebla vs CF Monterrey,Liga MX,2026-10-22 02:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,74.1,3.3,1.35,0.6199,True,72.8
+sr:match:73577176,PSM Makassar,Persebaya Surabaya,PSM Makassar vs Persebaya Surabaya,Super League,2026-10-22 09:30,target__ht_over_0_5_goals,HT Over 0.5,79.4,72.5,7.0,1.38,0.6199,True,72.8
+sr:match:73577180,Madura United,Persib Bandung,Madura United vs Persib Bandung,Super League,2026-10-22 13:00,target__ht_over_0_5_goals,HT Over 0.5,79.4,74.1,5.4,1.35,0.6199,True,72.8
+sr:match:72304320,FK Mornar Bar,OFK Mladost DG,FK Mornar Bar vs OFK Mladost DG,1. CFL,2026-10-22 14:00,target__ht_over_0_5_goals,HT Over 0.5,78.0,74.6,3.3,1.34,0.6199,True,72.8
+sr:match:75113128,Sitra Club,Al Riffa,Sitra Club vs Al Riffa,Premier League,2026-10-22 17:00,target__ht_over_0_5_goals,HT Over 0.5,78.0,73.5,4.4,1.36,0.6199,True,72.8
+sr:match:74172992,Juventus,Rennes,Juventus vs Rennes,UEFA Europa League,2026-10-22 17:45,target__ht_over_0_5_goals,HT Over 0.5,81.2,76.3,4.9,1.31,0.6199,True,72.8
+sr:match:74173216,FC Iberia 1999,Mjallby AIF,FC Iberia 1999 vs Mjallby AIF,UEFA Conference League,2026-10-22 17:45,target__ht_over_0_5_goals,HT Over 0.5,74.8,70.9,3.8,1.41,0.6199,True,72.8
+sr:match:74173240,Inter Club de Escaldes,CS Universitatea Craiova,Inter Club de Escaldes vs CS Universitatea Craiova,UEFA Conference League,2026-10-22 17:45,target__ht_over_0_5_goals,HT Over 0.5,79.4,71.9,7.5,1.39,0.6199,True,72.8
+sr:match:74173004,Besiktas Istanbul,Crystal Palace,Besiktas Istanbul vs Crystal Palace,UEFA Europa League,2026-10-22 20:00,target__ht_over_0_5_goals,HT Over 0.5,81.2,78.1,3.1,1.28,0.6199,True,72.8
+sr:match:74173002,Bournemouth,AC Milan,Bournemouth vs AC Milan,UEFA Europa League,2026-10-22 20:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,74.1,3.3,1.35,0.6199,True,72.8
+sr:match:74173006,Celtic,Celta,Celtic vs Celta,UEFA Europa League,2026-10-22 20:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,72.5,4.9,1.38,0.6199,True,72.8
+sr:match:74173010,Jagiellonia Bialystok,RSC Anderlecht,Jagiellonia Bialystok vs RSC Anderlecht,UEFA Europa League,2026-10-22 20:00,target__ht_over_0_5_goals,HT Over 0.5,78.0,73.0,5.0,1.37,0.6199,True,72.8
+sr:match:74173250,Ajax,Atalanta,Ajax vs Atalanta,UEFA Conference League,2026-10-22 20:00,target__ht_over_0_5_goals,HT Over 0.5,81.2,76.9,4.3,1.3,0.6199,True,72.8
+sr:match:74173274,Braga,Gent,Braga vs Gent,UEFA Conference League,2026-10-22 20:00,target__ht_over_0_5_goals,HT Over 0.5,74.7,67.6,7.1,1.48,0.6199,True,72.8
+sr:match:74173258,Monaco,Freiburg,Monaco vs Freiburg,UEFA Conference League,2026-10-22 20:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,73.5,3.9,1.36,0.6199,True,72.8
+sr:match:75371348,Barranquilla FC,America de Cali,Barranquilla FC vs America de Cali,Copa DIMAYOR,2026-10-22 01:30,target__ht_over_1_5_goals,HT Over 1.5,58.9,48.8,10.1,2.05,0.6269,True,38.8
+sr:match:74846724,CD Luis Angel Firpo Usulutan,Deportivo Saprissa San Jose,CD Luis Angel Firpo Usulutan vs Deportivo Saprissa San Jose,CONCACAF Central American Cup,2026-10-22 01:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:74841180,CS Cartagines,CD Olimpia Tegucigalpa,CS Cartagines vs CD Olimpia Tegucigalpa,CONCACAF Central American Cup,2026-10-22 03:30,target__ht_over_1_5_goals,HT Over 1.5,38.4,34.5,3.9,2.9,0.6269,True,38.8
+sr:match:72055260,Club Santos Laguna,Pumas UNAM,Club Santos Laguna vs Pumas UNAM,Liga MX,2026-10-22 04:10,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:74726252,Tractor Tabriz,Sanat Naft Abadan FC,Tractor Tabriz vs Sanat Naft Abadan FC,Pro League,2026-10-22 14:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.8,5.9,2.45,0.6269,True,38.8
+sr:match:74173212,FC Kairat Almaty,Panathinaikos,FC Kairat Almaty vs Panathinaikos,UEFA Conference League,2026-10-22 15:30,target__ht_over_1_5_goals,HT Over 1.5,40.2,37.0,3.2,2.7,0.6269,True,38.8
+sr:match:75028988,Sardarapat FC,FC Urartu Yerevan,Sardarapat FC vs FC Urartu Yerevan,Premier League,2026-10-22 16:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:74172988,Ferencvarosi Budapest,SCU Torreense,Ferencvarosi Budapest vs SCU Torreense,UEFA Europa League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,42.6,4.2,2.35,0.6269,True,38.8
+sr:match:74172992,Juventus,Rennes,Juventus vs Rennes,UEFA Europa League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:74172994,KKS Lech Poznan,Sunderland AFC,KKS Lech Poznan vs Sunderland AFC,UEFA Europa League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:74173216,FC Iberia 1999,Mjallby AIF,FC Iberia 1999 vs Mjallby AIF,UEFA Conference League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,38.4,35.1,3.3,2.85,0.6269,True,38.8
+sr:match:74173236,Getafe,Lugano,Getafe vs Lugano,UEFA Conference League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,32.3,14.5,3.1,0.6269,True,38.8
+sr:match:74173240,Inter Club de Escaldes,CS Universitatea Craiova,Inter Club de Escaldes vs CS Universitatea Craiova,UEFA Conference League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,36.4,10.4,2.75,0.6269,True,38.8
+sr:match:74173242,Pafos FC,Riga FC,Pafos FC vs Riga FC,UEFA Conference League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,46.7,39.2,7.5,2.55,0.6269,True,38.8
+sr:match:74173246,Trabzonspor,Heart of Midlothian FC,Trabzonspor vs Heart of Midlothian FC,UEFA Conference League,2026-10-22 17:45,target__ht_over_1_5_goals,HT Over 1.5,58.9,48.8,10.1,2.05,0.6269,True,38.8
+sr:match:74173004,Besiktas Istanbul,Crystal Palace,Besiktas Istanbul vs Crystal Palace,UEFA Europa League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,44.4,14.5,2.25,0.6269,True,38.8
+sr:match:74173002,Bournemouth,AC Milan,Bournemouth vs AC Milan,UEFA Europa League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,39.2,7.5,2.55,0.6269,True,38.8
+sr:match:74173006,Celtic,Celta,Celtic vs Celta,UEFA Europa League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:74173010,Jagiellonia Bialystok,RSC Anderlecht,Jagiellonia Bialystok vs RSC Anderlecht,UEFA Europa League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:74173012,Lillestroem SK,Real Sociedad,Lillestroem SK vs Real Sociedad,UEFA Europa League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:74173274,Braga,Gent,Braga vs Gent,UEFA Conference League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,31.2,15.5,3.2,0.6269,True,38.8
+sr:match:74173262,FC Midtjylland,St. Truidense VV,FC Midtjylland vs St. Truidense VV,UEFA Conference League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:74173270,FK Borac Banja Luka,Kuopion Palloseura,FK Borac Banja Luka vs Kuopion Palloseura,UEFA Conference League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,40.2,35.1,5.1,2.85,0.6269,True,38.8
+sr:match:74173258,Monaco,Freiburg,Monaco vs Freiburg,UEFA Conference League,2026-10-22 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,39.2,7.5,2.55,0.6269,True,38.8
+sr:match:74781110,SE Palmeiras SP,Fluminense FC RJ,SE Palmeiras SP vs Fluminense FC RJ,CONMEBOL Libertadores,2026-10-22 01:30,target__over_1_5_goals,Over 1.5 Goals,77.8,69.4,8.3,1.44,0.6116,True,77.7
+sr:match:75798536,Hawassa Kenema SC,Ethiopia Nigd Bank,Hawassa Kenema SC vs Ethiopia Nigd Bank,Premier League,2026-10-22 13:00,target__over_1_5_goals,Over 1.5 Goals,70.9,61.0,9.9,1.64,0.6116,True,77.7
+sr:match:75798538,Saint George SC,Adama City FC,Saint George SC vs Adama City FC,Premier League,2026-10-22 13:00,target__over_1_5_goals,Over 1.5 Goals,70.9,63.3,7.6,1.58,0.6116,True,77.7
+sr:match:75798540,Wolaita Dicha SC,Bahir Dar Kenema FC,Wolaita Dicha SC vs Bahir Dar Kenema FC,Premier League,2026-10-22 13:00,target__over_1_5_goals,Over 1.5 Goals,79.2,58.8,20.3,1.7,0.6116,True,77.7
+sr:match:74726252,Tractor Tabriz,Sanat Naft Abadan FC,Tractor Tabriz vs Sanat Naft Abadan FC,Pro League,2026-10-22 14:30,target__over_1_5_goals,Over 1.5 Goals,87.2,80.0,7.2,1.25,0.6116,True,77.7
+sr:match:74173212,FC Kairat Almaty,Panathinaikos,FC Kairat Almaty vs Panathinaikos,UEFA Conference League,2026-10-22 15:30,target__over_1_5_goals,Over 1.5 Goals,84.3,79.4,4.9,1.26,0.6116,True,77.7
+sr:match:75113126,Al-Najma Manama,Aali,Al-Najma Manama vs Aali,Premier League,2026-10-22 17:00,target__over_1_5_goals,Over 1.5 Goals,77.8,73.5,4.2,1.36,0.6116,True,77.7
+sr:match:74173236,Getafe,Lugano,Getafe vs Lugano,UEFA Conference League,2026-10-22 17:45,target__over_1_5_goals,Over 1.5 Goals,80.5,73.5,7.0,1.36,0.6116,True,77.7
+sr:match:74173240,Inter Club de Escaldes,CS Universitatea Craiova,Inter Club de Escaldes vs CS Universitatea Craiova,UEFA Conference League,2026-10-22 17:45,target__over_1_5_goals,Over 1.5 Goals,84.3,78.1,6.2,1.28,0.6116,True,77.7
+sr:match:74173274,Braga,Gent,Braga vs Gent,UEFA Conference League,2026-10-22 20:00,target__over_1_5_goals,Over 1.5 Goals,84.3,73.0,11.3,1.37,0.6116,True,77.7
+sr:match:74173258,Monaco,Freiburg,Monaco vs Freiburg,UEFA Conference League,2026-10-22 20:00,target__over_1_5_goals,Over 1.5 Goals,84.3,81.3,3.0,1.23,0.6116,True,77.7
+sr:match:75125544,Universidad de Chile,CD Antofagasta,Universidad de Chile vs CD Antofagasta,Copa Chile,2026-10-21 23:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:72055256,Deportivo Toluca FC,Club Tijuana de Caliente,Deportivo Toluca FC vs Club Tijuana de Caliente,Liga MX,2026-10-22 02:00,target__over_2_5_goals,Over 2.5 Goals,81.2,74.1,7.1,1.35,0.641,True,56.0
+sr:match:72055258,CF Pachuca,CF Cruz Azul,CF Pachuca vs CF Cruz Azul,Liga MX,2026-10-22 04:10,target__over_2_5_goals,Over 2.5 Goals,67.6,64.1,3.5,1.56,0.641,True,56.0
+sr:match:72055260,Club Santos Laguna,Pumas UNAM,Club Santos Laguna vs Pumas UNAM,Liga MX,2026-10-22 04:10,target__over_2_5_goals,Over 2.5 Goals,67.6,62.5,5.1,1.6,0.641,True,56.0
+sr:match:74672796,DH van Hien,Binh Minh Sai Gon,DH van Hien vs Binh Minh Sai Gon,V-League 2,2026-10-22 11:00,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:73961674,SC Villa,Mbarara FC,SC Villa vs Mbarara FC,Premier League,2026-10-22 14:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.5,3.1,1.55,0.641,True,56.0
+sr:match:73215804,Al-Fateh SC,Al-Shabab FC (SA),Al-Fateh SC vs Al-Shabab FC (SA),Saudi Pro League,2026-10-22 15:45,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:74172988,Ferencvarosi Budapest,SCU Torreense,Ferencvarosi Budapest vs SCU Torreense,UEFA Europa League,2026-10-22 17:45,target__over_2_5_goals,Over 2.5 Goals,67.6,62.1,5.5,1.61,0.641,True,56.0
+sr:match:74172996,OFI Crete,Bayer Leverkusen,OFI Crete vs Bayer Leverkusen,UEFA Europa League,2026-10-22 17:45,target__over_2_5_goals,Over 2.5 Goals,81.2,73.5,7.6,1.36,0.641,True,56.0
+sr:match:74173236,Getafe,Lugano,Getafe vs Lugano,UEFA Conference League,2026-10-22 17:45,target__over_2_5_goals,Over 2.5 Goals,52.5,47.6,4.9,2.1,0.641,True,56.0
+sr:match:74173240,Inter Club de Escaldes,CS Universitatea Craiova,Inter Club de Escaldes vs CS Universitatea Craiova,UEFA Conference League,2026-10-22 17:45,target__over_2_5_goals,Over 2.5 Goals,56.7,53.2,3.5,1.88,0.641,True,56.0
+sr:match:74173004,Besiktas Istanbul,Crystal Palace,Besiktas Istanbul vs Crystal Palace,UEFA Europa League,2026-10-22 20:00,target__over_2_5_goals,Over 2.5 Goals,68.9,65.8,3.1,1.52,0.641,True,56.0
+sr:match:74173008,Viktoria Plzen,PFC Levski Sofia,Viktoria Plzen vs PFC Levski Sofia,UEFA Europa League,2026-10-22 20:00,target__over_2_5_goals,Over 2.5 Goals,67.6,58.8,8.7,1.7,0.641,True,56.0
+sr:match:74173250,Ajax,Atalanta,Ajax vs Atalanta,UEFA Conference League,2026-10-22 20:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:74173274,Braga,Gent,Braga vs Gent,UEFA Conference League,2026-10-22 20:00,target__over_2_5_goals,Over 2.5 Goals,52.5,46.5,6.0,2.15,0.641,True,56.0
+sr:match:74173262,FC Midtjylland,St. Truidense VV,FC Midtjylland vs St. Truidense VV,UEFA Conference League,2026-10-22 20:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:74173266,FC Thun,HNK Hajduk Split,FC Thun vs HNK Hajduk Split,UEFA Conference League,2026-10-22 20:00,target__over_2_5_goals,Over 2.5 Goals,67.6,62.5,5.1,1.6,0.641,True,56.0
+sr:match:72055252,Club Puebla,CF Monterrey,Club Puebla vs CF Monterrey,Liga MX,2026-10-22 02:00,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:75641090,Independiente Santa Fe,Jaguares de Cordoba,Independiente Santa Fe vs Jaguares de Cordoba,Liga DIMAYOR,2026-10-22 02:20,target__over_3_5_goals,Over 3.5 Goals,50.3,46.5,3.8,2.15,0.6631,True,35.0
+sr:match:73577178,Persik Kediri,PSS Sleman,Persik Kediri vs PSS Sleman,Super League,2026-10-22 09:30,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:73577176,PSM Makassar,Persebaya Surabaya,PSM Makassar vs Persebaya Surabaya,Super League,2026-10-22 09:30,target__over_3_5_goals,Over 3.5 Goals,40.0,31.2,8.8,3.2,0.6631,True,35.0
+sr:match:73577180,Madura United,Persib Bandung,Madura United vs Persib Bandung,Super League,2026-10-22 13:00,target__over_3_5_goals,Over 3.5 Goals,40.1,33.3,6.8,3.0,0.6631,True,35.0
+sr:match:74090462,Cong An Ha Noi FC,Dong A Thanh Hoa,Cong An Ha Noi FC vs Dong A Thanh Hoa,V-League 1,2026-10-22 13:15,target__over_3_5_goals,Over 3.5 Goals,58.2,50.3,7.9,1.99,0.6631,True,35.0
+sr:match:73086684,FC Bihor Oradea,ACSM Resita,FC Bihor Oradea vs ACSM Resita,Liga 2,2026-10-22 14:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:72304320,FK Mornar Bar,OFK Mladost DG,FK Mornar Bar vs OFK Mladost DG,1. CFL,2026-10-22 14:00,target__over_3_5_goals,Over 3.5 Goals,40.0,32.3,7.7,3.1,0.6631,True,35.0
+sr:match:74726252,Tractor Tabriz,Sanat Naft Abadan FC,Tractor Tabriz vs Sanat Naft Abadan FC,Pro League,2026-10-22 14:30,target__over_3_5_goals,Over 3.5 Goals,42.5,33.9,8.6,2.95,0.6631,True,35.0
+sr:match:74173212,FC Kairat Almaty,Panathinaikos,FC Kairat Almaty vs Panathinaikos,UEFA Conference League,2026-10-22 15:30,target__over_3_5_goals,Over 3.5 Goals,40.1,33.3,6.8,3.0,0.6631,True,35.0
+sr:match:75028988,Sardarapat FC,FC Urartu Yerevan,Sardarapat FC vs FC Urartu Yerevan,Premier League,2026-10-22 16:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:75178834,Al Hussein Irbid,Doqarah FC,Al Hussein Irbid vs Doqarah FC,Jordan League,2026-10-22 16:00,target__over_3_5_goals,Over 3.5 Goals,50.3,46.5,3.8,2.15,0.6631,True,35.0
+sr:match:75232876,Tallinna FC Flora,FC Nomme United,Tallinna FC Flora vs FC Nomme United,Esiliiga,2026-10-22 17:00,target__over_3_5_goals,Over 3.5 Goals,70.6,66.2,4.4,1.51,0.6631,True,35.0
+sr:match:72304328,FK Buducnost,FK Arsenal Tivat,FK Buducnost vs FK Arsenal Tivat,1. CFL,2026-10-22 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:75113128,Sitra Club,Al Riffa,Sitra Club vs Al Riffa,Premier League,2026-10-22 17:00,target__over_3_5_goals,Over 3.5 Goals,40.1,30.3,9.8,3.3,0.6631,True,35.0
+sr:match:74172994,KKS Lech Poznan,Sunderland AFC,KKS Lech Poznan vs Sunderland AFC,UEFA Europa League,2026-10-22 17:45,target__over_3_5_goals,Over 3.5 Goals,40.0,33.9,6.1,2.95,0.6631,True,35.0
+sr:match:74173228,FK Jablonec,Brighton,FK Jablonec vs Brighton,UEFA Conference League,2026-10-22 17:45,target__over_3_5_goals,Over 3.5 Goals,50.3,44.4,5.9,2.25,0.6631,True,35.0
+sr:match:74173240,Inter Club de Escaldes,CS Universitatea Craiova,Inter Club de Escaldes vs CS Universitatea Craiova,UEFA Conference League,2026-10-22 17:45,target__over_3_5_goals,Over 3.5 Goals,53.8,31.2,22.5,3.2,0.6631,True,35.0
+sr:match:72498290,Hibernians FC Paola,Gzira United FC,Hibernians FC Paola vs Gzira United FC,Premier League,2026-10-22 19:30,target__over_3_5_goals,Over 3.5 Goals,42.5,30.8,11.7,3.25,0.6631,True,35.0
+sr:match:74173004,Besiktas Istanbul,Crystal Palace,Besiktas Istanbul vs Crystal Palace,UEFA Europa League,2026-10-22 20:00,target__over_3_5_goals,Over 3.5 Goals,50.3,44.4,5.9,2.25,0.6631,True,35.0
+sr:match:74173010,Jagiellonia Bialystok,RSC Anderlecht,Jagiellonia Bialystok vs RSC Anderlecht,UEFA Europa League,2026-10-22 20:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:74173008,Viktoria Plzen,PFC Levski Sofia,Viktoria Plzen vs PFC Levski Sofia,UEFA Europa League,2026-10-22 20:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:74173274,Braga,Gent,Braga vs Gent,UEFA Conference League,2026-10-22 20:00,target__over_3_5_goals,Over 3.5 Goals,40.0,25.6,14.4,3.9,0.6631,True,35.0
+sr:match:72055254,Atlas FC,CF America,Atlas FC vs CF America,Liga MX,2026-10-22 02:00,target__over_4_5_goals,Over 4.5 Goals,31.1,22.7,8.3,4.4,0.6327,True,19.9
+sr:match:72055260,Club Santos Laguna,Pumas UNAM,Club Santos Laguna vs Pumas UNAM,Liga MX,2026-10-22 04:10,target__over_4_5_goals,Over 4.5 Goals,31.1,23.5,7.5,4.25,0.6327,True,19.9
+sr:match:73577180,Madura United,Persib Bandung,Madura United vs Persib Bandung,Super League,2026-10-22 13:00,target__over_4_5_goals,Over 4.5 Goals,22.4,17.9,4.5,5.6,0.6327,True,19.9
+sr:match:75113128,Sitra Club,Al Riffa,Sitra Club vs Al Riffa,Premier League,2026-10-22 17:00,target__over_4_5_goals,Over 4.5 Goals,22.4,16.4,6.0,6.1,0.6327,True,19.9
+sr:match:74173004,Besiktas Istanbul,Crystal Palace,Besiktas Istanbul vs Crystal Palace,UEFA Europa League,2026-10-22 20:00,target__over_4_5_goals,Over 4.5 Goals,31.1,26.3,4.7,3.8,0.6327,True,19.9
+sr:match:74173020,Hoffenheim,Lyon,Hoffenheim vs Lyon,UEFA Europa League,2026-10-22 20:00,target__over_4_5_goals,Over 4.5 Goals,31.1,26.3,4.7,3.8,0.6327,True,19.9
