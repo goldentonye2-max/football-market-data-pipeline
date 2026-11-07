@@ -1,0 +1,32 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-29
+  Generated : 2026-10-29 22:04:00
+  Legs      : 9
+  Sorted by : edge
+  Combined odds : 106.68
+======================================================================
+
+  BOOKING CODE:  LAGWC6
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    29 20  Fiorentina vs Atalanta              HT Away Win            3.40  + 25.8%  0.6617
+  2    29 20  CD Laredo vs Burgos CF              Away Win               1.53  +  9.0%  0.7237
+  3    29 21  FC Groningen vs FC Emmen            HT Over 1.5            2.00  +  8.9%  0.6269
+  4    29 20  De Treffers Groesbeek vs Heracles   Away Win               1.51  +  8.1%  0.7237
+  5    29 20  Rkav Volendam vs Rohda Raalte       HT Over 1.5            1.89  +  6.0%  0.6269
+  6    29 20  GVVV Veenendaal vs VV Noordwijk     Over 2.5 Goals         1.51  +  5.6%  0.6410
+  7    29 20  CD Varea vs FC Andorra              Over 1.5 Goals         1.23  +  4.9%  0.6116
+  8    29 19  Los Chankas CYC vs Cusco FC         Over 1.5 Goals         1.24  +  3.7%  0.6116
+  9    29 20  Hoek vs VV Sparta Nijkerk           Over 2.5 Goals         1.56  +  3.5%  0.6410
+
+======================================================================
+  Tournament breakdown:
+      5x  KNVB beker
+      2x  Copa del Rey
+      1x  Serie A
+      1x  Liga 1
+
+======================================================================

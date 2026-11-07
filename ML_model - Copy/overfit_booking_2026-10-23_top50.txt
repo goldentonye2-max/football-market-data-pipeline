@@ -1,0 +1,30 @@
+======================================================================
+  OVERFIT ACCUMULATOR — 2026-10-23
+  Generated : 2026-10-23 07:13:40
+  Legs      : 5
+  Sorted by : edge
+  Combined odds : 25.28
+  Filter    : HT Over 1.5 edge 8-12% | Away Win & HT Away Win edge 12%+
+              odds 1.51-1.70 and 1.91-2.00
+======================================================================
+
+  BOOKING CODE:  J56FKD
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    23 19  Galway United FC vs Saint Patrick´  Away Win               1.62  + 12.6%  0.7237
+  2    23 14  Al-Faisaly FC vs Al Nassr Club      HT Over 1.5            2.00  +  8.9%  0.6269
+  3    23 19  FC Volendam vs Jong FC Utrecht      HT Over 1.5            2.00  +  8.9%  0.6269
+  4    23 19  De Graafschap vs RKC Waalwijk       HT Over 1.5            1.98  +  8.4%  0.6269
+  5    23 19  VV Eemdijk vs ZSV Sportlust 46      HT Over 1.5            1.97  +  8.1%  0.6269
+
+======================================================================
+  Tournament breakdown:
+      2x  Eerste Divisie
+      1x  Premier Division
+      1x  Saudi Pro League
+      1x  Derde Divisie
+
+======================================================================

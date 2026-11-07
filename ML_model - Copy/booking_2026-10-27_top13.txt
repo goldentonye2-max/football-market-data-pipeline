@@ -1,0 +1,42 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-27
+  Generated : 2026-10-27 16:14:28
+  Legs      : 13
+  Sorted by : edge
+  Combined odds : 58.96
+======================================================================
+
+  BOOKING CODE:  SHKQ54
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    27 14  NEC FC vs Ntugasaze FC              Over 1.5 Goals         1.30  +  7.4%  0.6116
+  2    27 19  Landskrona BoIS vs Varbergs BoIS    HT Over 0.5            1.32  +  5.4%  0.6199
+  3    27 18  Hamburger SV vs Eintracht Frankfur  BTTS Yes               1.47  +  4.9%  0.6112
+  4    27 18  CD Cuarte vs Girona                 HT Away Win            1.50  +  4.8%  0.6617
+  5    27 20  Truro City vs Slough Town           Over 2.5 Goals         1.31  +  4.8%  0.6410
+  6    27 18  FC Hertha Wels vs Wolfsberger AC    HT Over 0.5            1.34  +  4.8%  0.6199
+  7    27 21  Sporting vs Maritimo Madeira        Home Win               1.35  +  4.4%  0.7212
+  8    27 13  Ratchaburi FC vs Kashiwa Reysol     Away Win               1.43  +  4.4%  0.7237
+  9    27 20  VV Kloetinge vs SC Cambuur          Over 2.5 Goals         1.30  +  4.3%  0.6410
+  10   27 19  Slavia Prague vs FC Zbrojovka Brno  Home Win               1.34  +  3.9%  0.7212
+  11   27 11  Daejeon Citizen FC vs Vissel Kobe   Over 1.5 Goals         1.30  +  3.6%  0.6116
+  12   27 20  FC Eindhoven vs FC Volendam         BTTS Yes               1.44  +  3.5%  0.6112
+  13   27 19  Al-Shamal vs Al Hilal SFC           Away Win               1.41  +  3.4%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      3x  AFC Champions League Elite
+      2x  KNVB beker
+      1x  Premier League
+      1x  Superettan
+      1x  DFB Pokal
+      1x  Copa del Rey
+      1x  National League South
+      1x  OFB Cup
+      1x  League Cup
+      1x  Czech Cup
+
+======================================================================

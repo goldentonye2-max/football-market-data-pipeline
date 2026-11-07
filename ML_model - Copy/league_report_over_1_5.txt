@@ -1,0 +1,76 @@
+========================================================================================
+  LEAGUE COMPARISON  -  over_1_5
+  Generated : 2026-10-23 09:52
+  Band      : 1.25 - 1.4
+  Period    : 2026-07-06 to 2026-10-22   (halves split at 2026-09-01)
+========================================================================================
+  Games 5078   Won 72.4%   Market expected 72.4%   Gap -0.0 pts
+  Gap = actual win rate minus the win rate the odds implied (margin removed).
+
+========================================================================================
+  1. LEAGUES WITH 40+ GAMES (30 leagues)
+========================================================================================
+  Raw p < 0.05          : 1   (chance alone gives about 2)
+  Survive FDR (q < 0.10): 0
+
+  MOST ABOVE the market's expectation (top 15):
+  League                                   Games   Win%   Mkt%    Gap     z     q 1st half 2nd half
+  ----------------------------------------------------------------------------------------------------
+  Brazil | Brasileiro Serie A                 59  81.4%  73.0%   +8.4   1.5  0.98    +11.4     -0.3
+  Portugal | Campeonato de Portugal           50  78.0%  70.5%   +7.5   1.2  0.98     +6.6     +7.8
+  Russia | 1. Liga                            55  78.2%  71.3%   +6.9   1.1  0.98     +8.5     +5.5
+  Japan | J1 League                           62  79.0%  73.6%   +5.4   1.0  0.98     +6.9     +4.0
+  Colombia | Liga DIMAYOR                     61  77.0%  71.8%   +5.2   0.9  0.98     +5.1     +5.3
+  Republic of Korea | K-League 1              45  77.8%  72.4%   +5.4   0.8  0.98    +10.3     -3.5
+  Italy | Serie C, Group C                    42  76.2%  71.5%   +4.7   0.7  0.98    +20.1     -1.5
+  France | Ligue 3                            52  75.0%  72.6%   +2.4   0.4  0.98     -0.6     +7.3
+  China | China League 1                      40  75.0%  72.8%   +2.2   0.3  0.98     +8.2     -8.9
+  Italy | Serie C, Group A                    50  72.0%  70.3%   +1.7   0.3  0.98    -15.8     +6.7
+  Paraguay | Division Intermedia              55  72.7%  71.4%   +1.3   0.2  0.98     +0.5     +2.5
+  Uzbekistan | Superliga                      44  72.7%  71.7%   +1.1   0.2  0.98     +4.4     -5.4
+  Turkiye | 1. Lig                            59  74.6%  73.8%   +0.7   0.1  0.98     +1.6     -0.7
+  International Clubs | UEFA Conference L    100  74.0%  73.5%   +0.5   0.1  0.98     -1.3    +17.0
+  England | League One                        43  74.4%  74.0%   +0.4   0.1  0.98     +7.0     -9.6
+
+  MOST BELOW the market's expectation (bottom 15):
+  League                                   Games   Win%   Mkt%    Gap     z     q 1st half 2nd half
+  ----------------------------------------------------------------------------------------------------
+  International Clubs | Club Friendly Gam    116  62.9%  72.6%   -9.7  -2.3  0.57     -9.7        -
+  Bulgaria | Vtora Liga                       43  62.8%  71.3%   -8.5  -1.2  0.98     -8.7     -8.3
+  International Clubs | UEFA Europa Leagu     40  65.0%  73.6%   -8.6  -1.2  0.98    -10.4        -
+  Japan | J3 League                           49  67.3%  73.0%   -5.7  -0.9  0.98     -5.9     -5.2
+  France | Ligue 2                            50  68.0%  73.2%   -5.2  -0.8  0.98    -13.5     +9.7
+  Ecuador | LigaPro Primera A                 46  67.4%  71.0%   -3.6  -0.5  0.98     -4.2     -2.8
+  Croatia | Prva NL                           43  67.4%  71.1%   -3.6  -0.5  0.98    +20.6    -13.0
+  Iraq | Stars League                         41  65.9%  69.6%   -3.8  -0.5  0.98    -10.8     +1.3
+  Spain | Primera Federacion                  78  67.9%  70.6%   -2.7  -0.5  0.98    -14.4     +0.3
+  England | League Two                        70  72.9%  73.8%   -0.9  -0.2  0.98     +3.6     -8.6
+  Chile | Primera B                           50  72.0%  72.9%   -0.9  -0.1  0.98     -2.3     +0.7
+  England | Championship                      69  73.9%  74.4%   -0.5  -0.1  0.98     +8.2     -9.0
+  Bulgaria | Parva Liga                       40  72.5%  72.8%   -0.3  -0.0  0.98    +10.6    -16.5
+  Japan | J2 League                           43  72.1%  72.3%   -0.2  -0.0  0.98    +16.4    -11.1
+  Romania | Superliga                         51  72.5%  72.7%   -0.2  -0.0  0.98     -1.2     +1.4
+  Gap in percentage points. 1st/2nd half = that league's gap in each half of the period.
+  A real league effect keeps the same sign in both halves.
+
+========================================================================================
+  2. HOLD-OUT: choose leagues on the first half, test on the second half
+========================================================================================
+  Leagues picked on first half (>= 20 games there): best 10 and worst 10.
+
+  Group (judged on SECOND half only)            Games   Win%   Mkt%     Gap  +/-95%
+  --------------------------------------------------------------------------------
+  Best leagues from first half                    203  71.4%  73.3%   -1.8     6.1
+  Worst leagues from first half                   118  73.7%  72.7%   +1.0     8.0
+  All leagues (reference)                        2539  71.7%  72.3%   -0.6     1.7
+  If the best leagues were truly better, their second-half gap stays clearly
+  positive and the worst leagues' stays negative. If both drift to the reference
+  line, the first-half differences were luck.
+
+========================================================================================
+  VERDICT
+========================================================================================
+  NO LEAGUE EFFECT CONFIRMED: league differences look like luck. The market's odds already describe each league's win rate about as well as this data can show.
+  Detection limit in this hold-out is about +/-6 points.
+
+========================================================================================

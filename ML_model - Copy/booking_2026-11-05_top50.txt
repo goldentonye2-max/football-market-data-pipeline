@@ -1,0 +1,35 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-11-05
+  Generated : 2026-11-05 12:21:09
+  Legs      : 10
+  Sorted by : edge
+  Combined odds : 27.73
+======================================================================
+
+  BOOKING CODE:  JAVAP4
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    05 21  Getafe vs Brighton                  Away Win               1.59  + 11.4%  0.7237
+  2    05 13  Kuching City FC vs Gangwon FC       Over 1.5 Goals         1.31  +  9.9%  0.6116
+  3    05 18  Sparta Prague vs Bournemouth        Away Win               1.55  +  9.8%  0.7237
+  4    05 23  Rubio Nu vs Sportivo Luqueno        Over 1.5 Goals         1.34  +  9.7%  0.6116
+  5    05 18  Crvena Zvezda vs Inter Club de Esc  Over 2.5 Goals         1.30  +  9.7%  0.6410
+  6    05 21  Benfica vs KKS Lech Poznan          Over 2.5 Goals         1.29  +  9.1%  0.6410
+  7    05 22  CD Genesis PN vs Real CD Espana Sa  HT Over 0.5            1.38  +  8.7%  0.6199
+  8    05 10  Pakistan vs India                   Away Win               1.51  +  8.1%  0.7237
+  9    05 18  Kuopion Palloseura vs Gent          HT Over 0.5            1.40  +  8.0%  0.6199
+  10   05 18  Mjallby AIF vs FK Borac Banja Luka  Over 1.5 Goals         1.31  +  8.0%  0.6116
+
+======================================================================
+  Tournament breakdown:
+      4x  UEFA Conference League
+      2x  UEFA Europa League
+      1x  AFC Champions League Two
+      1x  Division de Honor
+      1x  Liga Nacional
+      1x  SAFF Championship
+
+======================================================================

@@ -1,0 +1,39 @@
+======================================================================
+  OVERFIT ACCUMULATOR — 2026-10-28
+  Generated : 2026-10-28 11:40:53
+  Legs      : 10
+  Sorted by : edge
+  Combined odds : 293.32
+  Filter    : HT Over 1.5 edge 8-12% | Away Win & HT Away Win edge 12%+
+              odds 1.51-1.70 and 1.91-2.00
+======================================================================
+
+  BOOKING CODE:  H92EVW
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    28 16  FK Borac Cacak vs FK Radnik Surdul  Away Win               1.92  + 22.3%  0.7237
+  2    28 18  Pecsi MFC vs Kisvarda FC            Away Win               1.70  + 15.5%  0.7237
+  3    28 14  FC Chernigiv vs FC Epitsentr Kamia  Away Win               1.69  + 15.2%  0.7237
+  4    28 09  Long An FC vs Thai Nguyen FC        Away Win               1.63  + 13.0%  0.7237
+  5    28 13  FK Proleter Dvorovi vs NK Celik Ze  Away Win               1.63  + 13.0%  0.7237
+  6    28 18  Paderborn vs Stuttgart              Away Win               1.61  + 12.2%  0.7237
+  7    28 20  CD Badajoz vs Tenerife CD           Away Win               1.61  + 12.2%  0.7237
+  8    28 21  Salamanca CF UDS vs Celta           HT Over 1.5            1.94  + 10.7%  0.6269
+  9    28 18  Egersunds IK vs Bryne FK            HT Over 1.5            2.00  +  8.9%  0.6269
+  10   28 18  Freiburg vs Wolfsburg               HT Over 1.5            1.99  +  8.7%  0.6269
+
+======================================================================
+  Tournament breakdown:
+      2x  DFB Pokal
+      2x  Copa del Rey
+      1x  Serbian Cup
+      1x  Magyar Kupa
+      1x  Ukraine Cup
+      1x  V-League 2
+      1x  Kup BiH
+      1x  NM Cup
+
+======================================================================

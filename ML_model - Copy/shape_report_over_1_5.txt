@@ -1,0 +1,118 @@
+============================================================================
+  ODDS SHAPE MINER  -  over_1_5
+  Generated : 2026-10-23 08:56
+  Games 5052   Won 3656 (72.4%)   Lost 1396
+  Period    : 2026-07-06 to 2026-10-21
+  Odds columns used: 856 (all of them, together)
+============================================================================
+
+============================================================================
+  1. DEPENDENCY MAP - which columns move together
+============================================================================
+  856 columns collapse into 54 families (columns inside a family have average |correlation| >= 0.70).
+  26 columns stand alone (move independently of the rest).
+  The whole sheet is captured by about 12 independent directions (90% of variation).
+
+  Family   Size  Centre column  |  other members
+  --------------------------------------------------------------------------
+  1         419  1st_h_res_or_match_res____away | 1st_h_res_or_match_res__, 1st_half___1x2_&_gg_ng__, 1st_half___1x2_&_gg_ng__
+  2          76  margin:2nd_half___1x2__        | 1st_half___exact_goals__, 2nd_half___multigoals___, 2nd_half___odd_even____e
+  3          65  ht_ft_&_1st_half_total__total= | 1st_2nd_half_gg_ng____no, 1st_2nd_half_gg_ng____ye, 1st_2nd_half_gg_ng____ye
+  4          64  goal_bounds____0_2             | 1st_half___correct_score, 1st_half___exact_goals__, 1st_half___exact_goals__
+  5          35  halftime_fulltime_correct_scor | 1st_h_res_or_match_res__, 1st_half___1x2_&_gg_ng__, 1st_half___1x2_&_total__
+  6          26  1st_half___multigoals____2_3   | 1st_half___multigoals___, 1st_half___multigoals___, 1st_half___multigoals___
+  7          21  any_team_to_score_3_or_more_go | 1st_half___correct_score, 1st_half___double_chance, 1x2___1up____draw
+  8          20  2nd_half___dc_&_gg_ng____home_ | 1st_2nd_half_gg_ng____no, 1st_half___correct_score, 1st_half___dc_&_gg_ng___
+  9          15  2nd_half___correct_score____22 | 1st_half___correct_score, 1st_half___gg_ng____no, 1st_half___gg_ng____yes
+  10         13  1st_half___handicap__hcp=10__a | 1st_half___handicap__hcp, 1st_half___handicap__hcp, 1st_half___handicap__hcp
+  11         10  margin:1x2__                   | margin:away_o_u__total=0, margin:double_chance__, margin:draw_no_bet__
+  12          9  halftime_fulltime_&_total__tot | 2nd_half_dc_and_over_und, 2nd_half_dc_and_over_und, halftime_fulltime_&_tota
+  Families that are tightly tied together are one piece of information repeated,
+  not many independent findings.
+
+============================================================================
+  2. THE PICTURE - shapes of the sheet, and where winners sit
+============================================================================
+  (a) Main directions of variation (found WITHOUT looking at results).
+      For each: how well it separates winners from losers, and which columns drive it.
+      In-sample description; section 3 tests whether it holds on later games.
+
+      Direction 2: AUC 0.540 (winners score HIGHER), explains 17.3% of sheet variation
+        high end: both_halves_under_x_5__total=1; both_halves_over_x_5__total=1_; 2nd_half___total__total=2_5__u; 2nd_half___exact_goals__varian; 1x2_&_gg_ng____draw_&_no
+        low end : goal_bounds___1st_half____3+; goal_bounds___1st_half____2_3+; goal_bounds___1st_half____2; goal_bounds____5+; goal_bounds____4_5+
+
+      Direction 5: AUC 0.521 (winners score LOWER), explains 2.6% of sheet variation
+        high end: margin:away_o_u__total=1_5; margin:handicap__hcp=0_5; margin:home_o_u__total=0_5; correct_score____30; which_team_to_score____only_ho
+        low end : 1x2____away; correct_score____02; which_team_to_score____only_aw; home_team_clean_sheet____no; correct_score____01
+
+      Direction 6: AUC 0.518 (winners score LOWER), explains 1.7% of sheet variation
+        high end: margin:over_under__total=1_5; margin:over_under__total=3_5; margin:over_under__total=2_5; 1st_half___over_under__total=2; margin:away_o_u__total=0_5
+        low end : over_under__total=1_5__under_1; over_under__total=3_5__under_3; over_under__total=2_5__under_2; excluded_goals____4; n_markets
+
+      Direction 1: AUC 0.513 (winners score HIGHER), explains 43.2% of sheet variation
+        high end: 1st_half___1x2_&_gg_ng____away; 1st_h_res_or_match_res____away; ht_ft_&_1st_half_total__total=; ht_ft_&_1st_half_total__total=; halftime_fulltime_&_total__tot
+        low end : halftime_fulltime_correct_scor; halftime_fulltime_correct_scor; halftime_fulltime_correct_scor; 2nd_half___1x2_&_gg_ng____home; 1st_half___1x2_&_gg_ng____home
+
+  (b) 8 groups of similar-looking sheets (found WITHOUT looking at results):
+      Group    Games    Win%
+      4          186   80.1%
+      7          333   77.5%
+      2          348   77.0%
+      5          828   75.6%
+      1          507   74.0%
+      0          474   71.3%
+      3          473   70.6%
+      6         1903   68.7%
+      Overall win rate 72.4%.  Do groups differ in win rate (in-sample chi-square p) : 0.0000
+
+  (c) MOST WINNER-HEAVY group 4 (186 games, 80.1% won) vs MOST LOSER-HEAVY group 6 (1903 games, 68.7% won)
+      The 15 columns where their sheets differ most (median pre-match odds):
+      Column                                        WINNER-heavy  LOSER-heavy   Gap(z)
+      --------------------------------------------------------------------------------
+      halftime_fulltime_correct_score____03_03            110.00       250.00    -4.34
+      halftime_fulltime_&_total__total=3_5__away_h         92.50        54.40    +4.10
+      halftime_fulltime_&_total__total=4_5__away_h         77.90        42.10    +3.94
+      halftime_fulltime_correct_score____00_21             95.00        50.00    +3.87
+      multiscores____04,_05_or_06                          16.29        88.40    -3.84
+      halftime_fulltime_correct_score____01_21             85.00        49.00    +3.82
+      halftime_fulltime_&_total__total=2_5__away_h         54.90        27.95    +3.79
+      halftime_fulltime_correct_score____21_21            180.00        90.00    +3.78
+      multiscores____other_awaywin                         59.00       100.00    -3.77
+      away_or_any_clean_sheet____no                         3.50         2.35    +3.77
+      away_to_win_both_halves____no                         1.19         1.04    +3.76
+      halftime_fulltime_&_total__total=1_5__away_h         54.40        27.88    +3.76
+      halftime_fulltime_correct_score____20_21            145.00        71.00    +3.76
+      halftime_fulltime_correct_score____11_21             65.00        36.00    +3.75
+      ht_ft_&_1st_half_total__total=0_5__away_home         54.00        27.00    +3.72
+      Gap(z): how many standard deviations apart the two groups sit on that column.
+
+============================================================================
+  3. LATER-GAMES CHECK (walk-forward)
+============================================================================
+  Shapes are learned on earlier games only (results not used to build them), then
+  each later game is scored by how past games with the most similar sheet did.
+
+  Fold    Train   Test  Group AUC  Similar-sheet AUC
+  ----------------------------------------------------
+  1        1011   1011      0.546              0.529
+  2        2022   1010      0.522              0.509
+  3        3032   1010      0.506              0.500
+  4        4042   1010      0.545              0.553
+  ----------------------------------------------------
+  Pooled          4041      0.524              0.519
+
+  Group score      AUC 0.524   p = 0.0084
+  Similar-sheet    AUC 0.519   p = 0.0308
+  AUC 0.50 = shape tells nothing about who wins. 0.55+ = clear. 0.60+ = strong.
+
+  In plain terms (later games only):
+    Games whose sheet LOOKS LIKE past winners :  1149 games, won 74.6% (+/-2.5)
+    Games whose sheet LOOKS LIKE past losers  :  1231 games, won 71.1% (+/-2.5)
+    Gap: +3.5 points (+/-3.6).  Smaller gaps than that cannot be told from chance here.
+
+============================================================================
+  VERDICT
+============================================================================
+  FAINT SHAPE: a real but weak relation held on later games. Section 2(c) shows what it looks like; treat it as a hint, not a rule.
+
+============================================================================

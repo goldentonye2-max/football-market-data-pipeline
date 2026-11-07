@@ -1,0 +1,11 @@
+event_id,home_team,away_team,match,tournament,kickoff,target,pick,model_prob_%,implied_prob_%,edge_%,decimal_odds,model_auc,has_odds_match,hit_rate_%
+sr:match:75119180,De Treffers Groesbeek,Heracles Almelo,De Treffers Groesbeek vs Heracles Almelo,KNVB beker,2026-10-29 20:00,target__away_win,Away Win,74.3,66.2,8.1,1.51,0.7237,True,32.7
+sr:match:75329904,CD Laredo,Burgos CF,CD Laredo vs Burgos CF,Copa del Rey,2026-10-29 20:00,target__away_win,Away Win,74.3,65.4,9.0,1.53,0.7237,True,32.7
+sr:match:75329904,CD Laredo,Burgos CF,CD Laredo vs Burgos CF,Copa del Rey,2026-10-29 20:00,target__ht_away_win,HT Away Win,54.0,50.0,4.0,2.0,0.6617,True,26.6
+sr:match:71945346,Fiorentina,Atalanta,Fiorentina vs Atalanta,Serie A,2026-10-29 20:45,target__ht_away_win,HT Away Win,55.2,29.4,25.8,3.4,0.6617,True,26.6
+sr:match:75119206,Rkav Volendam,Rohda Raalte,Rkav Volendam vs Rohda Raalte,KNVB beker,2026-10-29 20:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,52.9,6.0,1.89,0.6269,True,38.8
+sr:match:75119182,FC Groningen,FC Emmen,FC Groningen vs FC Emmen,KNVB beker,2026-10-29 21:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,50.0,8.9,2.0,0.6269,True,38.8
+sr:match:75329926,CD Varea,FC Andorra,CD Varea vs FC Andorra,Copa del Rey,2026-10-29 20:00,target__over_1_5_goals,Over 1.5 Goals,86.2,81.3,4.9,1.23,0.6116,True,77.7
+sr:match:71936192,Los Chankas CYC,Cusco FC,Los Chankas CYC vs Cusco FC,Liga 1,2026-10-29 19:00,target__over_1_5_goals,Over 1.5 Goals,84.3,80.6,3.7,1.24,0.6116,True,77.7
+sr:match:75119200,GVVV Veenendaal,VV Noordwijk,GVVV Veenendaal vs VV Noordwijk,KNVB beker,2026-10-29 20:00,target__over_2_5_goals,Over 2.5 Goals,71.9,66.2,5.6,1.51,0.641,True,56.0
+sr:match:75119192,Hoek,VV Sparta Nijkerk,Hoek vs VV Sparta Nijkerk,KNVB beker,2026-10-29 20:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.1,3.5,1.56,0.641,True,56.0

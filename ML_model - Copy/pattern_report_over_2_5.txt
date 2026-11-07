@@ -1,0 +1,102 @@
+========================================================================
+  ODDS PATTERN MINER  -  over_2_5
+  Generated : 2026-10-23 21:39
+  Source    : fixtures   Band: 1.8 - 2.0
+  Period    : 2026-07-06 to 2026-10-22
+========================================================================
+  Games 3465   Won 1743 (50.3%)   Lost 1722   Break-even win% at these odds: 52.5%
+  Odds columns studied: 820   (median odds rows per game: 733)
+  Check: odds rows per game should be roughly constant. If the DB overwrote odds
+  after kickoff (live odds), the 'pre-match' sheet is contaminated.
+
+========================================================================
+  1. EACH ODDS COLUMN: WON vs LOST
+========================================================================
+  Columns tested         : 820
+  p < 0.05 by raw test   : 119   (chance alone gives about 41)
+  Survive FDR (q < 0.10) : 35
+
+  Column                                                 AUC  MedWon  MedLost        p      q
+  ------------------------------------------------------------------------------------------
+  odds__both_halves_over_x_5__total=1_5__yes           0.457    5.25     5.30   0.0001  0.086
+  odds__1st_half___exact_goals__variant=srexact_goals  0.460    4.20     4.20   0.0003  0.086
+  odds__both_halves_under_x_5__total=1_5__no           0.462    1.52     1.53   0.0007  0.086
+  odds__over_under__total=1_5__over_1_5                0.465    1.29     1.29   0.0008  0.086
+  odds__correct_score____11                            0.534    6.32     6.29   0.0009  0.086
+  odds__goal_bounds____0_4                             0.533    1.10     1.10   0.0009  0.086
+  odds__goal_bounds____2                               0.533    3.40     3.39   0.0010  0.086
+  odds__excluded_goals____5+                           0.535    1.10     1.10   0.0011  0.086
+  odds__correct_score____00                            0.532   10.28    10.11   0.0014  0.086
+  odds__goal_bounds____3_4                             0.468    2.49     2.50   0.0014  0.086
+  odds__1st_half___over_under__total=1_5__over_1_5     0.462    2.65     2.70   0.0016  0.086
+  odds__correct_score____other                         0.468   29.00    29.55   0.0016  0.086
+  odds__2nd_half___total__total=1_5__over_1_5          0.465    2.10     2.10   0.0016  0.086
+  odds__goal_bounds____0                               0.532    7.92     7.88   0.0016  0.086
+  odds__goal_bounds____3_5+                            0.469    1.89     1.90   0.0020  0.086
+  AUC 0.50 = columns do not separate winners from losers. Related markets
+  (e.g. DNB, double chance, 1X2) move together - do not count them as separate
+  findings.
+
+========================================================================
+  1b. PROFILE: typical pre-match odds, WINNERS vs LOSERS
+========================================================================
+  1743 winners vs 1722 losers. Format: median [25th-75th percentile]
+  Column                                         WINNERS                  LOSERS                  
+  ------------------------------------------------------------------------------------------------
+  odds__1x2____home                              2.25 [1.83-2.90]         2.25 [1.85-2.87]        
+  odds__1x2____draw                              3.40 [3.30-3.60]         3.40 [3.25-3.60]        
+  odds__1x2____away                              3.00 [2.30-4.00]         2.96 [2.35-4.00]        
+  odds__over_under__total=1_5__over_1_5          1.29 [1.27-1.31]         1.29 [1.27-1.31]        
+  odds__over_under__total=2_5__over_2_5          1.90 [1.85-1.96]         1.91 [1.86-1.96]        
+  odds__over_under__total=3_5__over_3_5          3.20 [3.10-3.33]         3.20 [3.10-3.33]        
+  odds__gg_ng____yes                             1.75 [1.70-1.83]         1.75 [1.70-1.82]        
+  odds__gg_ng____no                              1.91 [1.83-1.99]         1.91 [1.83-1.99]        
+  odds__1st_half___over_under__total=0_5__over_  1.38 [1.36-1.40]         1.38 [1.37-1.40]        
+  odds__1st_half___over_under__total=1_5__over_  2.65 [2.60-2.75]         2.70 [2.60-2.75]        
+  odds__1st_half___1x2____home                   2.85 [2.40-3.50]         2.85 [2.45-3.50]        
+  odds__1st_half___1x2____draw                   2.20 [2.15-2.25]         2.20 [2.15-2.25]        
+  odds__1st_half___1x2____away                   3.60 [2.90-4.60]         3.60 [2.95-4.50]        
+  odds__both_halves_over_x_5__total=1_5__yes     5.25 [5.00-5.50]         5.30 [5.10-5.50]        
+  odds__1st_half___exact_goals__variant=srexact  4.20 [4.10-4.25]         4.20 [4.10-4.25]        
+  odds__both_halves_under_x_5__total=1_5__no     1.52 [1.49-1.55]         1.53 [1.50-1.55]        
+  odds__correct_score____11                      6.32 [6.10-6.75]         6.29 [6.08-6.60]        
+  odds__goal_bounds____0_4                       1.10 [1.09-1.11]         1.10 [1.09-1.11]        
+  odds__goal_bounds____2                         3.40 [3.36-3.45]         3.39 [3.35-3.44]        
+  odds__excluded_goals____5+                     1.10 [1.09-1.11]         1.10 [1.09-1.11]        
+  odds__correct_score____00                      10.28 [9.61-11.00]       10.11 [9.52-10.89]      
+  odds__goal_bounds____3_4                       2.49 [2.45-2.53]         2.50 [2.46-2.54]        
+  If the winner and loser ranges overlap almost completely, the two groups look
+  the same on that column, so it cannot tell them apart.
+
+========================================================================
+  2. HOLD-OUT RULE TEST (choose on earlier 70%, test on later 30%)
+========================================================================
+  Train games 2425   Test games 1040   Test win rate (no filter): 51.3%
+
+  Rule (threshold = train median)                            Games   Win%      ROI
+  ----------------------------------------------------------------------------------
+  odds__correct_score____11 >= 6.30                            492  53.0%    +0.0%
+  odds__1x2____draw <= 3.40                                    625  50.6%    -3.2%
+  odds__dc_&_1st_half_both_teams_score____ <= 1.51             260  52.7%    +0.2%
+  odds__both_halves_over_x_5__total=1_5__y <= 5.30             404  54.0%    +0.8%
+  odds__dc_&_2nd_half_both_teams_score____ <= 1.62             245  51.8%    -1.2%
+  A real pattern beats the unfiltered win rate on the TEST games too.
+
+========================================================================
+  3. ML TEST (train earlier, score later, vs shuffled-label null)
+========================================================================
+  Train 2425 / Test 1040 games
+  Test AUC (real labels)        : 0.504
+  Market's own price alone AUC  : 0.551   <- the bar to beat
+  Test AUC (shuffled, average)  : 0.501
+  Shuffled 95th percentile      : 0.539
+  p-value                       : 0.355
+  Real AUC well above the shuffled 95th percentile = something transferable.
+  AUC near 0.50 = the odds sheet does not predict who wins in this band.
+
+========================================================================
+  VERDICT
+========================================================================
+  WEAK/MIXED: one test passes, the other does not. Treat as a hypothesis only.
+
+========================================================================

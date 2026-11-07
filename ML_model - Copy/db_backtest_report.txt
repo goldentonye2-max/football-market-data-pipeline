@@ -1,0 +1,68 @@
+========================================================================================================
+  FULL-DATABASE  TOP-3 PER MARKET PER DAY  vs  RANDOM 3
+  Generated : 2026-11-03 01:57
+  Odds band : any — any   Min pool : 4   Since : all time
+========================================================================================================
+  Win%   = win rate of your top-k picks.
+  Rnd%   = win rate of random k picks from the same day-pool (the fair comparison).
+  Gap    = Win% minus Rnd%.  z/q: is the gap bigger than luck? (q corrected for many tests).
+  NOTE   : model_prob and edge are NOT in the DB — only short_odds / long_odds shown.
+
+--------------------------------------------------------------------------------------------------------
+  Market           Score         Games  Days  Picks   Win%   Rnd%    Gap     z     q     ROI  RndROI
+  ----------------------------------------------------------------------------------------------------
+  away_win         long_odds     25699    88    252   2.5%  32.6%  -30.0 -10.3  1.00  -55.8%  -11.4%
+  away_win         short_odds    25699    88    252  83.7%  32.6%  +51.2  17.6  0.00   -5.0%  -11.4%
+  btts_yes         long_odds     21598    88    252  41.9%  55.0%  -13.1  -4.2  1.00  +12.8%   -6.7%
+  btts_yes         short_odds    21598    88    252  78.7%  55.0%  +23.7   7.7  0.00   -2.0%   -6.7%
+  draw             long_odds     25701    88    252   8.1%  23.6%  -15.5  -5.9  1.00  -30.3%  -11.6%
+  draw             short_odds    25701    88    252  38.2%  23.6%  +14.6   5.5  0.00   +4.6%  -11.6%
+  home_win         long_odds     25698    88    252   5.6%  43.8%  -38.3 -12.4  1.00  -22.1%   -7.4%
+  home_win         short_odds    25698    88    252  85.2%  43.8%  +41.4  13.5  0.00   -7.4%   -7.4%
+  ht_away_win      long_odds     18381    88    249   5.8%  26.5%  -20.7  -7.5  1.00  -32.1%  -10.9%
+  ht_away_win      short_odds    18381    88    249  63.1%  26.5%  +36.7  13.4  0.00   -7.7%  -10.9%
+  ht_draw          long_odds     18381    88    249  17.5%  40.2%  -22.7  -7.4  1.00  -35.2%   -6.4%
+  ht_draw          short_odds    18381    88    249  56.0%  40.2%  +15.8   5.2  0.00   +1.9%   -6.4%
+  ht_home_win      long_odds     18381    88    249   9.0%  33.3%  -24.3  -8.3  1.00   -3.2%  -10.9%
+  ht_home_win      short_odds    18381    88    249  66.1%  33.3%  +32.7  11.2  0.00   -9.1%  -10.9%
+  ht_over_0_5      long_odds     13751    88    249  49.4%  70.6%  -21.1  -7.5  1.00  -18.9%   -5.6%
+  ht_over_0_5      short_odds    13751    88    249  87.3%  70.6%  +16.8   5.9  0.00   -0.2%   -5.6%
+  ht_over_1_5      long_odds     16906    88    249  17.4%  38.2%  -20.7  -6.9  1.00  -35.0%  -10.8%
+  ht_over_1_5      short_odds    16906    88    249  60.1%  38.2%  +21.9   7.3  0.00   -3.5%  -10.8%
+  over_1_5         long_odds     18489    88    252  58.0%  76.3%  -18.2  -7.0  1.00   -4.9%   -4.0%
+  over_1_5         short_odds    18489    88    252  91.8%  76.3%  +15.5   5.9  0.00   -1.0%   -4.0%
+  over_2_5         long_odds     23173    88    252  34.7%  54.4%  -19.7  -6.4  1.00   +1.4%   -5.9%
+  over_2_5         short_odds    23173    88    252  75.6%  54.4%  +21.2   6.9  0.00   -8.2%   -5.9%
+  over_3_5         long_odds     22189    88    252  14.5%  35.4%  -20.8  -7.0  1.00  -21.8%  -10.0%
+  over_3_5         short_odds    22189    88    252  68.8%  35.4%  +33.4  11.3  0.00   -1.9%  -10.0%
+  over_4_5         long_odds     14381    88    252   4.3%  22.0%  -17.7  -6.9  1.00  -61.0%  -13.6%
+  over_4_5         short_odds    14381    88    252  49.6%  22.0%  +27.6  10.8  0.00   -8.7%  -13.6%
+
+========================================================================================================
+  ALL MARKETS POOLED  (the cleanest single number per score)
+========================================================================================================
+  Score         Picks   Win%   Rnd%    Gap     z     ROI  RndROI
+  short_odds     3261  69.6%  42.4%  +27.1  97.1   -3.7%   -8.9%
+  long_odds      3261  20.7%  42.4%  -21.8 -77.8  -23.5%   -8.9%
+
+========================================================================================================
+  VERDICT
+========================================================================================================
+  13 combination(s) beat random after correction (q < 0.10):
+    away_win         by short_odds    83.7% vs 32.6% random  (gap +51.2, 252 picks, -5.0% ROI)
+    home_win         by short_odds    85.2% vs 43.8% random  (gap +41.4, 252 picks, -7.4% ROI)
+    ht_away_win      by short_odds    63.1% vs 26.5% random  (gap +36.7, 249 picks, -7.7% ROI)
+    over_3_5         by short_odds    68.8% vs 35.4% random  (gap +33.4, 252 picks, -1.9% ROI)
+    ht_home_win      by short_odds    66.1% vs 33.3% random  (gap +32.7, 249 picks, -9.1% ROI)
+    over_4_5         by short_odds    49.6% vs 22.0% random  (gap +27.6, 252 picks, -8.7% ROI)
+    btts_yes         by short_odds    78.7% vs 55.0% random  (gap +23.7, 252 picks, -2.0% ROI)
+    ht_over_1_5      by short_odds    60.1% vs 38.2% random  (gap +21.9, 249 picks, -3.5% ROI)
+    over_2_5         by short_odds    75.6% vs 54.4% random  (gap +21.2, 252 picks, -8.2% ROI)
+    ht_over_0_5      by short_odds    87.3% vs 70.6% random  (gap +16.8, 249 picks, -0.2% ROI)
+    ht_draw          by short_odds    56.0% vs 40.2% random  (gap +15.8, 249 picks, +1.9% ROI)
+    over_1_5         by short_odds    91.8% vs 76.3% random  (gap +15.5, 252 picks, -1.0% ROI)
+    draw             by short_odds    38.2% vs 23.6% random  (gap +14.6, 252 picks, +4.6% ROI)
+
+  Detection limit: a gap of ~6 points or more is detectable with this data.
+  Compare this to the top2_backtest.py results (41 days) — more data = narrower noise band = more trustworthy.
+========================================================================================================

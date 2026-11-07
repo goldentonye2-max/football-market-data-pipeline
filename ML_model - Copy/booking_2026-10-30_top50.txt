@@ -1,0 +1,56 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-30
+  Generated : 2026-10-30 16:34:46
+  Legs      : 19
+  Sorted by : edge
+  Combined odds : 830.02
+======================================================================
+
+  BOOKING CODE:  WVPPGL
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    30 10  FC Banik Ostrava vs Karvina         Home Win               1.39  + 17.5%  0.7212
+  2    30 17  Al Sadd SC vs Al-Shamal             Home Win               1.48  + 15.8%  0.7212
+  3    30 20  Newcastle United U21 vs Peterborou  Home Win               1.43  + 13.4%  0.7212
+  4    30 19  Bodoe/Glimt vs Viking FK            Over 2.5 Goals         1.34  + 12.0%  0.6410
+  5    30 18  SK Rapid Wien vs FC Sudburgenland   Home Win               1.40  + 11.9%  0.7212
+  6    30 19  USV Gnas vs SV Pachern              Home Win               1.49  + 11.4%  0.7212
+  7    30 17  Shakhtar D vs FC Obolon Kyiv        Over 2.5 Goals         1.43  + 11.2%  0.6410
+  8    30 20  Nantes vs Clermont Foot             Home Win               1.48  + 11.0%  0.7212
+  9    30 19  FC Rapperswil-Jona vs FC Stade Nyo  Home Win               1.47  + 10.5%  0.7212
+  10   30 17  Al Wehdat vs AL Arabi               Home Win               1.47  + 10.5%  0.7212
+  11   30 19  FC Pisek vs SK Aritma Prague        Home Win               1.47  + 10.5%  0.7212
+  12   30 17  JS Kabylie vs Js El Biar            Home Win               1.47  + 10.5%  0.7212
+  13   30 18  FC Nizhny Novgorod vs PFK Arsenal   Home Win               1.46  + 10.0%  0.7212
+  14   30 21  Villarreal vs Espanyol              Home Win               1.45  +  9.6%  0.7212
+  15   30 13  Persebaya Surabaya vs Persijap Jep  Home Win               1.25  +  9.5%  0.7212
+  16   30 20  Flint Town United vs Holywell Town  Home Win               1.44  +  9.1%  0.7212
+  17   30 18  MFK Karvina vs SK Slavia Prague B   Home Win               1.43  +  8.6%  0.7212
+  18   30 12  Bac Ninh vs Hoang Anh Gia Lai       Over 1.5 Goals         1.32  +  8.5%  0.6116
+  19   30 20  Barry Town United FC vs Trefelin B  Home Win               1.42  +  8.1%  0.7212
+
+======================================================================
+  Tournament breakdown:
+      2x  Cymru Premier
+      1x  U19 1. Liga
+      1x  Stars League
+      1x  Premier League Cup
+      1x  Eliteserien
+      1x  Bundesliga, Women
+      1x  Steiermark, Landesliga
+      1x  Premier League
+      1x  Ligue 2
+      1x  Challenge League
+      1x  Jordan League
+      1x  CFL
+      1x  Ligue 1
+      1x  1. Liga
+      1x  LaLiga
+      1x  Super League
+      1x  FNL
+      1x  V-League 1
+
+======================================================================

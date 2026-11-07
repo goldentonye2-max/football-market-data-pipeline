@@ -1,0 +1,47 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-28
+  Generated : 2026-10-28 12:32:06
+  Legs      : 16
+  Sorted by : edge
+  Combined odds : 173.90
+======================================================================
+
+  BOOKING CODE:  NMLZFT
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    28 19  CD Tarancon vs Levante              Over 2.5 Goals         1.30  +  9.7%  0.6410
+  2    28 18  Egersunds IK vs Bryne FK            BTTS Yes               1.40  +  8.6%  0.6112
+  3    28 12  LNZ Cherkasy vs FC Metalist Kharki  Over 1.5 Goals         1.30  +  7.4%  0.6116
+  4    28 16  1. FC Slovacko Uherske Hradiste vs  Over 1.5 Goals         1.30  +  7.4%  0.6116
+  5    28 16  Omonia Aradippou vs Digenis Akrita  Home Win               1.31  +  7.0%  0.7212
+  6    29 00  Inter Miami CF vs FC Cincinnati     BTTS Yes               1.36  +  6.5%  0.6112
+  7    28 16  Azam FC vs Mbeya City FC            Home Win               1.30  +  6.4%  0.7212
+  8    28 21  Olympique Lyon W vs Inter Milano    Over 3.5 Goals         1.54  +  5.7%  0.6631
+  9    29 01  Chicago Fire vs Orlando City SC     Over 2.5 Goals         1.30  +  5.2%  0.6410
+  10   28 11  Nagoya Grampus vs Urawa Red Diamon  HT Over 0.5            1.31  +  4.9%  0.6199
+  11   28 14  Mara Sugar FC vs Leopards SC        BTTS No                1.62  +  4.5%  0.6160
+  12   28 17  Esbjerg FB vs Nordsjaelland         Away Win               1.43  +  4.4%  0.7237
+  13   28 13  The Cong - Viettel FC vs FC Seoul   HT Over 0.5            1.30  +  4.3%  0.6199
+  14   28 18  Lillestroem SK vs Sogndal Fotball   HT Home Win            1.37  +  3.9%  0.6512
+  15   28 20  JOS Watergraafsmeer vs NAC Breda    BTTS No                1.60  +  3.7%  0.6160
+  16   28 20  MVV Maastricht vs Excelsior Rotter  Away Win               1.41  +  3.4%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      2x  NM Cup
+      2x  MLS
+      2x  Premier League
+      2x  KNVB beker
+      1x  Copa del Rey
+      1x  Ukraine Cup
+      1x  Czech Cup
+      1x  Cyprus Cup
+      1x  UEFA Champions League Women
+      1x  J.League Cup
+      1x  DBU Pokalen
+      1x  AFC Champions League Two
+
+======================================================================

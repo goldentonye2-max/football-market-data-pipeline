@@ -1,0 +1,23 @@
+====================================================================================================
+  BATCH SUMMARY - odds-sheet pattern miner
+====================================================================================================
+  Market_lo_hi              Games   Win%    BE% FDRcols  ML AUC PriceAUC      p RulesOK  Verdict
+  ------------------------------------------------------------------------------------------------
+  ht_over_1_5_1.8_2.0        1637   49.0   52.0       0   0.538    0.523  0.097       1  WEAK/MIXED
+  ht_over_1_5_2.0_2.3        3690   41.7   45.9       0   0.517    0.521  0.226       0  NO PATTERN
+  over_2_5_1.6_1.8           4398   56.1   58.8      48   0.493    0.541  0.710       1  WEAK/MIXED
+  over_2_5_1.8_2.0           3465   50.3   52.5      35   0.504    0.551  0.355       2  WEAK/MIXED
+  btts_yes_1.6_1.8           5189   54.3   58.8       0   0.487    0.532  0.742       0  NO PATTERN
+  btts_yes_1.8_2.0           3540   50.2   52.7       0   0.507    0.529  0.355       0  NO PATTERN
+  away_win_1.5_1.7            861   61.4   62.4      32   0.472    0.548  0.806       5  WEAK/MIXED
+  away_win_1.9_2.3           2514   43.8   47.3     198   0.529    0.556  0.129       3  WEAK/MIXED
+  home_win_1.5_1.7           2119   60.2   62.2       0   0.496    0.543  0.516       5  WEAK/MIXED
+  home_win_1.9_2.3           4535   45.6   47.5      17   0.503    0.541  0.452       0  NO PATTERN
+  ht_away_win_3.0_4.0        4444   25.7   28.6      76   0.492    0.530  0.710       0  NO PATTERN
+  over_1_5_1.25_1.4          5078   72.4   75.9     239   0.531    0.534  0.097       0  NO PATTERN
+
+  How to read: ML AUC must beat PriceAUC clearly (and p < 0.05) to mean anything.
+  FDRcols = odds columns that survive the many-columns correction (large numbers in a wide
+  band usually just mean the columns repeat the price). RulesOK = hold-out rules with
+  100+ games and positive ROI. With 12 jobs, expect about 1 'significant' result by luck.
+====================================================================================================

@@ -1,0 +1,105 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-23
+  Generated : 2026-10-23 07:29:18
+  Legs      : 50
+  Sorted by : edge
+  Combined odds : 444,578,871.30
+======================================================================
+
+  BOOKING CODE:  X60FDW
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    23 07  Wellington United Diamonds vs Wate  Home Win               1.43  + 19.5%  0.7212
+  2    23 19  Vitesse Arnhem vs FC Emmen          BTTS Yes               1.47  + 14.3%  0.6112
+  3    23 14  JS Omrane vs Olympique de Beja      Over 1.5 Goals         1.54  + 14.2%  0.6116
+  4    23 19  TOP Oss vs Jong Ajax Amsterdam      Over 2.5 Goals         1.47  + 13.1%  0.6410
+  5    23 19  FC Den Bosch vs MVV Maastricht      Over 2.5 Goals         1.46  + 12.7%  0.6410
+  6    23 19  Galway United FC vs Saint Patrick´  Away Win               1.62  + 12.6%  0.7237
+  7    23 18  Alanyaspor vs Kocaelispor           Over 1.5 Goals         1.45  + 12.1%  0.6116
+  8    23 12  Ipswich Town U21 vs Birmingham Cit  Home Win               1.50  + 11.9%  0.7212
+  9    23 20  Bolton Wanderers vs Middlesbrough   Away Win               1.60  + 11.8%  0.7237
+  10   23 16  FK Hebar Pazardzhik vs OFC Nesebar  Home Win               1.49  + 11.4%  0.7212
+  11   23 16  Tabor Sezana vs FC Koper            Away Win               1.58  + 11.0%  0.7237
+  12   23 18  Utsiktens BK vs Tvaakers IF         Away Win               1.39  + 10.6%  0.7237
+  13   23 17  Tartu JK Welco vs JK Tallinna Kale  Home Win               1.37  + 10.3%  0.7212
+  14   23 19  Llanelli Town vs Afan Lido          Away Win               1.55  +  9.8%  0.7237
+  15   23 14  Avenir S Marsa vs Club S Hammam-Li  Over 1.5 Goals         1.62  +  9.2%  0.6116
+  16   23 14  US Ben Guerdane vs Stade Tunisien   Over 1.5 Goals         1.62  +  8.8%  0.6116
+  17   23 17  Darmstadt vs FC St. Pauli           Over 2.5 Goals         1.70  +  8.7%  0.6410
+  18   23 15  Flamurtari Vlore vs KS Beselidhja   Home Win               1.43  +  8.6%  0.7212
+  19   23 08  Shanghai Port B vs Hangzhou Linpin  Home Win               1.43  +  8.6%  0.7212
+  20   23 19  UTC de Cajamarca vs FBC Melgar      Away Win               1.52  +  8.5%  0.7237
+  21   23 19  Fulham U21 vs Brighton & Hove Albi  Over 2.5 Goals         1.37  +  8.2%  0.6410
+  22   23 19  Denbigh Town vs Gresford Athletic   Home Win               1.42  +  8.1%  0.7212
+  23   23 19  Waterford FC vs Drogheda United FC  Over 2.5 Goals         1.68  +  8.0%  0.6410
+  24   23 19  Colwyn Bay vs Cardiff Metropolitan  Home Win               1.68  +  7.8%  0.7212
+  25   23 17  FK Zemun vs FK Macva Sabac          Over 1.5 Goals         1.40  +  7.7%  0.6116
+  26   23 13  FK Sileks Kratovo vs KF Shkendija   Home Win               1.41  +  7.6%  0.7212
+  27   23 19  FC Winterthur vs FC Stade Nyonnais  Over 2.5 Goals         1.36  +  7.6%  0.6410
+  28   23 11  Hoang Anh Gia Lai vs Song Lam Nghe  HT Over 0.5            1.39  +  7.5%  0.6199
+  29   23 19  Jeugd Royal Francs Borains  vs RAA  Over 2.5 Goals         1.35  +  7.1%  0.6410
+  30   23 13  Charlton Athletic U21 vs Cardiff C  Over 2.5 Goals         1.35  +  7.1%  0.6410
+  31   23 18  KV RS Waasland Beveren vs KV Kortr  Over 2.5 Goals         1.35  +  7.1%  0.6410
+  32   23 17  Dukla Prague vs SK Kladno           Home Win               1.65  +  6.7%  0.7212
+  33   23 18  IK Oddevold vs GIF Sundsvall        Home Win               1.39  +  6.6%  0.7212
+  34   23 18  FC Gutersloh 2000 vs SC Wiedenbruc  Home Win               1.39  +  6.6%  0.7212
+  35   23 19  Breidablik Kopavogur W vs FH Hafna  Over 2.5 Goals         1.34  +  6.5%  0.6410
+  36   23 07  Ferrymead Bays vs Cashmere Technic  Over 2.5 Goals         1.34  +  6.5%  0.6410
+  37   23 19  Caerau Ely FC vs Llantwit Major     BTTS Yes               1.67  +  6.5%  0.6112
+  38   23 20  Alaves vs Malaga CF                 Over 1.5 Goals         1.35  +  6.4%  0.6116
+  39   23 18  SV Pachern vs SV Rohrbach An Der L  Away Win               1.47  +  6.3%  0.7237
+  40   23 13  Aluminium Arak vs Zob Ahan Isfahan  Over 1.5 Goals         1.64  +  6.3%  0.6116
+  41   23 19  Bohemians Dublin FC vs Shelbourne   Over 2.5 Goals         1.63  +  6.2%  0.6410
+  42   23 19  Caernarfon Town FC vs Briton Ferry  BTTS Yes               1.70  +  6.2%  0.6112
+  43   23 19  Clermont Foot vs EA Guingamp        HT Over 0.5            1.39  +  6.0%  0.6199
+  44   23 18  B36 Torshavn II vs HB Torshavn II   Over 2.5 Goals         1.33  +  6.0%  0.6410
+  45   23 18  Rot-Weiss Essen vs Jahn Regensburg  Home Win               1.63  +  6.0%  0.7212
+  46   23 14  CA Bizertin vs ES Hammam Sousse     Over 1.5 Goals         1.55  +  6.0%  0.6116
+  47   23 12  Veres Rivne vs Kolos Kovalivka      Over 1.5 Goals         1.34  +  5.9%  0.6116
+  48   23 14  Bnei Yehuda Tel Aviv FC vs MS Foot  Over 2.5 Goals         1.62  +  5.8%  0.6410
+  49   23 19  KV Kortrijk vs Yellow-Red KV Meche  BTTS Yes               1.65  +  5.7%  0.6112
+  50   23 18  Stade Lausanne Ouchy vs Neuchatel   Home Win               1.62  +  5.6%  0.7212
+
+======================================================================
+  Tournament breakdown:
+      4x  Ligue 1
+      3x  Eerste Divisie
+      3x  Premier Division
+      2x  U21 Premier League 2
+      2x  Cymru Championship South
+      2x  Cymru Premier
+      2x  Challenge League
+      2x  U21 Pro League
+      2x  National League
+      2x  Pro League
+      1x  National League, Women
+      1x  Super Lig
+      1x  Championship
+      1x  Vtora Liga
+      1x  Slovenia Cup
+      1x  Ettan
+      1x  Esiliiga
+      1x  2. Bundesliga
+      1x  Kategoria e Pare
+      1x  China League 2
+      1x  Liga 1
+      1x  Cymru Championship, North
+      1x  Superliga
+      1x  1. MFL
+      1x  V-League 1
+      1x  U21 Professional Development League
+      1x  FNL
+      1x  Superettan
+      1x  Regionalliga West
+      1x  Besta deild, Women
+      1x  LaLiga
+      1x  Steiermark, Landesliga
+      1x  Ligue 2
+      1x  1st deild
+      1x  3. Liga
+      1x  Premier League
+
+======================================================================

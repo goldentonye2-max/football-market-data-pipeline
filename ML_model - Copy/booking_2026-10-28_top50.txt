@@ -1,0 +1,80 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-28
+  Generated : 2026-10-28 12:30:18
+  Legs      : 40
+  Sorted by : edge
+  Combined odds : 757,038,276,774.68
+======================================================================
+
+  BOOKING CODE:  N5H6BF
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    28 20  Bayer Leverkusen vs 1 FC Nuremberg  Corners Over 6.5       6.50  + 68.4%  0.5615
+  2    28 18  Molde vs Stroemsgodset IF           Corners Over 6.5       6.40  + 68.2%  0.5615
+  3    28 21  Olympique Lyon W vs Inter Milano    Corners Over 6.5       5.60  + 66.0%  0.5615
+  4    28 20  Hannover 96 vs 1 FC Kaiserslautern  HT Away Win            3.40  + 25.8%  0.6617
+  5    28 20  Club Deportiva Minera vs FC Cartag  Over 4.5 Goals         7.25  + 25.5%  0.6327
+  6    28 15  National Bank of Egypt SC vs Al Ma  HT Draw                2.10  + 12.4%  0.5904
+  7    28 13  The Cong - Viettel FC vs FC Seoul   HT Away Win            2.00  + 10.0%  0.6617
+  8    28 13  FK Makedonija Gjorce Petrov vs FC   Over 4.5 Goals         3.40  +  9.9%  0.6327
+  9    28 19  Utebo FC vs CE Sabadell FC          Over 1.5 Goals         1.29  +  9.7%  0.6116
+  10   28 18  Zamalek SC vs Al Mokawloon Al Arab  HT Draw                1.98  +  9.5%  0.5904
+  11   28 18  Egersunds IK vs Bryne FK            BTTS Yes               1.40  +  8.6%  0.6112
+  12   28 13  FK Arsenal Tivat vs FK Bokelj Koto  HT Draw                1.94  +  8.5%  0.5904
+  13   28 16  Omonia Aradippou vs Digenis Akrita  Home Clean Sheet       1.88  +  7.5%  0.6485
+  14   28 13  FK Rabotnicki Skopje vs FK Kamenic  Home Win               1.22  +  7.5%  0.7212
+  15   28 18  Chelsea FC W vs AS Roma W           Over 4.5 Goals         2.35  +  7.4%  0.6327
+  16   28 18  Lillestroem SK vs Sogndal Fotball   Over 2.5 Goals         1.26  +  7.3%  0.6410
+  17   28 18  Rosenborg BK vs HamKam              Over 3.5 Goals         1.95  +  6.9%  0.6631
+  18   29 00  Inter Miami CF vs FC Cincinnati     BTTS Yes               1.36  +  6.5%  0.6112
+  19   28 16  Azam FC vs Mbeya City FC            Home Win               1.30  +  6.4%  0.7212
+  20   28 12  Hung Yen FC vs Huda Hue             Home Win               1.20  +  6.1%  0.7212
+  21   29 00  CD Once Caldas vs Alianza FC Valle  BTTS No                1.66  +  6.0%  0.6160
+  22   28 20  JOS Watergraafsmeer vs NAC Breda    Over 2.5 Goals         1.23  +  5.4%  0.6410
+  23   28 13  Brabrand IF vs AC Horsens           Away Win               1.45  +  5.4%  0.7237
+  24   28 11  FC Viktoria Plzen vs SK Dynamo Ces  HT Over 1.5            1.76  +  5.4%  0.6269
+  25   28 13  FK Proleter Dvorovi vs NK Celik Ze  Over 1.5 Goals         1.23  +  4.9%  0.6116
+  26   28 18  Grorud IL vs SK Brann               Away Clean Sheet       2.35  +  4.7%  0.6508
+  27   28 14  Mara Sugar FC vs Leopards SC        BTTS No                1.62  +  4.5%  0.6160
+  28   28 18  FC Dinamo Bucuresti 1948 vs AFC Ch  Home Clean Sheet       1.78  +  4.5%  0.6485
+  29   28 18  Sparta Prague vs FC Banik Ostrava   Home Clean Sheet       1.78  +  4.5%  0.6485
+  30   28 17  Esbjerg FB vs Nordsjaelland         Away Win               1.43  +  4.4%  0.7237
+  31   28 12  FC Belshina Bobruisk vs FC Dinamo   Over 1.5 Goals         1.22  +  4.2%  0.6116
+  32   28 20  CD Badajoz vs Tenerife CD           Away Clean Sheet       2.30  +  3.8%  0.6508
+  33   29 00  New England Revolution vs New York  HT Over 0.5            1.24  +  3.6%  0.6199
+  34   28 18  Odds BK vs Sandefjord Fotball       Draw                   3.70  +  3.5%  0.5993
+  35   28 20  MVV Maastricht vs Excelsior Rotter  Away Win               1.41  +  3.4%  0.7237
+  36   28 20  St Mirren FC vs Hibernian FC        Draw                   3.67  +  3.3%  0.5993
+  37   29 01  Minnesota United FC vs Sporting Ka  Over 3.5 Goals         1.83  +  3.2%  0.6631
+  38   28 12  1.SK Prostejov vs FC Hradec Kralov  HT Away Win            1.92  +  3.1%  0.6617
+  39   28 20  Carlisle United vs Harrogate Town   HT Over 0.5            1.28  +  3.1%  0.6199
+  40   28 18  Kristiansund BK vs Aalesunds FK     BTTS Yes               1.43  +  3.0%  0.6112
+
+======================================================================
+  Tournament breakdown:
+      7x  NM Cup
+      4x  Premier League
+      3x  Copa del Rey
+      3x  MLS
+      2x  DFB Pokal
+      2x  UEFA Champions League Women
+      2x  Macedonia Cup
+      2x  KNVB beker
+      2x  DBU Pokalen
+      2x  Czech Cup
+      1x  AFC Champions League Two
+      1x  1. CFL
+      1x  Cyprus Cup
+      1x  V-League 2
+      1x  Liga DIMAYOR
+      1x  U19 1. Liga
+      1x  Kup BiH
+      1x  Romania Cup
+      1x  Vysshaya Liga
+      1x  Premiership
+      1x  National League
+
+======================================================================

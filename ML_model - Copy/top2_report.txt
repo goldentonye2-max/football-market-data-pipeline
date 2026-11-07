@@ -1,0 +1,123 @@
+====================================================================================================
+  TOP-3 PER MARKET PER DAY vs RANDOM 3
+  Generated : 2026-11-03 00:46     Files: 41     Settled picks used: 19392
+  Pool rule : a market must have >= 4 picks that day. Odds filter: None - None
+====================================================================================================
+  Win% = top picks' win rate. Random% = win rate of random picks from the same days.
+  Gap = Win% - Random%. z/q: is the gap bigger than luck (q corrected for all rows).
+
+----------------------------------------------------------------------------------------------------
+  Market                   Score        Days  Picks   Win%   Rnd%    Gap     z     q     ROI  RndROI
+  ------------------------------------------------------------------------------------------------
+  away_clean_sheet         edge           35    105  22.9%  23.8%   -0.9  -0.3  0.94  -31.6%  -26.1%
+  away_clean_sheet         long_odds      35    105   8.7%  23.8%  -15.1  -4.4  1.00  -47.7%  -26.1%
+  away_clean_sheet         model_prob     35    105  37.0%  23.8%  +13.2   3.9  0.00   -4.0%  -26.1%
+  away_clean_sheet         short_odds     35    105  47.3%  23.8%  +23.5   6.9  0.00  +14.0%  -26.1%
+  away_win                 edge           39    117  52.8%  38.3%  +14.5   3.5  0.00   +0.6%   -5.7%
+  away_win                 long_odds      39    117  16.2%  38.3%  -22.0  -5.3  1.00   -6.2%   -5.7%
+  away_win                 model_prob     39    117  62.7%  38.3%  +24.4   5.8  0.00   -3.8%   -5.7%
+  away_win                 short_odds     39    117  65.5%  38.3%  +27.2   6.5  0.00   -3.9%   -5.7%
+  btts_no                  edge           36    108  36.1%  40.3%   -4.2  -1.0  1.00  -26.4%  -19.8%
+  btts_no                  long_odds      36    108  29.1%  40.3%  -11.2  -2.7  1.00  -29.4%  -19.8%
+  btts_no                  model_prob     36    108  45.3%  40.3%   +5.0   1.2  0.23  -21.1%  -19.8%
+  btts_no                  short_odds     36    108  48.9%  40.3%   +8.6   2.1  0.05  -17.2%  -19.8%
+  btts_yes                 edge           37    111  52.3%  56.2%   -4.0  -0.9  1.00  +20.2%   +3.5%
+  btts_yes                 long_odds      37    111  53.1%  56.2%   -3.1  -0.7  1.00  +34.8%   +3.5%
+  btts_yes                 model_prob     37    111  67.3%  56.2%  +11.1   2.6  0.02   +2.2%   +3.5%
+  btts_yes                 short_odds     37    111  67.0%  56.2%  +10.8   2.5  0.02   -0.1%   +3.5%
+  draw                     edge           31     93  10.3%  18.4%   -8.2  -2.6  1.00  -53.8%  -20.8%
+  draw                     long_odds      31     93  15.1%  18.4%   -3.4  -1.1  1.00  -22.4%  -20.8%
+  draw                     model_prob     31     93  18.8%  18.4%   +0.4   0.1  0.75  -26.8%  -20.8%
+  draw                     short_odds     31     93  22.6%  18.4%   +4.2   1.3  0.19  -13.4%  -20.8%
+  home_clean_sheet         edge           39    117  28.7%  27.5%   +1.2   0.3  0.65   -7.9%  -17.8%
+  home_clean_sheet         long_odds      39    117  16.4%  27.5%  -11.1  -3.1  1.00  -22.9%  -17.8%
+  home_clean_sheet         model_prob     39    117  38.5%  27.5%  +11.0   3.0  0.00  -17.1%  -17.8%
+  home_clean_sheet         short_odds     39    117  41.5%  27.5%  +14.0   3.9  0.00  -12.5%  -17.8%
+  home_win                 edge           39    117  50.6%  52.0%   -1.3  -0.3  0.95  -19.1%   -3.3%
+  home_win                 long_odds      39    117  21.8%  52.0%  -30.1  -7.0  1.00  -11.6%   -3.3%
+  home_win                 model_prob     39    117  75.3%  52.0%  +23.3   5.4  0.00   -0.8%   -3.3%
+  home_win                 short_odds     39    117  83.9%  52.0%  +31.9   7.4  0.00   +8.7%   -3.3%
+  ht_away_win              edge           39    117  38.5%  30.7%   +7.8   2.1  0.05  +20.2%   -2.4%
+  ht_away_win              long_odds      39    117  20.2%  30.7%  -10.5  -2.8  1.00   +4.1%   -2.4%
+  ht_away_win              model_prob     39    117  40.7%  30.7%  +10.1   2.7  0.01   +0.1%   -2.4%
+  ht_away_win              short_odds     39    117  42.4%  30.7%  +11.8   3.1  0.00   -9.1%   -2.4%
+  ht_draw                  edge           37    111  42.9%  41.2%   +1.7   0.4  0.65   -9.9%   -5.5%
+  ht_draw                  long_odds      37    111  33.3%  41.2%   -7.8  -1.8  1.00   -4.0%   -5.5%
+  ht_draw                  model_prob     37    111  50.8%  41.2%   +9.7   2.3  0.03   +0.8%   -5.5%
+  ht_draw                  short_odds     37    111  52.7%  41.2%  +11.5   2.7  0.01   +1.0%   -5.5%
+  ht_home_win              edge           35    105  31.1%  30.6%   +0.5   0.1  0.75  -25.8%  -12.8%
+  ht_home_win              long_odds      35    105  14.8%  30.6%  -15.7  -4.1  1.00  -26.8%  -12.8%
+  ht_home_win              model_prob     35    105  45.0%  30.6%  +14.5   3.7  0.00  -20.1%  -12.8%
+  ht_home_win              short_odds     35    105  44.9%  30.6%  +14.3   3.7  0.00  -20.9%  -12.8%
+  ht_over_0_5_goals        edge           37    111  55.6%  65.0%   -9.4  -2.4  1.00  -20.9%  -10.7%
+  ht_over_0_5_goals        long_odds      37    111  54.5%  65.0%  -10.5  -2.6  1.00  -19.6%  -10.7%
+  ht_over_0_5_goals        model_prob     37    111  65.3%  65.0%   +0.3   0.1  0.75  -14.2%  -10.7%
+  ht_over_0_5_goals        short_odds     37    111  70.0%  65.0%   +5.0   1.2  0.22   -8.9%  -10.7%
+  ht_over_1_5_goals        edge           39    117  43.1%  38.2%   +4.9   1.2  0.24   -0.0%  -12.9%
+  ht_over_1_5_goals        long_odds      39    117  24.7%  38.2%  -13.5  -3.2  1.00  -21.6%  -12.9%
+  ht_over_1_5_goals        model_prob     39    117  52.5%  38.2%  +14.2   3.4  0.00   -2.3%  -12.9%
+  ht_over_1_5_goals        short_odds     39    117  46.4%  38.2%   +8.2   1.9  0.06  -17.8%  -12.9%
+  over_1_5_goals           edge           37    111  65.3%  68.2%   -2.9  -0.7  1.00   -1.3%   -6.6%
+  over_1_5_goals           long_odds      37    111  58.6%  68.2%   -9.6  -2.3  1.00   -5.8%   -6.6%
+  over_1_5_goals           model_prob     37    111  79.8%  68.2%  +11.6   2.8  0.01   +1.1%   -6.6%
+  over_1_5_goals           short_odds     37    111  81.7%  68.2%  +13.5   3.3  0.00   +0.7%   -6.6%
+  over_2_5_goals           edge           39    117  47.5%  54.7%   -7.2  -1.6  1.00  -13.8%   -5.6%
+  over_2_5_goals           long_odds      39    117  33.7%  54.7%  -21.0  -4.8  1.00  -10.4%   -5.6%
+  over_2_5_goals           model_prob     39    117  66.2%  54.7%  +11.5   2.6  0.01  -12.6%   -5.6%
+  over_2_5_goals           short_odds     39    117  69.9%  54.7%  +15.2   3.5  0.00   -9.0%   -5.6%
+  over_3_5_goals           edge           39    117  34.3%  33.9%   +0.4   0.1  0.75   +6.2%   -8.0%
+  over_3_5_goals           long_odds      39    117  23.0%  33.9%  -10.9  -2.6  1.00  -10.4%   -8.0%
+  over_3_5_goals           model_prob     39    117  50.4%  33.9%  +16.5   3.9  0.00  -12.3%   -8.0%
+  over_3_5_goals           short_odds     39    117  50.1%  33.9%  +16.2   3.9  0.00  -13.7%   -8.0%
+  over_4_5_goals           edge           36    108  19.4%  18.3%   +1.1   0.4  0.65   -3.6%  -19.6%
+  over_4_5_goals           long_odds      36    108  13.9%  18.3%   -4.5  -1.4  1.00  -14.0%  -19.6%
+  over_4_5_goals           model_prob     36    108  24.3%  18.3%   +6.0   1.9  0.06  -17.6%  -19.6%
+  over_4_5_goals           short_odds     36    108  23.1%  18.3%   +4.8   1.5  0.14  -25.9%  -19.6%
+
+====================================================================================================
+  ALL MARKETS TOGETHER, by score (the cleanest test: one number per score)
+====================================================================================================
+  Score         Picks   Win%   Rnd%    Gap     z     ROI  RndROI
+  model_prob     1782  51.8%  40.1%  +11.6  11.7   -9.0%  -10.6%
+  edge           1782  39.9%  40.1%   -0.2  -0.2   -9.6%  -10.6%
+  short_odds     1782  54.1%  40.1%  +14.0  14.0   -7.9%  -10.6%
+  long_odds      1782  27.4%  40.1%  -12.7 -12.7  -13.0%  -10.6%
+
+====================================================================================================
+  VERDICT
+====================================================================================================
+  28 market/score combination(s) beat random after correction:
+    away_clean_sheet ranked by model_prob: 37.0% vs 23.8% random (gap +13.2, 105 picks)
+    away_clean_sheet ranked by short_odds: 47.3% vs 23.8% random (gap +23.5, 105 picks)
+    away_win ranked by model_prob: 62.7% vs 38.3% random (gap +24.4, 117 picks)
+    away_win ranked by edge: 52.8% vs 38.3% random (gap +14.5, 117 picks)
+    away_win ranked by short_odds: 65.5% vs 38.3% random (gap +27.2, 117 picks)
+    btts_no ranked by short_odds: 48.9% vs 40.3% random (gap +8.6, 108 picks)
+    btts_yes ranked by model_prob: 67.3% vs 56.2% random (gap +11.1, 111 picks)
+    btts_yes ranked by short_odds: 67.0% vs 56.2% random (gap +10.8, 111 picks)
+    home_clean_sheet ranked by model_prob: 38.5% vs 27.5% random (gap +11.0, 117 picks)
+    home_clean_sheet ranked by short_odds: 41.5% vs 27.5% random (gap +14.0, 117 picks)
+    home_win ranked by model_prob: 75.3% vs 52.0% random (gap +23.3, 117 picks)
+    home_win ranked by short_odds: 83.9% vs 52.0% random (gap +31.9, 117 picks)
+    ht_away_win ranked by model_prob: 40.7% vs 30.7% random (gap +10.1, 117 picks)
+    ht_away_win ranked by edge: 38.5% vs 30.7% random (gap +7.8, 117 picks)
+    ht_away_win ranked by short_odds: 42.4% vs 30.7% random (gap +11.8, 117 picks)
+    ht_draw ranked by model_prob: 50.8% vs 41.2% random (gap +9.7, 111 picks)
+    ht_draw ranked by short_odds: 52.7% vs 41.2% random (gap +11.5, 111 picks)
+    ht_home_win ranked by model_prob: 45.0% vs 30.6% random (gap +14.5, 105 picks)
+    ht_home_win ranked by short_odds: 44.9% vs 30.6% random (gap +14.3, 105 picks)
+    ht_over_1_5_goals ranked by model_prob: 52.5% vs 38.2% random (gap +14.2, 117 picks)
+    ht_over_1_5_goals ranked by short_odds: 46.4% vs 38.2% random (gap +8.2, 117 picks)
+    over_1_5_goals ranked by model_prob: 79.8% vs 68.2% random (gap +11.6, 111 picks)
+    over_1_5_goals ranked by short_odds: 81.7% vs 68.2% random (gap +13.5, 111 picks)
+    over_2_5_goals ranked by model_prob: 66.2% vs 54.7% random (gap +11.5, 117 picks)
+    over_2_5_goals ranked by short_odds: 69.9% vs 54.7% random (gap +15.2, 117 picks)
+    over_3_5_goals ranked by model_prob: 50.4% vs 33.9% random (gap +16.5, 117 picks)
+    over_3_5_goals ranked by short_odds: 50.1% vs 33.9% random (gap +16.2, 117 picks)
+    over_4_5_goals ranked by model_prob: 24.3% vs 18.3% random (gap +6.0, 108 picks)
+  Next step: confirm on days AFTER these (they were found on this same data).
+  Detection limit: a typical row has about 111 picks, so a gap needs to be about 8 points or more to stand out from luck.
+  Smaller real advantages cannot be confirmed with this many days.
+
+  Not gradable from the saved scores (skipped): over_6_5_corners
+====================================================================================================

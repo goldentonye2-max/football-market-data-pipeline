@@ -1,0 +1,24 @@
+========================================================================================================
+  TOP 2 PER MARKET  |  ranked by short_odds  |  source all_picks_2026-10-29.csv
+  Generated 2026-10-29 22:03
+========================================================================================================
+  -> 113 picks in all_picks_2026-10-29.csv
+  -> 42 after market filter: Over 1.5, Over 2.5, Away Win
+  -> 10 picks = top 2 per market by short_odds (5 markets)
+
+  Market                # Pool  Match                                 Odds Model%  Edge%  KO
+  ----------------------------------------------------------------------------------------------------
+  Away Win              1   11  De Treffers Groesbeek vs Heracles A   1.51   74.3   +8.1  29 20
+                        2   11  CD Laredo vs Burgos CF                1.53   74.3   +9.0  29 20
+  HT Away Win           1    4  CD Laredo vs Burgos CF                2.00   54.0   +4.0  29 20
+                        2    4  Fiorentina vs Atalanta                3.40   55.2  +25.8  29 20
+  HT Over 1.5           1    8  Rkav Volendam vs Rohda Raalte         1.89   58.9   +6.0  29 20
+                        2    8  FC Groningen vs FC Emmen              2.00   58.9   +8.9  29 21
+  Over 1.5 Goals        1    8  CD Varea vs FC Andorra                1.23   86.2   +4.9  29 20
+                        2    8  Los Chankas CYC vs Cusco FC           1.24   84.3   +3.7  29 19
+  Over 2.5 Goals        1   11  GVVV Veenendaal vs VV Noordwijk       1.51   71.9   +5.6  29 20
+                        2   11  Hoek vs VV Sparta Nijkerk             1.56   67.6   +3.5  29 20
+
+  10 picks. Combined odds if booked as one slip: 213.4
+  Pool = how many picks that market had to choose from. Pool 2 with top 2 means no choice was made.
+========================================================================================================

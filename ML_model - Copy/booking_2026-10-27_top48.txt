@@ -1,0 +1,88 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-27
+  Generated : 2026-10-27 16:11:35
+  Legs      : 43
+  Sorted by : edge
+  Combined odds : 568,550,406,069.12
+======================================================================
+
+  BOOKING CODE:  VNNMKK
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    27 15  US Biskra vs MC Alger               Over 1.5 Goals         1.61  + 24.1%  0.6116
+  2    27 18  Rot-Weiss Essen vs RB Leipzig       BTTS No                1.95  + 15.4%  0.6160
+  3    27 21  CD Tudelano vs Real Zaragoza        Over 1.5 Goals         1.36  + 12.7%  0.6116
+  4    27 21  Fleetwood Town vs Arsenal           Over 2.5 Goals         1.34  + 12.0%  0.6410
+  5    27 16  AFC Progresul 1944 Spartac vs FC P  Over 4.5 Goals         2.60  + 11.5%  0.6327
+  6    27 20  Calcio Padova vs FC Sudtirol Bolza  HT Draw                2.05  + 11.2%  0.5904
+  7    27 20  Roma vs Cagliari                    BTTS No                1.81  + 10.9%  0.6160
+  8    27 22  Academia Puerto Cabello vs Caracas  BTTS No                1.79  + 10.3%  0.6160
+  9    27 02  Mount Pleasant FC vs Montego Bay U  HT Draw                2.00  + 10.0%  0.5904
+  10   27 18  FC Hertha Wels vs Wolfsberger AC    HT Away Win            2.20  +  8.5%  0.6617
+  11   27 20  Blackpool FC vs Aston Villa U21     HT Over 1.5            1.83  +  7.6%  0.6269
+  12   27 20  UD Llanera vs SD Ponferradina       Draw                   4.30  +  7.2%  0.5993
+  13   27 18  Excelsior ´31 vs ADO Den Haag       Over 2.5 Goals         1.33  +  7.0%  0.6410
+  14   27 20  Wealdstone FC vs Solihull Moors FC  HT Home Win            2.45  +  6.6%  0.6512
+  15   27 11  Johor Darul Tazim FC vs Port FC     Over 4.5 Goals         3.00  +  6.0%  0.6327
+  16   27 14  NK Dekani vs NK Brezice 1919        Home Clean Sheet       2.50  +  5.9%  0.6485
+  17   27 14  Bristol City U21 vs Millwall U21    HT Over 1.5            1.77  +  5.8%  0.6269
+  18   27 20  SDA Tordesillas vs CD Mirandes      Away Clean Sheet       2.40  +  5.6%  0.6508
+  19   27 18  GNK Dinamo Zagreb vs HNK Rijeka     Over 1.5 Goals         1.22  +  5.2%  0.6116
+  20   27 20  Dorking Wanderers vs Hemel Hempste  Over 4.5 Goals         3.70  +  5.2%  0.6327
+  21   27 20  Colchester United U21 vs Queens Pa  HT Over 1.5            1.75  +  5.1%  0.6269
+  22   27 20  Cologne vs Union Berlin             Draw                   3.91  +  4.9%  0.5993
+  23   27 16  Al-Wehda FC vs AL Saqer FC          HT Home Win            1.88  +  4.9%  0.6512
+  24   27 18  Hamburger SV vs Eintracht Frankfur  BTTS Yes               1.47  +  4.9%  0.6112
+  25   27 18  CD Cuarte vs Girona                 HT Away Win            1.50  +  4.8%  0.6617
+  26   27 18  First Vienna FC 1894 vs SK Rapid    Away Clean Sheet       2.35  +  4.7%  0.6508
+  27   27 20  SV 07 Elversberg vs Darmstadt       HT Home Win            1.87  +  4.6%  0.6512
+  28   27 17  FCI Levadia Tallinn vs Tartu JK Ta  Over 2.5 Goals         1.29  +  4.6%  0.6410
+  29   27 21  Sporting vs Maritimo Madeira        Home Win               1.35  +  4.4%  0.7212
+  30   27 13  Ratchaburi FC vs Kashiwa Reysol     Away Win               1.43  +  4.4%  0.7237
+  31   27 23  Libertad Asuncion vs Independiente  Home Win               1.35  +  4.4%  0.7212
+  32   27 20  Roda JC Kerkrade vs De Graafschap   Draw                   3.80  +  4.2%  0.5993
+  33   27 19  UD Castellonense vs Almeria         HT Away Win            2.00  +  4.0%  0.6617
+  34   27 19  Slavia Prague vs FC Zbrojovka Brno  Home Win               1.34  +  3.9%  0.7212
+  35   27 20  FK Sloboda Tuzla vs FK Zeljeznicar  Away Clean Sheet       2.30  +  3.8%  0.6508
+  36   27 17  LKP Motor Lublin vs Rakow Czestoch  HT Over 0.5            1.29  +  3.7%  0.6199
+  37   27 20  Ross County FC vs Hamilton Academi  HT Over 0.5            1.29  +  3.7%  0.6199
+  38   27 20  FC Eindhoven vs FC Volendam         BTTS Yes               1.44  +  3.5%  0.6112
+  39   27 19  Al-Shamal vs Al Hilal SFC           Away Win               1.41  +  3.4%  0.7237
+  40   28 00  Deportivo Tachira vs Monagas SC     Home Clean Sheet       2.35  +  3.4%  0.6485
+  41   27 20  Billericay Town vs Hampton & Richm  BTTS Yes               1.58  +  3.1%  0.6112
+  42   27 11  Shanghai Port FC vs Cong An Ha Noi  HT Over 0.5            1.28  +  3.1%  0.6199
+  43   27 20  CD Ciudad de Lucena vs CF Rayo Maj  HT Draw                2.25  +  3.1%  0.5904
+
+======================================================================
+  Tournament breakdown:
+      6x  Copa del Rey
+      4x  DFB Pokal
+      4x  AFC Champions League Elite
+      3x  KNVB beker
+      2x  Primera Division
+      2x  OFB Cup
+      2x  U21 Professional Development League
+      2x  National League South
+      1x  Ligue 1
+      1x  EFL Cup
+      1x  Romania Cup
+      1x  Serie B
+      1x  Serie A
+      1x  Premier League
+      1x  EFL Trophy
+      1x  National League
+      1x  2. Liga
+      1x  HNL
+      1x  Division 1
+      1x  Premium Liiga
+      1x  League Cup
+      1x  Copa Paraguay
+      1x  Czech Cup
+      1x  Kup BiH
+      1x  Puchar Polski
+      1x  League 1
+
+======================================================================

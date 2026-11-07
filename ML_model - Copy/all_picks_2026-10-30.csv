@@ -1,0 +1,392 @@
+event_id,home_team,away_team,match,tournament,kickoff,target,pick,model_prob_%,implied_prob_%,edge_%,decimal_odds,model_auc,has_odds_match,hit_rate_%
+sr:match:73215820,Abha Club,Al-Ittihad Club,Abha Club vs Al-Ittihad Club,Saudi Pro League,2026-10-30 13:30,target__away_clean_sheet,Away Clean Sheet,47.3,40.8,6.5,2.45,0.6508,True,23.0
+sr:match:75834448,Real Kashmir,Nagaland United SC,Real Kashmir vs Nagaland United SC,IFL,2026-10-30 14:00,target__away_clean_sheet,Away Clean Sheet,21.8,18.5,3.3,5.4,0.6508,True,23.0
+sr:match:71998260,FC CSKA 1948,FK Spartak 1918 Varna,FC CSKA 1948 vs FK Spartak 1918 Varna,Parva Liga,2026-10-30 16:00,target__away_clean_sheet,Away Clean Sheet,21.8,17.9,3.9,5.6,0.6508,True,23.0
+sr:match:72305288,FK Pohronie Ziar Nad Hronom Dolna Zdana,Slovan Bratislava B,FK Pohronie Ziar Nad Hronom Dolna Zdana vs Slovan Bratislava B,2. Liga,2026-10-30 17:00,target__away_clean_sheet,Away Clean Sheet,31.4,23.3,8.2,4.3,0.6508,True,23.0
+sr:match:72440740,Austria Salzburg,SKU Amstetten,Austria Salzburg vs SKU Amstetten,2. Liga,2026-10-30 18:30,target__away_clean_sheet,Away Clean Sheet,47.3,32.3,15.0,3.1,0.6508,True,23.0
+sr:match:73258852,Marumo Gallants FC,Siwelele FC,Marumo Gallants FC vs Siwelele FC,Premiership,2026-10-30 18:30,target__away_clean_sheet,Away Clean Sheet,47.3,38.5,8.8,2.6,0.6508,True,23.0
+sr:match:73463708,El Qanah FC,Al Sharqiya Enppi,El Qanah FC vs Al Sharqiya Enppi,Premier League,2026-10-30 19:00,target__away_clean_sheet,Away Clean Sheet,47.3,35.7,11.6,2.8,0.6508,True,23.0
+sr:match:72499112,HIK Hellerup,Nykoebing FC,HIK Hellerup vs Nykoebing FC,2nd Division,2026-10-30 19:00,target__away_clean_sheet,Away Clean Sheet,47.3,41.7,5.6,2.4,0.6508,True,23.0
+sr:match:72415086,FC Pisek,SK Aritma Prague,FC Pisek vs SK Aritma Prague,CFL,2026-10-30 19:00,target__away_clean_sheet,Away Clean Sheet,21.8,18.5,3.3,5.4,0.6508,True,23.0
+sr:match:73743162,West Ham U21,Sheffield United U21,West Ham U21 vs Sheffield United U21,Premier League Cup,2026-10-30 20:00,target__away_clean_sheet,Away Clean Sheet,21.8,16.9,4.8,5.9,0.6508,True,23.0
+sr:match:73831486,RFC Seraing,Jeugd Royal Francs Borains ,RFC Seraing vs Jeugd Royal Francs Borains ,U21 Pro League,2026-10-30 20:00,target__away_clean_sheet,Away Clean Sheet,21.8,16.4,5.4,6.1,0.6508,True,23.0
+sr:match:73831494,RAAL La Louviere,Jeugd Lierse Kempenzonen,RAAL La Louviere vs Jeugd Lierse Kempenzonen,U21 Pro League,2026-10-30 20:30,target__away_clean_sheet,Away Clean Sheet,21.8,16.7,5.1,6.0,0.6508,True,23.0
+sr:match:72366414,SV Zulte Waregem,Club Brugge,SV Zulte Waregem vs Club Brugge,Pro League,2026-10-30 20:45,target__away_clean_sheet,Away Clean Sheet,47.3,38.5,8.8,2.6,0.6508,True,23.0
+sr:match:72522148,Colwyn Bay,Cambrian United,Colwyn Bay vs Cambrian United,Cymru Premier,2026-10-30 20:45,target__away_clean_sheet,Away Clean Sheet,21.8,16.9,4.8,5.9,0.6508,True,23.0
+sr:match:74827312,Broadmeadow Magic FC,Adelaide City FC,Broadmeadow Magic FC vs Adelaide City FC,Australian Championship,2026-10-30 09:30,target__away_win,Away Win,50.0,45.5,4.5,2.2,0.7237,True,32.7
+sr:match:73550136,Tanjong Pagar United FC,Albirex Niigata Singapore FC,Tanjong Pagar United FC vs Albirex Niigata Singapore FC,Premier League,2026-10-30 12:30,target__away_win,Away Win,74.3,69.4,4.9,1.44,0.7237,True,32.7
+sr:match:75028996,Sardarapat FC,FC Van Charentsavan,Sardarapat FC vs FC Van Charentsavan,Premier League,2026-10-30 12:30,target__away_win,Away Win,42.4,31.2,11.2,3.2,0.7237,True,32.7
+sr:match:73215820,Abha Club,Al-Ittihad Club,Abha Club vs Al-Ittihad Club,Saudi Pro League,2026-10-30 13:30,target__away_win,Away Win,74.3,65.8,8.5,1.52,0.7237,True,32.7
+sr:match:75834448,Real Kashmir,Nagaland United SC,Real Kashmir vs Nagaland United SC,IFL,2026-10-30 14:00,target__away_win,Away Win,24.1,20.4,3.7,4.9,0.7237,True,32.7
+sr:match:72284178,Hapoel Acre FC,Hapoel Rishon Lezion FC,Hapoel Acre FC vs Hapoel Rishon Lezion FC,National League,2026-10-30 14:00,target__away_win,Away Win,74.3,66.7,7.7,1.5,0.7237,True,32.7
+sr:match:72284168,Maccabi Achi Nazareth FC,FC Kafr Qasim,Maccabi Achi Nazareth FC vs FC Kafr Qasim,National League,2026-10-30 14:00,target__away_win,Away Win,50.0,41.7,8.3,2.4,0.7237,True,32.7
+sr:match:74726274,Nassaji Mazandaran FC,Persepolis FC,Nassaji Mazandaran FC vs Persepolis FC,Pro League,2026-10-30 14:00,target__away_win,Away Win,74.3,68.5,5.8,1.46,0.7237,True,32.7
+sr:match:68380626,Xorazm Fk Urganch,Pakhtakor,Xorazm Fk Urganch vs Pakhtakor,Superliga,2026-10-30 14:30,target__away_win,Away Win,74.3,62.9,11.4,1.59,0.7237,True,32.7
+sr:match:75949090,AL Karma,Duhok FC,AL Karma vs Duhok FC,Stars League,2026-10-30 15:00,target__away_win,Away Win,23.6,20.4,3.2,4.9,0.7237,True,32.7
+sr:match:75913800,Al Shahaniya,Al Ahli Doha SC,Al Shahaniya vs Al Ahli Doha SC,Stars League,2026-10-30 15:15,target__away_win,Away Win,74.3,48.8,25.6,2.05,0.7237,True,32.7
+sr:match:73215836,Diriyah Club,Neom SC,Diriyah Club vs Neom SC,Saudi Pro League,2026-10-30 15:50,target__away_win,Away Win,42.4,39.2,3.2,2.55,0.7237,True,32.7
+sr:match:72224114,FK Ekranas,FK Tauras Taurage,FK Ekranas vs FK Tauras Taurage,1 Lyga,2026-10-30 16:00,target__away_win,Away Win,74.3,66.2,8.1,1.51,0.7237,True,32.7
+sr:match:73374550,Al Sadd SC,Al-Shamal,Al Sadd SC vs Al-Shamal,Stars League,2026-10-30 17:30,target__away_win,Away Win,24.1,19.0,5.0,5.25,0.7237,True,32.7
+sr:match:72723296,Konyaspor,Galatasaray Istanbul,Konyaspor vs Galatasaray Istanbul,Super Lig,2026-10-30 18:00,target__away_win,Away Win,74.3,62.9,11.4,1.59,0.7237,True,32.7
+sr:match:72587362,MFK Karvina,SK Slavia Prague B,MFK Karvina vs SK Slavia Prague B,FNL,2026-10-30 18:00,target__away_win,Away Win,24.1,17.4,6.7,5.75,0.7237,True,32.7
+sr:match:73160450,Karmiotissa FC,Olympiakos Nicosia,Karmiotissa FC vs Olympiakos Nicosia,1st Division,2026-10-30 18:00,target__away_win,Away Win,50.0,45.5,4.5,2.2,0.7237,True,32.7
+sr:match:72517362,MKS Podlasie Biala Podlaska,Moravia Morawica,MKS Podlasie Biala Podlaska vs Moravia Morawica,"III Liga, Group 4",2026-10-30 18:00,target__away_win,Away Win,23.6,19.6,4.0,5.1,0.7237,True,32.7
+sr:match:72513954,Arminia Bielefeld,Eintracht Braunschweig,Arminia Bielefeld vs Eintracht Braunschweig,2. Bundesliga,2026-10-30 18:30,target__away_win,Away Win,29.5,25.0,4.5,4.0,0.7237,True,32.7
+sr:match:72513958,Energie Cottbus,Bochum,Energie Cottbus vs Bochum,2. Bundesliga,2026-10-30 18:30,target__away_win,Away Win,56.2,42.6,13.6,2.35,0.7237,True,32.7
+sr:match:67015434,Bodoe/Glimt,Viking FK,Bodoe/Glimt vs Viking FK,Eliteserien,2026-10-30 19:00,target__away_win,Away Win,30.6,21.6,9.0,4.63,0.7237,True,32.7
+sr:match:72176620,FC Rapperswil-Jona,FC Stade Nyonnais,FC Rapperswil-Jona vs FC Stade Nyonnais,Challenge League,2026-10-30 19:30,target__away_win,Away Win,23.6,18.2,5.4,5.5,0.7237,True,32.7
+sr:match:72560420,SC Oberpullendorf,SV Leithaprodersdorf,SC Oberpullendorf vs SV Leithaprodersdorf,Burgenlandliga,2026-10-30 19:30,target__away_win,Away Win,74.3,66.7,7.7,1.5,0.7237,True,32.7
+sr:match:72302184,Jeugd KAA Gent B,Koninklijke Lierse Sportkring,Jeugd KAA Gent B vs Koninklijke Lierse Sportkring,Challenger Pro League,2026-10-30 20:00,target__away_win,Away Win,42.4,38.5,4.0,2.6,0.7237,True,32.7
+sr:match:72302194,RFC Seraing,RFC Liege,RFC Seraing vs RFC Liege,Challenger Pro League,2026-10-30 20:00,target__away_win,Away Win,42.4,35.7,6.7,2.8,0.7237,True,32.7
+sr:match:73685076,Coventry City U21,Ipswich Town U21,Coventry City U21 vs Ipswich Town U21,Premier League Cup,2026-10-30 20:00,target__away_win,Away Win,56.2,48.8,7.4,2.05,0.7237,True,32.7
+sr:match:72513290,SV 07 Elversberg,Mainz,SV 07 Elversberg vs Mainz,Bundesliga,2026-10-30 20:30,target__away_win,Away Win,50.0,44.4,5.6,2.25,0.7237,True,32.7
+sr:match:72230840,Pogon Grodzisk Mazowiecki,FKS Stal Mielec,Pogon Grodzisk Mazowiecki vs FKS Stal Mielec,1. Liga,2026-10-30 20:30,target__away_win,Away Win,37.9,32.3,5.7,3.1,0.7237,True,32.7
+sr:match:73294050,Reggiana 1919,US Sambenedettese,Reggiana 1919 vs US Sambenedettese,"Serie C, Group B",2026-10-30 20:30,target__away_win,Away Win,23.6,17.9,5.7,5.6,0.7237,True,32.7
+sr:match:73831494,RAAL La Louviere,Jeugd Lierse Kempenzonen,RAAL La Louviere vs Jeugd Lierse Kempenzonen,U21 Pro League,2026-10-30 20:30,target__away_win,Away Win,29.5,26.3,3.2,3.8,0.7237,True,32.7
+sr:match:72366414,SV Zulte Waregem,Club Brugge,SV Zulte Waregem vs Club Brugge,Pro League,2026-10-30 20:45,target__away_win,Away Win,74.3,66.2,8.1,1.51,0.7237,True,32.7
+sr:match:72740766,AFC Fylde,AFC Hornchurch,AFC Fylde vs AFC Hornchurch,National League,2026-10-30 20:45,target__away_win,Away Win,29.5,24.4,5.1,4.1,0.7237,True,32.7
+sr:match:72522138,Airbus UK Broughton,Caernarfon Town FC,Airbus UK Broughton vs Caernarfon Town FC,Cymru Premier,2026-10-30 20:45,target__away_win,Away Win,56.2,47.6,8.5,2.1,0.7237,True,32.7
+sr:match:72522148,Colwyn Bay,Cambrian United,Colwyn Bay vs Cambrian United,Cymru Premier,2026-10-30 20:45,target__away_win,Away Win,23.6,16.9,6.6,5.9,0.7237,True,32.7
+sr:match:72522150,Flint Town United,Holywell Town,Flint Town United vs Holywell Town,Cymru Premier,2026-10-30 20:45,target__away_win,Away Win,23.6,16.7,6.9,6.0,0.7237,True,32.7
+sr:match:66854242,Sligo Rovers FC,Derry City FC,Sligo Rovers FC vs Derry City FC,Premier Division,2026-10-30 20:45,target__away_win,Away Win,74.3,64.5,9.8,1.55,0.7237,True,32.7
+sr:match:73068162,UD Ibiza,CE Europa,UD Ibiza vs CE Europa,Primera Federacion,2026-10-30 21:00,target__away_win,Away Win,23.6,18.5,5.1,5.4,0.7237,True,32.7
+sr:match:73062418,Brunei DPMM FC,Negeri Sembilan,Brunei DPMM FC vs Negeri Sembilan,Super League,2026-10-30 09:00,target__btts_no,BTTS No,50.2,43.5,6.7,2.3,0.616,True,46.5
+sr:match:73550136,Tanjong Pagar United FC,Albirex Niigata Singapore FC,Tanjong Pagar United FC vs Albirex Niigata Singapore FC,Premier League,2026-10-30 12:30,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72466602,PFC Rilski Sportist Samokov,PFC Vihren Sandanski,PFC Rilski Sportist Samokov vs PFC Vihren Sandanski,Vtora Liga,2026-10-30 13:15,target__btts_no,BTTS No,59.2,52.4,6.9,1.91,0.616,True,46.5
+sr:match:73215820,Abha Club,Al-Ittihad Club,Abha Club vs Al-Ittihad Club,Saudi Pro League,2026-10-30 13:30,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:68380626,Xorazm Fk Urganch,Pakhtakor,Xorazm Fk Urganch vs Pakhtakor,Superliga,2026-10-30 14:30,target__btts_no,BTTS No,59.2,55.6,3.7,1.8,0.616,True,46.5
+sr:match:73463704,Asyut Petroleum,El Gouna FC,Asyut Petroleum vs El Gouna FC,Premier League,2026-10-30 16:00,target__btts_no,BTTS No,71.1,62.5,8.6,1.6,0.616,True,46.5
+sr:match:72305290,MFK Tatran Liptovsky Mikulas,MSK Zilina B,MFK Tatran Liptovsky Mikulas vs MSK Zilina B,2. Liga,2026-10-30 16:00,target__btts_no,BTTS No,50.2,45.5,4.7,2.2,0.616,True,46.5
+sr:match:72517362,MKS Podlasie Biala Podlaska,Moravia Morawica,MKS Podlasie Biala Podlaska vs Moravia Morawica,"III Liga, Group 4",2026-10-30 18:00,target__btts_no,BTTS No,59.2,50.0,9.2,2.0,0.616,True,46.5
+sr:match:71998256,FC Lokomotiv 1929 Sofia,Botev Plovdiv,FC Lokomotiv 1929 Sofia vs Botev Plovdiv,Parva Liga,2026-10-30 18:30,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72440740,Austria Salzburg,SKU Amstetten,Austria Salzburg vs SKU Amstetten,2. Liga,2026-10-30 18:30,target__btts_no,BTTS No,50.2,44.4,5.7,2.25,0.616,True,46.5
+sr:match:73258852,Marumo Gallants FC,Siwelele FC,Marumo Gallants FC vs Siwelele FC,Premiership,2026-10-30 18:30,target__btts_no,BTTS No,66.2,61.0,5.2,1.64,0.616,True,46.5
+sr:match:72036256,Le Havre,PSG,Le Havre vs PSG,Ligue 1,2026-10-30 19:00,target__btts_no,BTTS No,66.2,47.6,18.6,2.1,0.616,True,46.5
+sr:match:68311936,BK Olympic,Hassleholms IF,BK Olympic vs Hassleholms IF,Ettan,2026-10-30 19:00,target__btts_no,BTTS No,44.4,39.2,5.2,2.55,0.616,True,46.5
+sr:match:72548122,SV Wals-Grunau,Sedda Bad Schallerbach,SV Wals-Grunau vs Sedda Bad Schallerbach,Regionalliga Nord,2026-10-30 19:00,target__btts_no,BTTS No,50.2,43.5,6.7,2.3,0.616,True,46.5
+sr:match:72548550,Deutschlandsberger SC,SV Lafnitz,Deutschlandsberger SC vs SV Lafnitz,Regionalliga Sud,2026-10-30 19:00,target__btts_no,BTTS No,50.2,45.5,4.7,2.2,0.616,True,46.5
+sr:match:72548554,SV Allerheiligen,FC Gleisdorf 09,SV Allerheiligen vs FC Gleisdorf 09,Regionalliga Sud,2026-10-30 19:00,target__btts_no,BTTS No,59.2,48.8,10.4,2.05,0.616,True,46.5
+sr:match:72548450,VST Voelkermarkt,SVG Bleiburg,VST Voelkermarkt vs SVG Bleiburg,Regionalliga Sud,2026-10-30 19:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72676124,SV Schwechat,FAC Wien Amateure,SV Schwechat vs FAC Wien Amateure,Wiener Stadtliga,2026-10-30 19:00,target__btts_no,BTTS No,50.2,40.8,9.4,2.45,0.616,True,46.5
+sr:match:72388066,Rapid Bucuresti 1923,AFK Csikszereda Miercurea Ciuc,Rapid Bucuresti 1923 vs AFK Csikszereda Miercurea Ciuc,Superliga,2026-10-30 19:30,target__btts_no,BTTS No,62.7,57.1,5.6,1.75,0.616,True,46.5
+sr:match:72398782,Sandecja Nowy Sacz,Olimpia Grudziadz,Sandecja Nowy Sacz vs Olimpia Grudziadz,II Liga,2026-10-30 19:30,target__btts_no,BTTS No,50.2,45.5,4.7,2.2,0.616,True,46.5
+sr:match:72037418,Grenoble Foot,Dijon,Grenoble Foot vs Dijon,Ligue 2,2026-10-30 20:00,target__btts_no,BTTS No,58.5,50.8,7.7,1.97,0.616,True,46.5
+sr:match:72037426,Nantes,Clermont Foot,Nantes vs Clermont Foot,Ligue 2,2026-10-30 20:00,target__btts_no,BTTS No,61.8,57.5,4.3,1.74,0.616,True,46.5
+sr:match:72548114,SV Seekirchen,Su Vortuna Bad Leonfelden,SV Seekirchen vs Su Vortuna Bad Leonfelden,Regionalliga Nord,2026-10-30 20:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72522138,Airbus UK Broughton,Caernarfon Town FC,Airbus UK Broughton vs Caernarfon Town FC,Cymru Premier,2026-10-30 20:45,target__btts_no,BTTS No,44.9,41.7,3.2,2.4,0.616,True,46.5
+sr:match:72522144,Briton Ferry,Llandudno FC,Briton Ferry vs Llandudno FC,Cymru Premier,2026-10-30 20:45,target__btts_no,BTTS No,50.2,44.4,5.7,2.25,0.616,True,46.5
+sr:match:72478684,Villarreal,Espanyol,Villarreal vs Espanyol,LaLiga,2026-10-30 21:00,target__btts_no,BTTS No,50.2,46.5,3.7,2.15,0.616,True,46.5
+sr:match:72530988,Casa Pia Lisbon,Sporting,Casa Pia Lisbon vs Sporting,Liga Portugal,2026-10-30 21:15,target__btts_no,BTTS No,62.7,55.6,7.2,1.8,0.616,True,46.5
+sr:match:74090476,Dong A Thanh Hoa,Hong Linh Ha Tinh FC,Dong A Thanh Hoa vs Hong Linh Ha Tinh FC,V-League 1,2026-10-30 11:00,target__btts_yes,BTTS Yes,60.1,56.5,3.6,1.77,0.6112,True,53.5
+sr:match:76195092,Sheger Ketema,Negelle Arsi,Sheger Ketema vs Negelle Arsi,Premier League,2026-10-30 13:00,target__btts_yes,BTTS Yes,49.0,42.6,6.4,2.35,0.6112,True,53.5
+sr:match:75834448,Real Kashmir,Nagaland United SC,Real Kashmir vs Nagaland United SC,IFL,2026-10-30 14:00,target__btts_yes,BTTS Yes,66.3,62.9,3.5,1.59,0.6112,True,53.5
+sr:match:75806602,CR Vasco da Gama RJ,Madureira EC RJ,CR Vasco da Gama RJ vs Madureira EC RJ,"U20 Carioca, Serie A",2026-10-30 14:00,target__btts_yes,BTTS Yes,60.1,56.2,3.9,1.78,0.6112,True,53.5
+sr:match:74726282,Foolad Khuzestan FC,Aluminium Arak,Foolad Khuzestan FC vs Aluminium Arak,Pro League,2026-10-30 15:30,target__btts_yes,BTTS Yes,49.0,40.8,8.2,2.45,0.6112,True,53.5
+sr:match:71998260,FC CSKA 1948,FK Spartak 1918 Varna,FC CSKA 1948 vs FK Spartak 1918 Varna,Parva Liga,2026-10-30 16:00,target__btts_yes,BTTS Yes,60.1,52.4,7.8,1.91,0.6112,True,53.5
+sr:match:69592680,CSKA Moscow,ZFK Krasnodar,CSKA Moscow vs ZFK Krasnodar,"Superleague, Women",2026-10-30 16:00,target__btts_yes,BTTS Yes,50.8,33.3,17.4,3.0,0.6112,True,53.5
+sr:match:72300858,FC Vlasim,FK Usti nad Labem,FC Vlasim vs FK Usti nad Labem,FNL,2026-10-30 17:00,target__btts_yes,BTTS Yes,73.0,67.6,5.4,1.48,0.6112,True,53.5
+sr:match:72513954,Arminia Bielefeld,Eintracht Braunschweig,Arminia Bielefeld vs Eintracht Braunschweig,2. Bundesliga,2026-10-30 18:30,target__btts_yes,BTTS Yes,66.3,62.9,3.5,1.59,0.6112,True,53.5
+sr:match:73463706,Al Ittihad Al Sakandary,Talaea El Gaish,Al Ittihad Al Sakandary vs Talaea El Gaish,Premier League,2026-10-30 19:00,target__btts_yes,BTTS Yes,49.1,42.6,6.5,2.35,0.6112,True,53.5
+sr:match:72044384,Aalborg BK,Hobro IK,Aalborg BK vs Hobro IK,1. Division,2026-10-30 19:00,target__btts_yes,BTTS Yes,66.3,61.3,5.0,1.63,0.6112,True,53.5
+sr:match:72500796,FC Helsingoer,Ringsted IF,FC Helsingoer vs Ringsted IF,3rd Division,2026-10-30 19:00,target__btts_yes,BTTS Yes,66.3,63.3,3.1,1.58,0.6112,True,53.5
+sr:match:75806606,CR Flamengo RJ,Sampaio Correa FE RJ,CR Flamengo RJ vs Sampaio Correa FE RJ,"U20 Carioca, Serie A",2026-10-30 19:00,target__btts_yes,BTTS Yes,60.1,45.5,14.7,2.2,0.6112,True,53.5
+sr:match:72037424,Metz,Pau FC,Metz vs Pau FC,Ligue 2,2026-10-30 20:00,target__btts_yes,BTTS Yes,66.3,61.7,4.6,1.62,0.6112,True,53.5
+sr:match:72513290,SV 07 Elversberg,Mainz,SV 07 Elversberg vs Mainz,Bundesliga,2026-10-30 20:30,target__btts_yes,BTTS Yes,73.0,69.0,4.0,1.45,0.6112,True,53.5
+sr:match:73293294,US Albinoleffe,US Pergolettese Crema,US Albinoleffe vs US Pergolettese Crema,"Serie C, Group A",2026-10-30 20:30,target__btts_yes,BTTS Yes,60.1,53.8,6.4,1.86,0.6112,True,53.5
+sr:match:73294050,Reggiana 1919,US Sambenedettese,Reggiana 1919 vs US Sambenedettese,"Serie C, Group B",2026-10-30 20:30,target__btts_yes,BTTS Yes,60.1,53.8,6.4,1.86,0.6112,True,53.5
+sr:match:72522140,Ammanford,Haverfordwest County AFC,Ammanford vs Haverfordwest County AFC,Cymru Premier,2026-10-30 20:45,target__btts_yes,BTTS Yes,60.1,46.5,13.6,2.15,0.6112,True,53.5
+sr:match:72036258,Lille,Lens,Lille vs Lens,Ligue 1,2026-10-30 21:05,target__btts_yes,BTTS Yes,66.3,60.6,5.7,1.65,0.6112,True,53.5
+sr:match:73265490,CA Huracan,CA Tigre,CA Huracan vs CA Tigre,Primera LPF,2026-10-30 23:00,target__btts_yes,BTTS Yes,48.3,43.5,4.8,2.3,0.6112,True,53.5
+sr:match:73215820,Abha Club,Al-Ittihad Club,Abha Club vs Al-Ittihad Club,Saudi Pro League,2026-10-30 13:30,target__draw,Draw,24.4,21.3,3.1,4.7,0.5993,True,22.8
+sr:match:72466588,FC Pirin Blagoevgrad,SFC Etar Veliko Tarnovo,FC Pirin Blagoevgrad vs SFC Etar Veliko Tarnovo,Vtora Liga,2026-10-30 16:30,target__draw,Draw,30.5,27.0,3.5,3.7,0.5993,True,22.8
+sr:match:72036266,Nice,Rennes,Nice vs Rennes,Ligue 1,2026-10-30 19:00,target__draw,Draw,30.5,26.1,4.4,3.83,0.5993,True,22.8
+sr:match:72548446,SV Donau Klagenfurt,SK Treibach,SV Donau Klagenfurt vs SK Treibach,Regionalliga Sud,2026-10-30 19:00,target__draw,Draw,30.5,26.3,4.2,3.8,0.5993,True,22.8
+sr:match:72546136,Caerphilly Athletic FC,Caerau Ely FC,Caerphilly Athletic FC vs Caerau Ely FC,Cymru Championship South,2026-10-30 20:45,target__draw,Draw,30.5,25.6,4.9,3.9,0.5993,True,22.8
+sr:match:74827312,Broadmeadow Magic FC,Adelaide City FC,Broadmeadow Magic FC vs Adelaide City FC,Australian Championship,2026-10-30 09:30,target__home_clean_sheet,Home Clean Sheet,30.0,24.4,5.6,4.1,0.6485,True,30.0
+sr:match:74090488,Hanoi FC,Ninh Binh FC,Hanoi FC vs Ninh Binh FC,V-League 1,2026-10-30 13:15,target__home_clean_sheet,Home Clean Sheet,30.9,27.8,3.1,3.6,0.6485,True,30.0
+sr:match:73409310,Turan Tovuz,Sabah Masazir,Turan Tovuz vs Sabah Masazir,Premier League,2026-10-30 15:30,target__home_clean_sheet,Home Clean Sheet,30.9,26.7,4.2,3.75,0.6485,True,30.0
+sr:match:72305290,MFK Tatran Liptovsky Mikulas,MSK Zilina B,MFK Tatran Liptovsky Mikulas vs MSK Zilina B,2. Liga,2026-10-30 16:00,target__home_clean_sheet,Home Clean Sheet,45.9,37.7,8.2,2.65,0.6485,True,30.0
+sr:match:75913802,Al Gharafa SC,Qatar SC,Al Gharafa SC vs Qatar SC,Stars League,2026-10-30 17:30,target__home_clean_sheet,Home Clean Sheet,30.9,26.3,4.6,3.8,0.6485,True,30.0
+sr:match:75049080,JS Kabylie,Js El Biar,JS Kabylie vs Js El Biar,Ligue 1,2026-10-30 17:45,target__home_clean_sheet,Home Clean Sheet,60.7,55.6,5.2,1.8,0.6485,True,30.0
+sr:match:73160450,Karmiotissa FC,Olympiakos Nicosia,Karmiotissa FC vs Olympiakos Nicosia,1st Division,2026-10-30 18:00,target__home_clean_sheet,Home Clean Sheet,30.9,27.0,3.8,3.7,0.6485,True,30.0
+sr:match:73080386,Vendee Poire-Sur-Vie Football,Les Herbiers,Vendee Poire-Sur-Vie Football vs Les Herbiers,National 1,2026-10-30 18:00,target__home_clean_sheet,Home Clean Sheet,45.9,40.8,5.1,2.45,0.6485,True,30.0
+sr:match:71998256,FC Lokomotiv 1929 Sofia,Botev Plovdiv,FC Lokomotiv 1929 Sofia vs Botev Plovdiv,Parva Liga,2026-10-30 18:30,target__home_clean_sheet,Home Clean Sheet,30.9,27.0,3.8,3.7,0.6485,True,30.0
+sr:match:72440740,Austria Salzburg,SKU Amstetten,Austria Salzburg vs SKU Amstetten,2. Liga,2026-10-30 18:30,target__home_clean_sheet,Home Clean Sheet,30.9,24.4,6.5,4.1,0.6485,True,30.0
+sr:match:72440734,SKN St Polten,FC Hertha Wels,SKN St Polten vs FC Hertha Wels,2. Liga,2026-10-30 18:30,target__home_clean_sheet,Home Clean Sheet,45.9,36.4,9.6,2.75,0.6485,True,30.0
+sr:match:72517364,Star Starachowice,Pogon Sokol Lubaczow,Star Starachowice vs Pogon Sokol Lubaczow,"III Liga, Group 4",2026-10-30 18:30,target__home_clean_sheet,Home Clean Sheet,45.9,31.2,14.7,3.2,0.6485,True,30.0
+sr:match:73258852,Marumo Gallants FC,Siwelele FC,Marumo Gallants FC vs Siwelele FC,Premiership,2026-10-30 18:30,target__home_clean_sheet,Home Clean Sheet,45.9,40.8,5.1,2.45,0.6485,True,30.0
+sr:match:72415086,FC Pisek,SK Aritma Prague,FC Pisek vs SK Aritma Prague,CFL,2026-10-30 19:00,target__home_clean_sheet,Home Clean Sheet,47.1,43.5,3.6,2.3,0.6485,True,30.0
+sr:match:72548122,SV Wals-Grunau,Sedda Bad Schallerbach,SV Wals-Grunau vs Sedda Bad Schallerbach,Regionalliga Nord,2026-10-30 19:00,target__home_clean_sheet,Home Clean Sheet,45.9,31.2,14.7,3.2,0.6485,True,30.0
+sr:match:72548552,Fsc Eggendorf Hartberg II,SC Kalsdorf,Fsc Eggendorf Hartberg II vs SC Kalsdorf,Regionalliga Sud,2026-10-30 19:00,target__home_clean_sheet,Home Clean Sheet,22.9,19.2,3.6,5.2,0.6485,True,30.0
+sr:match:72548554,SV Allerheiligen,FC Gleisdorf 09,SV Allerheiligen vs FC Gleisdorf 09,Regionalliga Sud,2026-10-30 19:00,target__home_clean_sheet,Home Clean Sheet,45.9,36.4,9.6,2.75,0.6485,True,30.0
+sr:match:72548450,VST Voelkermarkt,SVG Bleiburg,VST Voelkermarkt vs SVG Bleiburg,Regionalliga Sud,2026-10-30 19:00,target__home_clean_sheet,Home Clean Sheet,45.9,39.2,6.7,2.55,0.6485,True,30.0
+sr:match:72676124,SV Schwechat,FAC Wien Amateure,SV Schwechat vs FAC Wien Amateure,Wiener Stadtliga,2026-10-30 19:00,target__home_clean_sheet,Home Clean Sheet,30.9,22.7,8.1,4.4,0.6485,True,30.0
+sr:match:72345564,Grazer AK 1902,TSV Hartberg,Grazer AK 1902 vs TSV Hartberg,Bundesliga,2026-10-30 19:30,target__home_clean_sheet,Home Clean Sheet,45.9,35.1,10.9,2.85,0.6485,True,30.0
+sr:match:72037422,Stade Lavallois MFC,US Boulogne,Stade Lavallois MFC vs US Boulogne,Ligue 2,2026-10-30 20:00,target__home_clean_sheet,Home Clean Sheet,45.4,35.7,9.7,2.8,0.6485,True,30.0
+sr:match:72176626,Etoile Carouge FC,SC Kriens,Etoile Carouge FC vs SC Kriens,Challenge League,2026-10-30 20:15,target__home_clean_sheet,Home Clean Sheet,30.9,27.8,3.1,3.6,0.6485,True,30.0
+sr:match:72522142,Barry Town United FC,Trefelin BGC,Barry Town United FC vs Trefelin BGC,Cymru Premier,2026-10-30 20:45,target__home_clean_sheet,Home Clean Sheet,47.1,43.5,3.6,2.3,0.6485,True,30.0
+sr:match:72522148,Colwyn Bay,Cambrian United,Colwyn Bay vs Cambrian United,Cymru Premier,2026-10-30 20:45,target__home_clean_sheet,Home Clean Sheet,45.9,42.6,3.4,2.35,0.6485,True,30.0
+sr:match:72522150,Flint Town United,Holywell Town,Flint Town United vs Holywell Town,Cymru Premier,2026-10-30 20:45,target__home_clean_sheet,Home Clean Sheet,45.9,40.0,5.9,2.5,0.6485,True,30.0
+sr:match:72346392,Larne FC,Portadown FC,Larne FC vs Portadown FC,Premiership,2026-10-30 20:45,target__home_clean_sheet,Home Clean Sheet,60.7,56.2,4.5,1.78,0.6485,True,30.0
+sr:match:72546136,Caerphilly Athletic FC,Caerau Ely FC,Caerphilly Athletic FC vs Caerau Ely FC,Cymru Championship South,2026-10-30 20:45,target__home_clean_sheet,Home Clean Sheet,30.9,21.1,9.8,4.75,0.6485,True,30.0
+sr:match:72575872,FC Banik Ostrava,Karvina,FC Banik Ostrava vs Karvina,U19 1. Liga,2026-10-30 10:00,target__home_win,Home Win,89.5,71.9,17.5,1.39,0.7212,True,44.5
+sr:match:74401662,Hapoel Beit Shean Mesilot,MS Tira,Hapoel Beit Shean Mesilot vs MS Tira,Liga Alef,2026-10-30 11:25,target__home_win,Home Win,34.4,31.2,3.1,3.2,0.7212,True,44.5
+sr:match:74402066,Hapoel Mahane Yehuda,Hapoel Hadera FC,Hapoel Mahane Yehuda vs Hapoel Hadera FC,Liga Alef,2026-10-30 11:35,target__home_win,Home Win,28.1,22.7,5.4,4.4,0.7212,True,44.5
+sr:match:73576686,Persebaya Surabaya,Persijap Jepara,Persebaya Surabaya vs Persijap Jepara,Super League,2026-10-30 13:00,target__home_win,Home Win,89.5,80.0,9.5,1.25,0.7212,True,44.5
+sr:match:76195092,Sheger Ketema,Negelle Arsi,Sheger Ketema vs Negelle Arsi,Premier League,2026-10-30 13:00,target__home_win,Home Win,34.4,31.2,3.1,3.2,0.7212,True,44.5
+sr:match:73296476,Kowloon City,Hong Kong Rangers,Kowloon City vs Hong Kong Rangers,Premier League,2026-10-30 13:00,target__home_win,Home Win,47.3,43.5,3.8,2.3,0.7212,True,44.5
+sr:match:68380626,Xorazm Fk Urganch,Pakhtakor,Xorazm Fk Urganch vs Pakhtakor,Superliga,2026-10-30 14:30,target__home_win,Home Win,25.0,20.4,4.6,4.9,0.7212,True,44.5
+sr:match:74726278,Kheybar Khorramabad FC,Sepahan SC,Kheybar Khorramabad FC vs Sepahan SC,Pro League,2026-10-30 15:00,target__home_win,Home Win,28.1,21.7,6.4,4.6,0.7212,True,44.5
+sr:match:75949092,Karbalaa,AL Talaba,Karbalaa vs AL Talaba,Stars League,2026-10-30 15:45,target__home_win,Home Win,33.3,26.3,7.0,3.8,0.7212,True,44.5
+sr:match:73463704,Asyut Petroleum,El Gouna FC,Asyut Petroleum vs El Gouna FC,Premier League,2026-10-30 16:00,target__home_win,Home Win,34.4,30.8,3.6,3.25,0.7212,True,44.5
+sr:match:71998260,FC CSKA 1948,FK Spartak 1918 Varna,FC CSKA 1948 vs FK Spartak 1918 Varna,Parva Liga,2026-10-30 16:00,target__home_win,Home Win,78.5,70.9,7.6,1.41,0.7212,True,44.5
+sr:match:75913802,Al Gharafa SC,Qatar SC,Al Gharafa SC vs Qatar SC,Stars League,2026-10-30 17:30,target__home_win,Home Win,67.3,51.8,15.5,1.93,0.7212,True,44.5
+sr:match:73374550,Al Sadd SC,Al-Shamal,Al Sadd SC vs Al-Shamal,Stars League,2026-10-30 17:30,target__home_win,Home Win,83.3,67.6,15.8,1.48,0.7212,True,44.5
+sr:match:75178848,Al Wehdat,AL Arabi,Al Wehdat vs AL Arabi,Jordan League,2026-10-30 17:30,target__home_win,Home Win,78.5,68.0,10.5,1.47,0.7212,True,44.5
+sr:match:75049080,JS Kabylie,Js El Biar,JS Kabylie vs Js El Biar,Ligue 1,2026-10-30 17:45,target__home_win,Home Win,78.5,68.0,10.5,1.47,0.7212,True,44.5
+sr:match:72587362,MFK Karvina,SK Slavia Prague B,MFK Karvina vs SK Slavia Prague B,FNL,2026-10-30 18:00,target__home_win,Home Win,78.5,69.9,8.6,1.43,0.7212,True,44.5
+sr:match:72517942,SK Rapid Wien,FC Sudburgenland,SK Rapid Wien vs FC Sudburgenland,"Bundesliga, Women",2026-10-30 18:00,target__home_win,Home Win,83.3,71.4,11.9,1.4,0.7212,True,44.5
+sr:match:72578386,FC Nizhny Novgorod,PFK Arsenal Tula,FC Nizhny Novgorod vs PFK Arsenal Tula,1. Liga,2026-10-30 18:15,target__home_win,Home Win,78.5,68.5,10.0,1.46,0.7212,True,44.5
+sr:match:72440734,SKN St Polten,FC Hertha Wels,SKN St Polten vs FC Hertha Wels,2. Liga,2026-10-30 18:30,target__home_win,Home Win,67.3,58.5,8.9,1.71,0.7212,True,44.5
+sr:match:72517364,Star Starachowice,Pogon Sokol Lubaczow,Star Starachowice vs Pogon Sokol Lubaczow,"III Liga, Group 4",2026-10-30 18:30,target__home_win,Home Win,54.7,51.0,3.7,1.96,0.7212,True,44.5
+sr:match:72499116,Skive IK,Vsk Aarhus,Skive IK vs Vsk Aarhus,2nd Division,2026-10-30 19:00,target__home_win,Home Win,47.3,42.6,4.7,2.35,0.7212,True,44.5
+sr:match:72500796,FC Helsingoer,Ringsted IF,FC Helsingoer vs Ringsted IF,3rd Division,2026-10-30 19:00,target__home_win,Home Win,78.5,70.9,7.6,1.41,0.7212,True,44.5
+sr:match:72415086,FC Pisek,SK Aritma Prague,FC Pisek vs SK Aritma Prague,CFL,2026-10-30 19:00,target__home_win,Home Win,78.5,68.0,10.5,1.47,0.7212,True,44.5
+sr:match:72573120,USV Gnas,SV Pachern,USV Gnas vs SV Pachern,"Steiermark, Landesliga",2026-10-30 19:00,target__home_win,Home Win,78.5,67.1,11.4,1.49,0.7212,True,44.5
+sr:match:72388066,Rapid Bucuresti 1923,AFK Csikszereda Miercurea Ciuc,Rapid Bucuresti 1923 vs AFK Csikszereda Miercurea Ciuc,Superliga,2026-10-30 19:30,target__home_win,Home Win,83.3,78.1,5.2,1.28,0.7212,True,44.5
+sr:match:72176620,FC Rapperswil-Jona,FC Stade Nyonnais,FC Rapperswil-Jona vs FC Stade Nyonnais,Challenge League,2026-10-30 19:30,target__home_win,Home Win,78.5,68.0,10.5,1.47,0.7212,True,44.5
+sr:match:72176628,Stade Lausanne Ouchy,Yverdon-Sport,Stade Lausanne Ouchy vs Yverdon-Sport,Challenge League,2026-10-30 19:30,target__home_win,Home Win,47.3,40.8,6.5,2.45,0.7212,True,44.5
+sr:match:72037426,Nantes,Clermont Foot,Nantes vs Clermont Foot,Ligue 2,2026-10-30 20:00,target__home_win,Home Win,78.5,67.6,11.0,1.48,0.7212,True,44.5
+sr:match:72044772,FC Volendam,De Graafschap,FC Volendam vs De Graafschap,Eerste Divisie,2026-10-30 20:00,target__home_win,Home Win,67.3,50.0,17.3,2.0,0.7212,True,44.5
+sr:match:72044778,RKC Waalwijk,Almere City FC,RKC Waalwijk vs Almere City FC,Eerste Divisie,2026-10-30 20:00,target__home_win,Home Win,54.7,46.5,8.2,2.15,0.7212,True,44.5
+sr:match:73684974,Newcastle United U21,Peterborough United U21,Newcastle United U21 vs Peterborough United U21,Premier League Cup,2026-10-30 20:00,target__home_win,Home Win,83.3,69.9,13.4,1.43,0.7212,True,44.5
+sr:match:73831490,K Beerschot VA,KV RS Waasland Beveren,K Beerschot VA vs KV RS Waasland Beveren,U21 Pro League,2026-10-30 20:00,target__home_win,Home Win,34.4,29.4,5.0,3.4,0.7212,True,44.5
+sr:match:72546138,Pontypridd Town,Llanelli Town,Pontypridd Town vs Llanelli Town,Cymru Championship South,2026-10-30 20:30,target__home_win,Home Win,89.5,84.7,4.7,1.18,0.7212,True,44.5
+sr:match:72740766,AFC Fylde,AFC Hornchurch,AFC Fylde vs AFC Hornchurch,National League,2026-10-30 20:45,target__home_win,Home Win,67.3,57.8,9.5,1.73,0.7212,True,44.5
+sr:match:72522142,Barry Town United FC,Trefelin BGC,Barry Town United FC vs Trefelin BGC,Cymru Premier,2026-10-30 20:45,target__home_win,Home Win,78.5,70.4,8.1,1.42,0.7212,True,44.5
+sr:match:72522150,Flint Town United,Holywell Town,Flint Town United vs Holywell Town,Cymru Premier,2026-10-30 20:45,target__home_win,Home Win,78.5,69.4,9.1,1.44,0.7212,True,44.5
+sr:match:66854240,Shelbourne FC,Waterford FC,Shelbourne FC vs Waterford FC,Premier Division,2026-10-30 20:45,target__home_win,Home Win,54.7,50.8,3.9,1.97,0.7212,True,44.5
+sr:match:72346390,Coleraine FC,Glentoran FC,Coleraine FC vs Glentoran FC,Premiership,2026-10-30 20:45,target__home_win,Home Win,67.3,59.9,7.5,1.67,0.7212,True,44.5
+sr:match:72478684,Villarreal,Espanyol,Villarreal vs Espanyol,LaLiga,2026-10-30 21:00,target__home_win,Home Win,78.5,69.0,9.6,1.45,0.7212,True,44.5
+sr:match:67682080,Coquimbo Unido,Deportes Union La Calera,Coquimbo Unido vs Deportes Union La Calera,Primera Division,2026-10-30 23:00,target__home_win,Home Win,67.3,61.7,5.6,1.62,0.7212,True,44.5
+sr:match:75449058,Real Potosi,Independiente Petrolero,Real Potosi vs Independiente Petrolero,Division Profesional,2026-10-30 23:00,target__home_win,Home Win,78.5,72.5,6.1,1.38,0.7212,True,44.5
+sr:match:72514846,Jagiellonia II Bialystok,MKS Polonia Lidzbark Warminski,Jagiellonia II Bialystok vs MKS Polonia Lidzbark Warminski,"III Liga, Group 1",2026-10-30 13:00,target__ht_away_win,HT Away Win,33.7,25.6,8.1,3.9,0.6617,True,26.6
+sr:match:74726276,Malavan Bandar Anzali FC,Chador Malu Yazd,Malavan Bandar Anzali FC vs Chador Malu Yazd,Pro League,2026-10-30 14:15,target__ht_away_win,HT Away Win,42.4,27.0,15.4,3.7,0.6617,True,26.6
+sr:match:75913800,Al Shahaniya,Al Ahli Doha SC,Al Shahaniya vs Al Ahli Doha SC,Stars League,2026-10-30 15:15,target__ht_away_win,HT Away Win,54.0,40.0,14.0,2.5,0.6617,True,26.6
+sr:match:72043292,KS Cracovia Krakow,LKP Motor Lublin,KS Cracovia Krakow vs LKP Motor Lublin,Ekstraklasa,2026-10-30 18:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:74079750,Tarxien Rainbows FC,Victoria Hotspurs FC,Tarxien Rainbows FC vs Victoria Hotspurs FC,Challenge League,2026-10-30 18:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:72036266,Nice,Rennes,Nice vs Rennes,Ligue 1,2026-10-30 19:00,target__ht_away_win,HT Away Win,42.4,33.9,8.5,2.95,0.6617,True,26.6
+sr:match:71925076,Lyngby BK,Randers FC,Lyngby BK vs Randers FC,Superliga,2026-10-30 19:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:72809340,TSV Steinbach Haiger,FSV Frankfurt 1899,TSV Steinbach Haiger vs FSV Frankfurt 1899,Regionalliga Southwest,2026-10-30 19:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:72548552,Fsc Eggendorf Hartberg II,SC Kalsdorf,Fsc Eggendorf Hartberg II vs SC Kalsdorf,Regionalliga Sud,2026-10-30 19:00,target__ht_away_win,HT Away Win,54.0,47.6,6.3,2.1,0.6617,True,26.6
+sr:match:72176620,FC Rapperswil-Jona,FC Stade Nyonnais,FC Rapperswil-Jona vs FC Stade Nyonnais,Challenge League,2026-10-30 19:30,target__ht_away_win,HT Away Win,22.6,19.0,3.6,5.25,0.6617,True,26.6
+sr:match:72176628,Stade Lausanne Ouchy,Yverdon-Sport,Stade Lausanne Ouchy vs Yverdon-Sport,Challenge League,2026-10-30 19:30,target__ht_away_win,HT Away Win,54.0,32.3,21.7,3.1,0.6617,True,26.6
+sr:match:72044772,FC Volendam,De Graafschap,FC Volendam vs De Graafschap,Eerste Divisie,2026-10-30 20:00,target__ht_away_win,HT Away Win,33.7,29.4,4.3,3.4,0.6617,True,26.6
+sr:match:73743162,West Ham U21,Sheffield United U21,West Ham U21 vs Sheffield United U21,Premier League Cup,2026-10-30 20:00,target__ht_away_win,HT Away Win,54.0,28.6,25.4,3.5,0.6617,True,26.6
+sr:match:72513290,SV 07 Elversberg,Mainz,SV 07 Elversberg vs Mainz,Bundesliga,2026-10-30 20:30,target__ht_away_win,HT Away Win,42.4,37.7,4.7,2.65,0.6617,True,26.6
+sr:match:72522150,Flint Town United,Holywell Town,Flint Town United vs Holywell Town,Cymru Premier,2026-10-30 20:45,target__ht_away_win,HT Away Win,33.7,17.9,15.9,5.6,0.6617,True,26.6
+sr:match:66854242,Sligo Rovers FC,Derry City FC,Sligo Rovers FC vs Derry City FC,Premier Division,2026-10-30 20:45,target__ht_away_win,HT Away Win,54.0,48.8,5.2,2.05,0.6617,True,26.6
+sr:match:72339972,Sheffield United,Wrexham AFC,Sheffield United vs Wrexham AFC,Championship,2026-10-30 21:00,target__ht_away_win,HT Away Win,33.7,28.6,5.2,3.5,0.6617,True,26.6
+sr:match:72036258,Lille,Lens,Lille vs Lens,Ligue 1,2026-10-30 21:05,target__ht_away_win,HT Away Win,54.0,30.3,23.7,3.3,0.6617,True,26.6
+sr:match:74827312,Broadmeadow Magic FC,Adelaide City FC,Broadmeadow Magic FC vs Adelaide City FC,Australian Championship,2026-10-30 09:30,target__ht_draw,HT Draw,47.6,42.6,5.0,2.35,0.5904,True,39.0
+sr:match:74827336,Sydney Olympic FC,Marconi Stallions,Sydney Olympic FC vs Marconi Stallions,Australian Championship,2026-10-30 09:30,target__ht_draw,HT Draw,45.6,41.7,4.0,2.4,0.5904,True,39.0
+sr:match:74090476,Dong A Thanh Hoa,Hong Linh Ha Tinh FC,Dong A Thanh Hoa vs Hong Linh Ha Tinh FC,V-League 1,2026-10-30 11:00,target__ht_draw,HT Draw,60.0,48.8,11.2,2.05,0.5904,True,39.0
+sr:match:72575882,SFC Opava,Sigma Olomouc,SFC Opava vs Sigma Olomouc,U19 1. Liga,2026-10-30 11:00,target__ht_draw,HT Draw,45.6,38.5,7.2,2.6,0.5904,True,39.0
+sr:match:74726272,Zob Ahan Isfahan FC,Esteghlal Khuzestan FC,Zob Ahan Isfahan FC vs Esteghlal Khuzestan FC,Pro League,2026-10-30 13:00,target__ht_draw,HT Draw,60.0,54.6,5.4,1.83,0.5904,True,39.0
+sr:match:73215820,Abha Club,Al-Ittihad Club,Abha Club vs Al-Ittihad Club,Saudi Pro League,2026-10-30 13:30,target__ht_draw,HT Draw,47.6,37.7,9.8,2.65,0.5904,True,39.0
+sr:match:71998260,FC CSKA 1948,FK Spartak 1918 Varna,FC CSKA 1948 vs FK Spartak 1918 Varna,Parva Liga,2026-10-30 16:00,target__ht_draw,HT Draw,47.6,40.0,7.6,2.5,0.5904,True,39.0
+sr:match:72466588,FC Pirin Blagoevgrad,SFC Etar Veliko Tarnovo,FC Pirin Blagoevgrad vs SFC Etar Veliko Tarnovo,Vtora Liga,2026-10-30 16:30,target__ht_draw,HT Draw,45.6,42.6,3.1,2.35,0.5904,True,39.0
+sr:match:75049076,ASO Chlef,ES Setif,ASO Chlef vs ES Setif,Ligue 1,2026-10-30 17:45,target__ht_draw,HT Draw,60.0,54.9,5.1,1.82,0.5904,True,39.0
+sr:match:75049080,JS Kabylie,Js El Biar,JS Kabylie vs Js El Biar,Ligue 1,2026-10-30 17:45,target__ht_draw,HT Draw,47.6,43.5,4.1,2.3,0.5904,True,39.0
+sr:match:72224112,FK Kauno Zalgiris B,FC Neptunas Klaipeda,FK Kauno Zalgiris B vs FC Neptunas Klaipeda,1 Lyga,2026-10-30 18:00,target__ht_draw,HT Draw,47.6,42.6,5.0,2.35,0.5904,True,39.0
+sr:match:72513954,Arminia Bielefeld,Eintracht Braunschweig,Arminia Bielefeld vs Eintracht Braunschweig,2. Bundesliga,2026-10-30 18:30,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:73258852,Marumo Gallants FC,Siwelele FC,Marumo Gallants FC vs Siwelele FC,Premiership,2026-10-30 18:30,target__ht_draw,HT Draw,60.0,52.6,7.4,1.9,0.5904,True,39.0
+sr:match:73463706,Al Ittihad Al Sakandary,Talaea El Gaish,Al Ittihad Al Sakandary vs Talaea El Gaish,Premier League,2026-10-30 19:00,target__ht_draw,HT Draw,60.0,54.6,5.4,1.83,0.5904,True,39.0
+sr:match:73463708,El Qanah FC,Al Sharqiya Enppi,El Qanah FC vs Al Sharqiya Enppi,Premier League,2026-10-30 19:00,target__ht_draw,HT Draw,60.0,50.8,9.2,1.97,0.5904,True,39.0
+sr:match:73215832,Al-Shabab FC (SA),Al Ahli Saudi FC,Al-Shabab FC (SA) vs Al Ahli Saudi FC,Saudi Pro League,2026-10-30 19:00,target__ht_draw,HT Draw,47.6,39.2,8.4,2.55,0.5904,True,39.0
+sr:match:72548444,ATSV Wolfsberg,SK Austria Klagenfurt,ATSV Wolfsberg vs SK Austria Klagenfurt,Regionalliga Sud,2026-10-30 19:00,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:72676124,SV Schwechat,FAC Wien Amateure,SV Schwechat vs FAC Wien Amateure,Wiener Stadtliga,2026-10-30 19:00,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:72037426,Nantes,Clermont Foot,Nantes vs Clermont Foot,Ligue 2,2026-10-30 20:00,target__ht_draw,HT Draw,47.6,41.7,5.9,2.4,0.5904,True,39.0
+sr:match:72037432,Rodez Aveyron Football,USL Dunkerque,Rodez Aveyron Football vs USL Dunkerque,Ligue 2,2026-10-30 20:00,target__ht_draw,HT Draw,45.6,40.8,4.8,2.45,0.5904,True,39.0
+sr:match:73684974,Newcastle United U21,Peterborough United U21,Newcastle United U21 vs Peterborough United U21,Premier League Cup,2026-10-30 20:00,target__ht_draw,HT Draw,37.7,34.5,3.2,2.9,0.5904,True,39.0
+sr:match:72342344,Newport County,Chesterfield FC,Newport County vs Chesterfield FC,League Two,2026-10-30 20:45,target__ht_draw,HT Draw,47.6,44.4,3.1,2.25,0.5904,True,39.0
+sr:match:72546136,Caerphilly Athletic FC,Caerau Ely FC,Caerphilly Athletic FC vs Caerau Ely FC,Cymru Championship South,2026-10-30 20:45,target__ht_draw,HT Draw,47.6,40.8,6.8,2.45,0.5904,True,39.0
+sr:match:67682074,Colo-Colo,Universidad de Concepcion,Colo-Colo vs Universidad de Concepcion,Primera Division,2026-10-30 23:00,target__ht_draw,HT Draw,39.4,34.5,4.9,2.9,0.5904,True,39.0
+sr:match:72575878,1 FC Slovacko,FC Pardubice,1 FC Slovacko vs FC Pardubice,U19 1. Liga,2026-10-30 12:00,target__ht_home_win,HT Home Win,47.4,43.5,3.9,2.3,0.6512,True,34.4
+sr:match:74444398,Sisaket United FC,Ratchaburi FC,Sisaket United FC vs Ratchaburi FC,Thai League 1,2026-10-30 13:00,target__ht_home_win,HT Home Win,29.5,24.4,5.1,4.1,0.6512,True,34.4
+sr:match:73296476,Kowloon City,Hong Kong Rangers,Kowloon City vs Hong Kong Rangers,Premier League,2026-10-30 13:00,target__ht_home_win,HT Home Win,39.1,35.7,3.4,2.8,0.6512,True,34.4
+sr:match:72284170,Hapoel Afula FC,Maccabi Ironi Kiryat Gat,Hapoel Afula FC vs Maccabi Ironi Kiryat Gat,National League,2026-10-30 14:00,target__ht_home_win,HT Home Win,39.1,35.1,4.0,2.85,0.6512,True,34.4
+sr:match:73961696,Kataka FC,Uganda Police FC,Kataka FC vs Uganda Police FC,Premier League,2026-10-30 14:00,target__ht_home_win,HT Home Win,24.6,21.3,3.3,4.7,0.6512,True,34.4
+sr:match:75178846,Ramtha SC,Al Baqaa,Ramtha SC vs Al Baqaa,Jordan League,2026-10-30 15:00,target__ht_home_win,HT Home Win,39.1,33.3,5.8,3.0,0.6512,True,34.4
+sr:match:72224114,FK Ekranas,FK Tauras Taurage,FK Ekranas vs FK Tauras Taurage,1 Lyga,2026-10-30 16:00,target__ht_home_win,HT Home Win,25.3,20.0,5.3,5.0,0.6512,True,34.4
+sr:match:72224110,Be1 Nfa,FK Babrungas Plunge,Be1 Nfa vs FK Babrungas Plunge,1 Lyga,2026-10-30 16:30,target__ht_home_win,HT Home Win,33.3,29.4,3.9,3.4,0.6512,True,34.4
+sr:match:72587362,MFK Karvina,SK Slavia Prague B,MFK Karvina vs SK Slavia Prague B,FNL,2026-10-30 18:00,target__ht_home_win,HT Home Win,58.1,54.9,3.1,1.82,0.6512,True,34.4
+sr:match:72517942,SK Rapid Wien,FC Sudburgenland,SK Rapid Wien vs FC Sudburgenland,"Bundesliga, Women",2026-10-30 18:00,target__ht_home_win,HT Home Win,60.0,56.2,3.8,1.78,0.6512,True,34.4
+sr:match:72415086,FC Pisek,SK Aritma Prague,FC Pisek vs SK Aritma Prague,CFL,2026-10-30 19:00,target__ht_home_win,HT Home Win,58.1,52.4,5.7,1.91,0.6512,True,34.4
+sr:match:72548450,VST Voelkermarkt,SVG Bleiburg,VST Voelkermarkt vs SVG Bleiburg,Regionalliga Sud,2026-10-30 19:00,target__ht_home_win,HT Home Win,58.1,51.0,7.1,1.96,0.6512,True,34.4
+sr:match:72560420,SC Oberpullendorf,SV Leithaprodersdorf,SC Oberpullendorf vs SV Leithaprodersdorf,Burgenlandliga,2026-10-30 19:30,target__ht_home_win,HT Home Win,29.5,20.4,9.1,4.9,0.6512,True,34.4
+sr:match:72202718,Stenhousemuir FC,Livingston FC,Stenhousemuir FC vs Livingston FC,Championship,2026-10-30 20:30,target__ht_home_win,HT Home Win,29.5,22.2,7.3,4.5,0.6512,True,34.4
+sr:match:72522144,Briton Ferry,Llandudno FC,Briton Ferry vs Llandudno FC,Cymru Premier,2026-10-30 20:45,target__ht_home_win,HT Home Win,39.4,36.4,3.0,2.75,0.6512,True,34.4
+sr:match:72522150,Flint Town United,Holywell Town,Flint Town United vs Holywell Town,Cymru Premier,2026-10-30 20:45,target__ht_home_win,HT Home Win,58.1,54.9,3.1,1.82,0.6512,True,34.4
+sr:match:66854236,Drogheda United FC,Galway United FC,Drogheda United FC vs Galway United FC,Premier Division,2026-10-30 20:45,target__ht_home_win,HT Home Win,39.1,35.7,3.4,2.8,0.6512,True,34.4
+sr:match:66854242,Sligo Rovers FC,Derry City FC,Sligo Rovers FC vs Derry City FC,Premier Division,2026-10-30 20:45,target__ht_home_win,HT Home Win,25.3,18.9,6.4,5.3,0.6512,True,34.4
+sr:match:74458728,Deportivo Pereira FC SA,Jaguares de Cordoba,Deportivo Pereira FC SA vs Jaguares de Cordoba,Liga DIMAYOR,2026-10-30 22:00,target__ht_home_win,HT Home Win,40.5,37.0,3.5,2.7,0.6512,True,34.4
+sr:match:73265490,CA Huracan,CA Tigre,CA Huracan vs CA Tigre,Primera LPF,2026-10-30 23:00,target__ht_home_win,HT Home Win,39.1,33.3,5.8,3.0,0.6512,True,34.4
+sr:match:74090478,Bac Ninh,Hoang Anh Gia Lai,Bac Ninh vs Hoang Anh Gia Lai,V-League 1,2026-10-30 12:00,target__ht_over_0_5_goals,HT Over 0.5,74.7,71.4,3.3,1.4,0.6199,True,72.8
+sr:match:75178846,Ramtha SC,Al Baqaa,Ramtha SC vs Al Baqaa,Jordan League,2026-10-30 15:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,72.5,4.9,1.38,0.6199,True,72.8
+sr:match:73463704,Asyut Petroleum,El Gouna FC,Asyut Petroleum vs El Gouna FC,Premier League,2026-10-30 16:00,target__ht_over_0_5_goals,HT Over 0.5,64.5,61.0,3.5,1.64,0.6199,True,72.8
+sr:match:75946850,Al Ittifaq BHR,Malkiya Club,Al Ittifaq BHR vs Malkiya Club,Premier League,2026-10-30 16:00,target__ht_over_0_5_goals,HT Over 0.5,78.0,73.0,5.0,1.37,0.6199,True,72.8
+sr:match:75049080,JS Kabylie,Js El Biar,JS Kabylie vs Js El Biar,Ligue 1,2026-10-30 17:45,target__ht_over_0_5_goals,HT Over 0.5,77.4,73.0,4.4,1.37,0.6199,True,72.8
+sr:match:72440740,Austria Salzburg,SKU Amstetten,Austria Salzburg vs SKU Amstetten,2. Liga,2026-10-30 18:30,target__ht_over_0_5_goals,HT Over 0.5,79.4,76.3,3.1,1.31,0.6199,True,72.8
+sr:match:72302184,Jeugd KAA Gent B,Koninklijke Lierse Sportkring,Jeugd KAA Gent B vs Koninklijke Lierse Sportkring,Challenger Pro League,2026-10-30 20:00,target__ht_over_0_5_goals,HT Over 0.5,79.4,76.3,3.1,1.31,0.6199,True,72.8
+sr:match:72044774,Helmond Sport,FC Eindhoven,Helmond Sport vs FC Eindhoven,Eerste Divisie,2026-10-30 20:00,target__ht_over_0_5_goals,HT Over 0.5,81.2,77.5,3.7,1.29,0.6199,True,72.8
+sr:match:72522144,Briton Ferry,Llandudno FC,Briton Ferry vs Llandudno FC,Cymru Premier,2026-10-30 20:45,target__ht_over_0_5_goals,HT Over 0.5,79.4,76.3,3.1,1.31,0.6199,True,72.8
+sr:match:66854244,Saint Patrick´s Athletic FC,Bohemians Dublin FC,Saint Patrick´s Athletic FC vs Bohemians Dublin FC,Premier Division,2026-10-30 20:45,target__ht_over_0_5_goals,HT Over 0.5,77.4,73.5,3.9,1.36,0.6199,True,72.8
+sr:match:72036258,Lille,Lens,Lille vs Lens,Ligue 1,2026-10-30 21:05,target__ht_over_0_5_goals,HT Over 0.5,78.0,72.5,5.5,1.38,0.6199,True,72.8
+sr:match:74458728,Deportivo Pereira FC SA,Jaguares de Cordoba,Deportivo Pereira FC SA vs Jaguares de Cordoba,Liga DIMAYOR,2026-10-30 22:00,target__ht_over_0_5_goals,HT Over 0.5,77.4,71.4,6.0,1.4,0.6199,True,72.8
+sr:match:72575878,1 FC Slovacko,FC Pardubice,1 FC Slovacko vs FC Pardubice,U19 1. Liga,2026-10-30 12:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,54.3,4.6,1.84,0.6269,True,38.8
+sr:match:72514846,Jagiellonia II Bialystok,MKS Polonia Lidzbark Warminski,Jagiellonia II Bialystok vs MKS Polonia Lidzbark Warminski,"III Liga, Group 1",2026-10-30 13:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,50.3,8.7,1.99,0.6269,True,38.8
+sr:match:72284178,Hapoel Acre FC,Hapoel Rishon Lezion FC,Hapoel Acre FC vs Hapoel Rishon Lezion FC,National League,2026-10-30 14:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:75110490,Northeast United FC,Bengaluru FC,Northeast United FC vs Bengaluru FC,Indian Super League,2026-10-30 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,38.5,8.3,2.6,0.6269,True,38.8
+sr:match:75178846,Ramtha SC,Al Baqaa,Ramtha SC vs Al Baqaa,Jordan League,2026-10-30 15:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.0,9.7,2.7,0.6269,True,38.8
+sr:match:69592680,CSKA Moscow,ZFK Krasnodar,CSKA Moscow vs ZFK Krasnodar,"Superleague, Women",2026-10-30 16:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,40.8,5.9,2.45,0.6269,True,38.8
+sr:match:73086702,Csa Steaua Bucuresti,CS Dinamo Bucuresti,Csa Steaua Bucuresti vs CS Dinamo Bucuresti,Liga 2,2026-10-30 17:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,55.6,3.3,1.8,0.6269,True,38.8
+sr:match:73374550,Al Sadd SC,Al-Shamal,Al Sadd SC vs Al-Shamal,Stars League,2026-10-30 17:30,target__ht_over_1_5_goals,HT Over 1.5,62.3,55.6,6.7,1.8,0.6269,True,38.8
+sr:match:72517942,SK Rapid Wien,FC Sudburgenland,SK Rapid Wien vs FC Sudburgenland,"Bundesliga, Women",2026-10-30 18:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,51.5,7.4,1.94,0.6269,True,38.8
+sr:match:72578386,FC Nizhny Novgorod,PFK Arsenal Tula,FC Nizhny Novgorod vs PFK Arsenal Tula,1. Liga,2026-10-30 18:15,target__ht_over_1_5_goals,HT Over 1.5,46.7,41.7,5.1,2.4,0.6269,True,38.8
+sr:match:72036266,Nice,Rennes,Nice vs Rennes,Ligue 1,2026-10-30 19:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:67015434,Bodoe/Glimt,Viking FK,Bodoe/Glimt vs Viking FK,Eliteserien,2026-10-30 19:00,target__ht_over_1_5_goals,HT Over 1.5,62.3,52.9,9.4,1.89,0.6269,True,38.8
+sr:match:71925076,Lyngby BK,Randers FC,Lyngby BK vs Randers FC,Superliga,2026-10-30 19:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72500796,FC Helsingoer,Ringsted IF,FC Helsingoer vs Ringsted IF,3rd Division,2026-10-30 19:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,50.0,8.9,2.0,0.6269,True,38.8
+sr:match:72809340,TSV Steinbach Haiger,FSV Frankfurt 1899,TSV Steinbach Haiger vs FSV Frankfurt 1899,Regionalliga Southwest,2026-10-30 19:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,53.2,5.7,1.88,0.6269,True,38.8
+sr:match:75806606,CR Flamengo RJ,Sampaio Correa FE RJ,CR Flamengo RJ vs Sampaio Correa FE RJ,"U20 Carioca, Serie A",2026-10-30 19:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,51.3,7.6,1.95,0.6269,True,38.8
+sr:match:72044772,FC Volendam,De Graafschap,FC Volendam vs De Graafschap,Eerste Divisie,2026-10-30 20:00,target__ht_over_1_5_goals,HT Over 1.5,62.3,54.9,7.3,1.82,0.6269,True,38.8
+sr:match:72044774,Helmond Sport,FC Eindhoven,Helmond Sport vs FC Eindhoven,Eerste Divisie,2026-10-30 20:00,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72044778,RKC Waalwijk,Almere City FC,RKC Waalwijk vs Almere City FC,Eerste Divisie,2026-10-30 20:00,target__ht_over_1_5_goals,HT Over 1.5,58.9,48.8,10.1,2.05,0.6269,True,38.8
+sr:match:73684974,Newcastle United U21,Peterborough United U21,Newcastle United U21 vs Peterborough United U21,Premier League Cup,2026-10-30 20:00,target__ht_over_1_5_goals,HT Over 1.5,62.3,56.8,5.4,1.76,0.6269,True,38.8
+sr:match:73743162,West Ham U21,Sheffield United U21,West Ham U21 vs Sheffield United U21,Premier League Cup,2026-10-30 20:00,target__ht_over_1_5_goals,HT Over 1.5,62.3,55.6,6.7,1.8,0.6269,True,38.8
+sr:match:73294050,Reggiana 1919,US Sambenedettese,Reggiana 1919 vs US Sambenedettese,"Serie C, Group B",2026-10-30 20:30,target__ht_over_1_5_goals,HT Over 1.5,46.7,39.2,7.5,2.55,0.6269,True,38.8
+sr:match:72036258,Lille,Lens,Lille vs Lens,Ligue 1,2026-10-30 21:05,target__ht_over_1_5_goals,HT Over 1.5,46.7,37.7,9.0,2.65,0.6269,True,38.8
+sr:match:72530988,Casa Pia Lisbon,Sporting,Casa Pia Lisbon vs Sporting,Liga Portugal,2026-10-30 21:15,target__ht_over_1_5_goals,HT Over 1.5,46.7,43.5,3.3,2.3,0.6269,True,38.8
+sr:match:72897406,Brisbane Roar FC,Auckland FC,Brisbane Roar FC vs Auckland FC,A-League,2026-10-30 10:00,target__over_1_5_goals,Over 1.5 Goals,80.5,76.3,4.2,1.31,0.6116,True,77.7
+sr:match:74090478,Bac Ninh,Hoang Anh Gia Lai,Bac Ninh vs Hoang Anh Gia Lai,V-League 1,2026-10-30 12:00,target__over_1_5_goals,Over 1.5 Goals,84.3,75.8,8.5,1.32,0.6116,True,77.7
+sr:match:76195092,Sheger Ketema,Negelle Arsi,Sheger Ketema vs Negelle Arsi,Premier League,2026-10-30 13:00,target__over_1_5_goals,Over 1.5 Goals,70.6,59.9,10.7,1.67,0.6116,True,77.7
+sr:match:72284174,Maccabi Bney Reine,Maccabi Herzliya,Maccabi Bney Reine vs Maccabi Herzliya,National League,2026-10-30 14:00,target__over_1_5_goals,Over 1.5 Goals,80.5,74.6,5.9,1.34,0.6116,True,77.7
+sr:match:74726274,Nassaji Mazandaran FC,Persepolis FC,Nassaji Mazandaran FC vs Persepolis FC,Pro League,2026-10-30 14:00,target__over_1_5_goals,Over 1.5 Goals,84.3,66.2,18.1,1.51,0.6116,True,77.7
+sr:match:75806598,Fluminense FC RJ,Nova Iguacu FC RJ,Fluminense FC RJ vs Nova Iguacu FC RJ,"U20 Carioca, Serie A",2026-10-30 14:00,target__over_1_5_goals,Over 1.5 Goals,87.2,83.3,3.8,1.2,0.6116,True,77.7
+sr:match:74726276,Malavan Bandar Anzali FC,Chador Malu Yazd,Malavan Bandar Anzali FC vs Chador Malu Yazd,Pro League,2026-10-30 14:15,target__over_1_5_goals,Over 1.5 Goals,70.9,63.3,7.6,1.58,0.6116,True,77.7
+sr:match:74726278,Kheybar Khorramabad FC,Sepahan SC,Kheybar Khorramabad FC vs Sepahan SC,Pro League,2026-10-30 15:00,target__over_1_5_goals,Over 1.5 Goals,79.2,64.9,14.2,1.54,0.6116,True,77.7
+sr:match:74726282,Foolad Khuzestan FC,Aluminium Arak,Foolad Khuzestan FC vs Aluminium Arak,Pro League,2026-10-30 15:30,target__over_1_5_goals,Over 1.5 Goals,70.9,59.9,11.0,1.67,0.6116,True,77.7
+sr:match:73463704,Asyut Petroleum,El Gouna FC,Asyut Petroleum vs El Gouna FC,Premier League,2026-10-30 16:00,target__over_1_5_goals,Over 1.5 Goals,70.6,63.3,7.3,1.58,0.6116,True,77.7
+sr:match:71998260,FC CSKA 1948,FK Spartak 1918 Varna,FC CSKA 1948 vs FK Spartak 1918 Varna,Parva Liga,2026-10-30 16:00,target__over_1_5_goals,Over 1.5 Goals,84.3,81.3,3.0,1.23,0.6116,True,77.7
+sr:match:72578400,FK Veles Moscow,Spartak Kostroma,FK Veles Moscow vs Spartak Kostroma,1. Liga,2026-10-30 16:00,target__over_1_5_goals,Over 1.5 Goals,79.2,73.0,6.2,1.37,0.6116,True,77.7
+sr:match:75706970,FK Arsenal Dzerzhinsk,Bate Borisov,FK Arsenal Dzerzhinsk vs Bate Borisov,Vysshaya Liga,2026-10-30 16:00,target__over_1_5_goals,Over 1.5 Goals,77.8,73.0,4.8,1.37,0.6116,True,77.7
+sr:match:75049076,ASO Chlef,ES Setif,ASO Chlef vs ES Setif,Ligue 1,2026-10-30 17:45,target__over_1_5_goals,Over 1.5 Goals,70.6,62.5,8.1,1.6,0.6116,True,77.7
+sr:match:72735878,Esenler Erokspor,Ankara Keciorengucu,Esenler Erokspor vs Ankara Keciorengucu,1. Lig,2026-10-30 18:00,target__over_1_5_goals,Over 1.5 Goals,84.3,81.3,3.0,1.23,0.6116,True,77.7
+sr:match:72578386,FC Nizhny Novgorod,PFK Arsenal Tula,FC Nizhny Novgorod vs PFK Arsenal Tula,1. Liga,2026-10-30 18:15,target__over_1_5_goals,Over 1.5 Goals,84.3,81.3,3.0,1.23,0.6116,True,77.7
+sr:match:73463706,Al Ittihad Al Sakandary,Talaea El Gaish,Al Ittihad Al Sakandary vs Talaea El Gaish,Premier League,2026-10-30 19:00,target__over_1_5_goals,Over 1.5 Goals,79.6,60.6,19.0,1.65,0.6116,True,77.7
+sr:match:75049088,MC Oran,Olympique Akbou,MC Oran vs Olympique Akbou,Ligue 1,2026-10-30 20:00,target__over_1_5_goals,Over 1.5 Goals,70.9,67.1,3.8,1.49,0.6116,True,77.7
+sr:match:73294050,Reggiana 1919,US Sambenedettese,Reggiana 1919 vs US Sambenedettese,"Serie C, Group B",2026-10-30 20:30,target__over_1_5_goals,Over 1.5 Goals,84.3,78.7,5.6,1.27,0.6116,True,77.7
+sr:match:74079752,Vittoriosa Stars,Zebbug Rangers FC,Vittoriosa Stars vs Zebbug Rangers FC,Challenge League,2026-10-30 20:30,target__over_1_5_goals,Over 1.5 Goals,84.3,80.6,3.7,1.24,0.6116,True,77.7
+sr:match:72346390,Coleraine FC,Glentoran FC,Coleraine FC vs Glentoran FC,Premiership,2026-10-30 20:45,target__over_1_5_goals,Over 1.5 Goals,86.2,81.3,4.9,1.23,0.6116,True,77.7
+sr:match:75815560,Difaa Hassani d'el-Jadida,Union Touarga,Difaa Hassani d'el-Jadida vs Union Touarga,Botola Pro D1,2026-10-30 21:00,target__over_1_5_goals,Over 1.5 Goals,70.6,65.8,4.8,1.52,0.6116,True,77.7
+sr:match:72036258,Lille,Lens,Lille vs Lens,Ligue 1,2026-10-30 21:05,target__over_1_5_goals,Over 1.5 Goals,86.2,80.6,5.6,1.24,0.6116,True,77.7
+sr:match:73265490,CA Huracan,CA Tigre,CA Huracan vs CA Tigre,Primera LPF,2026-10-30 23:00,target__over_1_5_goals,Over 1.5 Goals,70.6,62.1,8.4,1.61,0.6116,True,77.7
+sr:match:67682080,Coquimbo Unido,Deportes Union La Calera,Coquimbo Unido vs Deportes Union La Calera,Primera Division,2026-10-30 23:00,target__over_1_5_goals,Over 1.5 Goals,80.5,76.9,3.6,1.3,0.6116,True,77.7
+sr:match:72575870,Dukla Prague,Sparta Prague,Dukla Prague vs Sparta Prague,U19 1. Liga,2026-10-30 10:15,target__over_2_5_goals,Over 2.5 Goals,81.2,75.8,5.4,1.32,0.641,True,56.0
+sr:match:74402070,Dimona Sport Club,Hapoel Herzelia FC,Dimona Sport Club vs Hapoel Herzelia FC,Liga Alef,2026-10-30 11:30,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:75028996,Sardarapat FC,FC Van Charentsavan,Sardarapat FC vs FC Van Charentsavan,Premier League,2026-10-30 12:30,target__over_2_5_goals,Over 2.5 Goals,67.6,59.2,8.4,1.69,0.641,True,56.0
+sr:match:73296476,Kowloon City,Hong Kong Rangers,Kowloon City vs Hong Kong Rangers,Premier League,2026-10-30 13:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.5,3.1,1.55,0.641,True,56.0
+sr:match:72284174,Maccabi Bney Reine,Maccabi Herzliya,Maccabi Bney Reine vs Maccabi Herzliya,National League,2026-10-30 14:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:74726274,Nassaji Mazandaran FC,Persepolis FC,Nassaji Mazandaran FC vs Persepolis FC,Pro League,2026-10-30 14:00,target__over_2_5_goals,Over 2.5 Goals,45.6,39.2,6.4,2.55,0.641,True,56.0
+sr:match:68380618,FK Kokand 1912,Qizilqum Zarafshon,FK Kokand 1912 vs Qizilqum Zarafshon,Superliga,2026-10-30 14:30,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:74726282,Foolad Khuzestan FC,Aluminium Arak,Foolad Khuzestan FC vs Aluminium Arak,Pro League,2026-10-30 15:30,target__over_2_5_goals,Over 2.5 Goals,46.7,33.3,13.3,3.0,0.641,True,56.0
+sr:match:72466604,Gorna Oryahovitsa,PFK Beroe Stara Zagora,Gorna Oryahovitsa vs PFK Beroe Stara Zagora,Vtora Liga,2026-10-30 16:30,target__over_2_5_goals,Over 2.5 Goals,47.6,44.4,3.2,2.25,0.641,True,56.0
+sr:match:72410010,Shakhtar D,FC Obolon Kyiv,Shakhtar D vs FC Obolon Kyiv,Premier League,2026-10-30 17:00,target__over_2_5_goals,Over 2.5 Goals,81.2,69.9,11.2,1.43,0.641,True,56.0
+sr:match:72300858,FC Vlasim,FK Usti nad Labem,FC Vlasim vs FK Usti nad Labem,FNL,2026-10-30 17:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.3,4.3,1.58,0.641,True,56.0
+sr:match:73086702,Csa Steaua Bucuresti,CS Dinamo Bucuresti,Csa Steaua Bucuresti vs CS Dinamo Bucuresti,Liga 2,2026-10-30 17:00,target__over_2_5_goals,Over 2.5 Goals,81.2,76.3,4.8,1.31,0.641,True,56.0
+sr:match:73374550,Al Sadd SC,Al-Shamal,Al Sadd SC vs Al-Shamal,Stars League,2026-10-30 17:30,target__over_2_5_goals,Over 2.5 Goals,81.2,76.3,4.8,1.31,0.641,True,56.0
+sr:match:75049076,ASO Chlef,ES Setif,ASO Chlef vs ES Setif,Ligue 1,2026-10-30 17:45,target__over_2_5_goals,Over 2.5 Goals,45.6,35.1,10.5,2.85,0.641,True,56.0
+sr:match:74079750,Tarxien Rainbows FC,Victoria Hotspurs FC,Tarxien Rainbows FC vs Victoria Hotspurs FC,Challenge League,2026-10-30 18:00,target__over_2_5_goals,Over 2.5 Goals,67.6,62.9,4.7,1.59,0.641,True,56.0
+sr:match:72517942,SK Rapid Wien,FC Sudburgenland,SK Rapid Wien vs FC Sudburgenland,"Bundesliga, Women",2026-10-30 18:00,target__over_2_5_goals,Over 2.5 Goals,81.2,71.9,9.2,1.39,0.641,True,56.0
+sr:match:72036256,Le Havre,PSG,Le Havre vs PSG,Ligue 1,2026-10-30 19:00,target__over_2_5_goals,Over 2.5 Goals,81.9,74.1,7.8,1.35,0.641,True,56.0
+sr:match:72036266,Nice,Rennes,Nice vs Rennes,Ligue 1,2026-10-30 19:00,target__over_2_5_goals,Over 2.5 Goals,67.6,64.1,3.5,1.56,0.641,True,56.0
+sr:match:67015434,Bodoe/Glimt,Viking FK,Bodoe/Glimt vs Viking FK,Eliteserien,2026-10-30 19:00,target__over_2_5_goals,Over 2.5 Goals,86.7,74.6,12.0,1.34,0.641,True,56.0
+sr:match:71925076,Lyngby BK,Randers FC,Lyngby BK vs Randers FC,Superliga,2026-10-30 19:00,target__over_2_5_goals,Over 2.5 Goals,67.6,62.5,5.1,1.6,0.641,True,56.0
+sr:match:72044384,Aalborg BK,Hobro IK,Aalborg BK vs Hobro IK,1. Division,2026-10-30 19:00,target__over_2_5_goals,Over 2.5 Goals,67.6,60.6,7.0,1.65,0.641,True,56.0
+sr:match:67126442,IK Oddevold,IK Brage,IK Oddevold vs IK Brage,Superettan,2026-10-30 19:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:72680248,Fortuna D,SV Meppen 1912,Fortuna D vs SV Meppen 1912,3. Liga,2026-10-30 19:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.3,4.3,1.58,0.641,True,56.0
+sr:match:72388066,Rapid Bucuresti 1923,AFK Csikszereda Miercurea Ciuc,Rapid Bucuresti 1923 vs AFK Csikszereda Miercurea Ciuc,Superliga,2026-10-30 19:30,target__over_2_5_goals,Over 2.5 Goals,67.6,64.1,3.5,1.56,0.641,True,56.0
+sr:match:72176628,Stade Lausanne Ouchy,Yverdon-Sport,Stade Lausanne Ouchy vs Yverdon-Sport,Challenge League,2026-10-30 19:30,target__over_2_5_goals,Over 2.5 Goals,67.6,61.0,6.6,1.64,0.641,True,56.0
+sr:match:72037422,Stade Lavallois MFC,US Boulogne,Stade Lavallois MFC vs US Boulogne,Ligue 2,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,52.5,48.8,3.7,2.05,0.641,True,56.0
+sr:match:72044772,FC Volendam,De Graafschap,FC Volendam vs De Graafschap,Eerste Divisie,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,81.2,76.9,4.3,1.3,0.641,True,56.0
+sr:match:72044774,Helmond Sport,FC Eindhoven,Helmond Sport vs FC Eindhoven,Eerste Divisie,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,67.6,63.3,4.3,1.58,0.641,True,56.0
+sr:match:73685076,Coventry City U21,Ipswich Town U21,Coventry City U21 vs Ipswich Town U21,Premier League Cup,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,81.2,76.9,4.3,1.3,0.641,True,56.0
+sr:match:73684974,Newcastle United U21,Peterborough United U21,Newcastle United U21 vs Peterborough United U21,Premier League Cup,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,81.2,78.1,3.1,1.28,0.641,True,56.0
+sr:match:73743162,West Ham U21,Sheffield United U21,West Ham U21 vs Sheffield United U21,Premier League Cup,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,81.2,76.9,4.3,1.3,0.641,True,56.0
+sr:match:75049088,MC Oran,Olympique Akbou,MC Oran vs Olympique Akbou,Ligue 1,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,47.6,40.0,7.6,2.5,0.641,True,56.0
+sr:match:73831490,K Beerschot VA,KV RS Waasland Beveren,K Beerschot VA vs KV RS Waasland Beveren,U21 Pro League,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,81.2,74.6,6.5,1.34,0.641,True,56.0
+sr:match:73831486,RFC Seraing,Jeugd Royal Francs Borains ,RFC Seraing vs Jeugd Royal Francs Borains ,U21 Pro League,2026-10-30 20:00,target__over_2_5_goals,Over 2.5 Goals,81.2,76.3,4.8,1.31,0.641,True,56.0
+sr:match:72513290,SV 07 Elversberg,Mainz,SV 07 Elversberg vs Mainz,Bundesliga,2026-10-30 20:30,target__over_2_5_goals,Over 2.5 Goals,71.9,68.0,3.8,1.47,0.641,True,56.0
+sr:match:73831492,Jeugd Sporting Hasselt,KVC Westerlo,Jeugd Sporting Hasselt vs KVC Westerlo,U21 Pro League,2026-10-30 20:30,target__over_2_5_goals,Over 2.5 Goals,81.2,76.3,4.8,1.31,0.641,True,56.0
+sr:match:73831494,RAAL La Louviere,Jeugd Lierse Kempenzonen,RAAL La Louviere vs Jeugd Lierse Kempenzonen,U21 Pro League,2026-10-30 20:30,target__over_2_5_goals,Over 2.5 Goals,81.2,74.1,7.1,1.35,0.641,True,56.0
+sr:match:72346390,Coleraine FC,Glentoran FC,Coleraine FC vs Glentoran FC,Premiership,2026-10-30 20:45,target__over_2_5_goals,Over 2.5 Goals,65.7,58.5,7.2,1.71,0.641,True,56.0
+sr:match:72346392,Larne FC,Portadown FC,Larne FC vs Portadown FC,Premiership,2026-10-30 20:45,target__over_2_5_goals,Over 2.5 Goals,67.6,63.7,3.9,1.57,0.641,True,56.0
+sr:match:75815560,Difaa Hassani d'el-Jadida,Union Touarga,Difaa Hassani d'el-Jadida vs Union Touarga,Botola Pro D1,2026-10-30 21:00,target__over_2_5_goals,Over 2.5 Goals,45.6,38.5,7.2,2.6,0.641,True,56.0
+sr:match:73265490,CA Huracan,CA Tigre,CA Huracan vs CA Tigre,Primera LPF,2026-10-30 23:00,target__over_2_5_goals,Over 2.5 Goals,45.6,34.5,11.1,2.9,0.641,True,56.0
+sr:match:73265486,Estudiantes Rio Cuarto,Gimnasia y Esgrima La Plata,Estudiantes Rio Cuarto vs Gimnasia y Esgrima La Plata,Primera LPF,2026-10-30 23:00,target__over_2_5_goals,Over 2.5 Goals,45.6,42.6,3.1,2.35,0.641,True,56.0
+sr:match:74402078,Maccabi Ironi Sderot,Ironi Beit Shemesh,Maccabi Ironi Sderot vs Ironi Beit Shemesh,Liga Alef,2026-10-30 11:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:74402066,Hapoel Mahane Yehuda,Hapoel Hadera FC,Hapoel Mahane Yehuda vs Hapoel Hadera FC,Liga Alef,2026-10-30 11:35,target__over_3_5_goals,Over 3.5 Goals,40.1,33.9,6.2,2.95,0.6631,True,35.0
+sr:match:74090478,Bac Ninh,Hoang Anh Gia Lai,Bac Ninh vs Hoang Anh Gia Lai,V-League 1,2026-10-30 12:00,target__over_3_5_goals,Over 3.5 Goals,40.1,29.4,10.7,3.4,0.6631,True,35.0
+sr:match:74444398,Sisaket United FC,Ratchaburi FC,Sisaket United FC vs Ratchaburi FC,Thai League 1,2026-10-30 13:00,target__over_3_5_goals,Over 3.5 Goals,40.0,33.9,6.1,2.95,0.6631,True,35.0
+sr:match:73204172,Rakow II Czestochowa,KS Row 1964 Rybnik,Rakow II Czestochowa vs KS Row 1964 Rybnik,"III Liga, Group 3",2026-10-30 13:30,target__over_3_5_goals,Over 3.5 Goals,50.3,45.5,4.9,2.2,0.6631,True,35.0
+sr:match:72284170,Hapoel Afula FC,Maccabi Ironi Kiryat Gat,Hapoel Afula FC vs Maccabi Ironi Kiryat Gat,National League,2026-10-30 14:00,target__over_3_5_goals,Over 3.5 Goals,41.3,33.3,7.9,3.0,0.6631,True,35.0
+sr:match:72284168,Maccabi Achi Nazareth FC,FC Kafr Qasim,Maccabi Achi Nazareth FC vs FC Kafr Qasim,National League,2026-10-30 14:00,target__over_3_5_goals,Over 3.5 Goals,41.3,35.1,6.2,2.85,0.6631,True,35.0
+sr:match:72284174,Maccabi Bney Reine,Maccabi Herzliya,Maccabi Bney Reine vs Maccabi Herzliya,National League,2026-10-30 14:00,target__over_3_5_goals,Over 3.5 Goals,40.1,27.8,12.3,3.6,0.6631,True,35.0
+sr:match:73961696,Kataka FC,Uganda Police FC,Kataka FC vs Uganda Police FC,Premier League,2026-10-30 14:00,target__over_3_5_goals,Over 3.5 Goals,40.1,36.4,3.8,2.75,0.6631,True,35.0
+sr:match:68380618,FK Kokand 1912,Qizilqum Zarafshon,FK Kokand 1912 vs Qizilqum Zarafshon,Superliga,2026-10-30 14:30,target__over_3_5_goals,Over 3.5 Goals,41.3,25.0,16.3,4.0,0.6631,True,35.0
+sr:match:75110490,Northeast United FC,Bengaluru FC,Northeast United FC vs Bengaluru FC,Indian Super League,2026-10-30 15:00,target__over_3_5_goals,Over 3.5 Goals,40.1,32.3,7.9,3.1,0.6631,True,35.0
+sr:match:71998260,FC CSKA 1948,FK Spartak 1918 Varna,FC CSKA 1948 vs FK Spartak 1918 Varna,Parva Liga,2026-10-30 16:00,target__over_3_5_goals,Over 3.5 Goals,40.0,36.4,3.6,2.75,0.6631,True,35.0
+sr:match:75028998,FC Pyunik Yerevan,FC Urartu Yerevan,FC Pyunik Yerevan vs FC Urartu Yerevan,Premier League,2026-10-30 16:00,target__over_3_5_goals,Over 3.5 Goals,40.1,37.0,3.1,2.7,0.6631,True,35.0
+sr:match:74401654,Hapoel Bnei Musmus,Hapoel Migdal Haemeq,Hapoel Bnei Musmus vs Hapoel Migdal Haemeq,Liga Alef,2026-10-30 16:00,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:75946850,Al Ittifaq BHR,Malkiya Club,Al Ittifaq BHR vs Malkiya Club,Premier League,2026-10-30 16:00,target__over_3_5_goals,Over 3.5 Goals,40.1,31.2,8.9,3.2,0.6631,True,35.0
+sr:match:69592680,CSKA Moscow,ZFK Krasnodar,CSKA Moscow vs ZFK Krasnodar,"Superleague, Women",2026-10-30 16:00,target__over_3_5_goals,Over 3.5 Goals,42.5,33.9,8.6,2.95,0.6631,True,35.0
+sr:match:72410010,Shakhtar D,FC Obolon Kyiv,Shakhtar D vs FC Obolon Kyiv,Premier League,2026-10-30 17:00,target__over_3_5_goals,Over 3.5 Goals,54.5,48.8,5.7,2.05,0.6631,True,35.0
+sr:match:75049080,JS Kabylie,Js El Biar,JS Kabylie vs Js El Biar,Ligue 1,2026-10-30 17:45,target__over_3_5_goals,Over 3.5 Goals,40.0,28.6,11.4,3.5,0.6631,True,35.0
+sr:match:72517942,SK Rapid Wien,FC Sudburgenland,SK Rapid Wien vs FC Sudburgenland,"Bundesliga, Women",2026-10-30 18:00,target__over_3_5_goals,Over 3.5 Goals,54.5,50.5,4.0,1.98,0.6631,True,35.0
+sr:match:73080386,Vendee Poire-Sur-Vie Football,Les Herbiers,Vendee Poire-Sur-Vie Football vs Les Herbiers,National 1,2026-10-30 18:00,target__over_3_5_goals,Over 3.5 Goals,41.3,30.8,10.5,3.25,0.6631,True,35.0
+sr:match:72578386,FC Nizhny Novgorod,PFK Arsenal Tula,FC Nizhny Novgorod vs PFK Arsenal Tula,1. Liga,2026-10-30 18:15,target__over_3_5_goals,Over 3.5 Goals,41.3,36.4,4.9,2.75,0.6631,True,35.0
+sr:match:71998256,FC Lokomotiv 1929 Sofia,Botev Plovdiv,FC Lokomotiv 1929 Sofia vs Botev Plovdiv,Parva Liga,2026-10-30 18:30,target__over_3_5_goals,Over 3.5 Goals,40.1,35.1,5.0,2.85,0.6631,True,35.0
+sr:match:72044384,Aalborg BK,Hobro IK,Aalborg BK vs Hobro IK,1. Division,2026-10-30 19:00,target__over_3_5_goals,Over 3.5 Goals,42.5,38.5,4.0,2.6,0.6631,True,35.0
+sr:match:72652068,FC Basel,FC Zurich,FC Basel vs FC Zurich,"Super League, Women",2026-10-30 19:00,target__over_3_5_goals,Over 3.5 Goals,40.0,36.4,3.6,2.75,0.6631,True,35.0
+sr:match:72044778,RKC Waalwijk,Almere City FC,RKC Waalwijk vs Almere City FC,Eerste Divisie,2026-10-30 20:00,target__over_3_5_goals,Over 3.5 Goals,54.5,48.8,5.7,2.05,0.6631,True,35.0
+sr:match:72044780,Roda JC Kerkrade,Jong AZ Alkmaar,Roda JC Kerkrade vs Jong AZ Alkmaar,Eerste Divisie,2026-10-30 20:00,target__over_3_5_goals,Over 3.5 Goals,54.5,46.5,7.9,2.15,0.6631,True,35.0
+sr:match:73831490,K Beerschot VA,KV RS Waasland Beveren,K Beerschot VA vs KV RS Waasland Beveren,U21 Pro League,2026-10-30 20:00,target__over_3_5_goals,Over 3.5 Goals,58.2,54.9,3.2,1.82,0.6631,True,35.0
+sr:match:72176626,Etoile Carouge FC,SC Kriens,Etoile Carouge FC vs SC Kriens,Challenge League,2026-10-30 20:15,target__over_3_5_goals,Over 3.5 Goals,50.3,45.5,4.9,2.2,0.6631,True,35.0
+sr:match:72202718,Stenhousemuir FC,Livingston FC,Stenhousemuir FC vs Livingston FC,Championship,2026-10-30 20:30,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:73293294,US Albinoleffe,US Pergolettese Crema,US Albinoleffe vs US Pergolettese Crema,"Serie C, Group A",2026-10-30 20:30,target__over_3_5_goals,Over 3.5 Goals,40.1,26.3,13.8,3.8,0.6631,True,35.0
+sr:match:73294050,Reggiana 1919,US Sambenedettese,Reggiana 1919 vs US Sambenedettese,"Serie C, Group B",2026-10-30 20:30,target__over_3_5_goals,Over 3.5 Goals,40.1,33.3,6.8,3.0,0.6631,True,35.0
+sr:match:74079752,Vittoriosa Stars,Zebbug Rangers FC,Vittoriosa Stars vs Zebbug Rangers FC,Challenge League,2026-10-30 20:30,target__over_3_5_goals,Over 3.5 Goals,42.5,35.1,7.4,2.85,0.6631,True,35.0
+sr:match:72740766,AFC Fylde,AFC Hornchurch,AFC Fylde vs AFC Hornchurch,National League,2026-10-30 20:45,target__over_3_5_goals,Over 3.5 Goals,50.3,46.5,3.8,2.15,0.6631,True,35.0
+sr:match:72522140,Ammanford,Haverfordwest County AFC,Ammanford vs Haverfordwest County AFC,Cymru Premier,2026-10-30 20:45,target__over_3_5_goals,Over 3.5 Goals,40.1,33.9,6.2,2.95,0.6631,True,35.0
+sr:match:72522142,Barry Town United FC,Trefelin BGC,Barry Town United FC vs Trefelin BGC,Cymru Premier,2026-10-30 20:45,target__over_3_5_goals,Over 3.5 Goals,47.6,44.4,3.2,2.25,0.6631,True,35.0
+sr:match:66854236,Drogheda United FC,Galway United FC,Drogheda United FC vs Galway United FC,Premier Division,2026-10-30 20:45,target__over_3_5_goals,Over 3.5 Goals,40.1,35.7,4.4,2.8,0.6631,True,35.0
+sr:match:66854240,Shelbourne FC,Waterford FC,Shelbourne FC vs Waterford FC,Premier Division,2026-10-30 20:45,target__over_3_5_goals,Over 3.5 Goals,50.3,43.5,6.8,2.3,0.6631,True,35.0
+sr:match:72346390,Coleraine FC,Glentoran FC,Coleraine FC vs Glentoran FC,Premiership,2026-10-30 20:45,target__over_3_5_goals,Over 3.5 Goals,42.5,36.4,6.1,2.75,0.6631,True,35.0
+sr:match:72036258,Lille,Lens,Lille vs Lens,Ligue 1,2026-10-30 21:05,target__over_3_5_goals,Over 3.5 Goals,40.1,34.5,5.6,2.9,0.6631,True,35.0
+sr:match:75449058,Real Potosi,Independiente Petrolero,Real Potosi vs Independiente Petrolero,Division Profesional,2026-10-30 23:00,target__over_3_5_goals,Over 3.5 Goals,50.3,45.5,4.9,2.2,0.6631,True,35.0
+sr:match:74402078,Maccabi Ironi Sderot,Ironi Beit Shemesh,Maccabi Ironi Sderot vs Ironi Beit Shemesh,Liga Alef,2026-10-30 11:00,target__over_4_5_goals,Over 4.5 Goals,31.1,19.6,11.4,5.1,0.6327,True,19.9
+sr:match:72284168,Maccabi Achi Nazareth FC,FC Kafr Qasim,Maccabi Achi Nazareth FC vs FC Kafr Qasim,National League,2026-10-30 14:00,target__over_4_5_goals,Over 4.5 Goals,31.1,19.2,11.8,5.2,0.6327,True,19.9
+sr:match:75178846,Ramtha SC,Al Baqaa,Ramtha SC vs Al Baqaa,Jordan League,2026-10-30 15:00,target__over_4_5_goals,Over 4.5 Goals,22.4,16.7,5.7,6.0,0.6327,True,19.9
+sr:match:72517942,SK Rapid Wien,FC Sudburgenland,SK Rapid Wien vs FC Sudburgenland,"Bundesliga, Women",2026-10-30 18:00,target__over_4_5_goals,Over 4.5 Goals,39.3,32.3,7.1,3.1,0.6327,True,19.9
+sr:match:72652068,FC Basel,FC Zurich,FC Basel vs FC Zurich,"Super League, Women",2026-10-30 19:00,target__over_4_5_goals,Over 4.5 Goals,25.0,20.4,4.6,4.9,0.6327,True,19.9
+sr:match:72573120,USV Gnas,SV Pachern,USV Gnas vs SV Pachern,"Steiermark, Landesliga",2026-10-30 19:00,target__over_4_5_goals,Over 4.5 Goals,39.3,35.1,4.2,2.85,0.6327,True,19.9
+sr:match:72044774,Helmond Sport,FC Eindhoven,Helmond Sport vs FC Eindhoven,Eerste Divisie,2026-10-30 20:00,target__over_4_5_goals,Over 4.5 Goals,31.1,23.8,7.2,4.2,0.6327,True,19.9
+sr:match:72044778,RKC Waalwijk,Almere City FC,RKC Waalwijk vs Almere City FC,Eerste Divisie,2026-10-30 20:00,target__over_4_5_goals,Over 4.5 Goals,39.3,30.0,9.3,3.33,0.6327,True,19.9
+sr:match:72176626,Etoile Carouge FC,SC Kriens,Etoile Carouge FC vs SC Kriens,Challenge League,2026-10-30 20:15,target__over_4_5_goals,Over 4.5 Goals,31.1,26.7,4.4,3.75,0.6327,True,19.9
+sr:match:73293294,US Albinoleffe,US Pergolettese Crema,US Albinoleffe vs US Pergolettese Crema,"Serie C, Group A",2026-10-30 20:30,target__over_4_5_goals,Over 4.5 Goals,22.4,13.8,8.6,7.25,0.6327,True,19.9
+sr:match:73294050,Reggiana 1919,US Sambenedettese,Reggiana 1919 vs US Sambenedettese,"Serie C, Group B",2026-10-30 20:30,target__over_4_5_goals,Over 4.5 Goals,22.4,17.9,4.5,5.6,0.6327,True,19.9
+sr:match:72342344,Newport County,Chesterfield FC,Newport County vs Chesterfield FC,League Two,2026-10-30 20:45,target__over_4_5_goals,Over 4.5 Goals,22.4,17.9,4.5,5.6,0.6327,True,19.9
+sr:match:72740766,AFC Fylde,AFC Hornchurch,AFC Fylde vs AFC Hornchurch,National League,2026-10-30 20:45,target__over_4_5_goals,Over 4.5 Goals,32.3,27.8,4.5,3.6,0.6327,True,19.9
+sr:match:72522142,Barry Town United FC,Trefelin BGC,Barry Town United FC vs Trefelin BGC,Cymru Premier,2026-10-30 20:45,target__over_4_5_goals,Over 4.5 Goals,31.1,26.7,4.4,3.75,0.6327,True,19.9
+sr:match:66854240,Shelbourne FC,Waterford FC,Shelbourne FC vs Waterford FC,Premier Division,2026-10-30 20:45,target__over_4_5_goals,Over 4.5 Goals,31.7,25.6,6.1,3.9,0.6327,True,19.9

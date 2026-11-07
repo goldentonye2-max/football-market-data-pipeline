@@ -1,0 +1,70 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-27
+  Generated : 2026-10-27 15:46:06
+  Legs      : 30
+  Sorted by : edge
+  Combined odds : 55,895,049.00
+======================================================================
+
+  BOOKING CODE:  QFTWXA
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    27 16  AFC Progresul 1944 Spartac vs FC P  Over 4.5 Goals         2.60  + 11.5%  0.6327
+  2    27 20  Calcio Padova vs FC Sudtirol Bolza  HT Draw                2.05  + 11.2%  0.5904
+  3    27 02  Mount Pleasant FC vs Montego Bay U  HT Draw                2.00  + 10.0%  0.5904
+  4    27 20  Roma vs Cagliari                    Home Clean Sheet       1.96  +  9.7%  0.6485
+  5    27 11  Johor Darul Tazim FC vs Port FC     Over 4.5 Goals         3.00  +  6.0%  0.6327
+  6    27 14  Bristol City U21 vs Millwall U21    HT Over 1.5            1.77  +  5.8%  0.6269
+  7    27 18  GNK Dinamo Zagreb vs HNK Rijeka     Over 1.5 Goals         1.22  +  5.2%  0.6116
+  8    27 20  Colchester United U21 vs Queens Pa  HT Over 1.5            1.75  +  5.1%  0.6269
+  9    27 20  Cologne vs Union Berlin             Draw                   3.91  +  4.9%  0.5993
+  10   27 16  Al-Wehda FC vs AL Saqer FC          HT Home Win            1.88  +  4.9%  0.6512
+  11   27 18  Hamburger SV vs Eintracht Frankfur  BTTS Yes               1.47  +  4.9%  0.6112
+  12   27 18  CD Cuarte vs Girona                 HT Away Win            1.50  +  4.8%  0.6617
+  13   27 18  First Vienna FC 1894 vs SK Rapid    Away Clean Sheet       2.35  +  4.7%  0.6508
+  14   27 20  SV 07 Elversberg vs Darmstadt       HT Home Win            1.87  +  4.6%  0.6512
+  15   27 13  Ratchaburi FC vs Kashiwa Reysol     Away Win               1.43  +  4.4%  0.7237
+  16   27 21  Sporting vs Maritimo Madeira        Home Win               1.35  +  4.4%  0.7212
+  17   27 19  Vera Cruz PE vs Ibis PE             BTTS No                1.74  +  4.3%  0.6160
+  18   27 20  Roda JC Kerkrade vs De Graafschap   Draw                   3.80  +  4.2%  0.5993
+  19   27 19  UD Castellonense vs Almeria         HT Away Win            2.00  +  4.0%  0.6617
+  20   27 19  Slavia Prague vs FC Zbrojovka Brno  Home Win               1.34  +  3.9%  0.7212
+  21   27 18  Excelsior ´31 vs ADO Den Haag       Over 3.5 Goals         1.84  +  3.8%  0.6631
+  22   27 20  FK Sloboda Tuzla vs FK Zeljeznicar  Away Clean Sheet       2.30  +  3.8%  0.6508
+  23   27 09  Lam Dong FC vs PVF Cong An Nhan Da  Over 1.5 Goals         1.24  +  3.7%  0.6116
+  24   27 17  LKP Motor Lublin vs Rakow Czestoch  HT Over 0.5            1.29  +  3.7%  0.6199
+  25   27 20  FC Eindhoven vs FC Volendam         BTTS Yes               1.44  +  3.5%  0.6112
+  26   27 20  Blackpool FC vs Aston Villa U21     Over 3.5 Goals         1.83  +  3.5%  0.6631
+  27   27 19  Al-Shamal vs Al Hilal SFC           Away Win               1.41  +  3.4%  0.7237
+  28   28 00  Deportivo Tachira vs Monagas SC     Home Clean Sheet       2.35  +  3.4%  0.6485
+  29   27 11  Shanghai Port FC vs Cong An Ha Noi  HT Over 0.5            1.28  +  3.1%  0.6199
+  30   27 03  Santiago FC vs Real Refineros Cds   Over 2.5 Goals         1.28  +  3.1%  0.6410
+
+======================================================================
+  Tournament breakdown:
+      4x  AFC Champions League Elite
+      3x  DFB Pokal
+      3x  KNVB beker
+      2x  U21 Professional Development League
+      2x  Copa del Rey
+      1x  Romania Cup
+      1x  Serie B
+      1x  Premier League
+      1x  Serie A
+      1x  HNL
+      1x  Division 1
+      1x  OFB Cup
+      1x  League Cup
+      1x  Pernambucano
+      1x  Czech Cup
+      1x  Kup BiH
+      1x  V-League 2
+      1x  Puchar Polski
+      1x  EFL Trophy
+      1x  Primera Division
+      1x  Liga Premier Serie A
+
+======================================================================

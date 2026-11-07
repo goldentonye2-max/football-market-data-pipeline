@@ -1,0 +1,24 @@
+========================================================================================================
+  TOP 2 PER MARKET  |  ranked by short_odds  |  source all_picks_2026-10-27.csv
+  Generated 2026-10-27 16:15
+========================================================================================================
+  -> 400 picks in all_picks_2026-10-27.csv
+  -> 157 after market filter: Over 1.5, Over 2.5, Away Win
+  -> 10 picks = top 2 per market by short_odds (5 markets)
+
+  Market                # Pool  Match                                 Odds Model%  Edge%  KO
+  ----------------------------------------------------------------------------------------------------
+  Away Win              1   49  Al-Shamal vs Al Hilal SFC             1.41   74.3   +3.4  27 19
+                        2   49  Ratchaburi FC vs Kashiwa Reysol       1.43   74.3   +4.4  27 13
+  HT Away Win           1   16  CD Cuarte vs Girona                   1.50   71.4   +4.8  27 18
+                        2   16  UD Castellonense vs Almeria           2.00   54.0   +4.0  27 19
+  HT Over 1.5           1   37  Colchester United U21 vs Queens Par   1.75   62.3   +5.1  27 20
+                        2   37  Bristol City U21 vs Millwall U21      1.77   62.3   +5.8  27 14
+  Over 1.5 Goals        1   19  GNK Dinamo Zagreb vs HNK Rijeka       1.22   87.2   +5.2  27 18
+                        2   19  Lam Dong FC vs PVF Cong An Nhan Dan   1.24   84.3   +3.7  27 09
+  Over 2.5 Goals        1   36  Bristol City U21 vs Millwall U21      1.28   81.4   +3.3  27 14
+                        2   36  Santiago FC vs Real Refineros Cds     1.28   81.2   +3.1  27 03
+
+  10 picks. Combined odds if booked as one slip: 46.4
+  Pool = how many picks that market had to choose from. Pool 2 with top 2 means no choice was made.
+========================================================================================================

@@ -1,0 +1,31 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-23
+  Generated : 2026-10-23 07:18:33
+  Legs      : 6
+  Sorted by : edge
+  Combined odds : 183.63
+======================================================================
+
+  BOOKING CODE:  K4MVYZ
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    23 11  Hoang Anh Gia Lai vs Song Lam Nghe  HT Away Win            2.85  + 18.9%  0.6617
+  2    23 20  Ipswich Town vs Nottingham Forest   HT Away Win            2.80  + 18.3%  0.6617
+  3    23 18  SV Lebring vs SV Wildon             Away Win               1.74  + 16.9%  0.7237
+  4    23 19  Trefelin BGC vs Flint Town United   HT Away Win            2.50  + 14.0%  0.6617
+  5    23 17  FC Hertha Wels vs ASK Voitsberg     Away Win               2.30  + 12.7%  0.7237
+  6    23 13  Charlton Athletic U21 vs Cardiff C  Away Win               2.30  + 12.7%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      1x  V-League 1
+      1x  Premier League
+      1x  Steiermark, Landesliga
+      1x  Cymru Premier
+      1x  2. Liga
+      1x  U21 Professional Development League
+
+======================================================================

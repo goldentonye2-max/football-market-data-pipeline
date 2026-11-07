@@ -1,0 +1,112 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-24
+  Generated : 2026-10-24 01:46:52
+  Legs      : 50
+  Sorted by : edge
+  Combined odds : 48,743,100.26
+======================================================================
+
+  BOOKING CODE:  P21LQD
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    24 12  Sparta Prague vs FC Zbrojovka Brno  Home Win               1.41  + 18.6%  0.7212
+  2    24 17  Gamle Oslo FK vs Baerum SK          Over 3.5 Goals         1.49  + 16.2%  0.6631
+  3    24 17  Shabab AL Ordun vs Al Wehdat        Over 1.5 Goals         1.37  + 14.2%  0.6116
+  4    24 19  KVC Westerlo vs KV Waasland-Bevere  Over 2.5 Goals         1.49  + 14.1%  0.6410
+  5    24 11  FC Hradec Kralove vs 1 FC Slovacko  Home Win               1.32  + 13.7%  0.7212
+  6    24 05  Newcastle United Jets vs Macarthur  Over 2.5 Goals         1.48  + 13.6%  0.6410
+  7    24 20  Columbus Crew vs Toronto FC         Over 2.5 Goals         1.48  + 13.6%  0.6410
+  8    24 14  Augsburg vs Union Berlin            Over 2.5 Goals         1.48  + 13.6%  0.6410
+  9    24 12  1. FC Magdeburg vs Karlsruher SC    Over 2.5 Goals         1.48  + 13.6%  0.6410
+  10   24 13  FC Viktoria Cologne vs SC Verl      Over 2.5 Goals         1.35  + 12.6%  0.6410
+  11   24 19  ES Setif vs CR Temouchent           Over 1.5 Goals         1.47  + 12.5%  0.6116
+  12   24 01  CA Tigre vs Atletico Tucuman        Over 1.5 Goals         1.50  + 12.5%  0.6116
+  13   24 15  KA Akureyri vs IBV Vestmannaeyjar   Over 2.5 Goals         1.45  + 12.2%  0.6410
+  14   24 15  Reading FC vs Barnsley FC           Over 2.5 Goals         1.45  + 12.2%  0.6410
+  15   24 11  Eyupspor vs Kasimpasa Istanbul      Over 1.5 Goals         1.34  + 11.6%  0.6116
+  16   24 20  Ferro Carril Oeste vs CA Chaco For  Home Win               1.49  + 11.4%  0.7212
+  17   24 15  Arsenal vs Everton                  Home Win               1.49  + 11.4%  0.7212
+  18   24 14  SK Treibach vs SVG Bleiburg         Home Win               1.48  + 11.0%  0.7212
+  19   24 11  KTS-K Luzino vs Lech II Poznan      Home Win               1.48  + 11.0%  0.7212
+  20   24 17  Al Duhail SC vs Lusail SC           Home Win               1.48  + 11.0%  0.7212
+  21   24 13  Spezia Calcio vs Latina Calcio      Home Win               1.47  + 10.5%  0.7212
+  22   24 15  Partick Thistle FC vs Stenhousemui  Home Win               1.47  + 10.5%  0.7212
+  23   24 14  Bangor 1876 FC vs Ruthin Town       Home Win               1.37  + 10.3%  0.7212
+  24   24 21  Puerto Montt vs Union San Felipe    Over 1.5 Goals         1.35  + 10.2%  0.6116
+  25   24 12  Hong Linh Ha Tinh FC vs Hai Phong   Over 1.5 Goals         1.35  + 10.2%  0.6116
+  26   24 13  Corluspor 1947 vs Menemen Belediye  Home Win               1.46  + 10.0%  0.7212
+  27   24 11  FC Gomel vs FC Dinamo Minsk         HT Over 0.5            1.43  +  9.5%  0.6199
+  28   24 12  FK Ufa vs FC Nizhny Novgorod        Over 1.5 Goals         1.30  +  9.3%  0.6116
+  29   24 15  KR Reykjavik vs Breidablik          Over 3.5 Goals         1.35  +  9.3%  0.6631
+  30   24 17  Borussia Dortmund vs Eintracht Fra  Over 2.5 Goals         1.37  +  9.2%  0.6410
+  31   24 11  AC Milan vs Ternana                 Home Win               1.44  +  9.1%  0.7212
+  32   24 19  Lazio vs Parma Calcio               Home Win               1.44  +  9.1%  0.7212
+  33   24 13  Chemnitzer FC vs FC Magdeburg II    Home Win               1.44  +  9.1%  0.7212
+  34   24 17  De Treffers Groesbeek vs Jong Spar  Home Win               1.44  +  9.1%  0.7212
+  35   24 03  Dimas Escazu vs Moravia             Home Win               1.44  +  9.1%  0.7212
+  36   24 11  Real Sociedad San Sebastian vs RCD  Home Win               1.44  +  9.1%  0.7212
+  37   24 16  Djurgardens IF vs Orgryte IS        HT Home Win            1.47  +  8.9%  0.6512
+  38   24 12  Port FC vs Rayong FC                Home Win               1.34  +  8.7%  0.7212
+  39   24 13  SK Brann vs Valerenga Oslo W        Home Win               1.43  +  8.6%  0.7212
+  40   24 06  Sanfrecce Hiroshima vs Shimizu S-P  Home Win               1.43  +  8.6%  0.7212
+  41   24 10  MKS Czarni Polaniec vs AKS 1947 Bu  Home Win               1.43  +  8.6%  0.7212
+  42   24 12  Sopoti Librazhd vs KF Oriku         Home Win               1.43  +  8.6%  0.7212
+  43   24 09  FK Mlada Boleslav B vs FK Caslav    Home Win               1.43  +  8.6%  0.7212
+  44   24 14  Swansea University vs Treowen Star  Home Win               1.43  +  8.6%  0.7212
+  45   24 07  Vissel Kobe vs Machida Zelvia       Over 1.5 Goals         1.38  +  8.6%  0.6116
+  46   24 14  Big Bullets vs Civil Service Unite  Over 1.5 Goals         1.39  +  8.5%  0.6116
+  47   24 11  FC Livyi Bereh Kyiv vs LNZ Cherkas  Over 1.5 Goals         1.44  +  8.3%  0.6116
+  48   24 17  Asteras Tripolis vs APO Levadiakos  Over 1.5 Goals         1.41  +  8.2%  0.6116
+  49   24 22  Portland Hearts of Pine vs Charlot  Over 2.5 Goals         1.37  +  8.2%  0.6410
+  50   24 17  Slavia Prague vs FK Mlada Boleslav  Over 2.5 Goals         1.37  +  8.2%  0.6410
+
+======================================================================
+  Tournament breakdown:
+      2x  U19 1. Liga
+      2x  Bundesliga
+      2x  Besta deild
+      2x  Premier League
+      2x  1. Liga
+      2x  J1 League
+      2x  Super League
+      1x  3. Division, Group 1
+      1x  Jordan League
+      1x  Pro League
+      1x  A-League
+      1x  MLS
+      1x  2. Bundesliga
+      1x  3. Liga
+      1x  Ligue 1
+      1x  Primera LPF
+      1x  League One
+      1x  Super Lig
+      1x  Primera Nacional
+      1x  Regionalliga Sud
+      1x  III Liga, Group 2
+      1x  Stars League
+      1x  Serie C, Group B
+      1x  Championship
+      1x  Cymru Championship, North
+      1x  Primera B
+      1x  V-League 1
+      1x  2. Lig
+      1x  Vysshaya Liga
+      1x  Serie A, Women
+      1x  Serie A
+      1x  Regionalliga Northeast
+      1x  Tweede Divisie
+      1x  Primera Division, Women
+      1x  Primera Division Women
+      1x  Allsvenskan
+      1x  Thai League 1
+      1x  Toppserien, Women
+      1x  III Liga, Group 4
+      1x  Kategoria e Pare
+      1x  CFL
+      1x  Cymru Championship South
+      1x  USL League One
+
+======================================================================

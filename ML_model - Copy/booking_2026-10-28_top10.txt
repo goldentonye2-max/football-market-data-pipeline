@@ -1,0 +1,35 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-28
+  Generated : 2026-10-28 12:14:46
+  Legs      : 9
+  Sorted by : edge
+  Combined odds : 297.57
+======================================================================
+
+  BOOKING CODE:  RWSM87
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    28 16  FK Borac Cacak vs FK Radnik Surdul  Away Win               1.92  + 22.3%  0.7237
+  2    28 16  1. FC Slovacko Uherske Hradiste vs  HT Away Win            2.95  + 20.5%  0.6617
+  3    28 17  FK Radnicki Nis vs FK Partizan Bel  Away Win               1.83  + 19.7%  0.7237
+  4    28 20  SD Amorebieta vs UD Logrones        Away Win               1.77  + 17.8%  0.7237
+  5    28 19  AL-Khaldiya SC vs Al Wahda FC (UAE  Away Win               1.75  + 17.2%  0.7237
+  6    28 17  Al Nahda vs Al Rayyan SC            Away Win               1.75  + 17.2%  0.7237
+  7    28 20  Genoa vs Juventus                   Away Win               1.74  + 16.9%  0.7237
+  8    28 11  Sagan Tosu vs Kawasaki Frontale     Away Win               1.71  + 15.9%  0.7237
+  9    28 13  OFK Vrsac vs OFK Beograd            Away Win               1.78  + 12.0%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      2x  Serbian Cup
+      2x  AFC Champions League Two
+      1x  Czech Cup
+      1x  Superliga
+      1x  Copa del Rey
+      1x  Serie A
+      1x  J.League Cup
+
+======================================================================

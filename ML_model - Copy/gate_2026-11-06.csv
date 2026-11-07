@@ -1,0 +1,469 @@
+home_team,away_team,kickoff,target,decimal_odds,signals,max_signals,decision,detail
+Nafta 1903 Lendava,Olimpija Ljubljana,2026-11-06 17:30,target__ht_away_win,2.35,3,3,✅ BET,m900036_Yes=4.50✓ | m900037_No=1.41✓ | m900038_Yes=4.50✓ | m900052_No=MISSING
+FC Aarau,FC Wil 1900,2026-11-06 20:15,target__over_3_5_goals,2.2,4,4,✅ BET,m450004_4=1.17✓ | m450004_5+=1.25✓ | m810002_3+=1.18✓ | m18_total=4_5_under_4_5=1.27✓
+Eintracht Braunschweig,Energie Cottbus,2026-11-06 18:30,target__over_3_5_goals,2.15,4,4,✅ BET,m450004_4=1.18✓ | m450004_5+=1.27✓ | m810002_3+=1.19✓ | m18_total=4_5_under_4_5=1.29✓
+Caerau Ely FC,Pontypridd Town,2026-11-06 20:45,target__over_3_5_goals,2.15,4,4,✅ BET,m450004_4=1.17✓ | m450004_5+=1.26✓ | m810002_3+=1.18✓ | m18_total=4_5_under_4_5=1.27✓
+Denbigh Town,Mold Alexandra FC,2026-11-06 20:45,target__over_3_5_goals,2.15,4,4,✅ BET,m450004_4=1.17✓ | m450004_5+=1.26✓ | m810002_3+=1.18✓ | m18_total=4_5_under_4_5=1.26✓
+Ammanford,Briton Ferry,2026-11-06 20:45,target__ht_away_win,2.1,3,3,✅ BET,m900036_Yes=5.25✓ | m900037_No=1.52✓ | m900038_Yes=5.50✓ | m900052_No=MISSING
+FC Viktoria Cologne,1. FC Saarbrucken,2026-11-06 19:00,target__over_3_5_goals,2.1,4,4,✅ BET,m450004_4=1.18✓ | m450004_5+=1.28✓ | m810002_3+=1.19✓ | m18_total=4_5_under_4_5=1.30✓
+Bala Town FC,Guilsfield FC,2026-11-06 20:45,target__over_3_5_goals,2.1,4,4,✅ BET,m450004_4=1.18✓ | m450004_5+=1.28✓ | m810002_3+=1.19✓ | m18_total=4_5_under_4_5=1.29✓
+FC Eindhoven,Jong Ajax Amsterdam,2026-11-06 20:00,target__ht_over_1_5_goals,1.96,2,2,✅ BET,m450004_4=1.19✓ | m810002_3+=1.22✓
+Maccabi Tel Aviv FC,Maccabi Petah Tikva FC,2026-11-06 13:00,target__ht_over_1_5_goals,1.84,2,2,✅ BET,m450004_4=1.19✓ | m810002_3+=1.26✓
+Nafta 1903 Lendava,Olimpija Ljubljana,2026-11-06 17:30,target__away_win,1.83,3,3,✅ BET,m900036_Yes=4.50✓ | m900037_No=1.41✓ | m900038_Yes=4.50✓ | m900052_No=MISSING
+Hammarby IF,IF Elfsborg,2026-11-06 19:00,target__ht_home_win,1.83,4,4,✅ BET,m900036_No=1.67✓ | m900037_Yes=7.00✓ | m900038_No=1.70✓ | m900052_Yes=7.50✓
+VVV Venlo,Jong PSV Eindhoven,2026-11-06 20:00,target__ht_over_1_5_goals,1.83,2,2,✅ BET,m450004_4=1.19✓ | m810002_3+=1.26✓
+Maccabi Tel Aviv FC,Maccabi Petah Tikva FC,2026-11-06 13:00,target__over_3_5_goals,1.83,4,4,✅ BET,m450004_4=1.19✓ | m450004_5+=1.40✓ | m810002_3+=1.26✓ | m18_total=4_5_under_4_5=1.42✓
+Fehring 1947,DSV Leoben,2026-11-06 19:00,target__ht_over_1_5_goals,1.77,2,2,✅ BET,m450004_4=1.19✓ | m810002_3+=1.27✓
+Swansea City U21,Bristol City U21,2026-11-06 20:00,target__ht_over_1_5_goals,1.75,2,2,✅ BET,m450004_4=1.19✓ | m810002_3+=1.29✓
+Antalyaspor,Bursaspor,2026-11-06 18:00,target__away_win,1.71,3,3,✅ BET,m900036_Yes=4.50✓ | m900037_No=1.43✓ | m900038_Yes=4.75✓ | m900052_No=MISSING
+Holywell Town,Airbus UK Broughton,2026-11-06 20:45,target__away_win,1.55,3,3,✅ BET,m900036_Yes=5.25✓ | m900037_No=1.53✓ | m900038_Yes=5.50✓ | m900052_No=MISSING
+MS Football Hapoel Kiryat Yam,FC Ashdod,2026-11-06 14:00,target__away_win,1.52,4,4,✅ BET,m900036_Yes=5.25✓ | m900037_No=1.53✓ | m900038_Yes=5.50✓ | m900052_No=1.53✓
+FC Stade Nyonnais,Stade Lausanne Ouchy,2026-11-06 19:30,target__away_win,1.43,3,3,✅ BET,m900036_Yes=6.00✓ | m900037_No=1.62✓ | m900038_Yes=6.00✓ | m900052_No=MISSING
+Bayern Munich W,Werder Bremen,2026-11-06 18:30,target__ht_home_win,1.43,4,4,✅ BET,m900036_No=2.08✓ | m900037_Yes=9.00✓ | m900038_No=2.08✓ | m900052_Yes=9.00✓
+Hammarby IF,IF Elfsborg,2026-11-06 19:00,target__home_win,1.41,4,4,✅ BET,m900036_No=1.67✓ | m900037_Yes=7.00✓ | m900038_No=1.70✓ | m900052_Yes=7.50✓
+DH van Hien,Huda Hue,2026-11-06 11:00,target__home_win,1.4,4,4,✅ BET,m900036_No=1.66✓ | m900037_Yes=6.50✓ | m900038_No=1.69✓ | m900052_Yes=6.50✓
+Neftchi Baku PFC,FK Kapaz,2026-11-06 17:00,target__home_win,1.4,4,4,✅ BET,m900036_No=1.65✓ | m900037_Yes=6.50✓ | m900038_No=1.68✓ | m900052_Yes=6.50✓
+Universidad de Chile,CD Antofagasta,2026-11-05 23:00,target__home_win,1.39,4,4,✅ BET,m900036_No=1.65✓ | m900037_Yes=6.00✓ | m900038_No=1.72✓ | m900052_Yes=6.50✓
+Connah`s Quay Nomads FC,Flint Town United,2026-11-06 21:00,target__home_win,1.38,3,3,✅ BET,m900036_No=1.70✓ | m900037_Yes=6.50✓ | m900038_No=1.70✓ | m900052_Yes=MISSING
+FC Eindhoven,Jong Ajax Amsterdam,2026-11-06 20:00,target__over_2_5_goals,1.38,3,3,✅ BET,m450004_4=1.19✓ | m450004_5+=1.34✓ | m810002_3+=1.22✓
+FC Roskilde,HIK Hellerup,2026-11-06 19:00,target__home_win,1.35,4,4,✅ BET,m900036_No=1.67✓ | m900037_Yes=6.50✓ | m900038_No=1.68✓ | m900052_Yes=6.50✓
+RWD Molenbeek Youth,KV Kortrijk,2026-11-06 20:00,target__over_2_5_goals,1.35,2,2,✅ BET,m450004_4=1.19✓ | m450004_5+=1.37✓ | m810002_3+=MISSING
+Sepahan SC,Malavan Bandar Anzali FC,2026-11-06 13:00,target__home_win,1.33,4,4,✅ BET,m900036_No=1.71✓ | m900037_Yes=8.00✓ | m900038_No=1.80✓ | m900052_Yes=8.00✓
+Maccabi Tel Aviv FC,Maccabi Petah Tikva FC,2026-11-06 13:00,target__over_2_5_goals,1.33,3,3,✅ BET,m450004_4=1.19✓ | m450004_5+=1.40✓ | m810002_3+=1.26✓
+Queretaro FC,Deportivo Toluca FC,2026-11-06 02:06,target__over_2_5_goals,1.32,3,3,✅ BET,m450004_4=1.19✓ | m450004_5+=1.40✓ | m810002_3+=1.25✓
+Brentford U21,Wolverhampton Wanderers U21,2026-11-06 20:00,target__over_2_5_goals,1.32,2,2,✅ BET,m450004_4=1.19✓ | m450004_5+=1.40✓ | m810002_3+=MISSING
+KV RS Waasland Beveren,RFC Seraing,2026-11-06 19:30,target__over_2_5_goals,1.31,2,2,✅ BET,m450004_4=1.19✓ | m450004_5+=1.42✓ | m810002_3+=MISSING
+Jong AZ Alkmaar,Almere City FC,2026-11-06 20:00,target__over_2_5_goals,1.31,3,3,✅ BET,m450004_4=1.19✓ | m450004_5+=1.43✓ | m810002_3+=1.26✓
+VVV Venlo,Jong PSV Eindhoven,2026-11-06 20:00,target__over_2_5_goals,1.31,3,3,✅ BET,m450004_4=1.19✓ | m450004_5+=1.43✓ | m810002_3+=1.26✓
+Fehring 1947,DSV Leoben,2026-11-06 19:00,target__over_2_5_goals,1.3,3,3,✅ BET,m450004_4=1.19✓ | m450004_5+=1.42✓ | m810002_3+=1.27✓
+Llanelli Town,Pontardawe Town FC,2026-11-06 20:30,target__home_clean_sheet,7.4,-,-,NOT FILTERED,target not in gate
+ACS Champions FC Arges,FC Dinamo Bucuresti 1948,2026-11-06 19:30,target__over_4_5_goals,7.1,-,-,NOT FILTERED,target not in gate
+Hammarby IF,IF Elfsborg,2026-11-06 19:00,target__away_clean_sheet,6.5,-,-,NOT FILTERED,target not in gate
+Brentford U21,Wolverhampton Wanderers U21,2026-11-06 20:00,target__away_clean_sheet,6.5,-,-,NOT FILTERED,target not in gate
+Binh Phuoc,SHB Da Nang,2026-11-06 12:00,target__over_4_5_goals,6.5,-,-,NOT FILTERED,target not in gate
+Alacranes de Durango,Leones Negros UDEG,2026-11-06 04:05,target__over_4_5_goals,6.4,-,-,NOT FILTERED,target not in gate
+KV RS Waasland Beveren,RFC Seraing,2026-11-06 19:30,target__away_clean_sheet,6.1,-,-,NOT FILTERED,target not in gate
+KVC Westerlo,K Beerschot VA,2026-11-06 20:30,target__away_clean_sheet,5.75,-,-,NOT FILTERED,target not in gate
+MS Tira,Hapoel Nof Hagalil FC,2026-11-06 11:40,target__over_4_5_goals,5.75,-,-,NOT FILTERED,target not in gate
+AL Jazeera Club Amman,Ramtha SC,2026-11-06 15:00,target__over_4_5_goals,5.75,-,-,NOT FILTERED,target not in gate
+KRC Genk,RSC Anderlecht,2026-11-06 20:00,target__draw,5.6,-,-,NOT FILTERED,target not in gate
+Neftchi Baku PFC,FK Kapaz,2026-11-06 17:00,target__away_clean_sheet,5.5,-,-,NOT FILTERED,target not in gate
+FC BKMA Yerevan,FC Alashkert Yerevan,2026-11-06 16:00,target__draw,5.5,-,-,NOT FILTERED,target not in gate
+Oxford City,Leicester,2026-11-06 20:45,target__draw,5.5,-,-,NOT FILTERED,target not in gate
+Alcione Milano,AC Lumezzane,2026-11-06 20:30,target__over_4_5_goals,5.5,-,-,NOT FILTERED,target not in gate
+Botev Plovdiv,FC Dunav Ruse,2026-11-06 18:15,target__away_clean_sheet,5.4,-,-,NOT FILTERED,target not in gate
+Paris FC W,Montpellier FC,2026-11-06 19:00,target__draw,5.4,-,-,NOT FILTERED,target not in gate
+Al Shabab Kuwait,AL Tadhamon,2026-11-06 17:40,target__over_4_5_goals,5.3,-,-,NOT FILTERED,target not in gate
+SFC Opava,FC Vlasim,2026-11-06 18:00,target__over_4_5_goals,5.0,-,-,NOT FILTERED,target not in gate
+Universidad de Chile,CD Antofagasta,2026-11-05 23:00,target__draw,4.9,-,-,NOT FILTERED,target not in gate
+FC Gleisdorf 09,SC Weiz,2026-11-06 19:00,target__home_clean_sheet,4.75,-,-,NOT FILTERED,target not in gate
+Trefelin BGC,Colwyn Bay,2026-11-06 20:45,target__draw,4.7,-,-,NOT FILTERED,target not in gate
+Hapoel Karmiel FC,Baqa Al-Gharbiyye,2026-11-06 09:30,target__over_4_5_goals,4.7,-,-,NOT FILTERED,target not in gate
+Ruthin Town,Newtown AFC,2026-11-06 20:45,target__draw,4.6,-,-,NOT FILTERED,target not in gate
+Al-Fahaheel,Al Salibikhaet,2026-11-06 15:25,target__over_4_5_goals,4.6,-,-,NOT FILTERED,target not in gate
+Young Boys Bern,FC Basel,2026-11-06 19:00,target__over_4_5_goals,4.6,-,-,NOT FILTERED,target not in gate
+FC Dordrecht,NAC Breda,2026-11-06 20:00,target__draw,4.5,-,-,NOT FILTERED,target not in gate
+MS Football Hapoel Kiryat Yam,FC Ashdod,2026-11-06 14:00,target__draw,4.3,-,-,NOT FILTERED,target not in gate
+Swansea City U21,Bristol City U21,2026-11-06 20:00,target__draw,4.3,-,-,NOT FILTERED,target not in gate
+Nafta 1903 Lendava,Olimpija Ljubljana,2026-11-06 17:30,target__home_clean_sheet,4.3,-,-,NOT FILTERED,target not in gate
+Denbigh Town,Mold Alexandra FC,2026-11-06 20:45,target__home_clean_sheet,4.1,-,-,NOT FILTERED,target not in gate
+Club Santos Laguna,Club Tijuana de Caliente,2026-11-06 04:10,target__home_clean_sheet,4.0,-,-,NOT FILTERED,target not in gate
+Adelaide United FC,Wellington Phoenix,2026-11-06 09:00,target__home_clean_sheet,4.0,-,-,NOT FILTERED,target not in gate
+Karvina,FC Fastav Zlin,2026-11-06 11:00,target__home_clean_sheet,4.0,-,-,NOT FILTERED,target not in gate
+Cambrian United,Barry Town United FC,2026-11-06 20:45,target__home_clean_sheet,4.0,-,-,NOT FILTERED,target not in gate
+AL Wakrah SC,Al Shahaniya,2026-11-06 17:30,target__over_4_5_goals,4.0,-,-,NOT FILTERED,target not in gate
+Puszcza Niepolomice,Miedz Legnica,2026-11-06 18:00,target__home_clean_sheet,3.9,-,-,NOT FILTERED,target not in gate
+CWKS Resovia,Gornik Leczna,2026-11-06 18:00,target__home_clean_sheet,3.8,-,-,NOT FILTERED,target not in gate
+Zebbug Rangers FC,St Andrews FC,2026-11-06 18:15,target__home_clean_sheet,3.8,-,-,NOT FILTERED,target not in gate
+ACS Champions FC Arges,FC Dinamo Bucuresti 1948,2026-11-06 19:30,target__home_clean_sheet,3.8,-,-,NOT FILTERED,target not in gate
+Silkeborg IF,Lyngby BK,2026-11-06 19:00,target__draw,3.75,-,-,NOT FILTERED,target not in gate
+SC Kalsdorf,Deutschlandsberger SC,2026-11-06 19:00,target__home_clean_sheet,3.75,-,-,NOT FILTERED,target not in gate
+Baglan Dragons,Ynyshir Albions,2026-11-06 20:30,target__home_clean_sheet,3.75,-,-,NOT FILTERED,target not in gate
+Kickers Emden,VfB Lubeck,2026-11-06 19:00,target__home_clean_sheet,3.7,-,-,NOT FILTERED,target not in gate
+Reading U21,Newcastle United U21,2026-11-06 20:00,target__home_clean_sheet,3.7,-,-,NOT FILTERED,target not in gate
+Reading U21,Newcastle United U21,2026-11-06 20:00,target__over_4_5_goals,3.7,-,-,NOT FILTERED,target not in gate
+FC Aarau,FC Wil 1900,2026-11-06 20:15,target__over_4_5_goals,3.7,-,-,NOT FILTERED,target not in gate
+Al Arabi Doha SC,Al Ahli Doha SC,2026-11-06 15:15,target__home_clean_sheet,3.6,-,-,NOT FILTERED,target not in gate
+Jong KRC Genk,Jeugd KAA Gent B,2026-11-06 20:00,target__home_clean_sheet,3.6,-,-,NOT FILTERED,target not in gate
+Derby County,Bolton Wanderers,2026-11-06 21:00,target__home_clean_sheet,3.6,-,-,NOT FILTERED,target not in gate
+Caerau Ely FC,Pontypridd Town,2026-11-06 20:45,target__over_4_5_goals,3.6,-,-,NOT FILTERED,target not in gate
+Persepolis FC,Fajr Sepasi FC,2026-11-06 14:00,target__btts_yes,3.5,-,-,NOT FILTERED,target not in gate
+FC Viktoria Cologne,1. FC Saarbrucken,2026-11-06 19:00,target__over_4_5_goals,3.5,-,-,NOT FILTERED,target not in gate
+Aluminium Arak,Mes Shahr-e Babak,2026-11-06 13:00,target__btts_yes,3.33,-,-,NOT FILTERED,target not in gate
+UD Santarem,CD Mafra,2026-11-06 20:00,target__home_clean_sheet,3.2,-,-,NOT FILTERED,target not in gate
+CD Choloma,CA Independiente Siguatepeque,2026-11-06 00:15,target__home_clean_sheet,3.1,-,-,NOT FILTERED,target not in gate
+Bangor 1876 FC,Gresford Athletic,2026-11-06 20:30,target__ht_draw,3.0,-,-,NOT FILTERED,target not in gate
+Llanelli Town,Pontardawe Town FC,2026-11-06 20:30,target__ht_draw,2.95,-,-,NOT FILTERED,target not in gate
+SE Palmeiras SP,Clube do Remo PA,2026-11-05 23:30,target__ht_draw,2.9,-,-,NOT FILTERED,target not in gate
+Club Necaxa,Atlas FC,2026-11-06 00:00,target__ht_draw,2.9,-,-,NOT FILTERED,target not in gate
+RWD Molenbeek Youth,KV Kortrijk,2026-11-06 20:00,target__over_4_5_goals,2.9,-,-,NOT FILTERED,target not in gate
+Bangor 1876 FC,Gresford Athletic,2026-11-06 20:30,target__over_4_5_goals,2.85,-,-,NOT FILTERED,target not in gate
+Oxford City,Leicester,2026-11-06 20:45,target__ht_draw,2.8,-,-,NOT FILTERED,target not in gate
+Atlante FC,CF Tigres UANL,2026-11-05 22:45,target__over_4_5_goals,2.8,-,-,NOT FILTERED,target not in gate
+Maccabi Tel Aviv FC,Maccabi Petah Tikva FC,2026-11-06 13:00,target__over_4_5_goals,2.8,-,-,NOT FILTERED,target not in gate
+Gimnasia y Esgrima La Plata,CA Belgrano de Cordoba,2026-11-05 23:15,target__home_clean_sheet,2.7,-,-,NOT FILTERED,target not in gate
+Al Arabi Doha SC,Al Ahli Doha SC,2026-11-06 15:15,target__btts_no,2.65,-,-,NOT FILTERED,target not in gate
+FC Dordrecht,NAC Breda,2026-11-06 20:00,target__ht_draw,2.65,-,-,NOT FILTERED,target not in gate
+SV Pachern,ASK Koflach,2026-11-06 19:00,target__btts_no,2.6,-,-,NOT FILTERED,target not in gate
+Sepahan SC,Malavan Bandar Anzali FC,2026-11-06 13:00,target__btts_yes,2.6,-,-,NOT FILTERED,target not in gate
+Holywell Town,Airbus UK Broughton,2026-11-06 20:45,target__ht_draw,2.6,-,-,NOT FILTERED,target not in gate
+Holywell Town,Airbus UK Broughton,2026-11-06 20:45,target__away_clean_sheet,2.55,-,-,NOT FILTERED,target not in gate
+CA San Lorenzo de Almagro,CA Platense,2026-11-06 23:15,target__away_clean_sheet,2.55,-,-,NOT FILTERED,target not in gate
+FC Schalke 04 II,Borussia Monchengladbach II,2026-11-06 14:00,target__btts_no,2.55,-,-,NOT FILTERED,target not in gate
+FC Uta Arad,FC Petrolul Ploiesti,2026-11-06 16:30,target__home_clean_sheet,2.55,-,-,NOT FILTERED,target not in gate
+Eintracht Braunschweig,Energie Cottbus,2026-11-06 18:30,target__ht_draw,2.55,-,-,NOT FILTERED,target not in gate
+Eintracht Frankfurt,VfL Wolfsburg W,2026-11-06 18:30,target__ht_draw,2.5,-,-,NOT FILTERED,target not in gate
+Chador Malu Yazd,Foolad Khuzestan FC,2026-11-06 15:00,target__away_clean_sheet,2.45,-,-,NOT FILTERED,target not in gate
+Fehring 1947,DSV Leoben,2026-11-06 19:00,target__btts_no,2.45,-,-,NOT FILTERED,target not in gate
+Club Bolivar,Real Potosi,2026-11-06 00:00,target__btts_yes,2.45,-,-,NOT FILTERED,target not in gate
+Neftchi Baku PFC,FK Kapaz,2026-11-06 17:00,target__ht_draw,2.45,-,-,NOT FILTERED,target not in gate
+Botev Plovdiv,FC Dunav Ruse,2026-11-06 18:15,target__ht_draw,2.45,-,-,NOT FILTERED,target not in gate
+Dynamo Dresden,Greuther Furth,2026-11-06 18:30,target__ht_draw,2.45,-,-,NOT FILTERED,target not in gate
+TOP Oss,RKC Waalwijk,2026-11-06 20:00,target__ht_draw,2.45,-,-,NOT FILTERED,target not in gate
+Cambrian United,Barry Town United FC,2026-11-06 20:45,target__ht_draw,2.45,-,-,NOT FILTERED,target not in gate
+Everton,Coventry City,2026-11-06 21:00,target__ht_draw,2.45,-,-,NOT FILTERED,target not in gate
+Canberra Croatia FC,Sydney United 58 FC,2026-11-06 09:30,target__away_clean_sheet,2.4,-,-,NOT FILTERED,target not in gate
+Club Santos Laguna,Club Tijuana de Caliente,2026-11-06 04:10,target__btts_no,2.4,-,-,NOT FILTERED,target not in gate
+Shillong Lajong FC,Chanmari FC,2026-11-06 14:00,target__ht_draw,2.4,-,-,NOT FILTERED,target not in gate
+FK Usti nad Labem,FK Viktoria Zizkov,2026-11-06 18:00,target__ht_draw,2.4,-,-,NOT FILTERED,target not in gate
+Wisla Krakow,KS Cracovia Krakow,2026-11-06 20:30,target__ht_draw,2.4,-,-,NOT FILTERED,target not in gate
+Standard Liege,KV Waasland-Beveren,2026-11-06 20:45,target__ht_draw,2.4,-,-,NOT FILTERED,target not in gate
+FC Stade Nyonnais,Stade Lausanne Ouchy,2026-11-06 19:30,target__away_clean_sheet,2.35,-,-,NOT FILTERED,target not in gate
+CA Barracas Central,Racing Club Avellaneda,2026-11-06 19:00,target__home_clean_sheet,2.35,-,-,NOT FILTERED,target not in gate
+Pieta Hotspurs FC,Zurrieq,2026-11-06 20:45,target__home_clean_sheet,2.35,-,-,NOT FILTERED,target not in gate
+SK Hranice,FC Zbrojovka Brno B,2026-11-06 17:00,target__ht_draw,2.35,-,-,NOT FILTERED,target not in gate
+Ascoli Calcio 1898,Palermo FC,2026-11-06 20:30,target__ht_draw,2.35,-,-,NOT FILTERED,target not in gate
+Arnett Gardens FC,Mount Pleasant FC,2026-11-06 01:00,target__btts_no,2.3,-,-,NOT FILTERED,target not in gate
+SK Hranice,FC Zbrojovka Brno B,2026-11-06 17:00,target__btts_no,2.3,-,-,NOT FILTERED,target not in gate
+Ilirija Ljubljana,Triglav Kranj,2026-11-06 14:00,target__ht_draw,2.3,-,-,NOT FILTERED,target not in gate
+FC Uta Arad,FC Petrolul Ploiesti,2026-11-06 16:30,target__ht_draw,2.3,-,-,NOT FILTERED,target not in gate
+Tapachula Soconusco FC,Zacatepec FC,2026-11-06 19:00,target__ht_draw,2.3,-,-,NOT FILTERED,target not in gate
+LKP Motor Lublin,Wisla Plock,2026-11-06 18:00,target__btts_no,2.25,-,-,NOT FILTERED,target not in gate
+Adelaide United FC,Wellington Phoenix,2026-11-06 09:00,target__ht_draw,2.25,-,-,NOT FILTERED,target not in gate
+Gaziantep FK,Kasimpasa Istanbul,2026-11-06 18:00,target__ht_draw,2.25,-,-,NOT FILTERED,target not in gate
+Nancy-Lorraine,Sochaux-Montbeliard,2026-11-06 20:00,target__ht_draw,2.25,-,-,NOT FILTERED,target not in gate
+Kenya Commercial Bank,Aps Bomet FC,2026-11-06 14:00,target__btts_yes,2.2,-,-,NOT FILTERED,target not in gate
+CD Choloma,CA Independiente Siguatepeque,2026-11-06 00:15,target__btts_no,2.15,-,-,NOT FILTERED,target not in gate
+Ilirija Ljubljana,Triglav Kranj,2026-11-06 14:00,target__btts_no,2.15,-,-,NOT FILTERED,target not in gate
+FK Pohronie Ziar Nad Hronom Dolna Zdana,OFK Banik Lehota Pod Vtacnikom,2026-11-06 17:00,target__btts_no,2.15,-,-,NOT FILTERED,target not in gate
+Holywell Town,Airbus UK Broughton,2026-11-06 20:45,target__btts_no,2.15,-,-,NOT FILTERED,target not in gate
+Canberra Croatia FC,Sydney United 58 FC,2026-11-06 09:30,target__btts_no,2.1,-,-,NOT FILTERED,target not in gate
+Al Shabab Kuwait,AL Tadhamon,2026-11-06 17:40,target__btts_no,2.1,-,-,NOT FILTERED,target not in gate
+Thisted FC,BK Fremad Amager,2026-11-06 19:00,target__btts_no,2.05,-,-,NOT FILTERED,target not in gate
+Real Aviles CF,CD Extremadura,2026-11-06 21:15,target__btts_no,2.05,-,-,NOT FILTERED,target not in gate
+Sariyer SK,Igdir FK,2026-11-06 18:00,target__ht_draw,2.05,-,-,NOT FILTERED,target not in gate
+Raith Rovers FC,Dunfermline Athletic FC,2026-11-06 20:30,target__ht_draw,2.05,-,-,NOT FILTERED,target not in gate
+CA Independiente Avellaneda,Deportivo Riestra AFBC,2026-11-06 23:15,target__ht_draw,2.05,-,-,NOT FILTERED,target not in gate
+CWKS Resovia,Gornik Leczna,2026-11-06 18:00,target__btts_no,2.0,-,-,NOT FILTERED,target not in gate
+Sevilla,Alaves,2026-11-06 21:00,target__btts_yes,2.0,-,-,NOT FILTERED,target not in gate
+FC Goa,Bengaluru FC,2026-11-06 15:00,target__btts_no,1.97,-,-,NOT FILTERED,target not in gate
+FC BKMA Yerevan,FC Alashkert Yerevan,2026-11-06 16:00,target__btts_yes,1.97,-,-,NOT FILTERED,target not in gate
+Psim Yogyakarta,Dewa United,2026-11-06 09:30,target__btts_no,1.95,-,-,NOT FILTERED,target not in gate
+AVS Futebol SAD,FC Vizela,2026-11-06 19:45,target__btts_no,1.95,-,-,NOT FILTERED,target not in gate
+FK Bokelj Kotor,FK Mornar Bar,2026-11-06 17:00,target__ht_draw,1.92,-,-,NOT FILTERED,target not in gate
+Cancun FC,Piratas Veracruz,2026-11-06 02:00,target__btts_yes,1.91,-,-,NOT FILTERED,target not in gate
+Club Necaxa,Atlas FC,2026-11-06 00:00,target__btts_yes,1.9,-,-,NOT FILTERED,target not in gate
+Union Touarga,Union Sportif Amal Tiznit,2026-11-06 21:00,target__ht_draw,1.9,-,-,NOT FILTERED,target not in gate
+Union Magdalena,Independiente Valle Del Cauca,2026-11-06 01:00,target__btts_yes,1.89,-,-,NOT FILTERED,target not in gate
+FC Famalicao,FC Arouca,2026-11-06 21:45,target__btts_yes,1.87,-,-,NOT FILTERED,target not in gate
+CA San Lorenzo de Almagro,CA Platense,2026-11-06 23:15,target__ht_draw,1.86,-,-,NOT FILTERED,target not in gate
+Al-Zlfe,Jeddah Club,2026-11-06 15:55,target__home_clean_sheet,1.85,-,-,NOT FILTERED,target not in gate
+Al Baqaa,Al Wehdat,2026-11-06 17:30,target__btts_yes,1.84,-,-,NOT FILTERED,target not in gate
+FC Roskilde,HIK Hellerup,2026-11-06 19:00,target__btts_yes,1.82,-,-,NOT FILTERED,target not in gate
+Rubio Nu,Sportivo Luqueno,2026-11-05 23:00,target__btts_yes,1.81,-,-,NOT FILTERED,target not in gate
+Lokomotiv Moscow,FK Rubin Kazan,2026-11-06 17:30,target__btts_yes,1.81,-,-,NOT FILTERED,target not in gate
+Chador Malu Yazd,Foolad Khuzestan FC,2026-11-06 15:00,target__ht_draw,1.8,-,-,NOT FILTERED,target not in gate
+Smouha SC,Minya SC,2026-11-06 13:30,target__home_clean_sheet,1.79,-,-,NOT FILTERED,target not in gate
+Bnei Yehuda Tel Aviv FC,Maccabi Achi Nazareth FC,2026-11-06 14:00,target__btts_yes,1.77,-,-,NOT FILTERED,target not in gate
+Universidad de Chile,CD Antofagasta,2026-11-05 23:00,target__btts_yes,1.72,-,-,NOT FILTERED,target not in gate
+Gaziantep FK,Kasimpasa Istanbul,2026-11-06 18:00,target__btts_yes,1.72,-,-,NOT FILTERED,target not in gate
+CD Genesis PN,Real CD Espana San Pedro Sula,2026-11-05 22:00,target__btts_yes,1.7,-,-,NOT FILTERED,target not in gate
+Aluminium Arak,Mes Shahr-e Babak,2026-11-06 13:00,target__over_1_5_goals,1.68,-,-,NOT FILTERED,target not in gate
+FK Bokelj Kotor,FK Mornar Bar,2026-11-06 17:00,target__btts_no,1.66,-,-,NOT FILTERED,target not in gate
+Venezia FC,Udinese,2026-11-06 20:45,target__btts_yes,1.66,-,-,NOT FILTERED,target not in gate
+Smouha SC,Minya SC,2026-11-06 13:30,target__btts_no,1.62,-,-,NOT FILTERED,target not in gate
+Heracles Almelo,Roda JC Kerkrade,2026-11-06 20:00,target__btts_yes,1.62,-,-,NOT FILTERED,target not in gate
+FC Polissya Zhytomyr,Veres Rivne,2026-11-06 12:00,target__btts_no,1.61,-,-,NOT FILTERED,target not in gate
+Al-Zlfe,Jeddah Club,2026-11-06 15:55,target__btts_no,1.61,-,-,NOT FILTERED,target not in gate
+Montpellier,Metz,2026-11-06 20:00,target__btts_yes,1.6,-,-,NOT FILTERED,target not in gate
+Bangor 1876 FC,Gresford Athletic,2026-11-06 20:30,target__btts_yes,1.6,-,-,NOT FILTERED,target not in gate
+Derby County,Bolton Wanderers,2026-11-06 21:00,target__btts_yes,1.59,-,-,NOT FILTERED,target not in gate
+Chador Malu Yazd,Foolad Khuzestan FC,2026-11-06 15:00,target__over_1_5_goals,1.58,-,-,NOT FILTERED,target not in gate
+Union Touarga,Union Sportif Amal Tiznit,2026-11-06 21:00,target__over_1_5_goals,1.57,-,-,NOT FILTERED,target not in gate
+CA San Lorenzo de Almagro,CA Platense,2026-11-06 23:15,target__over_1_5_goals,1.57,-,-,NOT FILTERED,target not in gate
+Ascoli Calcio 1898,Palermo FC,2026-11-06 20:30,target__btts_yes,1.52,-,-,NOT FILTERED,target not in gate
+Kenya Commercial Bank,Aps Bomet FC,2026-11-06 14:00,target__over_1_5_goals,1.52,-,-,NOT FILTERED,target not in gate
+CA Independiente Avellaneda,Deportivo Riestra AFBC,2026-11-06 23:15,target__over_1_5_goals,1.51,-,-,NOT FILTERED,target not in gate
+Hassania Union Sport Agadir,Rs Berkane,2026-11-06 18:00,target__ht_over_0_5_goals,1.49,-,-,NOT FILTERED,target not in gate
+FC Famalicao,FC Arouca,2026-11-06 21:45,target__ht_over_0_5_goals,1.45,-,-,NOT FILTERED,target not in gate
+Eintracht Braunschweig,Energie Cottbus,2026-11-06 18:30,target__btts_yes,1.44,-,-,NOT FILTERED,target not in gate
+ACS Champions FC Arges,FC Dinamo Bucuresti 1948,2026-11-06 19:30,target__ht_over_0_5_goals,1.44,-,-,NOT FILTERED,target not in gate
+Vejle BK,FC Fredericia,2026-11-06 18:00,target__btts_yes,1.43,-,-,NOT FILTERED,target not in gate
+Gimnasia y Esgrima La Plata,CA Belgrano de Cordoba,2026-11-05 23:15,target__ht_over_0_5_goals,1.41,-,-,NOT FILTERED,target not in gate
+CS Herediano,Deportivo Saprissa San Jose,2026-11-06 03:00,target__ht_over_0_5_goals,1.4,-,-,NOT FILTERED,target not in gate
+Sepahan SC,Malavan Bandar Anzali FC,2026-11-06 13:00,target__ht_over_0_5_goals,1.4,-,-,NOT FILTERED,target not in gate
+FC Goa,Bengaluru FC,2026-11-06 15:00,target__ht_over_0_5_goals,1.4,-,-,NOT FILTERED,target not in gate
+Gaziantep FK,Kasimpasa Istanbul,2026-11-06 18:00,target__ht_over_0_5_goals,1.4,-,-,NOT FILTERED,target not in gate
+AVS Futebol SAD,FC Vizela,2026-11-06 19:45,target__ht_over_0_5_goals,1.4,-,-,NOT FILTERED,target not in gate
+Sevilla,Alaves,2026-11-06 21:00,target__over_1_5_goals,1.39,-,-,NOT FILTERED,target not in gate
+CD Genesis PN,Real CD Espana San Pedro Sula,2026-11-05 22:00,target__ht_over_0_5_goals,1.38,-,-,NOT FILTERED,target not in gate
+Botafogo FC SP,Londrina EC PR,2026-11-05 23:30,target__ht_over_0_5_goals,1.38,-,-,NOT FILTERED,target not in gate
+Sepahan SC,Malavan Bandar Anzali FC,2026-11-06 13:00,target__over_1_5_goals,1.38,-,-,NOT FILTERED,target not in gate
+FK Septemvri Sofia,FC Lokomotiv 1929 Sofia,2026-11-06 16:00,target__ht_over_0_5_goals,1.37,-,-,NOT FILTERED,target not in gate
+Venezia FC,Udinese,2026-11-06 20:45,target__ht_over_0_5_goals,1.37,-,-,NOT FILTERED,target not in gate
+Persepolis FC,Fajr Sepasi FC,2026-11-06 14:00,target__over_1_5_goals,1.37,-,-,NOT FILTERED,target not in gate
+AL Jazeera Club Amman,Ramtha SC,2026-11-06 15:00,target__ht_over_0_5_goals,1.36,-,-,NOT FILTERED,target not in gate
+Al Baqaa,Al Wehdat,2026-11-06 17:30,target__ht_over_0_5_goals,1.36,-,-,NOT FILTERED,target not in gate
+FC Famalicao,FC Arouca,2026-11-06 21:45,target__over_1_5_goals,1.36,-,-,NOT FILTERED,target not in gate
+CWKS Resovia,Gornik Leczna,2026-11-06 18:00,target__ht_over_0_5_goals,1.35,-,-,NOT FILTERED,target not in gate
+Alcione Milano,AC Lumezzane,2026-11-06 20:30,target__ht_over_0_5_goals,1.35,-,-,NOT FILTERED,target not in gate
+ACS Champions FC Arges,FC Dinamo Bucuresti 1948,2026-11-06 19:30,target__over_1_5_goals,1.35,-,-,NOT FILTERED,target not in gate
+Nafta 1903 Lendava,Olimpija Ljubljana,2026-11-06 17:30,target__ht_over_0_5_goals,1.34,-,-,NOT FILTERED,target not in gate
+Al Shabab Kuwait,AL Tadhamon,2026-11-06 17:40,target__ht_over_0_5_goals,1.34,-,-,NOT FILTERED,target not in gate
+Young Violets Wien,First Vienna FC 1894,2026-11-06 18:30,target__ht_over_0_5_goals,1.34,-,-,NOT FILTERED,target not in gate
+Ammanford,Briton Ferry,2026-11-06 20:45,target__ht_over_0_5_goals,1.34,-,-,NOT FILTERED,target not in gate
+Cliftonville FC,Larne FC,2026-11-06 20:45,target__ht_over_0_5_goals,1.34,-,-,NOT FILTERED,target not in gate
+Derby County,Bolton Wanderers,2026-11-06 21:00,target__ht_over_0_5_goals,1.34,-,-,NOT FILTERED,target not in gate
+Rubio Nu,Sportivo Luqueno,2026-11-05 23:00,target__over_1_5_goals,1.34,-,-,NOT FILTERED,target not in gate
+Binh Phuoc,SHB Da Nang,2026-11-06 12:00,target__over_1_5_goals,1.33,-,-,NOT FILTERED,target not in gate
+Lokomotiv Moscow,FK Rubin Kazan,2026-11-06 17:30,target__over_1_5_goals,1.33,-,-,NOT FILTERED,target not in gate
+Montpellier,Metz,2026-11-06 20:00,target__ht_over_0_5_goals,1.32,-,-,NOT FILTERED,target not in gate
+USL Dunkerque,EA Guingamp,2026-11-06 20:00,target__ht_over_0_5_goals,1.32,-,-,NOT FILTERED,target not in gate
+Gimnasia y Esgrima La Plata,CA Belgrano de Cordoba,2026-11-05 23:15,target__over_1_5_goals,1.32,-,-,NOT FILTERED,target not in gate
+Alacranes de Durango,Leones Negros UDEG,2026-11-06 04:05,target__over_1_5_goals,1.32,-,-,NOT FILTERED,target not in gate
+Nancy-Lorraine,Sochaux-Montbeliard,2026-11-06 20:00,target__over_1_5_goals,1.32,-,-,NOT FILTERED,target not in gate
+Sunderland U21,Blackburn Rovers U21,2026-11-06 20:00,target__btts_yes,1.31,-,-,NOT FILTERED,target not in gate
+Sporting Hasselt,Patro Eisden Maasmechelen,2026-11-06 20:00,target__ht_over_0_5_goals,1.31,-,-,NOT FILTERED,target not in gate
+Toulouse,Strasbourg,2026-11-06 20:45,target__ht_over_0_5_goals,1.31,-,-,NOT FILTERED,target not in gate
+FC Goa,Bengaluru FC,2026-11-06 15:00,target__over_1_5_goals,1.31,-,-,NOT FILTERED,target not in gate
+Silkeborg IF,Lyngby BK,2026-11-06 19:00,target__ht_over_0_5_goals,1.3,-,-,NOT FILTERED,target not in gate
+Nea Salamina Famagusta,Omonia Aradippou,2026-11-06 18:00,target__over_1_5_goals,1.3,-,-,NOT FILTERED,target not in gate
+Al Baqaa,Al Wehdat,2026-11-06 17:30,target__over_1_5_goals,1.29,-,-,NOT FILTERED,target not in gate
+SKU Amstetten,Wacker Innsbruck,2026-11-06 18:30,target__ht_over_0_5_goals,1.28,-,-,NOT FILTERED,target not in gate
+Qarabag,Turan Tovuz,2026-11-06 15:00,target__over_1_5_goals,1.27,-,-,NOT FILTERED,target not in gate
+Ammanford,Briton Ferry,2026-11-06 20:45,target__over_1_5_goals,1.26,-,-,NOT FILTERED,target not in gate
+Antalyaspor,Bursaspor,2026-11-06 18:00,target__over_1_5_goals,1.25,-,-,NOT FILTERED,target not in gate
+Venezia FC,Udinese,2026-11-06 20:45,target__over_1_5_goals,1.25,-,-,NOT FILTERED,target not in gate
+Al Sharqiya Enppi,Proxy SC,2026-11-06 16:00,target__over_1_5_goals,1.24,-,-,NOT FILTERED,target not in gate
+Newroz SC,Karbalaa,2026-11-06 14:00,target__over_1_5_goals,1.23,-,-,NOT FILTERED,target not in gate
+Club Bolivar,Real Potosi,2026-11-06 00:00,target__over_1_5_goals,1.22,-,-,NOT FILTERED,target not in gate
+Hapoel Karmiel FC,Baqa Al-Gharbiyye,2026-11-06 09:30,target__away_win,5.7,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+FC Gomel,FK Arsenal Dzerzhinsk,2026-11-06 16:00,target__away_win,5.6,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Pieta Hotspurs FC,Zurrieq,2026-11-06 20:45,target__away_win,4.75,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Penrhyncoch,Caersws,2026-11-06 20:45,target__home_win,4.7,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Bala Town FC,Guilsfield FC,2026-11-06 20:45,target__away_win,4.2,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+CWKS Resovia,Gornik Leczna,2026-11-06 18:00,target__ht_home_win,3.9,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+KVC Westerlo,K Beerschot VA,2026-11-06 20:30,target__away_win,3.8,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Zebbug Rangers FC,St Andrews FC,2026-11-06 18:15,target__home_win,3.6,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+SK Artis B,SK Unicov,2026-11-06 17:30,target__ht_away_win,3.5,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+SV Pachern,ASK Koflach,2026-11-06 19:00,target__home_win,3.4,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+RWD Molenbeek Youth,KV Kortrijk,2026-11-06 20:00,target__home_win,3.2,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+TUS Bad Waltersdorf,SC Stadtwerke Bruck/Mur,2026-11-06 19:00,target__away_win,2.8,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+AL Jazeera Club Amman,Ramtha SC,2026-11-06 15:00,target__away_win,2.35,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+FC Gleisdorf 09,SC Weiz,2026-11-06 19:00,target__home_win,2.35,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+SC Kalsdorf,Deutschlandsberger SC,2026-11-06 19:00,target__home_win,2.35,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Millwall U21,Cardiff City U21,2026-11-06 14:30,target__away_win,2.2,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Sundby BK,FC Helsingoer,2026-11-06 19:00,target__away_win,2.2,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Baglan Dragons,Ynyshir Albions,2026-11-06 20:30,target__away_win,2.2,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+SK Hranice,FC Zbrojovka Brno B,2026-11-06 17:00,target__away_win,1.97,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+RWD Molenbeek Youth,KV Kortrijk,2026-11-06 20:00,target__away_win,1.96,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Atlante FC,CF Tigres UANL,2026-11-05 22:45,target__ht_over_1_5_goals,1.8,0,0,NO DATA,m450004_4=MISSING | m810002_3+=MISSING
+Llandudno FC,The New Saints FC,2026-11-06 20:45,target__ht_over_1_5_goals,1.79,0,0,NO DATA,m450004_4=MISSING | m810002_3+=MISSING
+Karela United FC,Vision FC (GHA),2026-11-06 16:00,target__home_win,1.61,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+FC Gomel,FK Arsenal Dzerzhinsk,2026-11-06 16:00,target__home_win,1.6,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+SC Red Star Penzing,SV Schwechat,2026-11-06 18:00,target__home_win,1.6,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Pieta Hotspurs FC,Zurrieq,2026-11-06 20:45,target__home_win,1.56,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Penrhyncoch,Caersws,2026-11-06 20:45,target__away_win,1.55,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Ruthin Town,Newtown AFC,2026-11-06 20:45,target__away_win,1.46,0,0,NO DATA,m900036_Yes=MISSING | m900037_No=MISSING | m900038_Yes=MISSING | m900052_No=MISSING
+Newroz SC,Karbalaa,2026-11-06 14:00,target__home_win,1.41,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Fehring 1947,DSV Leoben,2026-11-06 19:00,target__home_win,1.4,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Smouha SC,Minya SC,2026-11-06 13:30,target__home_win,1.37,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Atlante FC,CF Tigres UANL,2026-11-05 22:45,target__over_2_5_goals,1.32,0,0,NO DATA,m450004_4=MISSING | m450004_5+=MISSING | m810002_3+=MISSING
+Llandudno FC,The New Saints FC,2026-11-06 20:45,target__over_2_5_goals,1.31,0,0,NO DATA,m450004_4=MISSING | m450004_5+=MISSING | m810002_3+=MISSING
+Bangor 1876 FC,Gresford Athletic,2026-11-06 20:30,target__home_win,1.27,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Club Bolivar,Real Potosi,2026-11-06 00:00,target__home_win,1.19,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+Zamalek SC,Egypt Insurance,2026-11-06 19:00,target__home_win,1.16,0,0,NO DATA,m900036_No=MISSING | m900037_Yes=MISSING | m900038_No=MISSING | m900052_Yes=MISSING
+GFK Tikvesh 1930,FK Skopje,2026-11-06 13:00,target__ht_away_win,11.5,0,4,❌ SKIP,m900036_Yes=1.68✗ | m900037_No=1.02✗ | m900038_Yes=1.62✗ | m900052_No=1.02✗
+Heracles Almelo,Roda JC Kerkrade,2026-11-06 20:00,target__away_win,6.3,0,4,❌ SKIP,m900036_Yes=2.17✗ | m900037_No=1.09✗ | m900038_Yes=2.20✗ | m900052_No=1.08✗
+Sydney FC,Central Coast Mariners,2026-11-06 09:40,target__away_win,6.0,0,4,❌ SKIP,m900036_Yes=2.20✗ | m900037_No=1.09✗ | m900038_Yes=2.17✗ | m900052_No=1.09✗
+Sydney FC,Central Coast Mariners,2026-11-06 09:40,target__ht_away_win,5.9,0,4,❌ SKIP,m900036_Yes=2.20✗ | m900037_No=1.09✗ | m900038_Yes=2.17✗ | m900052_No=1.09✗
+Heracles Almelo,Roda JC Kerkrade,2026-11-06 20:00,target__ht_away_win,5.9,0,4,❌ SKIP,m900036_Yes=2.17✗ | m900037_No=1.09✗ | m900038_Yes=2.20✗ | m900052_No=1.08✗
+Ammanford,Briton Ferry,2026-11-06 20:45,target__ht_home_win,5.5,0,3,❌ SKIP,m900036_No=1.11✗ | m900037_Yes=2.32✗ | m900038_No=1.10✗ | m900052_Yes=MISSING
+Hassania Union Sport Agadir,Rs Berkane,2026-11-06 18:00,target__ht_home_win,5.1,0,4,❌ SKIP,m900036_No=1.14✗ | m900037_Yes=2.65✗ | m900038_No=1.14✗ | m900052_Yes=2.55✗
+Al-Fahaheel,Al Salibikhaet,2026-11-06 15:25,target__away_win,5.0,0,4,❌ SKIP,m900036_Yes=2.32✗ | m900037_No=1.11✗ | m900038_Yes=2.25✗ | m900052_No=1.10✗
+Lamphun Warriors FC,Sukhothai FC,2026-11-06 13:00,target__away_win,4.9,0,3,❌ SKIP,m900036_Yes=2.35✗ | m900037_No=1.12✗ | m900038_Yes=2.35✗ | m900052_No=MISSING
+Nancy-Lorraine,Sochaux-Montbeliard,2026-11-06 20:00,target__away_win,4.9,0,4,❌ SKIP,m900036_Yes=2.44✗ | m900037_No=1.12✗ | m900038_Yes=2.38✗ | m900052_No=1.12✗
+FC Dordrecht,NAC Breda,2026-11-06 20:00,target__ht_home_win,4.9,0,4,❌ SKIP,m900036_No=1.11✗ | m900037_Yes=2.35✗ | m900038_No=1.10✗ | m900052_Yes=2.32✗
+Everton,Coventry City,2026-11-06 21:00,target__away_win,4.85,0,4,❌ SKIP,m900036_Yes=2.60✗ | m900037_No=1.16✗ | m900038_Yes=2.60✗ | m900052_No=1.15✗
+Antalyaspor,Bursaspor,2026-11-06 18:00,target__ht_home_win,4.8,0,3,❌ SKIP,m900036_No=1.15✗ | m900037_Yes=2.55✗ | m900038_No=1.14✗ | m900052_Yes=MISSING
+Cliftonville FC,Larne FC,2026-11-06 20:45,target__ht_home_win,4.8,0,4,❌ SKIP,m900036_No=1.13✗ | m900037_Yes=2.45✗ | m900038_No=1.12✗ | m900052_Yes=2.40✗
+ACS Champions FC Arges,FC Dinamo Bucuresti 1948,2026-11-06 19:30,target__ht_home_win,4.7,0,3,❌ SKIP,m900036_No=1.15✗ | m900037_Yes=2.75✗ | m900038_No=1.16✗ | m900052_Yes=MISSING
+Sunderland U21,Blackburn Rovers U21,2026-11-06 20:00,target__away_win,4.6,0,4,❌ SKIP,m900036_Yes=2.40✗ | m900037_No=1.11✗ | m900038_Yes=2.55✗ | m900052_No=1.09✗
+Nafta 1903 Lendava,Olimpija Ljubljana,2026-11-06 17:30,target__ht_home_win,4.5,0,3,❌ SKIP,m900036_No=1.15✗ | m900037_Yes=2.62✗ | m900038_No=1.15✗ | m900052_Yes=MISSING
+Hassania Union Sport Agadir,Rs Berkane,2026-11-06 18:00,target__home_win,4.4,0,4,❌ SKIP,m900036_No=1.14✗ | m900037_Yes=2.65✗ | m900038_No=1.14✗ | m900052_Yes=2.55✗
+VVV Venlo,Jong PSV Eindhoven,2026-11-06 20:00,target__away_win,4.3,0,4,❌ SKIP,m900036_Yes=2.53✗ | m900037_No=1.13✗ | m900038_Yes=2.65✗ | m900052_No=1.12✗
+VVV Venlo,Jong PSV Eindhoven,2026-11-06 20:00,target__ht_away_win,4.3,0,4,❌ SKIP,m900036_Yes=2.53✗ | m900037_No=1.13✗ | m900038_Yes=2.65✗ | m900052_No=1.12✗
+FC Viktoria Cologne,1. FC Saarbrucken,2026-11-06 19:00,target__ht_away_win,4.0,0,4,❌ SKIP,m900036_Yes=2.70✗ | m900037_No=1.16✗ | m900038_Yes=2.78✗ | m900052_No=1.15✗
+Ilirija Ljubljana,Triglav Kranj,2026-11-06 14:00,target__ht_home_win,3.9,0,4,❌ SKIP,m900036_No=1.18✗ | m900037_Yes=2.82✗ | m900038_No=1.18✗ | m900052_Yes=2.85✗
+Birmingham City U21,West Ham U21,2026-11-06 14:00,target__home_win,3.8,0,4,❌ SKIP,m900036_No=1.14✗ | m900037_Yes=2.53✗ | m900038_No=1.12✗ | m900052_Yes=2.62✗
+Sepahan SC,Malavan Bandar Anzali FC,2026-11-06 13:00,target__over_3_5_goals,3.8,0,3,❌ SKIP,m450004_4=1.10✗ | m450004_5+=1.06✗ | m810002_3+=1.07✗ | m18_total=4_5_under_4_5=MISSING
+FC Viktoria Cologne,1. FC Saarbrucken,2026-11-06 19:00,target__away_win,3.7,0,4,❌ SKIP,m900036_Yes=2.70✗ | m900037_No=1.16✗ | m900038_Yes=2.78✗ | m900052_No=1.15✗
+Toulouse,Strasbourg,2026-11-06 20:45,target__ht_away_win,3.7,0,4,❌ SKIP,m900036_Yes=3.05✗ | m900037_No=1.22✗ | m900038_Yes=3.10✗ | m900052_No=1.21✗
+FK Septemvri Sofia,FC Lokomotiv 1929 Sofia,2026-11-06 16:00,target__ht_home_win,3.7,0,4,❌ SKIP,m900036_No=1.21✗ | m900037_Yes=3.05✗ | m900038_No=1.21✗ | m900052_Yes=3.05✗
+Persepolis FC,Fajr Sepasi FC,2026-11-06 14:00,target__over_3_5_goals,3.7,0,3,❌ SKIP,m450004_4=1.10✗ | m450004_5+=1.07✗ | m810002_3+=1.08✗ | m18_total=4_5_under_4_5=MISSING
+Hong Linh Ha Tinh FC,Nam Dinh FC,2026-11-06 12:00,target__home_win,3.6,0,4,❌ SKIP,m900036_No=1.19✗ | m900037_Yes=3.05✗ | m900038_No=1.19✗ | m900052_Yes=2.95✗
+Stoke City U21,Fulham U21,2026-11-06 20:00,target__home_win,3.5,0,4,❌ SKIP,m900036_No=1.16✗ | m900037_Yes=2.70✗ | m900038_No=1.14✗ | m900052_Yes=2.82✗
+FK Bokelj Kotor,FK Mornar Bar,2026-11-06 17:00,target__home_win,3.4,0,4,❌ SKIP,m900036_No=1.18✗ | m900037_Yes=3.05✗ | m900038_No=1.18✗ | m900052_Yes=2.95✗
+Alacranes de Durango,Leones Negros UDEG,2026-11-06 04:05,target__over_3_5_goals,3.4,0,4,❌ SKIP,m450004_4=1.12✗ | m450004_5+=1.09✗ | m810002_3+=1.08✗ | m18_total=4_5_under_4_5=1.09✗
+FC Obolon Kyiv,FC Livyi Bereh Kyiv,2026-11-06 12:00,target__home_win,3.33,0,3,❌ SKIP,m900036_No=1.20✗ | m900037_Yes=3.10✗ | m900038_No=1.20✗ | m900052_Yes=MISSING
+FC Goa,Bengaluru FC,2026-11-06 15:00,target__ht_away_win,3.33,0,3,❌ SKIP,m900036_Yes=3.30✗ | m900037_No=1.24✗ | m900038_Yes=3.30✗ | m900052_No=MISSING
+Sporting Hasselt,Patro Eisden Maasmechelen,2026-11-06 20:00,target__ht_away_win,3.33,0,4,❌ SKIP,m900036_Yes=3.10✗ | m900037_No=1.23✗ | m900038_Yes=3.15✗ | m900052_No=1.22✗
+Derby County,Bolton Wanderers,2026-11-06 21:00,target__ht_away_win,3.3,0,4,❌ SKIP,m900036_Yes=3.35✗ | m900037_No=1.26✗ | m900038_Yes=3.40✗ | m900052_No=1.26✗
+Puszcza Niepolomice,Miedz Legnica,2026-11-06 18:00,target__ht_home_win,3.3,0,4,❌ SKIP,m900036_No=1.23✗ | m900037_Yes=3.15✗ | m900038_No=1.23✗ | m900052_Yes=3.25✗
+AVS Futebol SAD,FC Vizela,2026-11-06 19:45,target__home_win,3.25,0,3,❌ SKIP,m900036_No=1.20✗ | m900037_Yes=3.00✗ | m900038_No=1.20✗ | m900052_Yes=MISSING
+Cancun FC,Piratas Veracruz,2026-11-06 02:00,target__home_win,3.2,0,4,❌ SKIP,m900036_No=1.20✗ | m900037_Yes=3.10✗ | m900038_No=1.20✗ | m900052_Yes=3.00✗
+FC Schalke 04 II,Borussia Monchengladbach II,2026-11-06 14:00,target__ht_home_win,3.2,0,4,❌ SKIP,m900036_No=1.22✗ | m900037_Yes=3.10✗ | m900038_No=1.20✗ | m900052_Yes=3.25✗
+FK Septemvri Sofia,FC Lokomotiv 1929 Sofia,2026-11-06 16:00,target__over_3_5_goals,3.2,0,3,❌ SKIP,m450004_4=1.13✗ | m450004_5+=1.11✗ | m810002_3+=1.09✗ | m18_total=4_5_under_4_5=MISSING
+Al Baqaa,Al Wehdat,2026-11-06 17:30,target__over_3_5_goals,3.2,0,4,❌ SKIP,m450004_4=1.13✗ | m450004_5+=1.11✗ | m810002_3+=1.09✗ | m18_total=4_5_under_4_5=1.11✗
+Aluminium Arak,Mes Shahr-e Babak,2026-11-06 13:00,target__over_2_5_goals,3.1,0,3,❌ SKIP,m450004_4=1.05✗ | m450004_5+=1.02✗ | m810002_3+=1.03✗
+AL Jazeera Club Amman,Ramtha SC,2026-11-06 15:00,target__over_3_5_goals,3.1,0,4,❌ SKIP,m450004_4=1.13✗ | m450004_5+=1.11✗ | m810002_3+=1.09✗ | m18_total=4_5_under_4_5=1.12✗
+CA Barracas Central,Racing Club Avellaneda,2026-11-06 19:00,target__ht_home_win,3.0,0,4,❌ SKIP,m900036_No=1.31✗ | m900037_Yes=4.00✗ | m900038_No=1.33✗ | m900052_Yes=3.90✗
+FC Famalicao,FC Arouca,2026-11-06 21:45,target__ht_over_1_5_goals,3.0,0,2,❌ SKIP,m450004_4=1.11✗ | m810002_3+=1.08✗
+Qarabag,Turan Tovuz,2026-11-06 15:00,target__over_3_5_goals,3.0,0,4,❌ SKIP,m450004_4=1.13✗ | m450004_5+=1.12✗ | m810002_3+=1.10✗ | m18_total=4_5_under_4_5=1.12✗
+Ammanford,Briton Ferry,2026-11-06 20:45,target__over_3_5_goals,3.0,0,3,❌ SKIP,m450004_4=1.13✗ | m450004_5+=1.13✗ | m810002_3+=1.10✗ | m18_total=4_5_under_4_5=MISSING
+FC Vysocina Jihlava,MFK Karvina,2026-11-06 18:00,target__ht_home_win,2.95,0,4,❌ SKIP,m900036_No=1.26✗ | m900037_Yes=3.30✗ | m900038_No=1.25✗ | m900052_Yes=3.45✗
+Birzebbuga St. Peters FC,Mosta FC,2026-11-06 20:00,target__ht_home_win,2.95,0,4,❌ SKIP,m900036_No=1.26✗ | m900037_Yes=3.30✗ | m900038_No=1.26✗ | m900052_Yes=3.35✗
+Union Magdalena,Independiente Valle Del Cauca,2026-11-06 01:00,target__over_3_5_goals,2.95,0,4,❌ SKIP,m450004_4=1.13✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=1.13✗
+Nafta 1903 Lendava,Olimpija Ljubljana,2026-11-06 17:30,target__over_3_5_goals,2.95,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+Alcione Milano,AC Lumezzane,2026-11-06 20:30,target__over_3_5_goals,2.95,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.12✗ | m810002_3+=1.10✗ | m18_total=4_5_under_4_5=1.13✗
+Trefelin BGC,Colwyn Bay,2026-11-06 20:45,target__over_3_5_goals,2.95,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+Cliftonville FC,Larne FC,2026-11-06 20:45,target__over_3_5_goals,2.95,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+Atletico Grau,Cusco FC,2026-11-06 21:00,target__over_3_5_goals,2.95,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+MK KFAR Saba 1928,Maccabi Y.,2026-11-06 12:15,target__over_3_5_goals,2.9,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=MISSING | m18_total=4_5_under_4_5=1.14✗
+FC Uta Arad,FC Petrolul Ploiesti,2026-11-06 16:30,target__over_3_5_goals,2.9,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=1.14✗
+Al Shabab Kuwait,AL Tadhamon,2026-11-06 17:40,target__over_3_5_goals,2.9,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.10✗ | m18_total=4_5_under_4_5=1.13✗
+Antalyaspor,Bursaspor,2026-11-06 18:00,target__over_3_5_goals,2.9,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.14✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+Odra Opole,Unia Skierniewice,2026-11-06 20:30,target__over_3_5_goals,2.9,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.10✗ | m18_total=4_5_under_4_5=1.13✗
+Haverfordwest County AFC,Cardiff Metropolitan University FC,2026-11-06 20:45,target__over_3_5_goals,2.9,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.14✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+Madura United,Arema FC,2026-11-06 13:00,target__ht_home_win,2.85,0,4,❌ SKIP,m900036_No=1.30✗ | m900037_Yes=3.60✗ | m900038_No=1.29✗ | m900052_Yes=3.70✗
+Haverfordwest County AFC,Cardiff Metropolitan University FC,2026-11-06 20:45,target__ht_home_win,2.85,0,3,❌ SKIP,m900036_No=1.27✗ | m900037_Yes=3.45✗ | m900038_No=1.26✗ | m900052_Yes=MISSING
+DH van Hien,Huda Hue,2026-11-06 11:00,target__over_3_5_goals,2.85,0,3,❌ SKIP,m450004_4=1.13✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+Al Sharqiya Enppi,Proxy SC,2026-11-06 16:00,target__over_3_5_goals,2.85,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.14✗ | m810002_3+=1.12✗ | m18_total=4_5_under_4_5=1.14✗
+FC Admira Wacker Modling,SKN St Polten,2026-11-06 20:30,target__ht_away_win,2.8,0,3,❌ SKIP,m900036_Yes=3.60✗ | m900037_No=1.30✗ | m900038_Yes=3.70✗ | m900052_No=MISSING
+Gimnasia y Esgrima La Plata,CA Belgrano de Cordoba,2026-11-05 23:15,target__ht_home_win,2.8,0,3,❌ SKIP,m900036_No=1.31✗ | m900037_Yes=3.80✗ | m900038_No=1.31✗ | m900052_Yes=MISSING
+Alacranes de Durango,Leones Negros UDEG,2026-11-06 04:05,target__ht_home_win,2.8,0,4,❌ SKIP,m900036_No=1.33✗ | m900037_Yes=4.00✗ | m900038_No=1.34✗ | m900052_Yes=3.90✗
+Hapoel Bnei Musmus,Maccabi Neve Shaanan Eldad,2026-11-06 10:00,target__over_3_5_goals,2.8,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.14✗ | m810002_3+=MISSING | m18_total=4_5_under_4_5=1.15✗
+Newroz SC,Karbalaa,2026-11-06 14:00,target__over_3_5_goals,2.8,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+NK Lokomotiva Zagreb,NK Rudes Zagreb,2026-11-06 18:00,target__over_3_5_goals,2.8,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.14✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+SFC Opava,FC Vlasim,2026-11-06 18:00,target__over_3_5_goals,2.8,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.14✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=1.15✗
+Botev Plovdiv,FC Dunav Ruse,2026-11-06 18:15,target__over_3_5_goals,2.8,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.15✗ | m810002_3+=1.12✗ | m18_total=4_5_under_4_5=MISSING
+Sporting Hasselt,Patro Eisden Maasmechelen,2026-11-06 20:00,target__ht_home_win,2.75,0,4,❌ SKIP,m900036_No=1.30✗ | m900037_Yes=3.60✗ | m900038_No=1.29✗ | m900052_Yes=3.70✗
+Union Touarga,Union Sportif Amal Tiznit,2026-11-06 21:00,target__over_2_5_goals,2.75,0,3,❌ SKIP,m450004_4=1.07✗ | m450004_5+=1.03✗ | m810002_3+=1.04✗
+Holon Yermiyahu FC,Hapoel Mahane Yehuda,2026-11-06 11:35,target__over_3_5_goals,2.75,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.15✗ | m810002_3+=MISSING | m18_total=4_5_under_4_5=1.15✗
+Neftchi Baku PFC,FK Kapaz,2026-11-06 17:00,target__over_3_5_goals,2.75,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.15✗ | m810002_3+=1.12✗ | m18_total=4_5_under_4_5=1.16✗
+Baglan Dragons,Ynyshir Albions,2026-11-06 20:30,target__over_3_5_goals,2.75,0,4,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.14✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=1.15✗
+Derby County,Bolton Wanderers,2026-11-06 21:00,target__over_3_5_goals,2.75,1,4,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.16✗ | m810002_3+=1.13✓ | m18_total=4_5_under_4_5=1.19✗
+Union Touarga,Union Sportif Amal Tiznit,2026-11-06 21:00,target__ht_home_win,2.7,0,4,❌ SKIP,m900036_No=1.38✗ | m900037_Yes=4.85✗ | m900038_No=1.42✗ | m900052_Yes=4.75✗
+Adelaide United FC,Wellington Phoenix,2026-11-06 09:00,target__over_3_5_goals,2.7,0,3,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.14✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+Dukla Prague,FK Pribram,2026-11-06 18:00,target__over_3_5_goals,2.7,0,4,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.15✗ | m810002_3+=1.12✗ | m18_total=4_5_under_4_5=1.16✗
+Birzebbuga St. Peters FC,Mosta FC,2026-11-06 20:00,target__over_3_5_goals,2.7,0,3,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.14✗ | m810002_3+=1.11✗ | m18_total=4_5_under_4_5=MISSING
+LB Chateauroux,Nimes,2026-11-06 19:30,target__ht_over_1_5_goals,2.65,0,2,❌ SKIP,m450004_4=1.13✗ | m810002_3+=1.09✗
+Club Bolivar,Real Potosi,2026-11-06 00:00,target__over_3_5_goals,2.65,1,4,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.16✗ | m810002_3+=1.13✓ | m18_total=4_5_under_4_5=1.17✗
+Al-Fahaheel,Al Salibikhaet,2026-11-06 15:25,target__over_3_5_goals,2.65,1,4,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.16✗ | m810002_3+=1.13✓ | m18_total=4_5_under_4_5=1.17✗
+AL Jazeera Club Amman,Ramtha SC,2026-11-06 15:00,target__ht_over_1_5_goals,2.6,0,2,❌ SKIP,m450004_4=1.13✗ | m810002_3+=1.09✗
+Kenya Commercial Bank,Aps Bomet FC,2026-11-06 14:00,target__over_2_5_goals,2.6,0,2,❌ SKIP,m450004_4=1.07✗ | m450004_5+=1.04✗ | m810002_3+=MISSING
+Dijon,Red Star FC,2026-11-06 20:00,target__away_win,2.55,0,4,❌ SKIP,m900036_Yes=3.35✗ | m900037_No=1.26✗ | m900038_Yes=3.45✗ | m900052_No=1.25✗
+Jong AZ Alkmaar,Almere City FC,2026-11-06 20:00,target__ht_away_win,2.55,0,4,❌ SKIP,m900036_Yes=3.80✗ | m900037_No=1.30✗ | m900038_Yes=4.15✗ | m900052_No=1.28✗
+Young Violets Wien,First Vienna FC 1894,2026-11-06 18:30,target__ht_over_1_5_goals,2.55,0,2,❌ SKIP,m450004_4=1.14✗ | m810002_3+=1.11✗
+Ammanford,Briton Ferry,2026-11-06 20:45,target__ht_over_1_5_goals,2.55,0,2,❌ SKIP,m450004_4=1.13✗ | m810002_3+=1.10✗
+Pieta Hotspurs FC,Zurrieq,2026-11-06 20:45,target__over_3_5_goals,2.55,2,3,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.17✓ | m810002_3+=1.13✓ | m18_total=4_5_under_4_5=MISSING
+Connah`s Quay Nomads FC,Flint Town United,2026-11-06 21:00,target__over_3_5_goals,2.55,2,4,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.18✓ | m810002_3+=1.14✓ | m18_total=4_5_under_4_5=1.19✗
+HB Koege,Aalborg BK,2026-11-06 19:00,target__away_win,2.5,0,4,❌ SKIP,m900036_Yes=3.35✗ | m900037_No=1.26✗ | m900038_Yes=3.45✗ | m900052_No=1.25✗
+Nafta 1903 Lendava,Olimpija Ljubljana,2026-11-06 17:30,target__ht_over_1_5_goals,2.5,0,2,❌ SKIP,m450004_4=1.14✗ | m810002_3+=1.11✗
+Antalyaspor,Bursaspor,2026-11-06 18:00,target__ht_over_1_5_goals,2.5,0,2,❌ SKIP,m450004_4=1.14✗ | m810002_3+=1.11✗
+Derby County,Bolton Wanderers,2026-11-06 21:00,target__ht_over_1_5_goals,2.5,0,2,❌ SKIP,m450004_4=1.15✗ | m810002_3+=1.13✗
+Al Shabab Kuwait,AL Tadhamon,2026-11-06 17:40,target__away_win,2.45,0,4,❌ SKIP,m900036_Yes=3.45✗ | m900037_No=1.28✗ | m900038_Yes=3.45✗ | m900052_No=1.27✗
+USL Dunkerque,EA Guingamp,2026-11-06 20:00,target__away_win,2.45,0,4,❌ SKIP,m900036_Yes=3.50✗ | m900037_No=1.28✗ | m900038_Yes=3.50✗ | m900052_No=1.27✗
+Birzebbuga St. Peters FC,Mosta FC,2026-11-06 20:00,target__home_win,2.4,0,4,❌ SKIP,m900036_No=1.26✗ | m900037_Yes=3.30✗ | m900038_No=1.26✗ | m900052_Yes=3.35✗
+Newroz SC,Karbalaa,2026-11-06 14:00,target__ht_over_1_5_goals,2.4,0,2,❌ SKIP,m450004_4=1.14✗ | m810002_3+=1.11✗
+Hamburger SV,Borussia M´gladbach,2026-11-06 20:30,target__ht_over_1_5_goals,2.4,0,2,❌ SKIP,m450004_4=1.16✗ | m810002_3+=1.14✗
+Karela United FC,Vision FC (GHA),2026-11-06 16:00,target__over_2_5_goals,2.4,0,3,❌ SKIP,m450004_4=1.08✗ | m450004_5+=1.04✗ | m810002_3+=1.05✗
+CA Barracas Central,Racing Club Avellaneda,2026-11-06 19:00,target__over_2_5_goals,2.4,0,3,❌ SKIP,m450004_4=1.09✗ | m450004_5+=1.05✗ | m810002_3+=1.05✗
+Zamalek SC,Egypt Insurance,2026-11-06 19:00,target__over_3_5_goals,2.4,3,4,❌ SKIP,m450004_4=1.16✓ | m450004_5+=1.20✓ | m810002_3+=1.16✓ | m18_total=4_5_under_4_5=1.21✗
+Ilirija Ljubljana,Triglav Kranj,2026-11-06 14:00,target__ht_over_1_5_goals,2.35,0,2,❌ SKIP,m450004_4=1.15✗ | m810002_3+=1.13✗
+Bristol Rovers,Cambridge United,2026-11-06 20:30,target__ht_over_1_5_goals,2.35,0,2,❌ SKIP,m450004_4=1.16✗ | m810002_3+=1.14✗
+Toulouse,Strasbourg,2026-11-06 20:45,target__ht_over_1_5_goals,2.35,0,2,❌ SKIP,m450004_4=1.17✗ | m810002_3+=1.15✗
+AL Qala,Afief,2026-11-06 13:30,target__over_2_5_goals,2.35,0,2,❌ SKIP,m450004_4=1.09✗ | m450004_5+=1.05✗ | m810002_3+=MISSING
+AL Talaba,Ghaz Al-Shamal SC,2026-11-06 14:45,target__over_2_5_goals,2.35,0,3,❌ SKIP,m450004_4=1.08✗ | m450004_5+=1.05✗ | m810002_3+=1.05✗
+Hassania Union Sport Agadir,Rs Berkane,2026-11-06 18:00,target__over_2_5_goals,2.35,0,3,❌ SKIP,m450004_4=1.09✗ | m450004_5+=1.05✗ | m810002_3+=1.06✗
+Universidad de Chile,CD Antofagasta,2026-11-05 23:00,target__over_3_5_goals,2.35,3,4,❌ SKIP,m450004_4=1.16✓ | m450004_5+=1.21✓ | m810002_3+=1.16✓ | m18_total=4_5_under_4_5=1.22✗
+Willem II Tilburg,PEC Zwolle,2026-11-06 20:00,target__away_win,2.34,0,4,❌ SKIP,m900036_Yes=3.75✗ | m900037_No=1.31✗ | m900038_Yes=3.90✗ | m900052_No=1.29✗
+Puszcza Niepolomice,Miedz Legnica,2026-11-06 18:00,target__away_win,2.3,0,4,❌ SKIP,m900036_Yes=3.60✗ | m900037_No=1.29✗ | m900038_Yes=3.60✗ | m900052_No=1.28✗
+FC Admira Wacker Modling,SKN St Polten,2026-11-06 20:30,target__away_win,2.3,0,3,❌ SKIP,m900036_Yes=3.60✗ | m900037_No=1.30✗ | m900038_Yes=3.70✗ | m900052_No=MISSING
+Binh Phuoc,SHB Da Nang,2026-11-06 12:00,target__home_win,2.3,0,4,❌ SKIP,m900036_No=1.29✗ | m900037_Yes=3.70✗ | m900038_No=1.30✗ | m900052_Yes=3.70✗
+CP Cacereno SAD,CD Lugo,2026-11-06 19:00,target__home_win,2.3,0,4,❌ SKIP,m900036_No=1.29✗ | m900037_Yes=3.70✗ | m900038_No=1.30✗ | m900052_Yes=3.70✗
+Club Bolivar,Real Potosi,2026-11-06 00:00,target__ht_over_1_5_goals,2.3,0,2,❌ SKIP,m450004_4=1.15✗ | m810002_3+=1.13✗
+Puszcza Niepolomice,Miedz Legnica,2026-11-06 18:00,target__ht_over_1_5_goals,2.3,0,2,❌ SKIP,m450004_4=1.16✗ | m810002_3+=1.13✗
+HB Koege,Aalborg BK,2026-11-06 19:00,target__ht_over_1_5_goals,2.3,0,2,❌ SKIP,m450004_4=1.16✗ | m810002_3+=1.14✗
+FC Obolon Kyiv,FC Livyi Bereh Kyiv,2026-11-06 12:00,target__over_2_5_goals,2.3,0,3,❌ SKIP,m450004_4=1.09✗ | m450004_5+=1.06✗ | m810002_3+=1.06✗
+GFK Tikvesh 1930,FK Skopje,2026-11-06 13:00,target__over_3_5_goals,2.3,3,4,❌ SKIP,m450004_4=1.16✓ | m450004_5+=1.22✓ | m810002_3+=1.16✓ | m18_total=4_5_under_4_5=1.21✗
+CS Herediano,Deportivo Saprissa San Jose,2026-11-06 03:00,target__away_win,2.25,0,4,❌ SKIP,m900036_Yes=3.80✗ | m900037_No=1.30✗ | m900038_Yes=3.80✗ | m900052_No=1.31✗
+US Boulogne,FC Annecy,2026-11-06 20:00,target__over_2_5_goals,2.25,0,3,❌ SKIP,m450004_4=1.10✗ | m450004_5+=1.06✗ | m810002_3+=1.06✗
+Bnei Yehuda Tel Aviv FC,Maccabi Achi Nazareth FC,2026-11-06 14:00,target__over_3_5_goals,2.25,3,4,❌ SKIP,m450004_4=1.17✓ | m450004_5+=1.24✓ | m810002_3+=1.18✓ | m18_total=4_5_under_4_5=1.25✗
+SC Kalsdorf,Deutschlandsberger SC,2026-11-06 19:00,target__over_3_5_goals,2.25,3,4,❌ SKIP,m450004_4=1.16✓ | m450004_5+=1.22✓ | m810002_3+=1.15✓ | m18_total=4_5_under_4_5=1.21✗
+CD Genesis PN,Real CD Espana San Pedro Sula,2026-11-05 22:00,target__away_win,2.2,0,4,❌ SKIP,m900036_Yes=3.90✗ | m900037_No=1.33✗ | m900038_Yes=4.00✗ | m900052_No=1.34✗
+Thisted FC,BK Fremad Amager,2026-11-06 19:00,target__away_win,2.2,0,4,❌ SKIP,m900036_Yes=3.60✗ | m900037_No=1.29✗ | m900038_Yes=3.60✗ | m900052_No=1.29✗
+AVS Futebol SAD,FC Vizela,2026-11-06 19:45,target__away_win,2.2,0,3,❌ SKIP,m900036_Yes=3.90✗ | m900037_No=1.32✗ | m900038_Yes=3.90✗ | m900052_No=MISSING
+Ascoli Calcio 1898,Palermo FC,2026-11-06 20:30,target__away_win,2.2,0,4,❌ SKIP,m900036_Yes=3.70✗ | m900037_No=1.31✗ | m900038_Yes=3.90✗ | m900052_No=1.30✗
+SE Palmeiras SP,Clube do Remo PA,2026-11-05 23:30,target__ht_over_1_5_goals,2.2,0,2,❌ SKIP,m450004_4=1.16✗ | m810002_3+=1.17✗
+Sevilla,Alaves,2026-11-06 21:00,target__over_2_5_goals,2.2,0,3,❌ SKIP,m450004_4=1.10✗ | m450004_5+=1.07✗ | m810002_3+=1.07✗
+Arnett Gardens FC,Mount Pleasant FC,2026-11-06 01:00,target__over_3_5_goals,2.2,3,4,❌ SKIP,m450004_4=1.17✓ | m450004_5+=1.24✓ | m810002_3+=1.17✓ | m18_total=4_5_under_4_5=1.25✗
+Nottingham Forest U21,Leicester City U21,2026-11-06 20:00,target__over_3_5_goals,2.2,2,3,❌ SKIP,m450004_4=1.17✓ | m450004_5+=1.25✓ | m810002_3+=MISSING | m18_total=4_5_under_4_5=1.25✗
+FC Schalke 04 II,Borussia Monchengladbach II,2026-11-06 14:00,target__away_win,2.15,0,4,❌ SKIP,m900036_Yes=3.70✗ | m900037_No=1.30✗ | m900038_Yes=3.90✗ | m900052_No=1.28✗
+Jong AZ Alkmaar,Almere City FC,2026-11-06 20:00,target__away_win,2.15,0,4,❌ SKIP,m900036_Yes=3.80✗ | m900037_No=1.30✗ | m900038_Yes=4.15✗ | m900052_No=1.28✗
+Universidad de Chile,CD Antofagasta,2026-11-05 23:00,target__ht_over_1_5_goals,2.15,0,2,❌ SKIP,m450004_4=1.16✗ | m810002_3+=1.16✗
+Sepahan SC,Malavan Bandar Anzali FC,2026-11-06 13:00,target__over_2_5_goals,2.15,0,3,❌ SKIP,m450004_4=1.10✗ | m450004_5+=1.06✗ | m810002_3+=1.07✗
+Persepolis FC,Fajr Sepasi FC,2026-11-06 14:00,target__over_2_5_goals,2.15,0,3,❌ SKIP,m450004_4=1.10✗ | m450004_5+=1.07✗ | m810002_3+=1.08✗
+Holbaek B&I,Bronshoj BK,2026-11-06 19:00,target__over_3_5_goals,2.15,3,4,❌ SKIP,m450004_4=1.18✓ | m450004_5+=1.25✓ | m810002_3+=1.17✓ | m18_total=4_5_under_4_5=1.24✗
+KS Warta Sieradz,Lechia Tomaszow Mazowiecki,2026-11-06 19:00,target__over_3_5_goals,2.15,3,4,❌ SKIP,m450004_4=1.17✓ | m450004_5+=1.25✓ | m810002_3+=1.17✓ | m18_total=4_5_under_4_5=1.24✗
+Eintracht Braunschweig,Energie Cottbus,2026-11-06 18:30,target__ht_over_1_5_goals,2.1,0,2,❌ SKIP,m450004_4=1.18✗ | m810002_3+=1.19✗
+Caerau Ely FC,Pontypridd Town,2026-11-06 20:45,target__ht_over_1_5_goals,2.1,0,2,❌ SKIP,m450004_4=1.17✗ | m810002_3+=1.18✗
+FC Famalicao,FC Arouca,2026-11-06 21:45,target__over_2_5_goals,2.1,0,3,❌ SKIP,m450004_4=1.11✗ | m450004_5+=1.08✗ | m810002_3+=1.08✗
+FC Eindhoven,Jong Ajax Amsterdam,2026-11-06 20:00,target__home_win,2.05,0,4,❌ SKIP,m900036_No=1.32✗ | m900037_Yes=3.90✗ | m900038_No=1.29✗ | m900052_Yes=4.15✗
+FC Viktoria Cologne,1. FC Saarbrucken,2026-11-06 19:00,target__ht_over_1_5_goals,2.05,0,2,❌ SKIP,m450004_4=1.18✗ | m810002_3+=1.19✗
+Rubio Nu,Sportivo Luqueno,2026-11-05 23:00,target__over_2_5_goals,2.05,0,3,❌ SKIP,m450004_4=1.11✗ | m450004_5+=1.08✗ | m810002_3+=1.07✗
+Montpellier,Metz,2026-11-06 20:00,target__home_win,2.0,0,4,❌ SKIP,m900036_No=1.35✗ | m900037_Yes=4.00✗ | m900038_No=1.34✗ | m900052_Yes=4.00✗
+Al Arabi Doha SC,Al Ahli Doha SC,2026-11-06 15:15,target__ht_over_1_5_goals,2.0,0,2,❌ SKIP,m450004_4=1.18✗ | m810002_3+=1.20✗
+Newport City FC,Treowen Stars,2026-11-06 20:30,target__ht_over_1_5_goals,2.0,0,2,❌ SKIP,m450004_4=1.18✗ | m810002_3+=1.20✗
+Eintracht Frankfurt,VfL Wolfsburg W,2026-11-06 18:30,target__ht_over_1_5_goals,1.98,0,2,❌ SKIP,m450004_4=1.18✗ | m810002_3+=1.20✗
+Union Touarga,Union Sportif Amal Tiznit,2026-11-06 21:00,target__home_win,1.97,0,4,❌ SKIP,m900036_No=1.38✗ | m900037_Yes=4.85✗ | m900038_No=1.42✗ | m900052_Yes=4.75✗
+Young Violets Wien,First Vienna FC 1894,2026-11-06 18:30,target__away_win,1.94,2,3,❌ SKIP,m900036_Yes=4.25✓ | m900037_No=1.38✓ | m900038_Yes=4.25✗ | m900052_No=MISSING
+Ilirija Ljubljana,Triglav Kranj,2026-11-06 14:00,target__away_win,1.91,1,4,❌ SKIP,m900036_Yes=4.15✗ | m900037_No=1.36✗ | m900038_Yes=4.15✗ | m900052_No=1.35✓
+SK Rapid,Wolfsberger AC,2026-11-06 19:30,target__ht_over_1_5_goals,1.9,1,2,❌ SKIP,m450004_4=1.18✗ | m810002_3+=1.24✓
+FC Uta Arad,FC Petrolul Ploiesti,2026-11-06 16:30,target__home_win,1.79,0,3,❌ SKIP,m900036_No=1.43✗ | m900037_Yes=4.75✗ | m900038_No=1.45✗ | m900052_Yes=MISSING
+FC Uta Arad,FC Petrolul Ploiesti,2026-11-06 16:30,target__over_2_5_goals,1.78,0,3,❌ SKIP,m450004_4=1.14✗ | m450004_5+=1.13✗ | m810002_3+=1.11✗
+Botafogo FC SP,Londrina EC PR,2026-11-05 23:30,target__home_win,1.73,0,4,❌ SKIP,m900036_No=1.45✗ | m900037_Yes=4.85✗ | m900038_No=1.47✗ | m900052_Yes=4.85✗
+Nancy-Lorraine,Sochaux-Montbeliard,2026-11-06 20:00,target__home_win,1.73,0,4,❌ SKIP,m900036_No=1.47✗ | m900037_Yes=5.00✗ | m900038_No=1.49✗ | m900052_Yes=5.00✗
+Bayern Munich W,Werder Bremen,2026-11-06 18:30,target__ht_over_1_5_goals,1.73,1,2,❌ SKIP,m450004_4=1.18✗ | m810002_3+=1.28✓
+CA Independiente Avellaneda,Deportivo Riestra AFBC,2026-11-06 23:15,target__home_win,1.63,0,4,❌ SKIP,m900036_No=1.49✗ | m900037_Yes=5.75✗ | m900038_No=1.55✗ | m900052_Yes=5.50✗
+Connah`s Quay Nomads FC,Flint Town United,2026-11-06 21:00,target__over_2_5_goals,1.63,0,3,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.18✗ | m810002_3+=1.14✗
+Hamburger SV,Borussia M´gladbach,2026-11-06 20:30,target__over_2_5_goals,1.62,0,3,❌ SKIP,m450004_4=1.16✗ | m450004_5+=1.19✗ | m810002_3+=1.14✗
+Bristol Rovers,Cambridge United,2026-11-06 20:30,target__over_2_5_goals,1.62,0,3,❌ SKIP,m450004_4=1.16✗ | m450004_5+=1.19✗ | m810002_3+=1.14✗
+CD Marathon San Pedro Sula,Platense FC Puerto Cortes,2026-11-06 02:30,target__over_2_5_goals,1.61,0,3,❌ SKIP,m450004_4=1.15✗ | m450004_5+=1.18✗ | m810002_3+=1.14✗
+Lamphun Warriors FC,Sukhothai FC,2026-11-06 13:00,target__home_win,1.59,0,3,❌ SKIP,m900036_No=1.51✗ | m900037_Yes=5.00✗ | m900038_No=1.51✗ | m900052_Yes=MISSING
+SKU Amstetten,Wacker Innsbruck,2026-11-06 18:30,target__over_2_5_goals,1.59,0,3,❌ SKIP,m450004_4=1.16✗ | m450004_5+=1.20✗ | m810002_3+=1.15✗
+Willem II Tilburg,PEC Zwolle,2026-11-06 20:00,target__over_2_5_goals,1.59,0,3,❌ SKIP,m450004_4=1.17✗ | m450004_5+=1.21✗ | m810002_3+=1.15✗
+Cruzeiro EC MG,EC Bahia BA,2026-11-06 01:30,target__over_2_5_goals,1.58,0,3,❌ SKIP,m450004_4=1.17✗ | m450004_5+=1.21✗ | m810002_3+=1.15✗
+FK Usti nad Labem,FK Viktoria Zizkov,2026-11-06 18:00,target__over_2_5_goals,1.57,0,3,❌ SKIP,m450004_4=1.16✗ | m450004_5+=1.21✗ | m810002_3+=1.15✗
+Zamalek SC,Egypt Insurance,2026-11-06 19:00,target__over_2_5_goals,1.57,0,3,❌ SKIP,m450004_4=1.16✗ | m450004_5+=1.20✗ | m810002_3+=1.16✗
+AB Gladsaxe,Vendsyssel FF,2026-11-06 19:00,target__over_2_5_goals,1.56,0,3,❌ SKIP,m450004_4=1.17✗ | m450004_5+=1.22✗ | m810002_3+=1.16✗
+Paris FC W,Montpellier FC,2026-11-06 19:00,target__over_2_5_goals,1.55,0,3,❌ SKIP,m450004_4=1.16✗ | m450004_5+=1.20✗ | m810002_3+=1.15✗
+Sunderland U21,Blackburn Rovers U21,2026-11-06 20:00,target__home_win,1.5,0,4,❌ SKIP,m900036_No=1.48✗ | m900037_Yes=5.25✗ | m900038_No=1.43✗ | m900052_Yes=5.75✗
+Bnei Yehuda Tel Aviv FC,Maccabi Achi Nazareth FC,2026-11-06 14:00,target__over_2_5_goals,1.5,0,3,❌ SKIP,m450004_4=1.17✗ | m450004_5+=1.24✗ | m810002_3+=1.18✗
+Union Magdalena,Independiente Valle Del Cauca,2026-11-06 01:00,target__home_win,1.49,1,4,❌ SKIP,m900036_No=1.58✗ | m900037_Yes=5.75✗ | m900038_No=1.60✓ | m900052_Yes=5.75✗
+Eintracht Braunschweig,Energie Cottbus,2026-11-06 18:30,target__over_2_5_goals,1.47,1,3,❌ SKIP,m450004_4=1.18✗ | m450004_5+=1.27✗ | m810002_3+=1.19✓
+Heracles Almelo,Roda JC Kerkrade,2026-11-06 20:00,target__over_2_5_goals,1.47,1,3,❌ SKIP,m450004_4=1.17✗ | m450004_5+=1.27✗ | m810002_3+=1.19✓
+Millwall U21,Cardiff City U21,2026-11-06 14:30,target__over_2_5_goals,1.37,2,3,❌ SKIP,m450004_4=1.18✗ | m450004_5+=1.35✓ | m810002_3+=1.22✓
+SK Rapid,Wolfsberger AC,2026-11-06 19:30,target__over_2_5_goals,1.36,2,3,❌ SKIP,m450004_4=1.18✗ | m450004_5+=1.36✓ | m810002_3+=1.24✓
+Stoke City U21,Fulham U21,2026-11-06 20:00,target__over_2_5_goals,1.34,1,2,❌ SKIP,m450004_4=1.18✗ | m450004_5+=1.38✓ | m810002_3+=MISSING
+Bangor 1876 FC,Gresford Athletic,2026-11-06 20:30,target__over_2_5_goals,1.33,2,3,❌ SKIP,m450004_4=1.18✗ | m450004_5+=1.39✓ | m810002_3+=1.25✓

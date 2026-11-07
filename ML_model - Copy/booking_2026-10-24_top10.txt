@@ -1,0 +1,37 @@
+======================================================================
+  SPORTYBET ACCUMULATOR — 2026-10-24
+  Generated : 2026-10-24 01:36:18
+  Legs      : 9
+  Sorted by : edge
+  Combined odds : 920.28
+======================================================================
+
+  BOOKING CODE:  R36KL0
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    24 15  Blackpool FC vs Mansfield Town      HT Away Win            2.95  + 20.1%  0.6617
+  2    24 12  FC Kuressaare vs Paide Linnameesko  Away Win               1.82  + 19.4%  0.7237
+  3    24 17  MFK Skalica vs Spartak Trnava       Away Win               1.79  + 18.5%  0.7237
+  4    24 17  Valencia vs Villarreal              HT Away Win            2.80  + 18.3%  0.6617
+  5    24 04  Club Tijuana de Caliente vs Pumas   Away Win               1.76  + 17.5%  0.7237
+  6    24 13  Inegolspor vs Adana 1954 FK         Away Win               1.73  + 16.5%  0.7237
+  7    24 12  Vaasan Palloseura vs FC Inter Turk  Away Win               1.73  + 16.5%  0.7237
+  8    24 11  KS Lechia Zielona Gora vs Gornik L  HT Away Win            2.65  + 16.2%  0.6617
+  9    24 19  Longford Town FC vs University Col  Away Win               2.45  + 15.3%  0.7237
+
+======================================================================
+  Tournament breakdown:
+      1x  League One
+      1x  Premium Liiga
+      1x  Superliga
+      1x  LaLiga
+      1x  Liga MX, Women
+      1x  2. Lig
+      1x  Veikkausliiga
+      1x  II Liga
+      1x  Premier Division
+
+======================================================================

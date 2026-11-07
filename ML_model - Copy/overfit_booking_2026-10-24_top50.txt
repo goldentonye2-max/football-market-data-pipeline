@@ -1,0 +1,41 @@
+======================================================================
+  OVERFIT ACCUMULATOR — 2026-10-24
+  Generated : 2026-10-24 01:28:53
+  Legs      : 10
+  Sorted by : edge
+  Combined odds : 370.15
+  Filter    : HT Over 1.5 edge 8-12% | Away Win & HT Away Win edge 12%+
+              odds 1.51-1.70 and 1.91-2.00
+======================================================================
+
+  BOOKING CODE:  MCHY72
+
+======================================================================
+
+  #    Time   Match                               Pick                   Odds   Edge%     AUC
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    24 11  Eyupspor vs Kasimpasa Istanbul      Away Win               1.66  + 14.1%  0.7237
+  2    24 11  FC Epitsentr Kamianets-Podilskyi v  Away Win               1.64  + 13.4%  0.7237
+  3    24 13  Achilles Veen vs FC Rijnvogels      Away Win               1.64  + 13.4%  0.7237
+  4    24 18  CF Montreal vs Nashville SC         Away Win               1.64  + 13.4%  0.7237
+  5    24 15  Huntly vs Annan Athletic FC         Away Win               1.62  + 12.6%  0.7237
+  6    24 13  SpVgg Unterhaching vs SpVgg Ansbac  HT Over 1.5            2.00  +  8.9%  0.6269
+  7    24 19  Oud-Heverlee Leuven W vs SV Zulte   HT Over 1.5            2.00  +  8.9%  0.6269
+  8    24 15  Real Madrid W vs CD Tenerife        HT Over 1.5            2.00  +  8.9%  0.6269
+  9    24 14  Buckley Town vs Holyhead Hotspur    HT Over 1.5            1.98  +  8.4%  0.6269
+  10   24 13  Linz AG Blau-Weiss / Kleinmunchen   HT Over 1.5            1.97  +  8.1%  0.6269
+
+======================================================================
+  Tournament breakdown:
+      1x  Super Lig
+      1x  Premier League
+      1x  Derde Divisie
+      1x  MLS
+      1x  Scottish Cup
+      1x  Regionalliga Bavaria
+      1x  Super League, Women
+      1x  Primera Division Women
+      1x  Cymru Championship, North
+      1x  Bundesliga, Women
+
+======================================================================

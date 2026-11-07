@@ -1,0 +1,32 @@
+========================================================================================================
+  TOP 2 PER MARKET  |  ranked by short_odds  |  source all_picks_2026-10-28.csv
+  Generated 2026-10-28 12:31
+========================================================================================================
+  -> 675 picks in all_picks_2026-10-28.csv
+  -> 652 after odds >= 1.3
+  -> 163 after odds <= 1.7
+  -> 17 picks = top 2 per market by short_odds (10 markets)
+
+  Market                # Pool  Match                                 Odds Model%  Edge%  KO
+  ----------------------------------------------------------------------------------------------------
+  Away Win              1   22  MVV Maastricht vs Excelsior Rotterd   1.41   74.3   +3.4  28 20
+                        2   22  Esbjerg FB vs Nordsjaelland           1.43   74.3   +4.4  28 17
+  BTTS No               1    4  JOS Watergraafsmeer vs NAC Breda      1.60   66.2   +3.7  28 20
+                        2    4  Mara Sugar FC vs Leopards SC          1.62   66.2   +4.5  28 14
+  BTTS Yes              1   23  Inter Miami CF vs FC Cincinnati       1.36   80.0   +6.5  29 00
+                        2   23  Egersunds IK vs Bryne FK              1.40   80.0   +8.6  28 18
+  HT Home Win           1    1  Lillestroem SK vs Sogndal Fotball     1.37   76.9   +3.9  28 18
+  HT Over 0.5           1   22  The Cong - Viettel FC vs FC Seoul     1.30   81.2   +4.3  28 13
+                        2   22  Nagoya Grampus vs Urawa Red Diamond   1.31   81.2   +4.9  28 11
+  HT Over 1.5           1    1  Inter Miami CF vs FC Cincinnati       1.70   62.3   +3.4  29 00
+  Home Win              1   15  Azam FC vs Mbeya City FC              1.30   83.3   +6.4  28 16
+                        2   15  Omonia Aradippou vs Digenis Akritas   1.31   83.3   +7.0  28 16
+  Over 1.5 Goals        1   31  LNZ Cherkasy vs FC Metalist Kharkiv   1.30   84.3   +7.4  28 12
+                        2   31  1. FC Slovacko Uherske Hradiste vs    1.30   84.3   +7.4  28 16
+  Over 2.5 Goals        1   43  CD Tarancon vs Levante                1.30   86.7   +9.7  28 19
+                        2   43  Chicago Fire vs Orlando City SC       1.30   82.1   +5.2  29 01
+  Over 3.5 Goals        1    1  Olympique Lyon W vs Inter Milano      1.54   70.6   +5.7  28 21
+
+  17 picks. Combined odds if booked as one slip: 295.6
+  Pool = how many picks that market had to choose from. Pool 2 with top 2 means no choice was made.
+========================================================================================================
